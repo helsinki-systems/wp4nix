@@ -1,0 +1,72 @@
+#!/usr/bin/env nix-shell
+#!nix-shell -i bash -p go subversion
+
+set -e
+set -u
+set -o pipefail
+
+NIX_VERSION=$(nix --version|cut -d ' ' -f 3|cut -c -3)
+case "$NIX_VERSION" in
+    "2.4")
+        nixFlags="--option experimental-features nix-command eval --raw --impure --expr"
+    ;;
+    *)
+        nixFlags="eval --raw"
+    ;;
+esac
+export WP_VERSION=$(nix $nixFlags '(import /nix/var/nix/profiles/per-user/root/channels/nixos {}).wordpress.version')
+export COMMIT_LOG=1
+go run *.go
+
+# What do we need to commit?
+porcelain="$(git status --porcelain)"
+declare -a toCommit
+if echo "${porcelain}" | grep -q plugins.json; then
+	toCommit+=("plugins")
+fi
+if echo "${porcelain}" | grep -q themes.json; then
+	toCommit+=("themes")
+fi
+if echo "${porcelain}" | grep -q languages.json; then
+	toCommit+=("languages")
+fi
+if [ "${#toCommit[@]}" = 0 ]; then
+	echo "Nothing changed"
+	exit 0
+fi
+
+# Format commit message
+firstLine=
+details=
+for category in "${toCommit[@]}"; do
+	# First line
+	if [ "${firstLine}" = '' ]; then
+		firstLine="${firstLine}${category^}s: "
+	else
+		firstLine="${firstLine}; ${category^}s: "
+	fi
+	added="$(grep -c ^ADD "${category}.log" || true)"
+	if [ "${added}" != 0 ]; then
+		firstLine="${firstLine}A:${added} "
+	fi
+	updated="$(grep -c ^UPD "${category}.log" || true)"
+	if [ "${updated}" != 0 ]; then
+		firstLine="${firstLine}U:${updated} "
+	fi
+	firstLine="$(echo "${firstLine}" | xargs)"
+	# Details
+	details="${details}"$'\n'$'\n'"${category^}s:"
+	details="${details}"$'\n'"$(sort -u < "${category}.log")"
+done
+
+# Check if some relevant plugins still build, before committing
+nix-build test.nix
+rm result*
+
+# Commit and push
+git add plugins.json themes.json languages.json
+(
+	echo -n "$firstLine"
+	echo "$details"
+) | git commit -F -
+git push origin HEAD:master
