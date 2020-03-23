@@ -202,6 +202,7 @@ func startWorkers(worker Worker, jobs chan map[string]interface{}, results chan<
 	// wait for all workers to return and close results channel afterwards
 	for i := 0; i < numWorkers; i++ {
 		<-exited
+		log.Printf("A worker just exited, %d worker(s) remaining", numWorkers-i-1)
 	}
 	close(exited)
 	close(results)

@@ -5,6 +5,7 @@ package main
 import (
 	"bufio"
 	"bytes"
+	"context"
 	"encoding/xml"
 	"fmt"
 	"io"
@@ -111,7 +112,9 @@ func (a *Repository) Info(relpath string, w io.Writer) (*Entry, error) {
 func (a *Repository) Export(relpath, revision, into string, w io.Writer, notifier chan string) error {
 	log.Printf("exporting %s at revision %s\n", a.FullPath(relpath), revision)
 	fp := a.FullPath(relpath)
-	cmd := exec.Command("svn", "-r", revision, "export", fp, into)
+	ctx, cancel := context.WithTimeout(context.Background(), 4*time.Minute)
+	defer cancel()
+	cmd := exec.CommandContext(ctx, "svn", "-r", revision, "export", fp, into)
 
 	// stdout is written to both w and export notifier
 	pr, pw := io.Pipe()
@@ -130,6 +133,10 @@ func (a *Repository) Export(relpath, revision, into string, w io.Writer, notifie
 
 	if notifier != nil {
 		go exportNotifier(pr, notifier)
+	}
+
+	if ctx.Err() == context.DeadlineExceeded {
+		return fmt.Errorf("Exporting %s timed out: %s", fp, ctx.Err())
 	}
 
 	if err := cmd.Wait(); err != nil {
