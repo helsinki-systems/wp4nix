@@ -41,9 +41,9 @@ details=
 for category in "${toCommit[@]}"; do
 	# First line
 	if [ "${firstLine}" = '' ]; then
-		firstLine="${firstLine}${category^}s: "
+		firstLine="${firstLine}${category^}: "
 	else
-		firstLine="${firstLine}; ${category^}s: "
+		firstLine="${firstLine}; ${category^}: "
 	fi
 	added="$(grep -c ^ADD "${category}.log" || true)"
 	if [ "${added}" != 0 ]; then
@@ -55,7 +55,7 @@ for category in "${toCommit[@]}"; do
 	fi
 	firstLine="$(echo "${firstLine}" | xargs)"
 	# Details
-	details="${details}"$'\n'$'\n'"${category^}s:"
+	details="${details}"$'\n'$'\n'"${category^}:"
 	details="${details}"$'\n'"$(sort -u < "${category}.log")"
 done
 
