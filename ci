@@ -60,7 +60,7 @@ for category in "${toCommit[@]}"; do
 done
 
 # Check if some relevant plugins still build, before committing
-nix-build test.nix
+nix-build --option builders "" test.nix
 rm result*
 
 # Commit and push
