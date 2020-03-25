@@ -1,4 +1,4 @@
-{ fetchsvn, unzip, lib, stdenvNoCC }: with lib;
+{ fetchsvn, unzip, lib, stdenvNoCC, wp-cli, gettext }: with lib;
 let packages = (self:
   let
     json = {
@@ -16,14 +16,23 @@ let packages = (self:
       else
         throw "invalid fetch type";
     };
-    mkPkg = type: pname: value: stdenvNoCC.mkDerivation {
+    mkPkg = type: pname: value: stdenvNoCC.mkDerivation ({
       inherit pname;
       version = filterFileName value.version;
       src = fetch type value;
       installPhase = ''
         cp -R ./. $out
       '';
-    };
+    } // optionalAttrs (type == "languages") {
+      nativeBuildInputs = [ gettext wp-cli ];
+      buildPhase = ''
+        find -name '*.po' -print0 | while IFS= read -d "" -r po; do
+          msgfmt -o $(basename "$po" .po).mo "$po"
+        done
+        wp i18n make-json .
+        rm *.po
+      '';
+    });
   in
     genAttrs [ "plugins" "themes" "languages" ] (t: mapAttrs (mkPkg t) json."${t}")
 );
