@@ -7,12 +7,12 @@ set -o pipefail
 
 NIX_VERSION=$(nix --version|cut -d ' ' -f 3|cut -c -3)
 case "$NIX_VERSION" in
-    "2.4")
-        nixFlags="--option experimental-features nix-command eval --raw --impure --expr"
-    ;;
-    *)
-        nixFlags="eval --raw"
-    ;;
+	"2.4")
+		nixFlags="--option experimental-features nix-command eval --raw --impure --expr"
+	;;
+	*)
+		nixFlags="eval --raw"
+	;;
 esac
 export WP_VERSION=$(nix $nixFlags '(import /nix/var/nix/profiles/per-user/root/channels/nixos {}).wordpress.version')
 export COMMIT_LOG=1
