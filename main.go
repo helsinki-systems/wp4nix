@@ -123,7 +123,7 @@ func extractRevAndAddToResult(repo *Repository, results chan<- map[string]interf
 	var err error
 	entry, err = repo.Info(path, nil)
 	if err != nil && strings.Contains(err.Error(), "W170000") && strings.Contains(err.Error(), "E200009") {
-		path = path + "/trunk"
+		path = name + "/trunk"
 		entry, err = repo.Info(path, nil)
 	} else if err != nil {
 		return err
