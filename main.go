@@ -2,6 +2,7 @@ package main
 
 import (
 	"encoding/json"
+	"errors"
 	"fmt"
 	"io/ioutil"
 	"log"
@@ -106,6 +107,39 @@ func mergePs(ps ...map[string]interface{}) map[string]interface{} {
 	return res
 }
 
+func castVersion(jsonUnknownType interface{}) (string, error) {
+	switch v := jsonUnknownType.(type) {
+	case float64:
+		return strconv.FormatFloat(v, 'f', -1, 64), nil
+	case string:
+		return v, nil
+	default:
+		return "", errors.New("version was neither string nor float64")
+	}
+}
+
+func extractRevAndAddToResult(repo *Repository, results chan<- map[string]interface{}, name string, path string, version string) error {
+	var entry *Entry
+	var err error
+	entry, err = repo.Info(path, nil)
+	if err != nil && strings.Contains(err.Error(), "W170000") && strings.Contains(err.Error(), "E200009") {
+		path = path + "/trunk"
+		entry, err = repo.Info(path, nil)
+	} else if err != nil {
+		return err
+	}
+	if entry == nil {
+		return errors.New(fmt.Sprintf("Something went very wrong with running info for %s", path))
+	}
+	results <- map[string]interface{}{
+		"name":    name,
+		"path":    path,
+		"rev":     entry.Commit.Revision,
+		"version": version,
+	}
+	return nil
+}
+
 func buildPkgQueueWorker(jobs <-chan map[string]interface{}, results chan<- map[string]interface{}, exited chan<- bool, repo *Repository, t string) {
 	for {
 		p := <-jobs
@@ -117,70 +151,84 @@ func buildPkgQueueWorker(jobs <-chan map[string]interface{}, results chan<- map[
 			continue
 		}
 		name := p["name"].(string)
-		var version string
+		version := WP_VERSION
+		path := name
 		var err error
-		if t != "languages" {
-			// query api for current version
-			var resp *http.Response
-			if t == "plugins" {
-				url := "https://api.wordpress.org/plugins/info/1.0/" + name + ".json"
-				resp, err = http.Get(url)
-			} else if t == "themes" {
-				resp, err = http.Get("https://api.wordpress.org/themes/info/1.2/?action=theme_information&request[slug]=" + name)
-			}
-			if err != nil {
-				log.Printf("API request failed for %s %s", t, name)
-				continue
-			}
-			defer resp.Body.Close()
-			var resp_json map[string]interface{}
-			json.NewDecoder(resp.Body).Decode(&resp_json)
-			if resp_json["error"] != nil {
-				// don't log "not found"s, because thats 20% of all plugins and themes
-				if !strings.Contains(resp_json["error"].(string), "not found") {
-					log.Printf("API request returned error %s for %s %s", resp_json["error"], t, name)
-				}
-				continue
-			}
+		var url string
 
-			switch v := resp_json["version"].(type) {
-			case float64:
-				version = strconv.FormatFloat(v, 'f', -1, 64)
-			case string:
-				version = v
-			default:
-				log.Printf("version of %s %s was neither string nor float64, defaulting to B\n", t, name)
+		// Determine URL to query latest version and language data from
+		switch t {
+		case "languages":
+			// No query needed for languages -> look at svn immediately
+			err = extractRevAndAddToResult(repo, results, name, path, version)
+			if err != nil {
+				log.Printf(err.Error())
+			}
+			continue
+		case "plugins":
+			url = "https://api.wordpress.org/plugins/info/1.0/" + name + ".json"
+		case "themes":
+			url = "https://api.wordpress.org/themes/info/1.2/?action=theme_information&request[slug]=" + name
+		case "pluginLanguages":
+			url = "https://api.wordpress.org/translations/plugins/1.0/?slug=" + name
+		case "themeLanguages":
+			url = "https://api.wordpress.org/translations/themes/1.0/?slug=" + name
+		default:
+			log.Printf("Illegal type %s", t)
+			continue
+		}
+
+		// Query api for current version and language list
+		var resp *http.Response
+		resp, err = http.Get(url)
+		if err != nil {
+			log.Printf("API request failed for %s %s", t, name)
+			continue
+		}
+		defer resp.Body.Close()
+		var resp_json map[string]interface{}
+		json.NewDecoder(resp.Body).Decode(&resp_json)
+		if resp_json["error"] != nil {
+			// don't log "not found"s, because thats 20% of all plugins and themes
+			if !strings.Contains(resp_json["error"].(string), "not found") {
+				log.Printf("API request returned error %s for %s %s", resp_json["error"], t, name)
+			}
+			continue
+		}
+
+		if t == "plugins" || t == "themes" {
+			version, err = castVersion(resp_json["version"])
+			if err != nil {
+				log.Printf(err.Error())
+				continue
+			}
+			if t == "plugins" {
+				path = name + "/tags/" + version
+			} else if t == "themes" {
+				path = name + "/" + version
+			}
+			err = extractRevAndAddToResult(repo, results, name, path, version)
+			if err != nil {
+				log.Printf(err.Error())
 				continue
 			}
 		} else {
-			version = WP_VERSION
-		}
-		var path string
-		if t == "plugins" {
-			path = name + "/tags/" + version
-		} else if t == "themes" {
-			path = name + "/" + version
-		} else if t == "languages" {
-			path = name
-		}
-		var entry *Entry
-		entry, err = repo.Info(path, nil)
-		if err != nil && strings.Contains(err.Error(), "W170000") && strings.Contains(err.Error(), "E200009") {
-			path = name + "/trunk"
-			entry, err = repo.Info(path, nil)
-		} else if err != nil {
-			log.Printf("Unexpected error occured in svn info: %s", err.Error())
-			continue
-		}
-		if entry == nil {
-			log.Printf("Something went very wrong with running info for %s", path)
-			continue
-		}
-		results <- map[string]interface{}{
-			"name":    name,
-			"path":    path,
-			"rev":     entry.Commit.Revision,
-			"version": version,
+			// Iterate through available languages
+			for _, lang_resp := range resp_json["translations"].([]interface{}) {
+				lang_obj := lang_resp.(map[string]interface{})
+				version, err = castVersion(lang_obj["version"])
+				if err != nil {
+					log.Printf(err.Error())
+					continue
+				}
+				lang := lang_obj["language"].(string)
+				path = name + "/" + version + "/" + lang
+				err = extractRevAndAddToResult(repo, results, name+"-"+lang, path, version)
+				if err != nil {
+					log.Printf(err.Error())
+					continue
+				}
+			}
 		}
 		// log.Printf("Put %s, %s, %s in queue", name, currentVersion, rev)
 	}
@@ -306,11 +354,17 @@ func processPkgQueue(queue <-chan map[string]interface{}, po map[string]interfac
 func processType(t string) {
 	po := loadFile(t)
 	log.Printf("Starting to process %s", t)
-	subdomain := t
+	subdomain := "i18n"
 	directory := ""
-	if t == "languages" {
-		subdomain = "i18n"
+	switch t {
+	case "plugins", "themes":
+		subdomain = t
+	case "languages":
 		directory = "/core/" + WP_VERSION
+	case "pluginLanguages":
+		directory = "/plugins"
+	case "themeLanguages":
+		directory = "/themes"
 	}
 	repo := NewRepository("https://" + subdomain + ".svn.wordpress.org" + directory)
 	pkgs, _ := repo.List("", nil)
@@ -342,4 +396,6 @@ func main() {
 	processType("languages")
 	processType("themes")
 	processType("plugins")
+	processType("pluginLanguages")
+	processType("themeLanguages")
 }

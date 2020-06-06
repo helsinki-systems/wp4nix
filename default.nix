@@ -5,6 +5,8 @@ let packages = (self:
       plugins = builtins.fromJSON (readFile ./plugins.json);
       themes = builtins.fromJSON (readFile ./themes.json);
       languages = builtins.fromJSON (readFile ./languages.json);
+      pluginLanguages = builtins.fromJSON (readFile ./pluginLanguages.json);
+      themeLanguages = builtins.fromJSON (readFile ./themeLanguages.json);
     };
     filterFileName = f: builtins.replaceStrings [ " " "," "/" "&" ";" ''"'' "'" "$" ":" "(" ")" "[" "]" "{" "}" "|" "*" "\t" ] [ "_" "." "." "" "" "" "" "" "" "" "" "" "" "" "" "-" "" "" ] f;
     fetch = t: v: fetchsvn {
@@ -13,6 +15,10 @@ let packages = (self:
         "https://" + t + ".svn.wordpress.org/" + v.path
       else if t == "languages" then
         "https://i18n.svn.wordpress.org/core/" + v.version + "/" + v.path
+      else if t == "pluginLanguages" then
+        "https://i18n.svn.wordpress.org/plugins/" + v.path
+      else if t == "themeLanguages" then
+        "https://i18n.svn.wordpress.org/themes/" + v.path
       else
         throw "invalid fetch type";
     };
@@ -23,7 +29,7 @@ let packages = (self:
       installPhase = ''
         cp -R ./. $out
       '';
-    } // optionalAttrs (type == "languages") {
+    } // optionalAttrs (type == "languages" || type == "pluginLanguages" || type == "themeLanguages") {
       nativeBuildInputs = [ gettext wp-cli ];
       buildPhase = ''
         find -name '*.po' -print0 | while IFS= read -d "" -r po; do
@@ -34,6 +40,6 @@ let packages = (self:
       '';
     });
   in
-    genAttrs [ "plugins" "themes" "languages" ] (t: mapAttrs (mkPkg t) json."${t}")
+    genAttrs [ "plugins" "themes" "languages" "pluginLanguages" "themeLanguages" ] (t: mapAttrs (mkPkg t) json."${t}")
 );
 in makeExtensible packages

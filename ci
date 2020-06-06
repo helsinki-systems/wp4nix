@@ -21,15 +21,11 @@ go run *.go
 # What do we need to commit?
 porcelain="$(git status --porcelain)"
 declare -a toCommit
-if echo "${porcelain}" | grep -q plugins.json; then
-	toCommit+=("plugins")
-fi
-if echo "${porcelain}" | grep -q themes.json; then
-	toCommit+=("themes")
-fi
-if echo "${porcelain}" | grep -q languages.json; then
-	toCommit+=("languages")
-fi
+for type in plugins themes languages pluginLanguages themeLanguages; do
+	if echo "${porcelain}" | grep -q "$type.json"; then
+		toCommit+=("$type")
+	fi
+done
 if [ "${#toCommit[@]}" = 0 ]; then
 	echo "Nothing changed"
 	exit 0
@@ -64,7 +60,7 @@ nix-build --option builders "" test.nix
 rm result*
 
 # Commit and push
-git add plugins.json themes.json languages.json
+git add plugins.json themes.json languages.json pluginLanguages.json themeLanguages.json
 (
 	echo -n "$firstLine"
 	echo "$details"
