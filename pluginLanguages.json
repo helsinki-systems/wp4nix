@@ -3169,14 +3169,14 @@
   },
   "advanced-ads-nb_NO": {
     "path": "advanced-ads/1.18.0/nb_NO",
-    "rev": "352243",
-    "sha256": "1mkmghcpd7cwb0ji18cav46hxfcra736skqhi3l2dzyl0knnb3mq",
+    "rev": "354626",
+    "sha256": "1xy8pxgjwb193wpa77s1132b3qavb8m4hy5adnlvq4ws0fm39jrz",
     "version": "1.18.0"
   },
   "advanced-ads-nl_NL": {
     "path": "advanced-ads/1.18.0/nl_NL",
-    "rev": "352232",
-    "sha256": "0pdn7fbi99slfq28dqk0z5a70aw6f9w44icz67c4yffv06nykq24",
+    "rev": "354317",
+    "sha256": "18m7ciazbp9bdwk6day9f1v381dznxph22fhzkzn41g4z2n1a2sy",
     "version": "1.18.0"
   },
   "advanced-ads-pl_PL": {
@@ -3193,8 +3193,8 @@
   },
   "advanced-ads-ru_RU": {
     "path": "advanced-ads/1.18.0/ru_RU",
-    "rev": "352246",
-    "sha256": "15ig51g48w8zgqj1wcvl4mqmlx0g1fwfjvc3jxq5as3smqavad5a",
+    "rev": "354079",
+    "sha256": "0ry3prcjigmcs4gsh3fraa2d47wyqwysvmhiwqw0c375lbcbjg2v",
     "version": "1.18.0"
   },
   "advanced-ads-sk_SK": {
@@ -3576,16 +3576,16 @@
     "version": "1.0.7"
   },
   "advanced-excerpt-en_AU": {
-    "path": "advanced-excerpt/4.3.5/en_AU",
-    "rev": "294698",
-    "sha256": "199w8241iq874dn4wahrd3pd7z6rjhs949qsjxv2d52kwivamg6j",
-    "version": "4.3.5"
+    "path": "advanced-excerpt/4.3.6/en_AU",
+    "rev": "354304",
+    "sha256": "038j2xliqwkihzcd1vr1rm2vdlxivjqzymkmfk6v9wv9mrxznimy",
+    "version": "4.3.6"
   },
   "advanced-excerpt-en_NZ": {
-    "path": "advanced-excerpt/4.3.5/en_NZ",
-    "rev": "294699",
-    "sha256": "0ssn8rf362gg9ia71688f4kl798s0cck4vqwm00h5gnyphi6piwi",
-    "version": "4.3.5"
+    "path": "advanced-excerpt/4.3.6/en_NZ",
+    "rev": "354305",
+    "sha256": "1y36sjlfa1agn2p20jh26kv9i4d0ihm0jicwxjs6fav1icav722l",
+    "version": "4.3.6"
   },
   "advanced-faq-manager-es_ES": {
     "path": "advanced-faq-manager/1.0.7/es_ES",
@@ -5011,8 +5011,8 @@
   },
   "akismet-tr_TR": {
     "path": "akismet/4.1.6/tr_TR",
-    "rev": "349421",
-    "sha256": "1b388wrp91z93r0rwrbsa1nbjq459qpypagjz42imv2w23llwigz",
+    "rev": "354291",
+    "sha256": "1mnkic1mgvwvblld7781nzgy49fgfrzyxbj5hafva80yq70722lk",
     "version": "4.1.6"
   },
   "akismet-uk": {
@@ -5263,8 +5263,8 @@
   },
   "all-in-one-seo-pack-ca": {
     "path": "all-in-one-seo-pack/3.5.2/ca",
-    "rev": "350264",
-    "sha256": "0yhfyflx4c17y0mspvjqm6s4jrdqscy8vyz5n1nn2chwkxyia8gv",
+    "rev": "354092",
+    "sha256": "1q32rkkdaddgwqzdn92vxzczwaa7bjdl8hfg1isr39q4dj2r32q7",
     "version": "3.5.2"
   },
   "all-in-one-seo-pack-cs_CZ": {
@@ -6481,8 +6481,8 @@
   },
   "anti-spam-es_ES": {
     "path": "anti-spam/7.0.3/es_ES",
-    "rev": "349761",
-    "sha256": "171xzz6ms66i3d284np9ky1i0r4qn6mma4vzhlz0vjfddnvgkbs1",
+    "rev": "354562",
+    "sha256": "05f03wy4b4ginhqw1gg59lqk7gzbb1gy10qdmizli8lr9vl1fhhl",
     "version": "7.0.3"
   },
   "anti-spam-es_VE": {
@@ -6520,6 +6520,12 @@
     "rev": "92123",
     "sha256": "0c05pzsicwfw6cxnpbvfvhc6d44spigpfzylw06iqia2lrdi85ca",
     "version": "1.8.1"
+  },
+  "antispam-bee-de_AT": {
+    "path": "antispam-bee/2.9.2/de_AT",
+    "rev": "354563",
+    "sha256": "0d7r9spwyadr70hwq1hhr1inr6asx8qf5svb48cvq6fjwgwrbr0k",
+    "version": "2.9.2"
   },
   "antispam-bee-de_CH": {
     "path": "antispam-bee/2.9.2/de_CH",
@@ -6659,28 +6665,34 @@
     "sha256": "1pssvvjishllnk06y1f64z9z4j6ndg93iy4swjkdpv5q4msz2jx8",
     "version": "2.9.2"
   },
+  "antivirus-de_AT": {
+    "path": "antivirus/1.3.10/de_AT",
+    "rev": "354558",
+    "sha256": "1pczc8r5dckzgl7gilqwa8sgr9aypnmdpvaxm4mwg1wf7fyyig4k",
+    "version": "1.3.10"
+  },
   "antivirus-de_CH": {
     "path": "antivirus/1.3.10/de_CH",
-    "rev": "209869",
-    "sha256": "0wdml897jxzdx4kgjqgha1gkh1jc48lb2mkx5avdgyslhjnvsm23",
+    "rev": "354560",
+    "sha256": "03syw667jgjb76k2q0iassd91zkqwkmn5kr78hkddv81bsmhk802",
     "version": "1.3.10"
   },
   "antivirus-de_CH_informal": {
     "path": "antivirus/1.3.10/de_CH_informal",
-    "rev": "209870",
-    "sha256": "0whfc5sbdcm21kwpl09va7dhs5why2054s61sax6j7imki1091yh",
+    "rev": "354561",
+    "sha256": "0wgckaa93h29jx9sazhl16ypxqhjn56dppn67v6avj1k7dksr0h2",
     "version": "1.3.10"
   },
   "antivirus-de_DE": {
     "path": "antivirus/1.3.10/de_DE",
-    "rev": "210030",
-    "sha256": "1j1c6ssbd9aidzs3ipdjdsvgx87ybyf3sn6p9xh90nczq0fl3kp4",
+    "rev": "354557",
+    "sha256": "1j0yany55zri3xgzb1481fc5x5c7brd1ibl1q395mdm9n9qky0sp",
     "version": "1.3.10"
   },
   "antivirus-de_DE_formal": {
     "path": "antivirus/1.3.10/de_DE_formal",
-    "rev": "210031",
-    "sha256": "0rlgvyvwvphiic91w5xspd6n9wsdddm35lh851rg61k6wqm5iakv",
+    "rev": "354559",
+    "sha256": "1sx54w6aw82fi29kimipqnq5jpx1hjp8a4visxlqysjpxsfnk3zm",
     "version": "1.3.10"
   },
   "antivirus-en_AU": {
@@ -7367,6 +7379,12 @@
     "sha256": "0x290q5m7yrah6n0lmzyh4ksf8j1xs7b72wx7jvkwv4irikr7qa3",
     "version": "2.5.2"
   },
+  "aryo-activity-log-nb_NO": {
+    "path": "aryo-activity-log/2.5.2/nb_NO",
+    "rev": "354622",
+    "sha256": "0yn0vry1a82srq7dvrm3kpl0h3j4z17mqa4jqxq5kjkkv7qx655j",
+    "version": "2.5.2"
+  },
   "aryo-activity-log-nl_NL": {
     "path": "aryo-activity-log/2.5.2/nl_NL",
     "rev": "327335",
@@ -7753,8 +7771,8 @@
   },
   "async-javascript-es_ES": {
     "path": "async-javascript/2.20.03.01/es_ES",
-    "rev": "298478",
-    "sha256": "05w4wjqjws3lbfi4idch798x5qci1py9gi91i6g1n8xwbwfznw4q",
+    "rev": "354584",
+    "sha256": "0b2c9999w0s4v5299x09h1knvkl9jgm23b2xsqa9h9lygllbws51",
     "version": "2.20.03.01"
   },
   "asyncronous-bbpress-subscriptions-en_AU": {
@@ -8183,35 +8201,41 @@
     "sha256": "0z6kiy9lxzk2xjc4l4g5niazwbbhl9yz8rm3ncsl86dl3513688b",
     "version": "1.1.2"
   },
+  "auto-terms-of-service-and-privacy-policy-en_GB": {
+    "path": "auto-terms-of-service-and-privacy-policy/2.4.1/en_GB",
+    "rev": "354443",
+    "sha256": "1x15fb74gjiih70zc67r8lgz8x77nkhmcvr7p5j2wlm9nly1kgl4",
+    "version": "2.4.1"
+  },
   "auto-terms-of-service-and-privacy-policy-es_ES": {
-    "path": "auto-terms-of-service-and-privacy-policy/2.4.0/es_ES",
-    "rev": "324386",
-    "sha256": "1jww01mf54w18w8iv57szi5h7dz4wizm12afg036c2wap9h44spw",
-    "version": "2.4.0"
+    "path": "auto-terms-of-service-and-privacy-policy/2.4.1/es_ES",
+    "rev": "354447",
+    "sha256": "0q02fkmbwzdppqgmmwhvb2w26vaip8972cy5zmrcpagkvlrzpjxx",
+    "version": "2.4.1"
   },
   "auto-terms-of-service-and-privacy-policy-es_MX": {
-    "path": "auto-terms-of-service-and-privacy-policy/2.4.0/es_MX",
-    "rev": "334775",
-    "sha256": "1i55ra0z6609rjrlhhc4zdfahg6aw1jdl86yix87a1rprdgc5k86",
-    "version": "2.4.0"
+    "path": "auto-terms-of-service-and-privacy-policy/2.4.1/es_MX",
+    "rev": "354446",
+    "sha256": "07rcaz45h36akhhb0gvsxhcd2q5ybvclbqhddfnmcwhikwcd77ik",
+    "version": "2.4.1"
   },
   "auto-terms-of-service-and-privacy-policy-es_VE": {
-    "path": "auto-terms-of-service-and-privacy-policy/2.4.0/es_VE",
-    "rev": "334108",
-    "sha256": "1cpsd01x62c0bw9yljljav7k67nfvq7gahnr0xh4mrypcyd4r1kr",
-    "version": "2.4.0"
+    "path": "auto-terms-of-service-and-privacy-policy/2.4.1/es_VE",
+    "rev": "354448",
+    "sha256": "0sh4hfnilgsya5x1m7i2l6p5xiz7brap1kizm70k7diakk93djsv",
+    "version": "2.4.1"
   },
   "auto-terms-of-service-and-privacy-policy-fr_FR": {
-    "path": "auto-terms-of-service-and-privacy-policy/2.4.0/fr_FR",
-    "rev": "324384",
-    "sha256": "1qbrb7893r7gl866p5vgs84ss275fql70fmc5qmkhp2y47s721v1",
-    "version": "2.4.0"
+    "path": "auto-terms-of-service-and-privacy-policy/2.4.1/fr_FR",
+    "rev": "354444",
+    "sha256": "0g2c6863p27hkhhi01qv8aj39f0m6mvw8czshn2j64vh73fjhz5p",
+    "version": "2.4.1"
   },
   "auto-terms-of-service-and-privacy-policy-it_IT": {
-    "path": "auto-terms-of-service-and-privacy-policy/2.4.0/it_IT",
-    "rev": "324385",
-    "sha256": "1j0i9glakg3aw8qjdvsm0z0n0imhk4p7m1ry67mgdh0syhay1n3x",
-    "version": "2.4.0"
+    "path": "auto-terms-of-service-and-privacy-policy/2.4.1/it_IT",
+    "rev": "354445",
+    "sha256": "0rzk1alyfp9xalkld69bvms2mf0gwl1cn8f57jnn5ing9z77m0ry",
+    "version": "2.4.1"
   },
   "auto-thickbox-it_IT": {
     "path": "auto-thickbox/3.5/it_IT",
@@ -8755,8 +8779,8 @@
   },
   "autoptimize-sk_SK": {
     "path": "autoptimize/2.7.3/sk_SK",
-    "rev": "352061",
-    "sha256": "0zivf6719162qc61w6g3f1hnx8sx92r7xcsblwqr4p3xr1cl9spv",
+    "rev": "354339",
+    "sha256": "07zlik92rx76ifhkzr25ry77cq1pvzqc0qbgihq8ayn4b6srv09i",
     "version": "2.7.3"
   },
   "autoptimize-sr_RS": {
@@ -10009,8 +10033,8 @@
   },
   "bbpress-zh_CN": {
     "path": "bbpress/2.6.5/zh_CN",
-    "rev": "347693",
-    "sha256": "0xp9w3rvaf66p06pgq4k0cqp7f1c2i1ws1kl58vx0jkxldla4l2r",
+    "rev": "354202",
+    "sha256": "0mdgwlxhmayf2jg0npi7l9ki3hhh4gvqb5z11s5qfv859aj0l1i4",
     "version": "2.6.5"
   },
   "bbpress-zh_HK": {
@@ -12769,8 +12793,8 @@
   },
   "booking-activities-sk_SK": {
     "path": "booking-activities/1.8.4/sk_SK",
-    "rev": "349220",
-    "sha256": "0132bg4d9yy5kxipfiz0y7ffh0jqhpxaw8jgx4x1dk5rzhgwh5z4",
+    "rev": "354326",
+    "sha256": "0ga29lyck79mf5d3fvnrlvljx9dbn6yx0f4azc9mgazzk0yvmkvw",
     "version": "1.8.4"
   },
   "booking-bg_BG": {
@@ -13722,154 +13746,154 @@
     "version": "1.1"
   },
   "breadcrumb-navxt-ca": {
-    "path": "breadcrumb-navxt/6.4.0/ca",
-    "rev": "282718",
-    "sha256": "1ypilmss5vpm299hq0wbsijdlhlr35qajdm9dzrryqm45zfsv4l3",
-    "version": "6.4.0"
+    "path": "breadcrumb-navxt/6.5.0/ca",
+    "rev": "354373",
+    "sha256": "010518ci3a1phhdyspj1q5hlmbw8dmmxnpbyg5nllf73i293bkvw",
+    "version": "6.5.0"
   },
   "breadcrumb-navxt-cs_CZ": {
-    "path": "breadcrumb-navxt/6.4.0/cs_CZ",
-    "rev": "282719",
-    "sha256": "0bz4hfz4072lxy8z0wr8k5mkilri0x3lx6qyfl9cr003ybfxicvx",
-    "version": "6.4.0"
+    "path": "breadcrumb-navxt/6.5.0/cs_CZ",
+    "rev": "354375",
+    "sha256": "0hsbp7sxhvk38slfha9a41xqg6p44ks6dks3b2iw81a1vcdcgk97",
+    "version": "6.5.0"
   },
   "breadcrumb-navxt-da_DK": {
-    "path": "breadcrumb-navxt/6.4.0/da_DK",
-    "rev": "282720",
-    "sha256": "0ax96n4d9w53wz3h1xziyxk106ri1j72242dvdfnwlppz48hs6pg",
-    "version": "6.4.0"
+    "path": "breadcrumb-navxt/6.5.0/da_DK",
+    "rev": "354376",
+    "sha256": "1mr9jh6b0lankrmlsha0xrm5qswb1qgqq5yxlkfdqdxr9l3x0gg6",
+    "version": "6.5.0"
   },
   "breadcrumb-navxt-de_DE": {
-    "path": "breadcrumb-navxt/6.4.0/de_DE",
-    "rev": "330976",
-    "sha256": "1hx7bz3i2q4w83f7a1790276plgcvhdy0jkhgxjyiajij7pdi675",
-    "version": "6.4.0"
+    "path": "breadcrumb-navxt/6.5.0/de_DE",
+    "rev": "354385",
+    "sha256": "0c9f20l3050lzd59gw64c5s5g8hhv2cndpnqzrsmny6a8k97w017",
+    "version": "6.5.0"
   },
   "breadcrumb-navxt-el": {
-    "path": "breadcrumb-navxt/6.4.0/el",
-    "rev": "330977",
-    "sha256": "07pn2pmv56pxlwg56dx45nzbqfg641ah8f2jq9bvs7sy4pjvqbmr",
-    "version": "6.4.0"
+    "path": "breadcrumb-navxt/6.5.0/el",
+    "rev": "354386",
+    "sha256": "1hv5qlkzsqrd7kwg0gbjyxblir43hr1yz8mzfic6grpkkwsljrxq",
+    "version": "6.5.0"
   },
   "breadcrumb-navxt-en_AU": {
-    "path": "breadcrumb-navxt/6.4.0/en_AU",
-    "rev": "282721",
-    "sha256": "1i494wbi32vxjx7nq2pgcvvbbccyh86gh3q9lxck10rmv251hs95",
-    "version": "6.4.0"
+    "path": "breadcrumb-navxt/6.5.0/en_AU",
+    "rev": "354378",
+    "sha256": "1k976n90p31iwvb3gfm1klhmrykd8jd5s231rc24fgahpqirhifd",
+    "version": "6.5.0"
   },
   "breadcrumb-navxt-en_CA": {
-    "path": "breadcrumb-navxt/6.4.0/en_CA",
-    "rev": "283118",
-    "sha256": "1fsg3banbqnh6yfl73k40kcmlslbj7n1dpcwwjgkmrzs64pljvdy",
-    "version": "6.4.0"
+    "path": "breadcrumb-navxt/6.5.0/en_CA",
+    "rev": "354379",
+    "sha256": "04lny5kyqdqjd5b7mh8kica37zxymqyf16vb7fj07gil3jv7s6l4",
+    "version": "6.5.0"
   },
   "breadcrumb-navxt-en_GB": {
-    "path": "breadcrumb-navxt/6.4.0/en_GB",
-    "rev": "282724",
-    "sha256": "1zc79nqx3qcjafah3a2hgzl24m1qylrns4lxdzmw0w703nwsf3b0",
-    "version": "6.4.0"
+    "path": "breadcrumb-navxt/6.5.0/en_GB",
+    "rev": "354382",
+    "sha256": "1m7s3lm6kk7bkcbq5jzj9x6drpn0f8i9m27ahr1dbc4ivdjygqha",
+    "version": "6.5.0"
   },
   "breadcrumb-navxt-en_NZ": {
-    "path": "breadcrumb-navxt/6.4.0/en_NZ",
-    "rev": "282723",
-    "sha256": "1kll1s9cq865nd71pdl0562xzigarb76sjvss3y68s85jc7h9j6i",
-    "version": "6.4.0"
+    "path": "breadcrumb-navxt/6.5.0/en_NZ",
+    "rev": "354380",
+    "sha256": "164k21fz62wnv38r3s33v1mbhawvl6xal9hxm8zrrlrv9a9yk411",
+    "version": "6.5.0"
   },
   "breadcrumb-navxt-en_ZA": {
-    "path": "breadcrumb-navxt/6.4.0/en_ZA",
-    "rev": "337712",
-    "sha256": "1lnhx1gw5mbzhbxgqrln804ma06z6wd5ya5930l4lrrsj4fl27rg",
-    "version": "6.4.0"
+    "path": "breadcrumb-navxt/6.5.0/en_ZA",
+    "rev": "354381",
+    "sha256": "1lahhpycj248v8szwcs3hxpyc2aqm3ax71a4avj5rk4y7yag9nnd",
+    "version": "6.5.0"
   },
   "breadcrumb-navxt-es_ES": {
-    "path": "breadcrumb-navxt/6.4.0/es_ES",
-    "rev": "309761",
-    "sha256": "03566w2ci47d488w0wag894616ld244c0ac8yi463r7xv165lj8q",
-    "version": "6.4.0"
+    "path": "breadcrumb-navxt/6.5.0/es_ES",
+    "rev": "354394",
+    "sha256": "1aii40xagnk9cnzwrdk693xid9x95lfqrrcr76dknyf6qyf65rin",
+    "version": "6.5.0"
   },
   "breadcrumb-navxt-es_VE": {
-    "path": "breadcrumb-navxt/6.4.0/es_VE",
-    "rev": "282726",
-    "sha256": "01ij595q7pwx28gx5k7m5l6ymlx8ylilmy6fpad0am4sdq0zsbfy",
-    "version": "6.4.0"
+    "path": "breadcrumb-navxt/6.5.0/es_VE",
+    "rev": "354395",
+    "sha256": "0crk3rysg4l6bwsxcxqfi8666hl7bbcygipqjwq16kg8kv1dcf1b",
+    "version": "6.5.0"
   },
   "breadcrumb-navxt-et": {
-    "path": "breadcrumb-navxt/6.4.0/et",
-    "rev": "330974",
-    "sha256": "1qxaprqjq761pim3sk1caszcmvfn1zmnpizrh25lf26c6ff1f96z",
-    "version": "6.4.0"
+    "path": "breadcrumb-navxt/6.5.0/et",
+    "rev": "354383",
+    "sha256": "0ramr3b2qcxar0srrsn4dnxhwr4kq7qwcav6wg9m0k3ic10n1g32",
+    "version": "6.5.0"
   },
   "breadcrumb-navxt-fa_IR": {
-    "path": "breadcrumb-navxt/6.4.0/fa_IR",
-    "rev": "330980",
-    "sha256": "0sn848kns4nd90f31xnw6nsvpxa6x1pvyyiczhblivha6738lbgs",
-    "version": "6.4.0"
+    "path": "breadcrumb-navxt/6.5.0/fa_IR",
+    "rev": "354390",
+    "sha256": "15d8ww3gahgzn4kl7xawdkm770vzlfacn1wsn3kj3r67s5kxz9dr",
+    "version": "6.5.0"
   },
   "breadcrumb-navxt-fi": {
-    "path": "breadcrumb-navxt/6.4.0/fi",
-    "rev": "330975",
-    "sha256": "0ygacdwxddpiwrmclwsirpsmw0a7rgi26v93p9gifhfnhiis8hrb",
-    "version": "6.4.0"
+    "path": "breadcrumb-navxt/6.5.0/fi",
+    "rev": "354384",
+    "sha256": "0cq2ds632z0h21n70kfnzyixg2dqgw688qjy4h8hbinsyd6gp7kj",
+    "version": "6.5.0"
   },
   "breadcrumb-navxt-it_IT": {
-    "path": "breadcrumb-navxt/6.4.0/it_IT",
-    "rev": "288010",
-    "sha256": "0gynazbzvmf4mal6hv72sphr98l8hc419hw99lqcgv3xqvi3h9fz",
-    "version": "6.4.0"
+    "path": "breadcrumb-navxt/6.5.0/it_IT",
+    "rev": "354387",
+    "sha256": "0dnq920idj0lz76pf3xbf0i0swrx6yb8cdzhwx8rfyxvv1ldlrdz",
+    "version": "6.5.0"
   },
   "breadcrumb-navxt-ja": {
-    "path": "breadcrumb-navxt/6.4.0/ja",
-    "rev": "330978",
-    "sha256": "0xz433a4p71j5rgbj0rrsajsd4q4lfw6gcrp61inv12sfnfjk71n",
-    "version": "6.4.0"
+    "path": "breadcrumb-navxt/6.5.0/ja",
+    "rev": "354388",
+    "sha256": "0pb1vddm7r5pq7l57j13c25za81w5bndpc9c4ysrpzn6pcjc5w9s",
+    "version": "6.5.0"
   },
   "breadcrumb-navxt-lt_LT": {
-    "path": "breadcrumb-navxt/6.4.0/lt_LT",
-    "rev": "330979",
-    "sha256": "1g2cxkxkbg11zifxy2l78gsd6xllbm2c3785y8pgwn0cqq4s1ynk",
-    "version": "6.4.0"
+    "path": "breadcrumb-navxt/6.5.0/lt_LT",
+    "rev": "354389",
+    "sha256": "14a2ha0qzh8ifzyzxwiic6n0bqglbhy2x0j15jxlqw7k0baxa54m",
+    "version": "6.5.0"
   },
   "breadcrumb-navxt-nl_NL": {
-    "path": "breadcrumb-navxt/6.4.0/nl_NL",
-    "rev": "348905",
-    "sha256": "1cyj9i5l54rzxswy0yjlgjrvi1lpg27hvdpnjad2279bm2a90mx6",
-    "version": "6.4.0"
+    "path": "breadcrumb-navxt/6.5.0/nl_NL",
+    "rev": "354377",
+    "sha256": "0xvdmiyjq46ls2rx3md7d0lcb05cg9f5jx5047zih47ff4vzc1vd",
+    "version": "6.5.0"
   },
   "breadcrumb-navxt-pl_PL": {
-    "path": "breadcrumb-navxt/6.4.0/pl_PL",
-    "rev": "295437",
-    "sha256": "0kr01l38jwiifm0dhq2zhivjqbn96ynaa47mqd1bbs89c1v070af",
-    "version": "6.4.0"
+    "path": "breadcrumb-navxt/6.5.0/pl_PL",
+    "rev": "354391",
+    "sha256": "0kcrzwa5rixh62nfvdczbcanw7p8qybmspj7ps3nqwbig5fh73pq",
+    "version": "6.5.0"
   },
   "breadcrumb-navxt-pt_PT": {
-    "path": "breadcrumb-navxt/6.4.0/pt_PT",
-    "rev": "330981",
-    "sha256": "1xzaxjybcla3kja1pb7fp7c9ll1xwic5iyqjxbrfj0jpwrlhgza4",
-    "version": "6.4.0"
+    "path": "breadcrumb-navxt/6.5.0/pt_PT",
+    "rev": "354392",
+    "sha256": "084qkjlv98il96606j7sxxqvgwwwf570iiwmbhvw8hjvka7lnhpb",
+    "version": "6.5.0"
   },
   "breadcrumb-navxt-ru_RU": {
-    "path": "breadcrumb-navxt/6.4.0/ru_RU",
-    "rev": "330982",
-    "sha256": "1djcz0kq5dwjxhda9fkrcd3b6bnny3b9fzk8xdfk5y28c5slzi28",
-    "version": "6.4.0"
+    "path": "breadcrumb-navxt/6.5.0/ru_RU",
+    "rev": "354393",
+    "sha256": "0hdmz6jiwl4jq1s0vf945y315zzhijk85ciz4jrxc1zfiq1xnxra",
+    "version": "6.5.0"
   },
   "breadcrumb-navxt-sv_SE": {
-    "path": "breadcrumb-navxt/6.4.0/sv_SE",
-    "rev": "353759",
-    "sha256": "1izxi6szic90z6di60k9znj1477ksa2is062wsd39ca45dzmlk58",
-    "version": "6.4.0"
+    "path": "breadcrumb-navxt/6.5.0/sv_SE",
+    "rev": "354396",
+    "sha256": "0zrl2fnq1yd81j5bdhilxvsl1q82ldiqkg8lpca3k0sk7sz8ssb3",
+    "version": "6.5.0"
   },
   "breadcrumb-navxt-tr_TR": {
-    "path": "breadcrumb-navxt/6.4.0/tr_TR",
-    "rev": "330983",
-    "sha256": "18d8mabayns3cqxm18k0psw9sd2xv0zpvcj6y4h2k8g5v67pv4hb",
-    "version": "6.4.0"
+    "path": "breadcrumb-navxt/6.5.0/tr_TR",
+    "rev": "354397",
+    "sha256": "13pqqzcxpk0x4i0q3457bf0rj8v66c978qnjqbd22gav3z75415m",
+    "version": "6.5.0"
   },
   "breadcrumb-navxt-zh_CN": {
-    "path": "breadcrumb-navxt/6.4.0/zh_CN",
-    "rev": "342017",
-    "sha256": "0wjivh8v3ksr4j93jqiv52adjig1sx3x4x62sm5hckds59a45pnz",
-    "version": "6.4.0"
+    "path": "breadcrumb-navxt/6.5.0/zh_CN",
+    "rev": "354374",
+    "sha256": "1s76p5xlxnvbii9j5g0d1k169qy7p4v2jv9sa2vxjln2az2hrdk4",
+    "version": "6.5.0"
   },
   "breadcrumb-trail-da_DK": {
     "path": "breadcrumb-trail/1.0.0/da_DK",
@@ -14227,8 +14251,8 @@
   },
   "broken-link-checker-es_VE": {
     "path": "broken-link-checker/1.11.13/es_VE",
-    "rev": "344717",
-    "sha256": "1gqrm27kam0747m30x8dnviksbrhn6gln7kl7daybgcffrj15bh3",
+    "rev": "354087",
+    "sha256": "18x2pzazjifh2gwysvsnkm89nkxawkk1g4qhd9k43ix84v2ch09m",
     "version": "1.11.13"
   },
   "broken-link-checker-fi": {
@@ -14293,8 +14317,8 @@
   },
   "broken-link-checker-sv_SE": {
     "path": "broken-link-checker/1.11.13/sv_SE",
-    "rev": "353784",
-    "sha256": "1pywcaidc9kgvh38wqmkw95ddny9b6m0cgrg4xpzzz3fyn9lhgv3",
+    "rev": "354222",
+    "sha256": "0ml72p9fr7rfc3i1pb7nzkzcijc8snrv3kpc8jx8xjwp6hnrs2pn",
     "version": "1.11.13"
   },
   "broken-link-checker-vi": {
@@ -14569,8 +14593,8 @@
   },
   "buddypress-el": {
     "path": "buddypress/6.0.0/el",
-    "rev": "337410",
-    "sha256": "0vqqgv4gp9gjzvppplk1nnicz73p5ilh8q4agdzw23r3vaajskxg",
+    "rev": "354307",
+    "sha256": "0myvl9n4pqakvanzw15j9i0dp891bpy89bk8mmrxp0h0qi3kxlvv",
     "version": "6.0.0"
   },
   "buddypress-en_AU": {
@@ -14946,10 +14970,10 @@
     "version": "1.11"
   },
   "bulk-media-register-ja": {
-    "path": "bulk-media-register/1.07/ja",
-    "rev": "352391",
-    "sha256": "1bcgcj8w4n20rl4lj02369xqbaqg7kw6pn3f1lvc2al05j16qxf3",
-    "version": "1.07"
+    "path": "bulk-media-register/1.08/ja",
+    "rev": "354177",
+    "sha256": "0mx5jf394p45nxbv259rva5srlwms19p54ndlkiybh7im60xilgh",
+    "version": "1.08"
   },
   "bulk-move-es_ES": {
     "path": "bulk-move/1.3.0/es_ES",
@@ -15305,28 +15329,34 @@
     "sha256": "132y5wzv11iyihwp2drdjn0k59qsvddy8raiyzjhfmpjlxa3q4xs",
     "version": "1.3.5"
   },
+  "cachify-de_AT": {
+    "path": "cachify/2.3.0/de_AT",
+    "rev": "354535",
+    "sha256": "11snv76xn1fnpa082y4rksb7mv6fsajs470ycrylcfq2rhm4vzkn",
+    "version": "2.3.0"
+  },
   "cachify-de_CH": {
     "path": "cachify/2.3.0/de_CH",
-    "rev": "312967",
-    "sha256": "06hifwfwi8jbgcizwywy6jx2c9awa0gcqapnhvxkv50y1wv0xgn3",
+    "rev": "354537",
+    "sha256": "15biivhfms2rqg7wa96iziynfax6npnhdvgkzry7zah4zy20n3yw",
     "version": "2.3.0"
   },
   "cachify-de_CH_informal": {
     "path": "cachify/2.3.0/de_CH_informal",
-    "rev": "312968",
-    "sha256": "1fl7kvpw4lcvzw39ncg3r52y4n1nffkm1gw2zkzcjvf40xx2gpi8",
+    "rev": "354538",
+    "sha256": "09kq6mai0v5spb2xvr3z1vb7ljz4nzxvaxxmq8lgsb0gx5vph4bk",
     "version": "2.3.0"
   },
   "cachify-de_DE": {
     "path": "cachify/2.3.0/de_DE",
-    "rev": "319990",
-    "sha256": "1a19k6i0k2czwn7znpjf8vd0csdim4hdnhl0d9xg2jq51ck3xb1x",
+    "rev": "354534",
+    "sha256": "1vhs670fhfzak52qli0vvvqbvaljzbl1advy97sk9d9kxi8p0fhx",
     "version": "2.3.0"
   },
   "cachify-de_DE_formal": {
     "path": "cachify/2.3.0/de_DE_formal",
-    "rev": "319991",
-    "sha256": "065gb3idvs5x12dgpb8p2lgi0xkbid517wdyss7xzwwgxc13nhrb",
+    "rev": "354536",
+    "sha256": "0fksqjfpmqqjw80brd1ckvw75y5wzhzqppgj1sj59z9y6myx5lc7",
     "version": "2.3.0"
   },
   "cachify-es_ES": {
@@ -15969,6 +15999,12 @@
     "path": "categories-images/3.0.1/da_DK",
     "rev": "311819",
     "sha256": "0bnbkcwb65mjl5xf9wggzw72njaarv1pipn6868dfvd1x2bh4fjc",
+    "version": "3.0.1"
+  },
+  "categories-images-en_GB": {
+    "path": "categories-images/3.0.1/en_GB",
+    "rev": "354438",
+    "sha256": "0p4zmg8kkqjx0qdf4xg4vrr8nw1mf4gazkqzc52j7bcqfyimvlx3",
     "version": "3.0.1"
   },
   "categories-images-es_ES": {
@@ -17172,34 +17208,34 @@
     "version": "1.1.2"
   },
   "church-admin-en_GB": {
-    "path": "church-admin/2.6869/en_GB",
-    "rev": "351564",
-    "sha256": "0rbqq4lprkrypfdmzs1i3w4b4ip5y93c9jfsz706bfj9d8md850g",
-    "version": "2.6869"
+    "path": "church-admin/2.6870/en_GB",
+    "rev": "354179",
+    "sha256": "0iqy5zy8g9rx51zji2n51cyzy4i9ymfln1ik9072zd23sb8f6sqm",
+    "version": "2.6870"
   },
   "church-admin-es_MX": {
-    "path": "church-admin/2.6869/es_MX",
-    "rev": "351567",
-    "sha256": "0qjzpvkxfx665ynazkz3blc0yvdayd8p6z86rp5h83rd2a2kc8bv",
-    "version": "2.6869"
+    "path": "church-admin/2.6870/es_MX",
+    "rev": "354182",
+    "sha256": "055cwdvn8m0z1nm2mb4bs714b3n0i53v69ak7f1g0jcvf266xl3n",
+    "version": "2.6870"
   },
   "church-admin-nl_NL": {
-    "path": "church-admin/2.6869/nl_NL",
-    "rev": "351563",
-    "sha256": "0gnf2xqh33xs0s2lm1plr3chr9whx4yakgxmds5d7rf839w03qw3",
-    "version": "2.6869"
+    "path": "church-admin/2.6870/nl_NL",
+    "rev": "354178",
+    "sha256": "15ggsp2jp3nw3gg8c928sz6p54gxd53ry0n0nb09bqipg4x44mvd",
+    "version": "2.6870"
   },
   "church-admin-nn_NO": {
-    "path": "church-admin/2.6869/nn_NO",
-    "rev": "351565",
-    "sha256": "1q1rxqnf6wgx00mv1z9y4b4jf1jg1snr4z05arnil464ynihxhan",
-    "version": "2.6869"
+    "path": "church-admin/2.6870/nn_NO",
+    "rev": "354180",
+    "sha256": "0al84rv455mi9glh1wcp3dfbdwafqyd7yi2m77czsibf4iyx7gfr",
+    "version": "2.6870"
   },
   "church-admin-ru_RU": {
-    "path": "church-admin/2.6869/ru_RU",
-    "rev": "351566",
-    "sha256": "0lpnwi2g8cgaj9vnyzfdyp87ciqhfzlp1lnhv5n7wvjz5hsd45ix",
-    "version": "2.6869"
+    "path": "church-admin/2.6870/ru_RU",
+    "rev": "354181",
+    "sha256": "1zprbzmp2bfj8ab83sc7j7x4rvs6lgqs8a3a009bkid2jnzbrma4",
+    "version": "2.6870"
   },
   "church-options-sv_SE": {
     "path": "church-options/1.0.2/sv_SE",
@@ -18246,34 +18282,34 @@
     "version": "3.0.8"
   },
   "click-to-chat-for-whatsapp-es_ES": {
-    "path": "click-to-chat-for-whatsapp/2.2/es_ES",
-    "rev": "297074",
-    "sha256": "0nx8clgqhhgwy8ysmnzkzgqvjblrhnifshc3hh7b852jkfwid5v2",
-    "version": "2.2"
+    "path": "click-to-chat-for-whatsapp/2.3/es_ES",
+    "rev": "354216",
+    "sha256": "0h0i4ap9ybhrhvxkb865bjzq8gvifv2bqp3q5iy1s5qp4l6q81bj",
+    "version": "2.3"
   },
   "click-to-chat-for-whatsapp-es_VE": {
-    "path": "click-to-chat-for-whatsapp/2.2/es_VE",
-    "rev": "297144",
-    "sha256": "1icbcipjm9ism7vhmm5hyla1769cbagfka2ajnp6h57x314a85vl",
-    "version": "2.2"
+    "path": "click-to-chat-for-whatsapp/2.3/es_VE",
+    "rev": "354217",
+    "sha256": "1ahxr4mfawmbvgd0y1djyp00djqvs69pbwxlm9l3aqw503a3ijzw",
+    "version": "2.3"
   },
   "click-to-chat-for-whatsapp-nl_BE": {
-    "path": "click-to-chat-for-whatsapp/2.2/nl_BE",
-    "rev": "352428",
-    "sha256": "0v708x7zw9argjvslk1l3zlg8h6r6jgfmy10hws06rnjshjv6qk0",
-    "version": "2.2"
+    "path": "click-to-chat-for-whatsapp/2.3/nl_BE",
+    "rev": "354214",
+    "sha256": "0wy9bdxd28khgmk4l1f3pnnha94s3fcsx83m9vhcpccibzkhyg6h",
+    "version": "2.3"
   },
   "click-to-chat-for-whatsapp-nl_NL": {
-    "path": "click-to-chat-for-whatsapp/2.2/nl_NL",
-    "rev": "352427",
-    "sha256": "0ynp0ihnih6la2xbysa69zby1c221367x7037sp5amiz4zay7n4r",
-    "version": "2.2"
+    "path": "click-to-chat-for-whatsapp/2.3/nl_NL",
+    "rev": "354213",
+    "sha256": "1jjgxpnnj2g6w7awk3ibyv7qh2lsx6f3i9as0lbar31ccmp14f28",
+    "version": "2.3"
   },
   "click-to-chat-for-whatsapp-nl_NL_formal": {
-    "path": "click-to-chat-for-whatsapp/2.2/nl_NL_formal",
-    "rev": "352429",
-    "sha256": "1r1qx9lk16n92m9a7lmv7b3db3hpl5qpkzrxswlaggjzyh6w47wa",
-    "version": "2.2"
+    "path": "click-to-chat-for-whatsapp/2.3/nl_NL_formal",
+    "rev": "354215",
+    "sha256": "1kgcrjsaj8bfkipcki236425g6b2waqgmhmkgp60c5dnjd0hqxy5",
+    "version": "2.3"
   },
   "clicksports-maps-de_DE": {
     "path": "clicksports-maps/1.0.3/de_DE",
@@ -18774,160 +18810,160 @@
     "version": "1.0.6.5"
   },
   "coblocks-de_DE": {
-    "path": "coblocks/1.26.3/de_DE",
-    "rev": "346416",
-    "sha256": "1kcy9byjqrw30qkl8587vvr64wwr2n675z71fi3rc2cv3ycv5ny7",
-    "version": "1.26.3"
+    "path": "coblocks/2.0.0/de_DE",
+    "rev": "353988",
+    "sha256": "0a45iyi5mj3wf98xkwgngic9jyqyji5nbrfwh48vldcp1wjl8i0h",
+    "version": "2.0.0"
   },
   "coblocks-de_DE_formal": {
-    "path": "coblocks/1.26.3/de_DE_formal",
-    "rev": "346417",
+    "path": "coblocks/2.0.0/de_DE_formal",
+    "rev": "353989",
     "sha256": "05l5pqvvrwhsgsx1fg6c5lgclps4vvml5yb2q4vapdrqfl57jr1q",
-    "version": "1.26.3"
+    "version": "2.0.0"
   },
   "coblocks-el": {
-    "path": "coblocks/1.26.3/el",
-    "rev": "346418",
-    "sha256": "0v5kri57kqabwj6v3hbxci77l7j7p8xnwzc4f1ccj9cvm9l4ia6z",
-    "version": "1.26.3"
+    "path": "coblocks/2.0.0/el",
+    "rev": "353990",
+    "sha256": "0gyz4xjx68mpfxnwnza50vpv378pwrja0rcbhid7qnzbpbzkrvbj",
+    "version": "2.0.0"
   },
   "coblocks-es_CR": {
-    "path": "coblocks/1.26.3/es_CR",
-    "rev": "346430",
+    "path": "coblocks/2.0.0/es_CR",
+    "rev": "354002",
     "sha256": "0k5ymi7hc2ivrlvd7sdks49whcwvj67cj71k5r6c9d1d6vfid8n1",
-    "version": "1.26.3"
+    "version": "2.0.0"
   },
   "coblocks-es_ES": {
-    "path": "coblocks/1.26.3/es_ES",
-    "rev": "346432",
-    "sha256": "1p858smyrhpvbl1rw9v1318f5xck4yv54k588cvb8nyj8zwc8a2k",
-    "version": "1.26.3"
+    "path": "coblocks/2.0.0/es_ES",
+    "rev": "354503",
+    "sha256": "0pah0blxv4y0n7pii3vpy07sifdi9mkanzp8vlsndz6hqz8wd7np",
+    "version": "2.0.0"
   },
   "coblocks-es_MX": {
-    "path": "coblocks/1.26.3/es_MX",
-    "rev": "346431",
-    "sha256": "1n93wqlf56mz0n8qjlf7q8rsd9ag1f5a5slpgnx5csx14lldp71m",
-    "version": "1.26.3"
+    "path": "coblocks/2.0.0/es_MX",
+    "rev": "354003",
+    "sha256": "0i400zkkcriyknycqijcvfmhxg7qdfcagvigwhcsf6krk8jkyn7h",
+    "version": "2.0.0"
   },
   "coblocks-es_VE": {
-    "path": "coblocks/1.26.3/es_VE",
-    "rev": "346433",
-    "sha256": "07k8h2x7wmiqyawkr6vj3y5rx6wl0vg14xf0s0mvwfawsqx631gn",
-    "version": "1.26.3"
+    "path": "coblocks/2.0.0/es_VE",
+    "rev": "354005",
+    "sha256": "1l2hnrgd5cavwsn56vk94i9gxsvjx0c6fr0chxh846hyh534cyqw",
+    "version": "2.0.0"
   },
   "coblocks-fi": {
-    "path": "coblocks/1.26.3/fi",
-    "rev": "346415",
-    "sha256": "03hzyh4jqzksxsq7wg9vfykb2fh7vydk5y6rbgmk4927xl8913sc",
-    "version": "1.26.3"
+    "path": "coblocks/2.0.0/fi",
+    "rev": "353987",
+    "sha256": "0rk6yl016rwhb2sdxhx4r643qpd72iqwwknw2xrf8c85jlb7d61m",
+    "version": "2.0.0"
   },
   "coblocks-hi_IN": {
-    "path": "coblocks/1.26.3/hi_IN",
-    "rev": "346419",
-    "sha256": "0iqslanvba1ar4szv94mv5c1v0kshhc2xinwpbx1j1ghqw09ma4m",
-    "version": "1.26.3"
+    "path": "coblocks/2.0.0/hi_IN",
+    "rev": "353991",
+    "sha256": "0rpjba63xaam3h6qz1y634mqm3x1gldvyygj2qb5hrzs0pzy6h5g",
+    "version": "2.0.0"
   },
   "coblocks-id_ID": {
-    "path": "coblocks/1.26.3/id_ID",
-    "rev": "346420",
-    "sha256": "1qipvxc5cnw4llnvaw3x9nxms6jv33higanmhwzlx42bg3jxzf57",
-    "version": "1.26.3"
+    "path": "coblocks/2.0.0/id_ID",
+    "rev": "353992",
+    "sha256": "1pxpm75f5zai5rwkr8lx27dlgswkj2ynd4ppwd4xh7v5z6c94n52",
+    "version": "2.0.0"
   },
   "coblocks-it_IT": {
-    "path": "coblocks/1.26.3/it_IT",
-    "rev": "346421",
-    "sha256": "1kras9ah7nml8sy3f5255pc11pfqcir3ab6z8n848bdclj3011xb",
-    "version": "1.26.3"
+    "path": "coblocks/2.0.0/it_IT",
+    "rev": "353993",
+    "sha256": "0ffc4s7vqppzdr2hs5is86v155j70f3wjbrdmzr36155p8mcqf1h",
+    "version": "2.0.0"
   },
   "coblocks-ja": {
-    "path": "coblocks/1.26.3/ja",
-    "rev": "346446",
-    "sha256": "0iqysc3w6kayr8hhlkvlfdryc9hkr150h7bxqzwqfhrva1z5kpf3",
-    "version": "1.26.3"
+    "path": "coblocks/2.0.0/ja",
+    "rev": "353994",
+    "sha256": "0ddpsan0ajqmlh39bhzkm4hl35z10nvyn3m83lv2nszp3kjm6wgb",
+    "version": "2.0.0"
   },
   "coblocks-mr": {
-    "path": "coblocks/1.26.3/mr",
-    "rev": "346423",
-    "sha256": "0v65nlskm3lgply6njzl4yy6ldds0zs5pfqvknxnpr9dnb5g4wny",
-    "version": "1.26.3"
+    "path": "coblocks/2.0.0/mr",
+    "rev": "353995",
+    "sha256": "064nw7lkbacki1gzgkjkxr71n93n221hbhvlq9ym6g3lyrhm0p7f",
+    "version": "2.0.0"
   },
   "coblocks-nb_NO": {
-    "path": "coblocks/1.26.3/nb_NO",
-    "rev": "346424",
-    "sha256": "0fsllvn021a67zkslaxbx13jfnkbayy56zgdkwgf6n3n22ahr7vw",
-    "version": "1.26.3"
+    "path": "coblocks/2.0.0/nb_NO",
+    "rev": "353996",
+    "sha256": "09mkr4d2s0r540a1r53153bj2fi2541j71rh57dbg3i8vvhwfmh6",
+    "version": "2.0.0"
   },
   "coblocks-pl_PL": {
-    "path": "coblocks/1.26.3/pl_PL",
-    "rev": "346425",
-    "sha256": "0vlhswnkdrs5dv5c9f44m0qp2m308f3nxicx8axn35pzs0gn7kz0",
-    "version": "1.26.3"
+    "path": "coblocks/2.0.0/pl_PL",
+    "rev": "353997",
+    "sha256": "0zabhnl3szzfgvm4dp301ki27862g4s6rz6ahy9by2ch1jk997gy",
+    "version": "2.0.0"
   },
   "coblocks-pt_BR": {
-    "path": "coblocks/1.26.3/pt_BR",
-    "rev": "346426",
-    "sha256": "0bh16fm6qc5vxcr9pscwh8n772bam7maizcsjnkqsywn1w65bya6",
-    "version": "1.26.3"
+    "path": "coblocks/2.0.0/pt_BR",
+    "rev": "353998",
+    "sha256": "0iwm1xswhwxbd89w7ndl8vnszlcrvdm39whax26pdja16r565sa6",
+    "version": "2.0.0"
   },
   "coblocks-pt_PT": {
-    "path": "coblocks/1.26.3/pt_PT",
-    "rev": "346427",
-    "sha256": "1qnn04qfqjiaawkv0a5l42jfmrrx1qbp29215gzhr68d0iz1z9pj",
-    "version": "1.26.3"
+    "path": "coblocks/2.0.0/pt_PT",
+    "rev": "353999",
+    "sha256": "15w45l8wslr4z4gqwsm9xgdc4fiwpgk43b8d5k9w9i6iixvdmqp0",
+    "version": "2.0.0"
   },
   "coblocks-ru_RU": {
-    "path": "coblocks/1.26.3/ru_RU",
-    "rev": "346428",
-    "sha256": "1rhc2l6yd76g6zgmh49sra6j64f438g84hy7arkkpfayw09h858f",
-    "version": "1.26.3"
+    "path": "coblocks/2.0.0/ru_RU",
+    "rev": "354000",
+    "sha256": "1vgwpjiw9am79phyrrrlp7knlwjl5cv9gvm7q9gpbgah0g04h8br",
+    "version": "2.0.0"
   },
   "coblocks-sr_RS": {
-    "path": "coblocks/1.26.3/sr_RS",
-    "rev": "346429",
-    "sha256": "03zk39s48hgcrs97rr6lalww4xn5b43q44s3ia83a5d379gn9n2s",
-    "version": "1.26.3"
+    "path": "coblocks/2.0.0/sr_RS",
+    "rev": "354001",
+    "sha256": "15dahx0wbc6n6w6w6mn2kzr5pjslpcchgki10y3f9wnkc54f33ad",
+    "version": "2.0.0"
   },
   "coblocks-sv_SE": {
-    "path": "coblocks/1.26.3/sv_SE",
-    "rev": "346434",
-    "sha256": "0wkni3yy25whrnddy4glnbyln9cdiih7s1rrili9b15r2qmy1a9k",
-    "version": "1.26.3"
+    "path": "coblocks/2.0.0/sv_SE",
+    "rev": "354006",
+    "sha256": "1s5s6bymvm1d7xm6nb186w93zmp83b9nn36sycbrdhy4g1s48k2h",
+    "version": "2.0.0"
   },
   "coblocks-th": {
-    "path": "coblocks/1.26.3/th",
-    "rev": "346435",
-    "sha256": "1mdimg33spjljzbkvsncys3gd14p0a0909kgn152javcwy5x9vsw",
-    "version": "1.26.3"
+    "path": "coblocks/2.0.0/th",
+    "rev": "354007",
+    "sha256": "0ls6hclpn7v7v2wfrjy2998rvgcnlnbifkhy27hmqhbsdfg3fzrx",
+    "version": "2.0.0"
   },
   "coblocks-tr_TR": {
-    "path": "coblocks/1.26.3/tr_TR",
-    "rev": "346436",
-    "sha256": "0gqg6nk4msiz24gzwqfzr9k0qb63k7s7lkxlv2skm7yigx6zbc98",
-    "version": "1.26.3"
+    "path": "coblocks/2.0.0/tr_TR",
+    "rev": "354008",
+    "sha256": "159c6jvn93zm7f1498bkz7xh4bi9wp805l9phvz6haslpfvgzwj2",
+    "version": "2.0.0"
   },
   "coblocks-uk": {
-    "path": "coblocks/1.26.3/uk",
-    "rev": "346437",
-    "sha256": "1rddgbicpyisp9bxf3b0w3b06fzgrj5yrzw5qdmsqllsr1iyngsy",
-    "version": "1.26.3"
+    "path": "coblocks/2.0.0/uk",
+    "rev": "354009",
+    "sha256": "1msqk8aam817f60hqn083djxi5hbnxxnxqq818ysyyi9dxc95lw0",
+    "version": "2.0.0"
   },
   "coblocks-vi": {
-    "path": "coblocks/1.26.3/vi",
-    "rev": "352327",
-    "sha256": "0fsbc0kwf09pqbkmj4bqvb722cpfcsgwdj4gm3n9vgjamhlcg4fd",
-    "version": "1.26.3"
+    "path": "coblocks/2.0.0/vi",
+    "rev": "354010",
+    "sha256": "1idlfrz5gp2142cx87lw91kn5p98h6k8dwk8mnxjg2paharipjv6",
+    "version": "2.0.0"
   },
   "coblocks-zh_CN": {
-    "path": "coblocks/1.26.3/zh_CN",
-    "rev": "346413",
-    "sha256": "0jbsmcyhxxycjq85j95bliv208i33ivf7yjxkplxj9hv9kjkp2ir",
-    "version": "1.26.3"
+    "path": "coblocks/2.0.0/zh_CN",
+    "rev": "353985",
+    "sha256": "1lv5lpzd4gnhikpkvbcpp3pxvc78m2av6d5rw63m3gfzlvdzpbkz",
+    "version": "2.0.0"
   },
   "coblocks-zh_TW": {
-    "path": "coblocks/1.26.3/zh_TW",
-    "rev": "346414",
-    "sha256": "0ay5vn34f7lpf0qwwpwj1pvx82lqlq957xjz5dfp77a4cgqbz01v",
-    "version": "1.26.3"
+    "path": "coblocks/2.0.0/zh_TW",
+    "rev": "353986",
+    "sha256": "1vmncwr2c8qgfhs2yrkfv8flpllklf9v7dz215hpxcq8ysyk4dh4",
+    "version": "2.0.0"
   },
   "code-cleaner-hr": {
     "path": "code-cleaner/1.1.8/hr",
@@ -19026,34 +19062,34 @@
     "version": "1.0.5"
   },
   "codeboxrflexiblecountdown-cs_CZ": {
-    "path": "codeboxrflexiblecountdown/1.7.3/cs_CZ",
-    "rev": "70855",
-    "sha256": "06h51lkdih2apmjxgklgn8piaanbp0al3w73xchbyy57x1by8wzq",
-    "version": "1.7.3"
+    "path": "codeboxrflexiblecountdown/1.8.0/cs_CZ",
+    "rev": "354550",
+    "sha256": "0mi1ilgv3lrvyphc3iycvg9d650z9yx0jqknvmhx1rm84sg8ncsv",
+    "version": "1.8.0"
   },
   "codeboxrflexiblecountdown-es_ES": {
-    "path": "codeboxrflexiblecountdown/1.7.11/es_ES",
-    "rev": "307177",
-    "sha256": "0izlp5ky5ki07bnwr0g7vnkirv8psagnx2f5flcwf0xhv9rqf1xv",
-    "version": "1.7.11"
+    "path": "codeboxrflexiblecountdown/1.8.0/es_ES",
+    "rev": "354552",
+    "sha256": "0gh9avwzb2wclnlqqmmk454wfjlcfjn83wvjbvyhrarvb34wjyw3",
+    "version": "1.8.0"
   },
   "codeboxrflexiblecountdown-es_MX": {
-    "path": "codeboxrflexiblecountdown/1.7.11/es_MX",
-    "rev": "307176",
-    "sha256": "1c9p6l5dd4gk58wfp9lmim0zq9xdqbvcn11zxgvq1ivinygihd4b",
-    "version": "1.7.11"
+    "path": "codeboxrflexiblecountdown/1.8.0/es_MX",
+    "rev": "354551",
+    "sha256": "0pz9x5vpfvda3qrlhvy8kvhpb02z77c669cw8vdncs4qmnv9wkhf",
+    "version": "1.8.0"
   },
   "codeboxrflexiblecountdown-es_VE": {
-    "path": "codeboxrflexiblecountdown/1.7.11/es_VE",
-    "rev": "307178",
-    "sha256": "0f3xfp9wh5n6asg52601by998yh7zpvs84bxppw3s9gma892f3rq",
-    "version": "1.7.11"
+    "path": "codeboxrflexiblecountdown/1.8.0/es_VE",
+    "rev": "354553",
+    "sha256": "00128dasb2n0b13vjg6blm2wkq27m80jjzmi7bq8srx7x2330hh9",
+    "version": "1.8.0"
   },
   "codeboxrflexiblecountdown-sv_SE": {
-    "path": "codeboxrflexiblecountdown/1.7.3/sv_SE",
-    "rev": "113132",
-    "sha256": "0gq1adnrc4nvksd5l8ir274czymfsv0krck5ia2ys2k9zggvkr4k",
-    "version": "1.7.3"
+    "path": "codeboxrflexiblecountdown/1.8.0/sv_SE",
+    "rev": "354554",
+    "sha256": "06h76xbiw921gi844dbn6a784k55s618dhd6ibi7v30f08br0i38",
+    "version": "1.8.0"
   },
   "codecolorer-ar": {
     "path": "codecolorer/0.9.16/ar",
@@ -19249,8 +19285,8 @@
   },
   "codepress-admin-columns-nl_NL": {
     "path": "codepress-admin-columns/4.1.6/nl_NL",
-    "rev": "325704",
-    "sha256": "0smv9v9sflf4s7pw79hccricr5nxqzvs4lh7c24b73g7jkws2a9y",
+    "rev": "354298",
+    "sha256": "0k98wc4ps3zv4g7l0v4qxls49z1vb5m7rcsbk8gw9kmfi5fcplc0",
     "version": "4.1.6"
   },
   "codepress-admin-columns-pt_BR": {
@@ -19525,8 +19561,8 @@
   },
   "coming-soon-de_DE": {
     "path": "coming-soon/5.1.0/de_DE",
-    "rev": "353334",
-    "sha256": "04ly78bagry052miyicbm9vx3xirsnzaj34plkvv8nhm4kxz4p20",
+    "rev": "353959",
+    "sha256": "02qw2mgrxvs470ybaljibi25hwx84c3mdj1d81nya7vgl4d5wcjp",
     "version": "5.1.0"
   },
   "coming-soon-en_AU": {
@@ -19696,6 +19732,12 @@
     "rev": "268001",
     "sha256": "06m9vchbrxv4kq13nb98rg5i1426ym3a68f6rs46vaj7ak4j31ds",
     "version": "1.3"
+  },
+  "comment-link-remove-de_DE": {
+    "path": "comment-link-remove/2.1.1/de_DE",
+    "rev": "354204",
+    "sha256": "0gv6jpnba1ylx4pmh566gx6mzfihkhvxkprsmkrhlv0v18kvj9y1",
+    "version": "2.1.1"
   },
   "comment-notifier-no-spammers-de_DE": {
     "path": "comment-notifier-no-spammers/1.5.8/de_DE",
@@ -20047,8 +20089,8 @@
   },
   "complianz-gdpr-de_DE": {
     "path": "complianz-gdpr/4.6.3/de_DE",
-    "rev": "353560",
-    "sha256": "0369ir9x482r72a2rjm7v01x6b5rfy74l6fhbv85jdg8cd6mw385",
+    "rev": "353958",
+    "sha256": "1lwb8jq8i4wi8vxkgrl4qmf2ayzn999g0v5b9lrbgmvc15r63cfg",
     "version": "4.6.3"
   },
   "complianz-gdpr-de_DE_formal": {
@@ -21193,8 +21235,8 @@
   },
   "contact-widgets-it_IT": {
     "path": "contact-widgets/1.7.0/it_IT",
-    "rev": "321426",
-    "sha256": "0ca856gzj7k3ynzayhwcfql01dwpqv7gbqmd8fahdvh5b7b6kxlf",
+    "rev": "354526",
+    "sha256": "1i0q2ia88a2jqmkqvs3yhjkxkgvv943rwqqbc30qblr4cnh2r7pr",
     "version": "1.7.0"
   },
   "contact-widgets-ru_RU": {
@@ -22332,16 +22374,28 @@
     "version": "1.2.8"
   },
   "cornerstone-es_ES": {
-    "path": "cornerstone/0.7.7/es_ES",
-    "rev": "297944",
-    "sha256": "0hvwj0ih5ln8cnqfwlbiz7vrdmncr3pag3638qah0smw7dv6spa0",
-    "version": "0.7.7"
+    "path": "cornerstone/0.7.8/es_ES",
+    "rev": "354013",
+    "sha256": "1mqha6dss7m49f2jzk98alb66c9i1rpjsz6jk93nbvixfmny3b9n",
+    "version": "0.7.8"
+  },
+  "cornerstone-es_MX": {
+    "path": "cornerstone/0.7.8/es_MX",
+    "rev": "354246",
+    "sha256": "0fvbpdwdfvg7rad3vybz1z2qgngcq5wvvw4h96vbzbsp8smld385",
+    "version": "0.7.8"
+  },
+  "cornerstone-es_VE": {
+    "path": "cornerstone/0.7.8/es_VE",
+    "rev": "354014",
+    "sha256": "0mw2s96xxpk4lj4jc9awf6i919k6r3bzwa1m1f0djqj55f79zy9m",
+    "version": "0.7.8"
   },
   "cornerstone-sv_SE": {
-    "path": "cornerstone/0.7.7/sv_SE",
-    "rev": "297949",
-    "sha256": "0yr7m48cjkcrf816kcki12v13i1ppi3vh6jl1drnlyd7xw483kca",
-    "version": "0.7.7"
+    "path": "cornerstone/0.7.8/sv_SE",
+    "rev": "354015",
+    "sha256": "1xxp8lx1rawmy0fi9r6gjrmrhxrrrp1abz5yx5d8ksvh5jrfm0mh",
+    "version": "0.7.8"
   },
   "corona-virus-covid-19-banner-sk_SK": {
     "path": "corona-virus-covid-19-banner/1.7.0.4/sk_SK",
@@ -22782,10 +22836,10 @@
     "version": "1.1.0"
   },
   "cpt-to-map-store-fr_FR": {
-    "path": "cpt-to-map-store/1.0.1/fr_FR",
-    "rev": "343608",
-    "sha256": "0icsgmihx1ljj2n4sc9ww7cjhmaa1fbawck24qj27k0334idvma9",
-    "version": "1.0.1"
+    "path": "cpt-to-map-store/1.0.2/fr_FR",
+    "rev": "354612",
+    "sha256": "0ywwkxs46bl9x69djd6p6rpllfv34dyqcmn62ypm28gr1vzsz4pi",
+    "version": "1.0.2"
   },
   "crayon-syntax-highlighter-es_CL": {
     "path": "crayon-syntax-highlighter/2.8.4/es_CL",
@@ -26514,10 +26568,10 @@
     "version": "1.2.5"
   },
   "directorist-es_CO": {
-    "path": "directorist/6.4.1/es_CO",
-    "rev": "338400",
-    "sha256": "0464bqric76iszh6fbkhf1fp2liv8xl016fzq08d96mq2lfrq3rq",
-    "version": "6.4.1"
+    "path": "directorist/6.4.2/es_CO",
+    "rev": "354071",
+    "sha256": "1nrqs5dldn3i7qc9wm87kybbs2xm50qw6c4j2sx2xkwpjkn45xdy",
+    "version": "6.4.2"
   },
   "disable-admin-notices-es_AR": {
     "path": "disable-admin-notices/1.1.1/es_AR",
@@ -27131,6 +27185,12 @@
     "sha256": "0fmhr4qd76d5am4dnzjvl3pc0l14y5hic9y4wkvx4qgdq149lxxc",
     "version": "2.0"
   },
+  "disable-google-fonts-en_GB": {
+    "path": "disable-google-fonts/2.0/en_GB",
+    "rev": "354428",
+    "sha256": "0kbp072v55anxwdhn4h8a35vy88l85lx2lmqkkkjr70gccxi7bjd",
+    "version": "2.0"
+  },
   "disable-google-fonts-es_ES": {
     "path": "disable-google-fonts/2.0/es_ES",
     "rev": "334137",
@@ -27514,6 +27574,12 @@
     "rev": "229414",
     "sha256": "0s3pyslnrd8c5givramc2g62shvdmpq6581da1myihpznkpa3q4k",
     "version": "1.0.1"
+  },
+  "disable-xml-rpc-pingback-en_GB": {
+    "path": "disable-xml-rpc-pingback/1.2.1/en_GB",
+    "rev": "354345",
+    "sha256": "16y41ncq0nqmrm8hv0x9kf1fmk6jq8hp0n1mycwna33x6m6mlvp7",
+    "version": "1.2.1"
   },
   "disable-xml-rpc-pingback-es_ES": {
     "path": "disable-xml-rpc-pingback/1.2.1/es_ES",
@@ -28135,8 +28201,8 @@
   },
   "dokan-lite-es_VE": {
     "path": "dokan-lite/3.0.5/es_VE",
-    "rev": "353588",
-    "sha256": "1hz8ygryk5dx1rzqbp2sqsv3cmzi4qwgsq1kp8444m13n5a7xpp8",
+    "rev": "354611",
+    "sha256": "088v8jjd1xllmizfycmkjxnvn1g5zfphl9f6qvm27rvkh5avr02m",
     "version": "3.0.5"
   },
   "dokan-lite-fa_IR": {
@@ -28431,6 +28497,12 @@
     "path": "download-attachments/1.2.24/de_DE",
     "rev": "333152",
     "sha256": "052hbffp0w8i07ki07c10py87vp0br4nijgwynmvadwqbq521nq6",
+    "version": "1.2.24"
+  },
+  "download-attachments-el": {
+    "path": "download-attachments/1.2.24/el",
+    "rev": "354207",
+    "sha256": "0c7h074dzfva6yl4zxmczaf1p5jc4s10kkm421mqs4chqsmziviv",
     "version": "1.2.24"
   },
   "download-attachments-es_ES": {
@@ -31248,22 +31320,22 @@
     "version": "1.0.4"
   },
   "edit-author-slug-de_DE": {
-    "path": "edit-author-slug/1.5.2/de_DE",
-    "rev": "114538",
-    "sha256": "08fllxjypz36dib2ax51n9xvavn0nnfqc98kvjh8501cag1bcygn",
-    "version": "1.5.2"
+    "path": "edit-author-slug/1.7.0/de_DE",
+    "rev": "354113",
+    "sha256": "1m0j9vs4r43dhp6171ni0qqhwrh1f67pqd2qkpyjia4qdgls8mzi",
+    "version": "1.7.0"
   },
   "edit-author-slug-es_ES": {
-    "path": "edit-author-slug/1.6.1/es_ES",
-    "rev": "253902",
-    "sha256": "12qm94933kdf2g2qmwdiiqls1z12ik04wwrisqfqgwjgvsbrn5fn",
-    "version": "1.6.1"
+    "path": "edit-author-slug/1.7.0/es_ES",
+    "rev": "354115",
+    "sha256": "1i6akmdjmfm4yd1k2hvf7yb9wgwbgylj21mnsaj2vczcfiijbhi1",
+    "version": "1.7.0"
   },
   "edit-author-slug-ja": {
-    "path": "edit-author-slug/1.5.2/ja",
-    "rev": "99895",
-    "sha256": "1yymyyx1871r7azzll08pwxpqwdhapb1i6yvbm1mnk73am6naajp",
-    "version": "1.5.2"
+    "path": "edit-author-slug/1.7.0/ja",
+    "rev": "354114",
+    "sha256": "1hajmmhpxc5srzr6rmhm7fyrr5cin8283ms9f8vgryfr2yvvsh29",
+    "version": "1.7.0"
   },
   "edit-flow-en_GB": {
     "path": "edit-flow/0.9.6/en_GB",
@@ -31927,8 +31999,8 @@
   },
   "elementor-sk_SK": {
     "path": "elementor/2.9.11/sk_SK",
-    "rev": "347452",
-    "sha256": "06rl59nj23kgfjqm1sbz53124p747q43bfyfqb8p07qwl199zaq0",
+    "rev": "354327",
+    "sha256": "0fsz4jnzmv71m4v565lra4wcjpwnl7myn4icfvwg07v2qzvpn18v",
     "version": "2.9.11"
   },
   "elementor-sr_RS": {
@@ -32209,8 +32281,8 @@
   },
   "email-subscribers-es_ES": {
     "path": "email-subscribers/4.4.8/es_ES",
-    "rev": "353802",
-    "sha256": "06pls5i7gcprp6d0x1if7z3imdll408g3mkd8fybaf9qj45vp509",
+    "rev": "354587",
+    "sha256": "04b65p7a3iks1gwrkmwjmksb1jlmg2n9z5ks9hkbgkas01sr0z7w",
     "version": "4.4.8"
   },
   "email-subscribers-es_MX": {
@@ -32221,14 +32293,14 @@
   },
   "email-subscribers-es_VE": {
     "path": "email-subscribers/4.4.8/es_VE",
-    "rev": "341966",
-    "sha256": "1l114ryf4xp5ag9hzbnaxgh27pxgf9ih2vjrr337fdvd88jmps2y",
+    "rev": "353976",
+    "sha256": "0mns1w884s3f1nrw6g1j75p8njw15srcd84azpcwb55d22f7c43a",
     "version": "4.4.8"
   },
   "email-subscribers-nl_NL": {
     "path": "email-subscribers/4.4.8/nl_NL",
-    "rev": "341446",
-    "sha256": "1f4av51226l4m8dh0j6hnjqbfmgvs63mrw54b28sq0cycml76gfd",
+    "rev": "354319",
+    "sha256": "03a3f0lazygvhw0cyl1av1vmm1kcv06611cwry4qlp5pmbxxsfbz",
     "version": "4.4.8"
   },
   "email-subscribers-pl_PL": {
@@ -33119,6 +33191,12 @@
     "sha256": "14m328b0jf4r1x7hwvbgdwymcq21x8agy5vazfc09y7cvmyp9677",
     "version": "1.6.10"
   },
+  "error-log-monitor-ko_KR": {
+    "path": "error-log-monitor/1.6.10/ko_KR",
+    "rev": "354514",
+    "sha256": "1v24li9kqcmlwvh28v5kcin5gvz0y409h14k85qj84vwrfs9gv3z",
+    "version": "1.6.10"
+  },
   "error-log-monitor-ru_RU": {
     "path": "error-log-monitor/1.6.10/ru_RU",
     "rev": "340738",
@@ -33841,8 +33919,8 @@
   },
   "events-manager-nb_NO": {
     "path": "events-manager/5.9.7.3/nb_NO",
-    "rev": "293065",
-    "sha256": "1xkgcfpw7ql4szb7jrkw3js47sz6xng6271f0w6x9rd5qlfb2j61",
+    "rev": "354627",
+    "sha256": "18n2rdbl3c65ivfxf6v952q8hi05mz80wkvsr54r7c4b1l95bb2z",
     "version": "5.9.7.3"
   },
   "events-manager-nl_BE": {
@@ -34419,6 +34497,12 @@
     "path": "extended-evaluation-for-statify/2.6.0/af",
     "rev": "325023",
     "sha256": "060mxwz0cifglrvnmzdndplrk1g73aynxnw9b2d59yk3q100z585",
+    "version": "2.6.0"
+  },
+  "extended-evaluation-for-statify-de_AT": {
+    "path": "extended-evaluation-for-statify/2.6.0/de_AT",
+    "rev": "354340",
+    "sha256": "1ky89lnxa93n6wndgnwz9h6xgp55wnrgdy9wlzh0hvgfnpjpjh6r",
     "version": "2.6.0"
   },
   "extended-evaluation-for-statify-de_CH": {
@@ -36366,22 +36450,22 @@
     "version": "1.0.3"
   },
   "fitness-calculators-es_MX": {
-    "path": "fitness-calculators/1.0.2/es_MX",
-    "rev": "329341",
-    "sha256": "050b18va4ygc6ij8m64wi6c33n7lx4mwrdgw7ry2sjl8mcxygjn3",
-    "version": "1.0.2"
+    "path": "fitness-calculators/1.4.0/es_MX",
+    "rev": "354609",
+    "sha256": "1ghfkb35ikc7nldg00gcc77spkvhwvr272chyzh7hnrr4pjajah8",
+    "version": "1.4.0"
   },
   "fitness-calculators-fa_IR": {
-    "path": "fitness-calculators/1.0.2/fa_IR",
-    "rev": "329340",
-    "sha256": "1nk5y4dmqs9jj3wdszmw7hhf3k4v7wj537glcvsx4ql4hg0xc5wg",
-    "version": "1.0.2"
+    "path": "fitness-calculators/1.4.0/fa_IR",
+    "rev": "354607",
+    "sha256": "1zaj9pbg6km222d73p0v96khammdkhmz3pp155mlp6pick85ai6a",
+    "version": "1.4.0"
   },
   "fitness-calculators-ro_RO": {
-    "path": "fitness-calculators/1.0.2/ro_RO",
-    "rev": "346906",
-    "sha256": "0ixzaizz9vfq07idr7yg3cv92v7h7faa2fffdiaycirmw25sbqv1",
-    "version": "1.0.2"
+    "path": "fitness-calculators/1.4.0/ro_RO",
+    "rev": "354608",
+    "sha256": "1gbm7xh2divfbc9rb18b7k5niyfy80szlrddr6gz7sabf3cbbs40",
+    "version": "1.4.0"
   },
   "fitness-schedule-fr_FR": {
     "path": "fitness-schedule/1.3.6/fr_FR",
@@ -37206,22 +37290,22 @@
     "version": "2.7.11"
   },
   "food-and-drink-menu-de_DE": {
-    "path": "food-and-drink-menu/2.1.3/de_DE",
-    "rev": "352755",
-    "sha256": "0hp2x03fffm8iv6hgxg89savzkllqfv2q9szvx2y3abj02bb5waa",
-    "version": "2.1.3"
+    "path": "food-and-drink-menu/2.1.5/de_DE",
+    "rev": "354615",
+    "sha256": "0y9a14cm6ka99sghbik11gw7gkv1ajgkdjlh1dm5zksq0a6shi2x",
+    "version": "2.1.5"
   },
   "food-and-drink-menu-de_DE_formal": {
-    "path": "food-and-drink-menu/2.1.3/de_DE_formal",
-    "rev": "352756",
-    "sha256": "09iqvnq3sy5jrdcm5ykkadbqi7krlskscxh0vnmgq24k221ngl4k",
-    "version": "2.1.3"
+    "path": "food-and-drink-menu/2.1.5/de_DE_formal",
+    "rev": "354616",
+    "sha256": "0psd83x48b72821gmd0gik69z8y9q3ixp8d8bz9d84y7j4m24mbf",
+    "version": "2.1.5"
   },
   "food-and-drink-menu-ru_RU": {
-    "path": "food-and-drink-menu/2.1.3/ru_RU",
-    "rev": "352757",
-    "sha256": "0bjgs0m9aj3b2g3sgmjkzmjrz8m0b2qmg1r7m320prrikj210fn8",
-    "version": "2.1.3"
+    "path": "food-and-drink-menu/2.1.5/ru_RU",
+    "rev": "354617",
+    "sha256": "1a8mv80r12vzjixpqb2gdddfb58l1pcksyyl330bix4339sb7w70",
+    "version": "2.1.5"
   },
   "food-online-for-woocommerce-es_ES": {
     "path": "food-online-for-woocommerce/3.2.3/es_ES",
@@ -39403,8 +39487,8 @@
   },
   "gdpr-eo": {
     "path": "gdpr/2.1.2/eo",
-    "rev": "352724",
-    "sha256": "1jnjv494ibhn9123g64sifnx01xd8acc6qzij5plr34jr5r0s3z8",
+    "rev": "354208",
+    "sha256": "0b1hjbz1pbx40d9p799c60c0mwdbflidsl1szzjamvzzcik5qlq3",
     "version": "2.1.2"
   },
   "gdpr-es_ES": {
@@ -40405,8 +40489,8 @@
   },
   "geodirectory-es_MX": {
     "path": "geodirectory/2.0.0.95/es_MX",
-    "rev": "351793",
-    "sha256": "0f597aqfp0j7r229rafzpflyk1ip56m33p1s63hckdza652ww77q",
+    "rev": "353981",
+    "sha256": "1dan5kbqhwd6hxnggw7n7qyjmxc9psq6c8l10pfq630k2b9b4x56",
     "version": "2.0.0.95"
   },
   "geodirectory-id_ID": {
@@ -40703,6 +40787,12 @@
     "sha256": "0p0452pr0z5i6fjshs8yk3wkv9nnvfi30w8kfa93pn1fr4vzjv3n",
     "version": "1.0.5"
   },
+  "gifttest-de_DE": {
+    "path": "gifttest/1.0.0/de_DE",
+    "rev": "354619",
+    "sha256": "1qdwjg3w0rdn4ij70jznjx4y32yjzmcizrnr2wzb8vq91p4rf985",
+    "version": "1.0.0"
+  },
   "gifty-nl_NL": {
     "path": "gifty/1.0.0/nl_NL",
     "rev": "172611",
@@ -40831,8 +40921,8 @@
   },
   "give-it_IT": {
     "path": "give/2.6.3/it_IT",
-    "rev": "340216",
-    "sha256": "1wjgdsbr5jjv8slm45bmng98glfvkg8pp9fqwsjp088gd1hidi6p",
+    "rev": "354167",
+    "sha256": "0kj53sw8pw78c15v8ciy8nyddm0516njapn6a5z0fhb4z7c2r9y0",
     "version": "2.6.3"
   },
   "give-me-answer-lite-es_ES": {
@@ -43236,10 +43326,10 @@
     "version": "1.0.7"
   },
   "gtbabel-de_DE": {
-    "path": "gtbabel/3.4.7/de_DE",
-    "rev": "350021",
-    "sha256": "1f9a6az50asg7v6mqdyaibj72kfps1fnl0cq3ny4d2gjz5y9mrdh",
-    "version": "3.4.7"
+    "path": "gtbabel/3.4.9/de_DE",
+    "rev": "354041",
+    "sha256": "0gy93jfkc13s40g6jy4d3lbdk8vc2xywi9qyz5rzp33az4z1czz5",
+    "version": "3.4.9"
   },
   "gtranslate-es_ES": {
     "path": "gtranslate/2.8.54/es_ES",
@@ -43459,8 +43549,8 @@
   },
   "gutenberg-en_ZA": {
     "path": "gutenberg/8.3.0/en_ZA",
-    "rev": "353427",
-    "sha256": "0mlr1gkkacrzqdm10qd3570d2kyhnpd74agy1sddpxn6009mvj1n",
+    "rev": "354168",
+    "sha256": "0y8z42a3vv08cavm3dzadzrkwc0fv9ld81q8iwnrl1micqcp061z",
     "version": "8.3.0"
   },
   "gutenberg-eo": {
@@ -44934,10 +45024,10 @@
     "version": "3.2.11"
   },
   "highlight-search-terms-el": {
-    "path": "highlight-search-terms/1.5.2/el",
-    "rev": "214148",
-    "sha256": "1iw53d9hzaw01hdgbjbp4a6kvsiy1ggbiimx4rfvyzcdwmc80wpw",
-    "version": "1.5.2"
+    "path": "highlight-search-terms/1.5.5/el",
+    "rev": "354324",
+    "sha256": "1ks4r4mzp2za2c7bb8f3cl54xh0fsw74sfgir4gckq9qzwk2v7pb",
+    "version": "1.5.5"
   },
   "highlight-text-es_ES": {
     "path": "highlight-text/1.0.1/es_ES",
@@ -47597,6 +47687,12 @@
     "sha256": "04g0ypca1zgs4smgippwfkslrbjiv3rz42ayvmfzjckgl7lbna0i",
     "version": "2.0.3"
   },
+  "imghaste-el": {
+    "path": "imghaste/1.0.0/el",
+    "rev": "354169",
+    "sha256": "0ifgm8nm6a3z9gnkkjv1pq4yyfrq0g7hppaqxmwhgznw23i6201s",
+    "version": "1.0.0"
+  },
   "immonex-kickstart-de_DE": {
     "path": "immonex-kickstart/1.0.3/de_DE",
     "rev": "310746",
@@ -48228,16 +48324,16 @@
     "version": "1.3.0"
   },
   "insta-gallery-es_ES": {
-    "path": "insta-gallery/2.8.0/es_ES",
-    "rev": "353793",
-    "sha256": "0yvvzlgxpmkh6j8pf00irg9j537bhs266gzrva7hblb39gfffv5p",
-    "version": "2.8.0"
+    "path": "insta-gallery/2.8.1/es_ES",
+    "rev": "354249",
+    "sha256": "06w9108lxrjv1bcwygvpra89bfq9ichh3pxaw2w3bcjhjf4k6vdw",
+    "version": "2.8.1"
   },
   "insta-gallery-fr_FR": {
-    "path": "insta-gallery/2.8.0/fr_FR",
-    "rev": "353563",
-    "sha256": "147vkbc7ii7ahqz8x8c4mhldpbxhmhk8zzsvckbq3ik7znp2r5rp",
-    "version": "2.8.0"
+    "path": "insta-gallery/2.8.1/fr_FR",
+    "rev": "354248",
+    "sha256": "1nqh5ffn1bp97iipi7rg487hvmk9b9r90zz1769p82c13php93ys",
+    "version": "2.8.1"
   },
   "instagram-feed-de_DE": {
     "path": "instagram-feed/2.4.3/de_DE",
@@ -48582,16 +48678,16 @@
     "version": "1.2.3"
   },
   "invisible-recaptcha-en_GB": {
-    "path": "invisible-recaptcha/1.2.1/en_GB",
-    "rev": "140593",
-    "sha256": "1bi3j0jn6asm1hbwsq4fd2vmnv0mdjs7p6hsflk684fyxxxnzws3",
-    "version": "1.2.1"
+    "path": "invisible-recaptcha/1.2.3/en_GB",
+    "rev": "354311",
+    "sha256": "1xv9gnsyf9djpflfisjdkfb0fpbqfg3q7icvkwh7f95shj6clv2x",
+    "version": "1.2.3"
   },
   "invisible-recaptcha-nl_NL": {
-    "path": "invisible-recaptcha/1.2.1/nl_NL",
-    "rev": "140592",
-    "sha256": "1p3inbdw7jw220r6vlnsx8vq8gar759ra95yi7w89qmxyn77jd47",
-    "version": "1.2.1"
+    "path": "invisible-recaptcha/1.2.3/nl_NL",
+    "rev": "354310",
+    "sha256": "1d88zxyf0qj3xrbkb64qz1djdqmabai1pmnbxqibyry2f4p0rd4w",
+    "version": "1.2.3"
   },
   "invisible-recaptcha-pt_PT": {
     "path": "invisible-recaptcha/1.2.3/pt_PT",
@@ -48930,34 +49026,34 @@
     "version": "2.0.1"
   },
   "jackmail-newsletters-es_ES": {
-    "path": "jackmail-newsletters/1.2.7/es_ES",
-    "rev": "352192",
-    "sha256": "11kyfrinvkqsihf49kx649xvd1zlgw8bqp4j29ydbi5lj3bcjax2",
-    "version": "1.2.7"
+    "path": "jackmail-newsletters/1.2.9/es_ES",
+    "rev": "354175",
+    "sha256": "08scpvckwabkqlv0kk23njm052plk4kz846sx01cglx9agmalsr6",
+    "version": "1.2.9"
   },
   "jackmail-newsletters-fr_FR": {
-    "path": "jackmail-newsletters/1.2.7/fr_FR",
-    "rev": "352190",
-    "sha256": "1zlw4aykay27ifbaq34zhy4zj8b26bv8yhiqgsiavnzba9vs9xlz",
-    "version": "1.2.7"
+    "path": "jackmail-newsletters/1.2.9/fr_FR",
+    "rev": "354173",
+    "sha256": "0h2c817mnd1c4ql999p9a10lvbyhdqrzc4za0rigfi468rj6i22g",
+    "version": "1.2.9"
   },
   "jackmail-newsletters-it_IT": {
-    "path": "jackmail-newsletters/1.2.7/it_IT",
-    "rev": "352191",
-    "sha256": "1aizm1szy1swjf5rv57ncaf2iaag8g3fid12gpfhf87fdndjkz89",
-    "version": "1.2.7"
+    "path": "jackmail-newsletters/1.2.9/it_IT",
+    "rev": "354174",
+    "sha256": "1m139fb89yjb06wpnwfhn5rc4x51sss9gfwqw1laimk60i8alb8j",
+    "version": "1.2.9"
   },
   "jackmail-newsletters-nl_NL": {
-    "path": "jackmail-newsletters/1.2.7/nl_NL",
-    "rev": "352189",
-    "sha256": "1bm7rbrdwf104amgawbp3sf71nr2mzndgsl60n6rwg7337rj0n5p",
-    "version": "1.2.7"
+    "path": "jackmail-newsletters/1.2.9/nl_NL",
+    "rev": "354172",
+    "sha256": "00grvp4cmg4fsdqla6pvgdbib6b4jrazfiy8pmw8qzvvnc0gs3bv",
+    "version": "1.2.9"
   },
   "jackmail-newsletters-sq": {
-    "path": "jackmail-newsletters/1.2.7/sq",
-    "rev": "352188",
-    "sha256": "11ldyalg1rf8rci6bndqh97fsvazy0kcxjraphdgnxr4x1sa2kcc",
-    "version": "1.2.7"
+    "path": "jackmail-newsletters/1.2.9/sq",
+    "rev": "354171",
+    "sha256": "1qwpb4x10rg28hfh6rffh02f88dv4ibq0pbljbaf23fcchir5x63",
+    "version": "1.2.9"
   },
   "jackshare-el": {
     "path": "jackshare/1.4.1/el",
@@ -49255,8 +49351,8 @@
   },
   "jetpack-sk_SK": {
     "path": "jetpack/8.6.1/sk_SK",
-    "rev": "349691",
-    "sha256": "1ww7kbz43yfgls0cpbplap7ny84g1lskqwp3ixp7865da4cmnccc",
+    "rev": "354337",
+    "sha256": "0gp9a05zcl1ng52nzg907cilng2wdhiw3kcsj9yyj5pj0zj1yzlf",
     "version": "8.6.1"
   },
   "jetpack-sq": {
@@ -49578,16 +49674,16 @@
     "version": "0.7.25"
   },
   "job-postings-de_DE": {
-    "path": "job-postings/2.4.4/de_DE",
-    "rev": "351902",
-    "sha256": "0c3a1gjsf6s77vz13bfnc4d4a5zf5vp94hh0i27kgqqs5c5nnfl8",
-    "version": "2.4.4"
+    "path": "job-postings/2.4.5/de_DE",
+    "rev": "354531",
+    "sha256": "05zp4v80990nyg358irnmfv9dg3jd52qpyypvsvi0xfb4pavlmyp",
+    "version": "2.4.5"
   },
   "job-postings-fr_FR": {
-    "path": "job-postings/2.4.4/fr_FR",
-    "rev": "351901",
-    "sha256": "0m9hiw5fmf3x63kfbrfhyybhwy8azyr88i80b9qlg8vr2mbn0ysn",
-    "version": "2.4.4"
+    "path": "job-postings/2.4.5/fr_FR",
+    "rev": "354530",
+    "sha256": "1dqahkb36ikyi0y8r7w13g8maz529aqjy86fjybfc4i3l6xw77qc",
+    "version": "2.4.5"
   },
   "jobsearch-ja": {
     "path": "jobsearch/1.4.1/ja",
@@ -50418,10 +50514,10 @@
     "version": "1.0.0"
   },
   "kintone-form-ja": {
-    "path": "kintone-form/2.11.0/ja",
-    "rev": "324814",
-    "sha256": "0s2wag16dwysg2rmhq5hzia65fjfj45fp6f40kz35s20jyg2wazz",
-    "version": "2.11.0"
+    "path": "kintone-form/2.14.3/ja",
+    "rev": "354220",
+    "sha256": "0akdsq6f200yrbqkfsyz9q9qp1b4g16jkbhhwil1bhyq5904mdj0",
+    "version": "2.14.3"
   },
   "kirki-cs_CZ": {
     "path": "kirki/3.1.3/cs_CZ",
@@ -50917,14 +51013,14 @@
   },
   "kt-tinymce-color-grid-de_DE": {
     "path": "kt-tinymce-color-grid/1.14.7/de_DE",
-    "rev": "322468",
-    "sha256": "0ijmzf4d97c8jvcwhizyksl5li4y0zp94583j64v8k0wn04dqf4i",
+    "rev": "354499",
+    "sha256": "100cpnpa6d56chk5sxp561hfjk1kkhbadsakf4kyggd3hca9gvqh",
     "version": "1.14.7"
   },
   "kt-tinymce-color-grid-de_DE_formal": {
     "path": "kt-tinymce-color-grid/1.14.7/de_DE_formal",
-    "rev": "322469",
-    "sha256": "0dz7syax1lpcl906r1cqwfjlqpvnaik7iip8qdfaigzpccpam1nf",
+    "rev": "354500",
+    "sha256": "1wzh5a8gc58q6mn6d52cafn847i6fvdgln14rnj4laxi1h0anb78",
     "version": "1.14.7"
   },
   "kt-tinymce-color-grid-en_AU": {
@@ -50941,8 +51037,8 @@
   },
   "kt-tinymce-color-grid-en_GB": {
     "path": "kt-tinymce-color-grid/1.14.7/en_GB",
-    "rev": "322466",
-    "sha256": "0fd7wg7anm6k8w49py41jr5ij2xqff9l4zkqhgr9dci9w1r46pp6",
+    "rev": "354498",
+    "sha256": "0lx8b5l2nyv2j5998vinlpc9p3xkw6zkysx0akxjbap6j972jx2k",
     "version": "1.14.7"
   },
   "kt-tinymce-color-grid-en_NZ": {
@@ -52345,8 +52441,8 @@
   },
   "license-manager-for-woocommerce-de_DE": {
     "path": "license-manager-for-woocommerce/2.2.0/de_DE",
-    "rev": "314326",
-    "sha256": "0adjy61dwp9pnnk2r5q9ygj8piqnzbnh2z0c978pk5rppn8bn3c0",
+    "rev": "354264",
+    "sha256": "0qp3cp7lbn718cjiallbwbvv3mvq62fjs6h0y35wd6pj1iyd1v5h",
     "version": "2.2.0"
   },
   "license-manager-for-woocommerce-de_DE_formal": {
@@ -52375,8 +52471,8 @@
   },
   "license-manager-for-woocommerce-hr": {
     "path": "license-manager-for-woocommerce/2.2.0/hr",
-    "rev": "314323",
-    "sha256": "1h6ply7am4kcbd6gfpfivsaq9kx1qhww1xwq5z9sx4grl9s0rsc5",
+    "rev": "354263",
+    "sha256": "1pbdi6s7ai25yy1vzkgamsrah8va8w4yc28il5vv64c8hp5cm1cy",
     "version": "2.2.0"
   },
   "license-manager-for-woocommerce-nb_NO": {
@@ -52398,58 +52494,58 @@
     "version": "2.2.0"
   },
   "lifterlms-ar": {
-    "path": "lifterlms/3.40.0/ar",
-    "rev": "351872",
-    "sha256": "17m5a474r4n0nfdfwdqghg7vd7x93js1c1jb533vvih5156xl5ba",
-    "version": "3.40.0"
+    "path": "lifterlms/3.41.0/ar",
+    "rev": "354565",
+    "sha256": "0cjflf1lc1bd2jlnmx7n4w5wp0lf4fza3bc0ad12mwzdz1grpq9z",
+    "version": "3.41.0"
   },
   "lifterlms-de_DE": {
-    "path": "lifterlms/3.40.0/de_DE",
-    "rev": "351879",
-    "sha256": "15wj06azpd6zzg0wg0qk8w1wyj6xpg5yhibjbm6vmn0xmh8a6m6c",
-    "version": "3.40.0"
+    "path": "lifterlms/3.41.0/de_DE",
+    "rev": "354572",
+    "sha256": "00cmk64idqwiwi32dlw0fvwrvmi9wsm73dwg46hxk6y9g7qp6i80",
+    "version": "3.41.0"
   },
   "lifterlms-en_AU": {
-    "path": "lifterlms/3.40.0/en_AU",
-    "rev": "351875",
-    "sha256": "1dp9a1329ypsgmzm7k9kwmnhvl31dhj2hkkr7br2nvhmm00s8j3v",
-    "version": "3.40.0"
+    "path": "lifterlms/3.41.0/en_AU",
+    "rev": "354568",
+    "sha256": "07n5qiwbiqkq955052aw92syh2ha2pgdv425ywhv1qm87fnn0kg2",
+    "version": "3.41.0"
   },
   "lifterlms-en_CA": {
-    "path": "lifterlms/3.40.0/en_CA",
-    "rev": "351876",
-    "sha256": "1w36wq1abyhazrhzk4h77zia16m1nf27avg2593mr3l43nv8h94g",
-    "version": "3.40.0"
+    "path": "lifterlms/3.41.0/en_CA",
+    "rev": "354569",
+    "sha256": "03fr5zvl5zrrma6izvb923wdlba51ls5viwds64gq3rvjim8wsvj",
+    "version": "3.41.0"
   },
   "lifterlms-en_NZ": {
-    "path": "lifterlms/3.40.0/en_NZ",
-    "rev": "351877",
-    "sha256": "1ih54l1cr6j90vf32asdpdlw7jzaaw4s32xrl66ggfmrxxagyn7c",
-    "version": "3.40.0"
+    "path": "lifterlms/3.41.0/en_NZ",
+    "rev": "354570",
+    "sha256": "126536w2xhx10q33frd5za674l9vhdp7msf9jxrvfri5kfzdi9lq",
+    "version": "3.41.0"
   },
   "lifterlms-es_AR": {
-    "path": "lifterlms/3.40.0/es_AR",
-    "rev": "351889",
-    "sha256": "01dl92ng3mqqaisgb6lcl9myx18krfybn3krf27maglzp96b2818",
-    "version": "3.40.0"
+    "path": "lifterlms/3.41.0/es_AR",
+    "rev": "354582",
+    "sha256": "0v9hlhv70g9ni2da0dlpklnjr7k5g8bai5l9yixcs9yf2irp4b63",
+    "version": "3.41.0"
   },
   "lifterlms-es_ES": {
-    "path": "lifterlms/3.40.0/es_ES",
-    "rev": "351890",
-    "sha256": "08ngmd82zv3niijkqp0zpd8y1iic4ajs0myzdlfc3c3hn1f910db",
-    "version": "3.40.0"
+    "path": "lifterlms/3.41.0/es_ES",
+    "rev": "354583",
+    "sha256": "15mz38cdyrpb0fnpnb20477vg8kswn22pf2b5nwyfamqsyphdky4",
+    "version": "3.41.0"
   },
   "lifterlms-fi": {
-    "path": "lifterlms/3.40.0/fi",
-    "rev": "351878",
-    "sha256": "1ijl5rxppdfsalj11kq0rg372nhjqwk8924950fsh82580vkmmq1",
-    "version": "3.40.0"
+    "path": "lifterlms/3.41.0/fi",
+    "rev": "354571",
+    "sha256": "03l55symxb1bhvnar34j2mwzk5mn7r7kw7h5l39g8j3sqj0b7r7g",
+    "version": "3.41.0"
   },
   "lifterlms-it_IT": {
-    "path": "lifterlms/3.40.0/it_IT",
-    "rev": "353106",
-    "sha256": "0g2814nqlkikhd0dyizhglx7c4r1676vnkngrrdybb6wazivhdbs",
-    "version": "3.40.0"
+    "path": "lifterlms/3.41.0/it_IT",
+    "rev": "354573",
+    "sha256": "1vdhlzp27mby3dn8na5mbgwb1mhqd5h1xz5mh2x1dk6nc6jjsp92",
+    "version": "3.41.0"
   },
   "lifterlms-labs-sk_SK": {
     "path": "lifterlms-labs/1.5.3/sk_SK",
@@ -52458,64 +52554,64 @@
     "version": "1.5.3"
   },
   "lifterlms-nb_NO": {
-    "path": "lifterlms/3.40.0/nb_NO",
-    "rev": "351881",
-    "sha256": "18hy4k2c3zdr9rp55i6h1m6v6blyy2q7iba4fd0xx98q8xmhypd5",
-    "version": "3.40.0"
+    "path": "lifterlms/3.41.0/nb_NO",
+    "rev": "354574",
+    "sha256": "0f89rvpb56av12wf38lh1ld740jd43kmr5bwr3wnvbacxdb9a6iq",
+    "version": "3.41.0"
   },
   "lifterlms-nl_NL": {
-    "path": "lifterlms/3.40.0/nl_NL",
-    "rev": "351874",
-    "sha256": "0p8kk7zvvm59yqq7gaq51zxds4ysbw9hkmyph8cbmfngfaarl88k",
-    "version": "3.40.0"
+    "path": "lifterlms/3.41.0/nl_NL",
+    "rev": "354567",
+    "sha256": "1nz5kyrghx006ypmm4vckgzwpgdjdq453vbbgjayjrlbn771y1cf",
+    "version": "3.41.0"
   },
   "lifterlms-pl_PL": {
-    "path": "lifterlms/3.40.0/pl_PL",
-    "rev": "351882",
-    "sha256": "1bp5g6c38163r54bldpkp9gpd62d29cw93lrj0jnh4jmi263fpfs",
-    "version": "3.40.0"
+    "path": "lifterlms/3.41.0/pl_PL",
+    "rev": "354575",
+    "sha256": "0sqjv1rqg69x8lpszdpppjkcmp9rzigbg9pdxiz0l92c5673qp74",
+    "version": "3.41.0"
   },
   "lifterlms-pt_BR": {
-    "path": "lifterlms/3.40.0/pt_BR",
-    "rev": "351883",
-    "sha256": "1l13ig95ws0k2h9jjqgg4z6blnqqis151hrskdc2g1xmic971160",
-    "version": "3.40.0"
+    "path": "lifterlms/3.41.0/pt_BR",
+    "rev": "354576",
+    "sha256": "06y2sam4imkcpn6i1ajsx2mpdcy8xvq3qnrad9vpaa8c9qrfvi9z",
+    "version": "3.41.0"
   },
   "lifterlms-pt_PT": {
-    "path": "lifterlms/3.40.0/pt_PT",
-    "rev": "351884",
-    "sha256": "1ijkick5qn6j09gn9sssqxn8gw5gfzwj1qha00kpvqprlxh468xd",
-    "version": "3.40.0"
+    "path": "lifterlms/3.41.0/pt_PT",
+    "rev": "354577",
+    "sha256": "1p1n53x1r7fpa6zq1isv33qflsksr9lb6d2s884qi1sgxvq0yz4b",
+    "version": "3.41.0"
   },
   "lifterlms-pt_PT_ao90": {
-    "path": "lifterlms/3.40.0/pt_PT_ao90",
-    "rev": "351885",
-    "sha256": "0yp5421l18fchbx2l59lzvpfdd5m71qdngasv1yzj2mcj7sswv4p",
-    "version": "3.40.0"
+    "path": "lifterlms/3.41.0/pt_PT_ao90",
+    "rev": "354578",
+    "sha256": "0yhrm4hv4r35l1dq6xvmqc4dk97mwqjdjdk04kwwf22j886frbp0",
+    "version": "3.41.0"
   },
   "lifterlms-ro_RO": {
-    "path": "lifterlms/3.40.0/ro_RO",
-    "rev": "351886",
-    "sha256": "033qqrpxa23hn9wbwpaj8r4n6fk159d631r5mlc22asm3hyf5gky",
-    "version": "3.40.0"
+    "path": "lifterlms/3.41.0/ro_RO",
+    "rev": "354579",
+    "sha256": "0c7ddjfkwfbr667i1njlf2bc13qjv43dhf0kxv89zrk5d2iib2nh",
+    "version": "3.41.0"
   },
   "lifterlms-ru_RU": {
-    "path": "lifterlms/3.40.0/ru_RU",
-    "rev": "351887",
-    "sha256": "0s183gb3rw638vzab8i4srmh51403vxj7v0n18v8w0qcg5ga2ajs",
-    "version": "3.40.0"
+    "path": "lifterlms/3.41.0/ru_RU",
+    "rev": "354580",
+    "sha256": "07nq5vb4wk4454idn8lgsg4af6b7y4z69h0yqxmmpqiv20dz1npd",
+    "version": "3.41.0"
   },
   "lifterlms-sk_SK": {
-    "path": "lifterlms/3.40.0/sk_SK",
-    "rev": "352345",
-    "sha256": "1zwm7v9n554rljbff3z2rgdrny9kvvf4zrhq27y3b9ak70bj1ga4",
-    "version": "3.40.0"
+    "path": "lifterlms/3.41.0/sk_SK",
+    "rev": "354581",
+    "sha256": "19gqky4hqw86lp2i4qpzjv3w98lw79gpdkjy7y1y030n8ms198jp",
+    "version": "3.41.0"
   },
   "lifterlms-zh_TW": {
-    "path": "lifterlms/3.40.0/zh_TW",
-    "rev": "351873",
-    "sha256": "0cdw4cn6xhqmn7svwcdaq0nwbdfg6nmf3i0w7wpxk9knv5wv2bxf",
-    "version": "3.40.0"
+    "path": "lifterlms/3.41.0/zh_TW",
+    "rev": "354566",
+    "sha256": "1f5q6wzv85p7d0ycicr4qcrz08azh51ccxj0qq18bni0619yqvfw",
+    "version": "3.41.0"
   },
   "light-admin-theme-cs_CZ": {
     "path": "light-admin-theme/0.3/cs_CZ",
@@ -53185,8 +53281,8 @@
   },
   "list-category-posts-nl_NL": {
     "path": "list-category-posts/0.82/nl_NL",
-    "rev": "353526",
-    "sha256": "13l34kiaql4mhpb2gx1s6dv906a5f7wry60gycf0x4gdlh47x0s2",
+    "rev": "354308",
+    "sha256": "0q5xbfp2qh9y3h3xdzanfkhnr3sxvyz4y1wwfyaj3505m835qwk3",
     "version": "0.82"
   },
   "list-category-posts-pt_PT": {
@@ -53359,8 +53455,8 @@
   },
   "litespeed-cache-es_ES": {
     "path": "litespeed-cache/3.2.2/es_ES",
-    "rev": "353701",
-    "sha256": "0yyfy6h50rp27mqqkmlvl7idxqx87lqrgxy2v3g0gxz8niab5vh9",
+    "rev": "354541",
+    "sha256": "1zlb8np1dqipp34f6a945697iszx3dj2616sa7sinp2dyhil1njy",
     "version": "3.2.2"
   },
   "litespeed-cache-es_MX": {
@@ -54013,8 +54109,8 @@
   },
   "loco-translate-sk_SK": {
     "path": "loco-translate/2.4.0/sk_SK",
-    "rev": "343071",
-    "sha256": "05f89b723v3i8vgbmcxzjlymmznbzh5yrfllsfjvbjp4rzdb4q5d",
+    "rev": "354328",
+    "sha256": "10pkkxywbmsrj3vipc71lbn31xrf7mgf22r35j1lvf93zsyhisqq",
     "version": "2.4.0"
   },
   "loco-translate-sv_SE": {
@@ -57829,8 +57925,8 @@
   },
   "mesmerize-companion-es_ES": {
     "path": "mesmerize-companion/1.6.111/es_ES",
-    "rev": "314199",
-    "sha256": "1ba80nac2xcg8pl3vxlxbjyypyz4b830ih954d8fm160pg8jmwp1",
+    "rev": "354564",
+    "sha256": "1jyh1lnpf13j31fili8xldp80ln7351d9nbs7jkci2gafrcl6y2b",
     "version": "1.6.111"
   },
   "mesmerize-companion-nl_NL": {
@@ -58296,10 +58392,10 @@
     "version": "1.2"
   },
   "mihdan-elementor-yandex-maps-ru_RU": {
-    "path": "mihdan-elementor-yandex-maps/1.3.6/ru_RU",
-    "rev": "344106",
-    "sha256": "0wrv9d2d0wn76afg4h41qwznchjpdsbq6frdmpdd3xg4n9pw5ynl",
-    "version": "1.3.6"
+    "path": "mihdan-elementor-yandex-maps/1.4.0/ru_RU",
+    "rev": "354312",
+    "sha256": "16algvpvq3dzqz45yhf4cxyyxby8rnzcbg43xnjb6ffcbiqmkm4n",
+    "version": "1.4.0"
   },
   "mihdan-mailru-pulse-feed-ru_RU": {
     "path": "mihdan-mailru-pulse-feed/0.3.4/ru_RU",
@@ -58895,6 +58991,12 @@
     "sha256": "1x2rzx1d05lw9w2fbn4vf5s9ifyhrmg2pqgjzlmvw3n5h49zs45p",
     "version": "1.6.2"
   },
+  "mortgage-calculator-es_ES": {
+    "path": "mortgage-calculator/1.1.2/es_ES",
+    "rev": "354482",
+    "sha256": "11ca6h74v7cy9k86vhi039v51nlqsnpb2habjyh79c2fb20q73v2",
+    "version": "1.1.2"
+  },
   "most-read-posts-in-xx-days-it_IT": {
     "path": "most-read-posts-in-xx-days/2.7.1/it_IT",
     "rev": "246054",
@@ -59484,16 +59586,16 @@
     "version": "1.5.6"
   },
   "multibanco-ifthen-software-gateway-for-woocommerce-pt_PT": {
-    "path": "multibanco-ifthen-software-gateway-for-woocommerce/4.2.2/pt_PT",
-    "rev": "351202",
-    "sha256": "0mlab7m2l4cgmx2y3yg9fml1g8lxd2pnlrp83f5vcrvd04i44qwc",
-    "version": "4.2.2"
+    "path": "multibanco-ifthen-software-gateway-for-woocommerce/4.2.3/pt_PT",
+    "rev": "354334",
+    "sha256": "1zl22xvrlz7r83vj33m3aafa4nzmin4k3mi1vcq4lay67ff8h0rn",
+    "version": "4.2.3"
   },
   "multibanco-ifthen-software-gateway-for-woocommerce-pt_PT_ao90": {
-    "path": "multibanco-ifthen-software-gateway-for-woocommerce/4.2.2/pt_PT_ao90",
-    "rev": "351203",
-    "sha256": "1yf8jnzsz1314j3jnnlbh81k57xzlf4a7sx6rzjvjs3win7szs6l",
-    "version": "4.2.2"
+    "path": "multibanco-ifthen-software-gateway-for-woocommerce/4.2.3/pt_PT_ao90",
+    "rev": "354335",
+    "sha256": "19agdwnph97w90j9clb95wy776gcxggxrbdc4jybaxdva5dakih9",
+    "version": "4.2.3"
   },
   "multicolumn-category-widget-ru_RU": {
     "path": "multicolumn-category-widget/1.0.18/ru_RU",
@@ -62983,14 +63085,14 @@
   },
   "olympus-google-fonts-es_MX": {
     "path": "olympus-google-fonts/2.0.5/es_MX",
-    "rev": "344487",
-    "sha256": "1xd20as6isyih5k5gbqvq0s60cighir68cjg9qlgv891sghf6933",
+    "rev": "353980",
+    "sha256": "0azxba7hjq12iyjf2sikwmjh7kxg2jkggzk84z2vlqjglnzp1qkz",
     "version": "2.0.5"
   },
   "olympus-google-fonts-es_VE": {
     "path": "olympus-google-fonts/2.0.5/es_VE",
-    "rev": "344489",
-    "sha256": "1xr396d4cjsb7dmrvilnh2mrgfwhw5iiwhjpk6iqjf2x0y6c8d4i",
+    "rev": "353971",
+    "sha256": "0h7cv1vy82az0pwv7x9a849ws886qi591bbz7j78pc3d42qwkkwi",
     "version": "2.0.5"
   },
   "olympus-google-fonts-fa_IR": {
@@ -63631,15 +63733,15 @@
   },
   "options-for-twenty-seventeen-zh_TW": {
     "path": "options-for-twenty-seventeen/2.2.4/zh_TW",
-    "rev": "349748",
-    "sha256": "0h15m4qr7p5m830jljyrz8hi1dnfsz2nnmpp5q4anaz1071z1nj8",
+    "rev": "354108",
+    "sha256": "0r4fk25im6jmvvcaxgynrpyf2r8s5db0vdyh6lcr2l7a2kwwsfvb",
     "version": "2.2.4"
   },
   "options-for-twenty-twenty-zh_TW": {
-    "path": "options-for-twenty-twenty/1.3.2/zh_TW",
-    "rev": "349656",
-    "sha256": "1n16cz58kcw5k12hm8wrwbq11inp9nq5lgkxby0084a2yzlfwlxg",
-    "version": "1.3.2"
+    "path": "options-for-twenty-twenty/1.3.3/zh_TW",
+    "rev": "354605",
+    "sha256": "1y9103vm5zxd2q07yjk39dfqv0xqnxp8ihg0rzbfwlfm15kkjdbp",
+    "version": "1.3.3"
   },
   "options-framework-it_IT": {
     "path": "options-framework/1.8.5/it_IT",
@@ -65887,8 +65989,8 @@
   },
   "perfect-woocommerce-brands-tr_TR": {
     "path": "perfect-woocommerce-brands/1.8.3/tr_TR",
-    "rev": "313777",
-    "sha256": "1qjvbx5j1l2iawmqdw62243fhs7p7g6gly6g1wgbafwqhcqpfq5i",
+    "rev": "354230",
+    "sha256": "0my0asxps3czlch7c96rqgcs2kx77zj4hpazhfdqsxc1di4v9v5c",
     "version": "1.8.3"
   },
   "perfectdashboard-en_GB": {
@@ -69761,6 +69863,12 @@
     "sha256": "144i0wbkim6z613ip340l2cadvjik08nx395f3jw5145k457vw7m",
     "version": "1.1.2"
   },
+  "posts-and-users-stats-de_AT": {
+    "path": "posts-and-users-stats/1.1.2/de_AT",
+    "rev": "354342",
+    "sha256": "179p9a6s02l41s6hn3k1lfbrsh5kz1yi5aj0vbaiq6w879przz24",
+    "version": "1.1.2"
+  },
   "posts-and-users-stats-de_CH": {
     "path": "posts-and-users-stats/1.1.2/de_CH",
     "rev": "229095",
@@ -72618,16 +72726,16 @@
     "version": "1.0.0"
   },
   "qubely-bn_BD": {
-    "path": "qubely/1.4.0/bn_BD",
-    "rev": "341825",
-    "sha256": "0pd0r7gh8dcwz4ws334rxhvpayci6975fkrk382gda81la5gp7xp",
-    "version": "1.4.0"
+    "path": "qubely/1.4.1/bn_BD",
+    "rev": "354211",
+    "sha256": "1b1mr1h400i9hv9dqr4yijb3mrcdlb62jhrxfj0vgp2hc60prmh9",
+    "version": "1.4.1"
   },
   "qubely-fr_FR": {
-    "path": "qubely/1.4.0/fr_FR",
-    "rev": "341826",
-    "sha256": "0ggj0xk1d1q0rs2sw7nr1vgr3bbqp086bbbb9i96s3m0bzkvgc3w",
-    "version": "1.4.0"
+    "path": "qubely/1.4.1/fr_FR",
+    "rev": "354212",
+    "sha256": "1qa26xk79lwn5bnh6mi3anvj20xn54sjwpil6x68mbbqdhir9p7m",
+    "version": "1.4.1"
   },
   "quenso-asgaros-forum-frontend-utilities-de_DE": {
     "path": "quenso-asgaros-forum-frontend-utilities/1.1.1/de_DE",
@@ -72745,8 +72853,8 @@
   },
   "query-monitor-sv_SE": {
     "path": "query-monitor/3.6.0/sv_SE",
-    "rev": "353832",
-    "sha256": "0kjy2hh833q3zbxvx862xr1csk039zd0wfvbsls2q4k2ny1g1zxg",
+    "rev": "354219",
+    "sha256": "159kc126dxjf5rn3kr24j42lcv6gn3kvz3hmc276xzqmlj0z9zsw",
     "version": "3.6.0"
   },
   "question-answer-faq-es_ES": {
@@ -73746,52 +73854,52 @@
     "version": "6.3"
   },
   "real-media-library-lite-de_DE": {
-    "path": "real-media-library-lite/4.8.4/de_DE",
-    "rev": "344321",
-    "sha256": "164ynm7g6jy1pa9b3iiy69q5jrf2c0azjq357qm2v83ix6984fij",
-    "version": "4.8.4"
+    "path": "real-media-library-lite/4.8.5/de_DE",
+    "rev": "354254",
+    "sha256": "19v43pi29ss16d4nwl5dd8fmakp4wss4i3709jz35nk41nzmgcpa",
+    "version": "4.8.5"
   },
   "real-media-library-lite-es_ES": {
-    "path": "real-media-library-lite/4.8.4/es_ES",
-    "rev": "344324",
-    "sha256": "147j6hyprd3b0p268i520ryc4ann6yrxk5r7yp8hjwzdh80xjg4k",
-    "version": "4.8.4"
+    "path": "real-media-library-lite/4.8.5/es_ES",
+    "rev": "354257",
+    "sha256": "1s8q33d7iqbnrwmc0y5h80kzizrx14dclrpx02j20gfgn05qjlkz",
+    "version": "4.8.5"
   },
   "real-media-library-lite-fr_FR": {
-    "path": "real-media-library-lite/4.8.4/fr_FR",
-    "rev": "344320",
-    "sha256": "1g19zhdkhrf7nvhhwc6vl4skg41vs9zm187faw2w6h8813z2qfvm",
-    "version": "4.8.4"
+    "path": "real-media-library-lite/4.8.5/fr_FR",
+    "rev": "354253",
+    "sha256": "0flhlmdlyxl6ilbcx52wlhlrgmcqdz63hzrzsg3mhd857y6inj38",
+    "version": "4.8.5"
   },
   "real-media-library-lite-hi_IN": {
-    "path": "real-media-library-lite/4.8.4/hi_IN",
-    "rev": "344322",
-    "sha256": "0dbbkdhaisirwy25v437fs0ad25hl2m0bvvvas68d8909w5jk0zf",
-    "version": "4.8.4"
+    "path": "real-media-library-lite/4.8.5/hi_IN",
+    "rev": "354255",
+    "sha256": "1mbhfqw6acfn5w9gs418f9kbbq0cp1pgbyhir52db9sqlq1k2cfs",
+    "version": "4.8.5"
   },
   "real-media-library-lite-nl_NL": {
-    "path": "real-media-library-lite/4.8.4/nl_NL",
-    "rev": "344319",
-    "sha256": "1mzqyxpb0wlrsqj2xpzznl8y5wlf3ih0llpcjcd0fk1nzrkcmyv5",
-    "version": "4.8.4"
+    "path": "real-media-library-lite/4.8.5/nl_NL",
+    "rev": "354252",
+    "sha256": "0p19d5skw0bxlrdalaagawiscyblcn7jlap1hv970nzhn12h49rj",
+    "version": "4.8.5"
   },
   "real-media-library-lite-ru_RU": {
-    "path": "real-media-library-lite/4.8.4/ru_RU",
-    "rev": "344323",
-    "sha256": "088k9akwdr643fzsmgsylmgzsswaxivdqs29vxpivk4vfbrl8fmj",
-    "version": "4.8.4"
+    "path": "real-media-library-lite/4.8.5/ru_RU",
+    "rev": "354256",
+    "sha256": "1rf9njii97dmcy7hn3iylzzvc9mxzr0m8kxn3iy7cn12rm9kr6k1",
+    "version": "4.8.5"
   },
   "real-media-library-lite-sv_SE": {
-    "path": "real-media-library-lite/4.8.4/sv_SE",
-    "rev": "344325",
-    "sha256": "1dh6jn6yhdshfsgx0dwy37bdgay8nv0sap1hrp08y4qw761nl15v",
-    "version": "4.8.4"
+    "path": "real-media-library-lite/4.8.5/sv_SE",
+    "rev": "354258",
+    "sha256": "003h8ipi25lfk6vy4ydsqdsk5aydmyhv9fxcl0bl6crwjaqfd6z0",
+    "version": "4.8.5"
   },
   "real-media-library-lite-zh_CN": {
-    "path": "real-media-library-lite/4.8.4/zh_CN",
-    "rev": "344318",
-    "sha256": "1f3cjs84rsds322p279rq3yl64rxlp9wd99f18zkzcv8lg4ighpc",
-    "version": "4.8.4"
+    "path": "real-media-library-lite/4.8.5/zh_CN",
+    "rev": "354251",
+    "sha256": "0gqnwrd13v3ncdh4vckv57in38xn9xv4kxcda0lb69w6xxq33a5p",
+    "version": "4.8.5"
   },
   "real-time-title-checker-ja": {
     "path": "real-time-title-checker/1.0.2/ja",
@@ -74263,8 +74371,8 @@
   },
   "really-simple-ssl-zh_CN": {
     "path": "really-simple-ssl/3.3.3/zh_CN",
-    "rev": "342384",
-    "sha256": "1l9cbvvwpsjbzzklf3dx1ayjdvcgmhmdwzyca7wqlhg87sj5f820",
+    "rev": "354218",
+    "sha256": "12fji1dlmygl2wqm91jw07hsjb9dd2n0jcfaz1x6glqm1xvpld6y",
     "version": "3.3.3"
   },
   "really-simple-ssl-zh_HK": {
@@ -74514,22 +74622,22 @@
     "version": "1.2.0"
   },
   "recipe-card-blocks-by-wpzoom-de_DE": {
-    "path": "recipe-card-blocks-by-wpzoom/2.6.4/de_DE",
-    "rev": "342910",
-    "sha256": "00s7s970y1yhgv7x2hi42a2yyznxy0vw7p71jxzs5x572x7k2nj5",
-    "version": "2.6.4"
+    "path": "recipe-card-blocks-by-wpzoom/2.7.1/de_DE",
+    "rev": "354588",
+    "sha256": "1ahd963f1ibpzs611q9j16kl8gks3c2m4g70z0jhfdapvdy56x60",
+    "version": "2.7.1"
   },
   "recipe-card-blocks-by-wpzoom-de_DE_formal": {
-    "path": "recipe-card-blocks-by-wpzoom/2.6.4/de_DE_formal",
-    "rev": "342911",
-    "sha256": "175sy2milhyvnj98921lw0psshadrw3hzjz8mql7m15p9i1m4jjk",
-    "version": "2.6.4"
+    "path": "recipe-card-blocks-by-wpzoom/2.7.1/de_DE_formal",
+    "rev": "354589",
+    "sha256": "1nrxpp6dd5fn8dq1bd0rnpgza960x605n5lh5gjac3133126ivhm",
+    "version": "2.7.1"
   },
   "recipe-card-blocks-by-wpzoom-es_ES": {
-    "path": "recipe-card-blocks-by-wpzoom/2.6.4/es_ES",
-    "rev": "342912",
-    "sha256": "14jp98612b0nd8zls61kn1jprjzxbfnfzi8ls18xiq346s7zpypg",
-    "version": "2.6.4"
+    "path": "recipe-card-blocks-by-wpzoom/2.7.1/es_ES",
+    "rev": "354590",
+    "sha256": "0xzahqazqz49zxj30cdirkr192pz0yjjmdd2s8llpk6r4y5mi4m6",
+    "version": "2.7.1"
   },
   "recipe-card-cs_CZ": {
     "path": "recipe-card/1.1.7/cs_CZ",
@@ -75983,6 +76091,12 @@
     "sha256": "0lnh5q86bg4b5pc3ar2r97jzfwn4b5imcy4s7sbg7yxfa35x9gay",
     "version": "3.1.29"
   },
+  "responsive-menu-en_GB": {
+    "path": "responsive-menu/3.1.29/en_GB",
+    "rev": "354372",
+    "sha256": "1chrhvirkg1nsshin65n70j1sv9n2v5izdvf09yhs1hrwg1acbd4",
+    "version": "3.1.29"
+  },
   "responsive-menu-es_ES": {
     "path": "responsive-menu/3.1.29/es_ES",
     "rev": "334114",
@@ -77047,8 +77161,8 @@
   },
   "rocket-lazy-load-nl_NL": {
     "path": "rocket-lazy-load/2.3.3/nl_NL",
-    "rev": "337001",
-    "sha256": "0hv145c5n5gp71i6hd84bcpl0yc2rwp10v5bgy3d7a5g2ybkrxld",
+    "rev": "354286",
+    "sha256": "0qs58bayyvd8pqfmyhjh7k2w7c9mgar8dm2ax808p1a43jw0znra",
     "version": "2.3.3"
   },
   "rocket-lazy-load-nl_NL_formal": {
@@ -78732,94 +78846,94 @@
     "version": "3.6.12"
   },
   "seo-by-rank-math-de_AT": {
-    "path": "seo-by-rank-math/1.0.43.1/de_AT",
-    "rev": "345942",
+    "path": "seo-by-rank-math/1.0.44/de_AT",
+    "rev": "354049",
     "sha256": "0l2n3y7v7d7v23zzm340s0kdxqbr4drfxzdj9sjhk3axiwnf0ysd",
-    "version": "1.0.43.1"
+    "version": "1.0.44"
   },
   "seo-by-rank-math-de_CH": {
-    "path": "seo-by-rank-math/1.0.43.1/de_CH",
-    "rev": "345968",
+    "path": "seo-by-rank-math/1.0.44/de_CH",
+    "rev": "354051",
     "sha256": "1289gyk6p0z01zzx57f9vl27xsi0x5i7ds1c0i718b3cq2w484ys",
-    "version": "1.0.43.1"
+    "version": "1.0.44"
   },
   "seo-by-rank-math-de_CH_informal": {
-    "path": "seo-by-rank-math/1.0.43.1/de_CH_informal",
-    "rev": "345969",
+    "path": "seo-by-rank-math/1.0.44/de_CH_informal",
+    "rev": "354052",
     "sha256": "0bhng9yzdvx76vc1m6g59ain5dc6mnacardd32xwk4na206xqwcs",
-    "version": "1.0.43.1"
+    "version": "1.0.44"
   },
   "seo-by-rank-math-de_DE": {
-    "path": "seo-by-rank-math/1.0.43.1/de_DE",
-    "rev": "345941",
-    "sha256": "026b9p23swy0sxpqg7if3ycqnvnijs7djyl9nbfd7lb1028yy2gw",
-    "version": "1.0.43.1"
+    "path": "seo-by-rank-math/1.0.44/de_DE",
+    "rev": "354048",
+    "sha256": "0q6ghi1i08kmhn756w214503dcfswbfry124y5838qyncicxfr5l",
+    "version": "1.0.44"
   },
   "seo-by-rank-math-de_DE_formal": {
-    "path": "seo-by-rank-math/1.0.43.1/de_DE_formal",
-    "rev": "345909",
+    "path": "seo-by-rank-math/1.0.44/de_DE_formal",
+    "rev": "354050",
     "sha256": "0agy9c9kjpfq4p6r9vjmfjc6985fqxkafis2vfr1ccn9q47nxgp3",
-    "version": "1.0.43.1"
+    "version": "1.0.44"
   },
   "seo-by-rank-math-en_GB": {
-    "path": "seo-by-rank-math/1.0.43.1/en_GB",
-    "rev": "347620",
-    "sha256": "1j4dw5n78p3s20n13p8fgcy3w7ng9xydpwyjmqbxk6yqb6m2rzgw",
-    "version": "1.0.43.1"
+    "path": "seo-by-rank-math/1.0.44/en_GB",
+    "rev": "354224",
+    "sha256": "00q7k85s2p2plwxrjkg6bzy1815zxaki11a1nriyddf9m68a6r62",
+    "version": "1.0.44"
   },
   "seo-by-rank-math-es_AR": {
-    "path": "seo-by-rank-math/1.0.43.1/es_AR",
-    "rev": "345869",
-    "sha256": "0diwlfyqd1c3f7mbcbh6y7pf04zh9ar2x8ba8vqgc3bl56xdp7pp",
-    "version": "1.0.43.1"
+    "path": "seo-by-rank-math/1.0.44/es_AR",
+    "rev": "354057",
+    "sha256": "076ncyvnc05mkilycpgisqgsfc9pnkmy5in1vy6xjn3mdkc6v80i",
+    "version": "1.0.44"
   },
   "seo-by-rank-math-es_ES": {
-    "path": "seo-by-rank-math/1.0.43.1/es_ES",
-    "rev": "349719",
+    "path": "seo-by-rank-math/1.0.44/es_ES",
+    "rev": "354059",
     "sha256": "01cbw5wprh9sb3vd4ch1d5f8zl764zjf8dbwzbgkb1j8sdh1p3k9",
-    "version": "1.0.43.1"
+    "version": "1.0.44"
   },
   "seo-by-rank-math-es_MX": {
-    "path": "seo-by-rank-math/1.0.43.1/es_MX",
-    "rev": "350294",
+    "path": "seo-by-rank-math/1.0.44/es_MX",
+    "rev": "354058",
     "sha256": "0dl2cnhyvnggjkyfhk9lcn5dzskccqj6k2b4w6rcbx0hl6h37gy0",
-    "version": "1.0.43.1"
+    "version": "1.0.44"
   },
   "seo-by-rank-math-es_VE": {
-    "path": "seo-by-rank-math/1.0.43.1/es_VE",
-    "rev": "347993",
-    "sha256": "0gk75f9pwls8wq8nmsfnj0m3h8m7gjxjx0gh9ana84dii2dqk6h6",
-    "version": "1.0.43.1"
+    "path": "seo-by-rank-math/1.0.44/es_VE",
+    "rev": "354060",
+    "sha256": "1zrlzqvyb5m3gw3d1ncihk3g9fzcq6lvknmly114rhq3n2jp2amx",
+    "version": "1.0.44"
   },
   "seo-by-rank-math-fa_IR": {
-    "path": "seo-by-rank-math/1.0.43.1/fa_IR",
-    "rev": "348655",
-    "sha256": "170rbk3i93qj1qynyviswjg23ax01b3ygyl2gdfyimvca0d00j4c",
-    "version": "1.0.43.1"
+    "path": "seo-by-rank-math/1.0.44/fa_IR",
+    "rev": "354104",
+    "sha256": "0mj07y09c8fh024wzrng36fd36xryszzw1ih9lmld6qhwfxbl2a7",
+    "version": "1.0.44"
   },
   "seo-by-rank-math-fr_FR": {
-    "path": "seo-by-rank-math/1.0.43.1/fr_FR",
-    "rev": "345859",
-    "sha256": "1fc13kd5ixn8d428x5kklljl9ms52y936k92x8zkrz203nbx5jwj",
-    "version": "1.0.43.1"
+    "path": "seo-by-rank-math/1.0.44/fr_FR",
+    "rev": "354047",
+    "sha256": "1f91wrxdcp19ph99gpc6cc7j45cvdm9w54pnx2l8apjpsvvn8sar",
+    "version": "1.0.44"
   },
   "seo-by-rank-math-id_ID": {
-    "path": "seo-by-rank-math/1.0.43.1/id_ID",
-    "rev": "345865",
-    "sha256": "0ma59k4s86xlip74gwq11jz8l0lc6y1j2ks7q1j357afncgx807y",
-    "version": "1.0.43.1"
+    "path": "seo-by-rank-math/1.0.44/id_ID",
+    "rev": "354053",
+    "sha256": "14rd1j53vjxayf477sjda3gb623n81bhx5x4md7a1pljczc2ik66",
+    "version": "1.0.44"
   },
   "seo-by-rank-math-pl_PL": {
-    "path": "seo-by-rank-math/1.0.43.1/pl_PL",
-    "rev": "349774",
+    "path": "seo-by-rank-math/1.0.44/pl_PL",
+    "rev": "354055",
     "sha256": "0n75vlyaw98yw49cimn1bp2dzm9zng92yx83nn7n405h9i5z376d",
-    "version": "1.0.43.1"
+    "version": "1.0.44"
   },
   "seo-by-rank-math-ru_RU": {
-    "path": "seo-by-rank-math/1.0.43.1/ru_RU",
-    "rev": "345868",
-    "sha256": "0f9qzxvj8sgwdv7x2nc714br41swcp4bg4av1v07vvnh1vnnx380",
-    "version": "1.0.43.1"
+    "path": "seo-by-rank-math/1.0.44/ru_RU",
+    "rev": "354056",
+    "sha256": "0k6pcrblwspr2i15jbwk42y35argf1y6p1yk7l4sv5234v6kxl3l",
+    "version": "1.0.44"
   },
   "seo-data-transporter-en_GB": {
     "path": "seo-data-transporter/1.1.1/en_GB",
@@ -78985,20 +79099,20 @@
   },
   "seo-pyramid-es_ES": {
     "path": "seo-pyramid/1.8.2/es_ES",
-    "rev": "346078",
-    "sha256": "10ng9faq8312mnbiq8yxvw2yl58dznbx2gbbcpfrjy378lcyz5vj",
+    "rev": "354223",
+    "sha256": "09lf5f0l0kwh9jx13wrf0zr1a1ddfhxl34p7qcpqdz7z3nk6xb4n",
     "version": "1.8.2"
   },
   "seo-pyramid-es_MX": {
     "path": "seo-pyramid/1.8.2/es_MX",
-    "rev": "346077",
-    "sha256": "09zkny6jg2vdcfn91dcfm81y4ks2fawnf7ndgk4s1a0aasacyzkg",
+    "rev": "354228",
+    "sha256": "1b6m24jj5vl7v40s8ib1i7x9lzc63a6hxvbalhnyny33da7fzrh9",
     "version": "1.8.2"
   },
   "seo-pyramid-es_VE": {
     "path": "seo-pyramid/1.8.2/es_VE",
-    "rev": "346079",
-    "sha256": "04mzvpydf19kj0nvkhiq1nnvzsicg1pwhyzafdqhs4mng2c1n6sm",
+    "rev": "354556",
+    "sha256": "07ci2q21z0zyd4jcjj3blvk2ll6ndxnb9b7j91d8bhhhyhlsjy7n",
     "version": "1.8.2"
   },
   "seo-pyramid-fr_BE": {
@@ -81499,14 +81613,14 @@
   },
   "simple-history-es_MX": {
     "path": "simple-history/2.33.2/es_MX",
-    "rev": "303733",
-    "sha256": "08avmyb9cdg37xa4v7l48pkggqhqm0vp0fp65p6iqhm0xfqjr4iq",
+    "rev": "353979",
+    "sha256": "1wa2xn6gaz6w3kj5k3pxixvzyy2c37959xfwbxd81rwzgpf0yqlj",
     "version": "2.33.2"
   },
   "simple-history-es_VE": {
     "path": "simple-history/2.33.2/es_VE",
-    "rev": "303224",
-    "sha256": "1h39mb8jygrbdh9bk1z37fq9c4c5vhxmb87nh16nvcbwd2qq8hvz",
+    "rev": "353972",
+    "sha256": "04dpy7xivbgyp9yrrcdlj3pqz3g153hzb58x8r1c6fl966in1abz",
     "version": "2.33.2"
   },
   "simple-history-fr_FR": {
@@ -82278,15 +82392,21 @@
     "version": "1.2"
   },
   "simple-sitemap-da_DK": {
-    "path": "simple-sitemap/3.0/da_DK",
-    "rev": "225512",
-    "sha256": "063k2jijcl18b5y2jp3hsav0kglaj8sjia2hdiw1k18rdycnxia2",
-    "version": "3.0"
+    "path": "simple-sitemap/3.5/da_DK",
+    "rev": "354011",
+    "sha256": "1nsjassgjx7dslxrzn35c2h8p8j841kin4rdf9yxpkv9px5a76i5",
+    "version": "3.5"
   },
   "simple-sitemap-en_CA": {
     "path": "simple-sitemap/3.5/en_CA",
     "rev": "297102",
     "sha256": "017g8vfc46iikbqbnqsa6m4vx8dk3mdvxvlpkgcwzji8qi2yfs6p",
+    "version": "3.5"
+  },
+  "simple-sitemap-es_VE": {
+    "path": "simple-sitemap/3.5/es_VE",
+    "rev": "354012",
+    "sha256": "1wqmpfvzrrydk2jiwn4q0cyx4k0f6kc141s3m637qz0brhdx4bg2",
     "version": "3.5"
   },
   "simple-sitemap-fr_FR": {
@@ -82795,8 +82915,8 @@
   },
   "simply-schedule-appointments-es_MX": {
     "path": "simply-schedule-appointments/1.3.8.0/es_MX",
-    "rev": "352117",
-    "sha256": "1yaag2y30mh61g2mr0jh2dal7mz1f39665dpxi2skajmjhywj4a2",
+    "rev": "353977",
+    "sha256": "1bbiqcjl4b3w6qhy8vk5dy82qk7ii8ir31184cl2d986hdfmics6",
     "version": "1.3.8.0"
   },
   "simply-schedule-appointments-es_VE": {
@@ -83221,8 +83341,8 @@
   },
   "siteorigin-panels-it_IT": {
     "path": "siteorigin-panels/2.11.0/it_IT",
-    "rev": "347841",
-    "sha256": "1fi9nf1igm8jv371warljyqmzxifnn6g94h2l8wl3mbmf0cic6nx",
+    "rev": "354203",
+    "sha256": "0bzj687kj5lib6cbczm7zy78a8c637asnama14s1rsxhalzzc62g",
     "version": "2.11.0"
   },
   "siteorigin-panels-ja": {
@@ -83742,22 +83862,22 @@
     "version": "1.3.5"
   },
   "slim-seo-es_ES": {
-    "path": "slim-seo/3.3.2/es_ES",
-    "rev": "341144",
-    "sha256": "1443afswn6rsbd0x4f0h8klrvlnrcs14rzfk86kxy80abhgpjznn",
-    "version": "3.3.2"
+    "path": "slim-seo/3.4.1/es_ES",
+    "rev": "354484",
+    "sha256": "1gbpign8vfwn2bzh74mhsh3gm5n16fcicjkc3wiymz5q2bkk01w5",
+    "version": "3.4.1"
   },
   "slim-seo-pt_BR": {
-    "path": "slim-seo/3.3.2/pt_BR",
-    "rev": "341143",
+    "path": "slim-seo/3.4.1/pt_BR",
+    "rev": "354483",
     "sha256": "03bibyl817j8h001jrlxc30d0yf8z1cvnph2kmxwkdvbyhmampgn",
-    "version": "3.3.2"
+    "version": "3.4.1"
   },
   "slim-seo-vi": {
-    "path": "slim-seo/3.3.2/vi",
-    "rev": "341145",
-    "sha256": "0rkmy92npsb1y18a5nkm8mbnvs9pgwnlhiy2zy13vh6r5vls1bj5",
-    "version": "3.3.2"
+    "path": "slim-seo/3.4.1/vi",
+    "rev": "354485",
+    "sha256": "1z2p42icyzm0vn6dp8qc5sq1h177g3slzj5b6ds6a3y1w8ii6akx",
+    "version": "3.4.1"
   },
   "slimjetpack-en_AU": {
     "path": "slimjetpack/2.7.0.1/en_AU",
@@ -85195,8 +85315,8 @@
   },
   "sonypayment-light-for-woocommerce-ja": {
     "path": "sonypayment-light-for-woocommerce/1.0.0/ja",
-    "rev": "346677",
-    "sha256": "17xlsrwkq1nfpy3nxkni7fr19y00hd1i96pykxc3llpcb9danlf6",
+    "rev": "354170",
+    "sha256": "1dqxwhhizib7d1870is7bp5ynqsl2sj9b2lrm2sy47iscdj5kk62",
     "version": "1.0.0"
   },
   "sorsawodigital-edd-bank-transfer-el": {
@@ -85307,6 +85427,12 @@
     "sha256": "0xys2bfi4bp8hg8ivyxxazplqj5iz3jnsys6h67vvgjcapfz5jdh",
     "version": "1.4.0"
   },
+  "spcl-de_AT": {
+    "path": "spcl/1.0.0/de_AT",
+    "rev": "354533",
+    "sha256": "1yfw5fksnck9mjr60wrlbwgy12bvxqvvfzj5qrvympfd1y8d02jm",
+    "version": "1.0.0"
+  },
   "spcl-de_CH": {
     "path": "spcl/1.0.0/de_CH",
     "rev": "343379",
@@ -85321,8 +85447,8 @@
   },
   "spcl-de_DE": {
     "path": "spcl/1.0.0/de_DE",
-    "rev": "343377",
-    "sha256": "1wkizzjc2rifajwrz5xz2wyr89ilj59w7z591fpwhgl1r8xdmy59",
+    "rev": "354532",
+    "sha256": "0jaw6vfkjbfvdlqpaarjv4af6qsbi6fl2c1nwsxxgvszddb9fla5",
     "version": "1.0.0"
   },
   "spcl-de_DE_formal": {
@@ -85332,10 +85458,10 @@
     "version": "1.0.0"
   },
   "speakout-es_ES": {
-    "path": "speakout/2.2.4/es_ES",
-    "rev": "353086",
+    "path": "speakout/2.2.5/es_ES",
+    "rev": "354040",
     "sha256": "1vrnld0y8k2k2l9kx3m8drdjy2qmsgda8j48nxr719vdkpqip7im",
-    "version": "2.2.4"
+    "version": "2.2.5"
   },
   "specialist-in-websites-en_GB": {
     "path": "specialist-in-websites/1.8.2.2/en_GB",
@@ -86212,6 +86338,12 @@
     "rev": "340485",
     "sha256": "1fhs3bcndh648kabng3dh7a984cgsicrlwxv0vyabm7hf6ifynnq",
     "version": "1.5.1"
+  },
+  "statify-de_AT": {
+    "path": "statify/1.7.1/de_AT",
+    "rev": "354338",
+    "sha256": "17q3w24p61pcbx41hsjbar817xhamcs7azck3xfmcx98zfz4v25n",
+    "version": "1.7.1"
   },
   "statify-de_CH": {
     "path": "statify/1.7.1/de_CH",
@@ -88842,10 +88974,10 @@
     "version": "1.2.1"
   },
   "tainacan-pt_BR": {
-    "path": "tainacan/0.16.1/pt_BR",
-    "rev": "345392",
-    "sha256": "0i3lhykqn7rp8y75yddnyvlmawrhb93qr90b5ms3kz6pzwh98jck",
-    "version": "0.16.1"
+    "path": "tainacan/0.16.2/pt_BR",
+    "rev": "354610",
+    "sha256": "020c5a79440fyq14crx6ajnrv0c2rq31b1ija7sp79c5qbd6qx4j",
+    "version": "0.16.2"
   },
   "takeaway-widget-de_DE": {
     "path": "takeaway-widget/1.0.6/de_DE",
@@ -89659,8 +89791,8 @@
   },
   "the-events-calendar-nl_NL": {
     "path": "the-events-calendar/5.1.2.1/nl_NL",
-    "rev": "351709",
-    "sha256": "1drr9jfi4fhw3320cr0vy2psa039wcah0hwmhkhb9yn94fl0yykw",
+    "rev": "354597",
+    "sha256": "0ygnkfhgj7lfsrv1q2hh633cz9i1kbjjccvi8lr8i8wyz6vpscww",
     "version": "5.1.2.1"
   },
   "the-events-calendar-nn_NO": {
@@ -89808,70 +89940,76 @@
     "version": "1.1"
   },
   "theme-check-ca": {
-    "path": "theme-check/20190801.1/ca",
-    "rev": "247266",
-    "sha256": "03rc9a6nimafi11sfzg2p3pq3jvilnidnr8yf2jy8bx7sbrb78qr",
-    "version": "20190801.1"
+    "path": "theme-check/20200612.1/ca",
+    "rev": "354515",
+    "sha256": "0562zzwkmsfidz8dpfmap9bq31k84lj7gk84gniiynfxhpml65sx",
+    "version": "20200612.1"
   },
   "theme-check-de_DE": {
-    "path": "theme-check/20190801.1/de_DE",
-    "rev": "247271",
-    "sha256": "1clpxsknxim48yb8vw151p3c9jy9s23wmqzk568fhkkdx9awvnmj",
-    "version": "20190801.1"
+    "path": "theme-check/20200612.1/de_DE",
+    "rev": "354520",
+    "sha256": "1098w9mm4d1xdikhvkd3qx51p8ls8ckbs6j4k6q85dwaxavn7adk",
+    "version": "20200612.1"
   },
   "theme-check-en_AU": {
-    "path": "theme-check/20190801.1/en_AU",
-    "rev": "247267",
-    "sha256": "0yipx2r8i5fy8s4kpa4f6yjwhb58f4qh10fxm5qwb0c9r8p7lxlx",
-    "version": "20190801.1"
+    "path": "theme-check/20200612.1/en_AU",
+    "rev": "354516",
+    "sha256": "1l2iws9h0wr9a2ndy6i4qdr2w8cygnvc8xvf31shqqahpx2pdksi",
+    "version": "20200612.1"
   },
   "theme-check-en_CA": {
-    "path": "theme-check/20190801.1/en_CA",
-    "rev": "247268",
-    "sha256": "0qzfag1r4hf34a3l9bf06j6ii5il6q39cc4q77rvzlqm0km8xn0g",
-    "version": "20190801.1"
+    "path": "theme-check/20200612.1/en_CA",
+    "rev": "354517",
+    "sha256": "1w7gvbfkkb6ixy9ps1if2731l1m0l7x9icy8sv14rya0v5v59l0l",
+    "version": "20200612.1"
   },
   "theme-check-en_GB": {
-    "path": "theme-check/20190801.1/en_GB",
-    "rev": "247270",
-    "sha256": "0b1gxghkmqj818lyklc9wssrgj5yna7pgz18dclrp7vq62w34z4m",
-    "version": "20190801.1"
+    "path": "theme-check/20200612.1/en_GB",
+    "rev": "354519",
+    "sha256": "1pjlmkpa30rdx73g2a8mj4wg5ci1j8k25nl0bjq2j5qwr0xd4jlx",
+    "version": "20200612.1"
   },
   "theme-check-en_NZ": {
-    "path": "theme-check/20190801.1/en_NZ",
-    "rev": "247269",
-    "sha256": "0h2gxbbkk58lcmhg61ka0vy4814cf7ksyiib3065c2fm4vi02bl8",
-    "version": "20190801.1"
+    "path": "theme-check/20200612.1/en_NZ",
+    "rev": "354518",
+    "sha256": "1q1aknz2bvqh5jy15vkypqj3wmn70n57icdbakqgpkk1pkas5w8y",
+    "version": "20200612.1"
   },
   "theme-check-es_ES": {
-    "path": "theme-check/20190801.1/es_ES",
-    "rev": "340114",
-    "sha256": "1az623d171gyslyaz55zjcbqj61w914vcqwydnymb71g08j2n1c0",
-    "version": "20190801.1"
+    "path": "theme-check/20200612.1/es_ES",
+    "rev": "354620",
+    "sha256": "13y3a0v4dvdv99dyz2ca7w38rglm4lgd1dcahd5ivhv8rihv831l",
+    "version": "20200612.1"
+  },
+  "theme-check-es_VE": {
+    "path": "theme-check/20200612.1/es_VE",
+    "rev": "354621",
+    "sha256": "01gmlxcy1mj0jwhwqybsmdwqjqb2ha91y0w689m5d5ii6w1yjcqy",
+    "version": "20200612.1"
   },
   "theme-check-it_IT": {
-    "path": "theme-check/20190801.1/it_IT",
-    "rev": "264249",
-    "sha256": "0grrfdyl89da729iyr55sg3q097ik8dhsbxh5k7zs8bbyj5bxr1l",
-    "version": "20190801.1"
+    "path": "theme-check/20200612.1/it_IT",
+    "rev": "354521",
+    "sha256": "1gydraq272m9yphcajc8rd2pdf81q40syck78k337hk083l2x95j",
+    "version": "20200612.1"
   },
   "theme-check-ja": {
-    "path": "theme-check/20190801.1/ja",
-    "rev": "326126",
-    "sha256": "03p62ik0n9i0hfma5n0rv242inf1bq04lzlfh81ynymg3101qi4h",
-    "version": "20190801.1"
+    "path": "theme-check/20200612.1/ja",
+    "rev": "354522",
+    "sha256": "1hdxpg9z81iqs0bfsr4pjfhm1y4f79liiwb13vk6panvrpbdpc00",
+    "version": "20200612.1"
   },
   "theme-check-ro_RO": {
-    "path": "theme-check/20190801.1/ro_RO",
-    "rev": "247274",
-    "sha256": "1yahglkndgjxh5nn02bpsw6kx9knj3vjqqlq1wkdmbxzcrdpjs0y",
-    "version": "20190801.1"
+    "path": "theme-check/20200612.1/ro_RO",
+    "rev": "354613",
+    "sha256": "0i9vcj0p5x6i2m4cslqgfd8lvcbsqg2gdzvg7jxcvhr4hws03h62",
+    "version": "20200612.1"
   },
   "theme-check-ru_RU": {
-    "path": "theme-check/20190801.1/ru_RU",
-    "rev": "247275",
-    "sha256": "17kw75qwhvlxvfpz0xh4fbflpv1hizg1rl39n44b7pfiar8fphf7",
-    "version": "20190801.1"
+    "path": "theme-check/20200612.1/ru_RU",
+    "rev": "354524",
+    "sha256": "16dqdn7x9k9xq00r96jg3c66fa4ssyvgx858f817hd0zvwj8l7hw",
+    "version": "20200612.1"
   },
   "theme-my-login-ca": {
     "path": "theme-my-login/7.1/ca",
@@ -91321,8 +91459,8 @@
   },
   "translatepress-multilingual-nl_NL": {
     "path": "translatepress-multilingual/1.7.5/nl_NL",
-    "rev": "346898",
-    "sha256": "0x1hnilc02clgkyvsb8hs0pbm8ypg9ayvpv038wk1yag3ps6pdri",
+    "rev": "354287",
+    "sha256": "08npcdap46mrc4zx6lr4vpfxnv575bx26pdk6alvx4wlsi0fmckb",
     "version": "1.7.5"
   },
   "translatepress-multilingual-pt_BR": {
@@ -91440,10 +91578,10 @@
     "version": "1.0.0"
   },
   "translation-tools-pt_PT": {
-    "path": "translation-tools/1.0.0/pt_PT",
-    "rev": "353833",
-    "sha256": "008jnbnk35y4s8hvvgjf8cp57j22dzsp2rczkq9jwmxkaab6wlga",
-    "version": "1.0.0"
+    "path": "translation-tools/1.0.1/pt_PT",
+    "rev": "354341",
+    "sha256": "13i0xdd78s8dx7p9p9g75zg0sd0r6b0ws3hffdy9savxv4smam68",
+    "version": "1.0.1"
   },
   "translationmanager-it_IT": {
     "path": "translationmanager/1.2.1/it_IT",
@@ -93120,16 +93258,16 @@
     "version": "2.1.2"
   },
   "uncanny-automator-es_AR": {
-    "path": "uncanny-automator/2.3/es_AR",
-    "rev": "349904",
-    "sha256": "0ma0bhcfkz83mp2gp38ldnmzppmj3bzvqx8298rmic3fvlc9jnak",
-    "version": "2.3"
+    "path": "uncanny-automator/2.4/es_AR",
+    "rev": "354539",
+    "sha256": "1gz0sb4gi44rlhy7ilbh2hwgrhcwzzwhrgsi1dl3xhz7dxvc9yvs",
+    "version": "2.4"
   },
   "uncanny-automator-es_ES": {
-    "path": "uncanny-automator/2.3/es_ES",
-    "rev": "349905",
-    "sha256": "0mvavy59nmryfkgwzvkbdbav1rq0mhcw6ly87pcg8q8vbqcdkamk",
-    "version": "2.3"
+    "path": "uncanny-automator/2.4/es_ES",
+    "rev": "354540",
+    "sha256": "1mrh93s1s169nf4n72lw09l43yvix74ljn54v8qszfccyc0izg3v",
+    "version": "2.4"
   },
   "uncanny-learndash-toolkit-fr_FR": {
     "path": "uncanny-learndash-toolkit/3.2.2/fr_FR",
@@ -95958,10 +96096,10 @@
     "version": "1.0.1"
   },
   "vk-all-in-one-expansion-unit-ja": {
-    "path": "vk-all-in-one-expansion-unit/9.22.0.0/ja",
-    "rev": "351276",
-    "sha256": "1388v5pg1rc0l5blpgpg548qny5pzpb3zmnq7favvnxx3ghpici8",
-    "version": "9.22.0.0"
+    "path": "vk-all-in-one-expansion-unit/9.22.1.0/ja",
+    "rev": "354086",
+    "sha256": "0xxnsb7n2fi2jl9ggmih4n8h2g82vh51kfb5pyiqihm6vyfjq4fn",
+    "version": "9.22.1.0"
   },
   "vk-post-author-display-ja": {
     "path": "vk-post-author-display/1.14.1/ja",
@@ -96703,8 +96841,8 @@
   },
   "wc-multivendor-marketplace-it_IT": {
     "path": "wc-multivendor-marketplace/3.4.1/it_IT",
-    "rev": "351809",
-    "sha256": "06a3is59gcqh08in6fc9dvy02z7xb4zsl9raji2hpy2cypb8srj7",
+    "rev": "354594",
+    "sha256": "1cjia1chk217877gvq6vi6rkghjb32rcvbmqhg0mg3dga0bajh2x",
     "version": "3.4.1"
   },
   "wc-multivendor-marketplace-ja": {
@@ -96942,10 +97080,10 @@
     "version": "3.3.10"
   },
   "wcfm-marketplace-rest-api-cs_CZ": {
-    "path": "wcfm-marketplace-rest-api/1.3.0/cs_CZ",
-    "rev": "348995",
-    "sha256": "1fw7ffpvmyr1h26m1pj924bxmrxsmndw1wp9i0jnbmjvmkndviwx",
-    "version": "1.3.0"
+    "path": "wcfm-marketplace-rest-api/1.3.1/cs_CZ",
+    "rev": "354109",
+    "sha256": "0dz74gc2fqmyf0qczg16p753vrsm71dcffi5qpqh68mcykfdwzgd",
+    "version": "1.3.1"
   },
   "wck-custom-fields-and-custom-post-types-creator-ko_KR": {
     "path": "wck-custom-fields-and-custom-post-types-creator/2.2.6/ko_KR",
@@ -97361,6 +97499,12 @@
     "sha256": "16x4vdlpakmn2ar67xjvdxgd8bcfwh5ymp0abqsbnvs641w4iyyw",
     "version": "0.17.3"
   },
+  "webp-express-es_VE": {
+    "path": "webp-express/0.17.3/es_VE",
+    "rev": "353983",
+    "sha256": "0bdcqkahaln6hvxrfcniscwg0abwsxc32jq2hpafwk9sdv0a4vxf",
+    "version": "0.17.3"
+  },
   "webp-express-fr_CA": {
     "path": "webp-express/0.17.3/fr_CA",
     "rev": "320486",
@@ -97377,6 +97521,12 @@
     "path": "webp-express/0.17.3/it_IT",
     "rev": "320488",
     "sha256": "0mnblqsk8lqcrzl7648ha57rd65vc8i28mmp82in26p6mhz3schz",
+    "version": "0.17.3"
+  },
+  "webp-express-nl_NL": {
+    "path": "webp-express/0.17.3/nl_NL",
+    "rev": "354325",
+    "sha256": "12k90jv7b7fdg6s9x6ssv4ch988gns7a3g430c4l873ybddxpm6a",
     "version": "0.17.3"
   },
   "webp-express-pt_BR": {
@@ -97673,6 +97823,12 @@
     "sha256": "1jxsqsrpp7r4khrfh1jx55nfawv4ldci2ld3cy445xrbxk5i5miy",
     "version": "1.1.1"
   },
+  "wepos-en_CA": {
+    "path": "wepos/1.1.1/en_CA",
+    "rev": "354221",
+    "sha256": "0zskj4af80kc035d2nfb3dv698w23ki48ra7vrsisf6xhckzqsxs",
+    "version": "1.1.1"
+  },
   "wepos-en_GB": {
     "path": "wepos/1.1.1/en_GB",
     "rev": "347406",
@@ -97681,8 +97837,8 @@
   },
   "wepos-en_ZA": {
     "path": "wepos/1.1.1/en_ZA",
-    "rev": "336423",
-    "sha256": "1gy2yizc6z3vq4asack61446fv69icba9rmg7f0bp5v8q788ywan",
+    "rev": "354528",
+    "sha256": "1j9y5cf3232hzqra05g7ssarmkvlm1qjpa4cs2n569jyj695yrk8",
     "version": "1.1.1"
   },
   "wepos-es_ES": {
@@ -98285,6 +98441,12 @@
     "sha256": "105iyngwqhgggv0m405dx548fshlxkirclnkyx0l35c835n8wkhm",
     "version": "0.3.5"
   },
+  "widget-shortcode-en_GB": {
+    "path": "widget-shortcode/0.3.5/en_GB",
+    "rev": "354427",
+    "sha256": "1yvzc03h8kipyrn1yl6l97c176nv8gcnsm1r16hz39ksgx0z5qy0",
+    "version": "0.3.5"
+  },
   "widget-shortcode-es_ES": {
     "path": "widget-shortcode/0.3.5/es_ES",
     "rev": "329350",
@@ -98533,8 +98695,8 @@
   },
   "wonderm00ns-simple-facebook-open-graph-tags-nl_NL": {
     "path": "wonderm00ns-simple-facebook-open-graph-tags/3.0.0/nl_NL",
-    "rev": "347960",
-    "sha256": "06rk2wdclx76an8rraybv0wswfy07aixa5zigx4cjk7kxjfssclh",
+    "rev": "354288",
+    "sha256": "0vzkrb6vw15rs3fpb2wm16i8j9jcczyns4p786pkx88z3fbbcrjh",
     "version": "3.0.0"
   },
   "wonderm00ns-simple-facebook-open-graph-tags-pt_PT": {
@@ -98754,22 +98916,22 @@
     "version": "1.0.38"
   },
   "woo-billing-with-invoicexpress-es_ES": {
-    "path": "woo-billing-with-invoicexpress/2.7.0/es_ES",
-    "rev": "345225",
-    "sha256": "0jnk1xn3zqv7np9prw5vkxiacbd6ilg825cbyhgkna38m8irzpxr",
-    "version": "2.7.0"
+    "path": "woo-billing-with-invoicexpress/2.7.1/es_ES",
+    "rev": "354322",
+    "sha256": "0wx8sn554yn2yd4xh6f19nyqrmn1l0qcmkvpz63cqsxwrk60gxi4",
+    "version": "2.7.1"
   },
   "woo-billing-with-invoicexpress-pt_PT": {
-    "path": "woo-billing-with-invoicexpress/2.7.0/pt_PT",
-    "rev": "345223",
-    "sha256": "0aqxhg8pzd35j2mi8cipryfv4w54fs604mriyi7hrr9zn17xrr5z",
-    "version": "2.7.0"
+    "path": "woo-billing-with-invoicexpress/2.7.1/pt_PT",
+    "rev": "354320",
+    "sha256": "12wg433q0rk5pms2yw93lcl8lys4gm7yv1gpriwgim9l5j6zzl89",
+    "version": "2.7.1"
   },
   "woo-billing-with-invoicexpress-pt_PT_ao90": {
-    "path": "woo-billing-with-invoicexpress/2.7.0/pt_PT_ao90",
-    "rev": "345224",
-    "sha256": "0l7dgk2pkjm3pnjwshh8gk5k9aq2zldsq60f219cpy71rhp5vmrv",
-    "version": "2.7.0"
+    "path": "woo-billing-with-invoicexpress/2.7.1/pt_PT_ao90",
+    "rev": "354321",
+    "sha256": "144hhqdx8i07mwhi58a8dyz46irz2l3cgpl5d5iav9pckanipl2n",
+    "version": "2.7.1"
   },
   "woo-billomat-de_DE": {
     "path": "woo-billomat/2.1.2/de_DE",
@@ -99336,10 +99498,10 @@
     "version": "1.1"
   },
   "woo-izettle-integration-sv_SE": {
-    "path": "woo-izettle-integration/5.0.1/sv_SE",
-    "rev": "351351",
-    "sha256": "17k27jrmm9d86lm0l7n8igxlrbw58llb8dp5nfcpr7l7zq421pdw",
-    "version": "5.0.1"
+    "path": "woo-izettle-integration/5.0.3/sv_SE",
+    "rev": "354106",
+    "sha256": "0wxnvbj5rc4jv1rwb802y7fl8j86gia0nr8bwqn5acspc6nim7y7",
+    "version": "5.0.3"
   },
   "woo-jtl-connector-de_DE": {
     "path": "woo-jtl-connector/1.9.4/de_DE",
@@ -99528,10 +99690,10 @@
     "version": "1.5"
   },
   "woo-paydesign-ja": {
-    "path": "woo-paydesign/1.1.18/ja",
-    "rev": "273942",
-    "sha256": "1iiz2vrj8qy90kqwwc20cic8k84hqkz6cxsxcaackxm40mp3mr2y",
-    "version": "1.1.18"
+    "path": "woo-paydesign/1.1.20/ja",
+    "rev": "354269",
+    "sha256": "08wq23l41q885a5ga8l900fa8x1hv546jicyar988nbhzmaj81dc",
+    "version": "1.1.20"
   },
   "woo-paygate-lite-zh_CN": {
     "path": "woo-paygate-lite/1.0.1/zh_CN",
@@ -99720,10 +99882,10 @@
     "version": "1.0.4"
   },
   "woo-product-feed-pro-sk_SK": {
-    "path": "woo-product-feed-pro/8.3.3/sk_SK",
-    "rev": "352430",
-    "sha256": "1519dwggf4l9knwhm6d752zhlcmcn6bnsx6pch5b683lbqlzhsby",
-    "version": "8.3.3"
+    "path": "woo-product-feed-pro/8.3.4/sk_SK",
+    "rev": "354267",
+    "sha256": "15yd12xl559vyms0hf1mw6cnf9cxdqh7d8kh1p6nq8z0gyjgwis5",
+    "version": "8.3.4"
   },
   "woo-product-reviews-shortcode-de_DE": {
     "path": "woo-product-reviews-shortcode/1.0.5/de_DE",
@@ -100009,8 +100171,8 @@
   },
   "woo-sonypayment-ja": {
     "path": "woo-sonypayment/1.1.7/ja",
-    "rev": "346688",
-    "sha256": "0rvbx10xadhblbclkrvphf5gyhz5nf0ipal574yf5c8xh0xzdhzd",
+    "rev": "354094",
+    "sha256": "03xvchm8zjhpsnmbsbpph4xb4alpdzbk9adfhwxnl78afb3vxab2",
     "version": "1.1.7"
   },
   "woo-stickers-by-webline-da_DK": {
@@ -100483,8 +100645,8 @@
   },
   "woocommerce-admin-es_ES": {
     "path": "woocommerce-admin/1.2.4/es_ES",
-    "rev": "353871",
-    "sha256": "0ahlhi6nvwxrgx2m5j5nxdfjq18gc18z3b5r2nfg5mbc5f7dq4ja",
+    "rev": "354585",
+    "sha256": "06pbv4lrkanszr7ddn64qz7i1aavzsvhkv90ivaifrhswdxr8ax3",
     "version": "1.2.4"
   },
   "woocommerce-admin-es_MX": {
@@ -100974,58 +101136,58 @@
     "version": "1.1.2"
   },
   "woocommerce-checkout-manager-en_CA": {
-    "path": "woocommerce-checkout-manager/5.0.9/en_CA",
-    "rev": "352665",
-    "sha256": "0qc5grimqklwg2543sldgmsi7534501zc21i5xp94slx109g1vff",
-    "version": "5.0.9"
+    "path": "woocommerce-checkout-manager/5.1.0/en_CA",
+    "rev": "354431",
+    "sha256": "1i8nnyc99l7dxy39sxqraprlzbl9960cgc0mrvzn7aqncmy86k97",
+    "version": "5.1.0"
   },
   "woocommerce-checkout-manager-es_ES": {
-    "path": "woocommerce-checkout-manager/5.0.9/es_ES",
-    "rev": "352670",
-    "sha256": "050vwlicvn97bhp6jaknip94fzvns0gabyyg5hgksk8v47ab7z78",
-    "version": "5.0.9"
+    "path": "woocommerce-checkout-manager/5.1.0/es_ES",
+    "rev": "354436",
+    "sha256": "0c28n7hxy64cx5vqgc8jrwpshyhd2smva2ig40r9r8ha41d6j1s1",
+    "version": "5.1.0"
   },
   "woocommerce-checkout-manager-es_VE": {
-    "path": "woocommerce-checkout-manager/5.0.9/es_VE",
-    "rev": "352671",
-    "sha256": "1yikz2q4x2h3ifjkwacqkqsi3c6ps4wp8z05r42yb2srb792sfk9",
-    "version": "5.0.9"
+    "path": "woocommerce-checkout-manager/5.1.0/es_VE",
+    "rev": "354437",
+    "sha256": "0ds8q9k4rspgj6mwrxkflfwbwwxgvmqq0cy9a3bhs57l756azaxh",
+    "version": "5.1.0"
   },
   "woocommerce-checkout-manager-he_IL": {
-    "path": "woocommerce-checkout-manager/5.0.9/he_IL",
-    "rev": "352666",
-    "sha256": "0zm481077mwkapmh6ha2g5y5a12a8awnx6bbgdj385kjbr22sz5y",
-    "version": "5.0.9"
+    "path": "woocommerce-checkout-manager/5.1.0/he_IL",
+    "rev": "354432",
+    "sha256": "0ghlxbg0h85hgh5gvb52bqb5mhh28h53gp22x6476bd17d57pc6m",
+    "version": "5.1.0"
   },
   "woocommerce-checkout-manager-nb_NO": {
-    "path": "woocommerce-checkout-manager/5.0.9/nb_NO",
-    "rev": "352667",
-    "sha256": "0p1scfgn7i0gnllnzqy2i4ihvaakf8raay3913g4sxrhj8n68zgc",
-    "version": "5.0.9"
+    "path": "woocommerce-checkout-manager/5.1.0/nb_NO",
+    "rev": "354433",
+    "sha256": "0r8ibi05rwwxddkij79s5070j9xwq2liri0lg20kk1hn8dafi0zk",
+    "version": "5.1.0"
   },
   "woocommerce-checkout-manager-nl_NL": {
-    "path": "woocommerce-checkout-manager/5.0.9/nl_NL",
-    "rev": "352664",
-    "sha256": "1z7c6lfx3mf0769b9yllqrdczzvyriif1knh57yfs4s4abinssqi",
-    "version": "5.0.9"
+    "path": "woocommerce-checkout-manager/5.1.0/nl_NL",
+    "rev": "354430",
+    "sha256": "1gm6frkvdj11qn296hyn2r885l7jxx7s44158yqf9j4s93laqyyg",
+    "version": "5.1.0"
   },
   "woocommerce-checkout-manager-pt_BR": {
-    "path": "woocommerce-checkout-manager/5.0.9/pt_BR",
-    "rev": "352668",
-    "sha256": "07ygpcqfs9gyhaya4dbiw19nnvpq4cl9dkkmskx2hj1l9s4wcmmk",
-    "version": "5.0.9"
+    "path": "woocommerce-checkout-manager/5.1.0/pt_BR",
+    "rev": "354434",
+    "sha256": "0p7zdk249fx547c5jwjlvbav04gb1w7x68lc0l03f2py3mmyd901",
+    "version": "5.1.0"
   },
   "woocommerce-checkout-manager-ru_RU": {
-    "path": "woocommerce-checkout-manager/5.0.9/ru_RU",
-    "rev": "352669",
-    "sha256": "04bg6pr3w2im2zzpmkiglqq14xk08vb7d6lp80rlma1bhi85lki1",
-    "version": "5.0.9"
+    "path": "woocommerce-checkout-manager/5.1.0/ru_RU",
+    "rev": "354435",
+    "sha256": "0pq9xzkn0wy0y6sk8m4x6sqjglrirpzv5ckl0l77ihb18v5vs3bm",
+    "version": "5.1.0"
   },
   "woocommerce-checkout-manager-zh_CN": {
-    "path": "woocommerce-checkout-manager/5.0.9/zh_CN",
-    "rev": "352663",
-    "sha256": "0v7d62n0q6n8bnp5m8sbbfapadri05p2rywxy6fisyyma2405zlh",
-    "version": "5.0.9"
+    "path": "woocommerce-checkout-manager/5.1.0/zh_CN",
+    "rev": "354429",
+    "sha256": "01b3f8jv5fbd32p9imw7scy4y849fpnjvjf3zwg3laablkbnvq1s",
+    "version": "5.1.0"
   },
   "woocommerce-colors-da_DK": {
     "path": "woocommerce-colors/1.0.7/da_DK",
@@ -101712,10 +101874,10 @@
     "version": "3.0"
   },
   "woocommerce-for-japan-ja": {
-    "path": "woocommerce-for-japan/2.2.3/ja",
-    "rev": "353065",
-    "sha256": "1c7fcxg20yxaakjm7nwry0dcpdzrnl97kzm2896fq2dbw6324vds",
-    "version": "2.2.3"
+    "path": "woocommerce-for-japan/2.2.4/ja",
+    "rev": "354042",
+    "sha256": "0fxpbbnqf5k5fkmn1g9wm227d6p7wmig74nzjc3z4qrn6iln93lq",
+    "version": "2.2.4"
   },
   "woocommerce-for-paygent-payment-main-ja": {
     "path": "woocommerce-for-paygent-payment-main/1.2.39/ja",
@@ -101952,16 +102114,16 @@
     "version": "4.4.0"
   },
   "woocommerce-germanized-de_DE": {
-    "path": "woocommerce-germanized/3.1.8/de_DE",
-    "rev": "345675",
-    "sha256": "0il2wawf0rwlw51i4axyml4vbf0bdiijmra3yjlv8q9j4qhqfwmx",
-    "version": "3.1.8"
+    "path": "woocommerce-germanized/3.1.9/de_DE",
+    "rev": "354205",
+    "sha256": "0pp17b1ibnvymvd2ysdwsiz6pdaswa33zjk8rj28v7s3g0d2vqkm",
+    "version": "3.1.9"
   },
   "woocommerce-germanized-de_DE_formal": {
-    "path": "woocommerce-germanized/3.1.8/de_DE_formal",
-    "rev": "346453",
-    "sha256": "019l9hi6q52h0yp8dz5dqpcdy36czmrlkbcl4a4j0i1a44a8rpll",
-    "version": "3.1.8"
+    "path": "woocommerce-germanized/3.1.9/de_DE_formal",
+    "rev": "354206",
+    "sha256": "1da9i0dp7x9h32605881g8cmzbj6ljkpchx2d17cc3dlhpxxj3dg",
+    "version": "3.1.9"
   },
   "woocommerce-gift-coupon-es_ES": {
     "path": "woocommerce-gift-coupon/3.3.0/es_ES",
@@ -102133,8 +102295,8 @@
   },
   "woocommerce-ja": {
     "path": "woocommerce/4.2.0/ja",
-    "rev": "348085",
-    "sha256": "0sd8x6774kcqybxn1hvpkw8yg65y69m92ymdiffncvy6fqm1zcqk",
+    "rev": "354088",
+    "sha256": "04lh7bdd7jdzi0adjly8sn4agq2cnsaq3wh93pzrk1xdla1zkh6i",
     "version": "4.2.0"
   },
   "woocommerce-jetpack-en_GB": {
@@ -102379,8 +102541,8 @@
   },
   "woocommerce-multilingual-nl_NL": {
     "path": "woocommerce-multilingual/4.9.0/nl_NL",
-    "rev": "349671",
-    "sha256": "0dci3sch9q4icf33k4mr05ivbfy204p59f5nam4apkx573rdmn2x",
+    "rev": "354323",
+    "sha256": "1ic1qiad7y38hscv3l6q1nr2ylzbf8wjfrv81j7imb1lnh7mj4yw",
     "version": "4.9.0"
   },
   "woocommerce-multilingual-ru_RU": {
@@ -103177,8 +103339,8 @@
   },
   "woocommerce-sk_SK": {
     "path": "woocommerce/4.2.0/sk_SK",
-    "rev": "349668",
-    "sha256": "1xqmrhzcj2za4p3p55pkq9kjihbbwx1j5shna4s6y2cdfxlii66k",
+    "rev": "354336",
+    "sha256": "12g77si8m1l2rvbyfjwy7g1j97y6ar6r6chn1li61nn48yz928n1",
     "version": "4.2.0"
   },
   "woocommerce-sl_SI": {
@@ -103324,6 +103486,12 @@
     "rev": "348056",
     "sha256": "1xax5ms0n7jz4qyjw95z6v608kymi0prwnj8jiwd2d59vw9wwqr6",
     "version": "4.2.0"
+  },
+  "woof-by-category-fr_FR": {
+    "path": "woof-by-category/2.6.1/fr_FR",
+    "rev": "354096",
+    "sha256": "0hdjpcq40ykym4bnldhnxsr14m2sz1r2c50w0bg8krvx0sd6g6s8",
+    "version": "2.6.1"
   },
   "woof-by-category-ru_RU": {
     "path": "woof-by-category/2.6.1/ru_RU",
@@ -105035,6 +105203,12 @@
     "sha256": "0rjmz9l0zm7p6350db3ivc4jf6lkv9spcnl6lvjjm0d73n2zzg5y",
     "version": "1.1.5"
   },
+  "wp-add-custom-css-ja": {
+    "path": "wp-add-custom-css/1.1.5/ja",
+    "rev": "354089",
+    "sha256": "0rafg0yxmhcj1l93s6k704zkprrp9dz1xbpy0prn923vs2azlndc",
+    "version": "1.1.5"
+  },
   "wp-add-mime-types-ja": {
     "path": "wp-add-mime-types/2.5.4/ja",
     "rev": "302527",
@@ -105102,10 +105276,10 @@
     "version": "1.0.1"
   },
   "wp-alert-bar-es_ES": {
-    "path": "wp-alert-bar/1.0.0/es_ES",
-    "rev": "349546",
-    "sha256": "0ribpngk7s19dkxl02x9njcsqd2dq29jswwaj88v4v3l795bmv06",
-    "version": "1.0.0"
+    "path": "wp-alert-bar/1.0.1/es_ES",
+    "rev": "354507",
+    "sha256": "15gjf6dnf8cd3b35mbaw9rvmizh281wbrpdmrynpzw2jdzl89dsw",
+    "version": "1.0.1"
   },
   "wp-all-import-es_ES": {
     "path": "wp-all-import/3.5.3/es_ES",
@@ -105865,14 +106039,14 @@
   },
   "wp-cerber-es_MX": {
     "path": "wp-cerber/8.6.5/es_MX",
-    "rev": "352366",
-    "sha256": "0vk78xk48f7k47wn1pi7m7nrb1l39fj9m9qdcg4lwrmx3zniai20",
+    "rev": "353982",
+    "sha256": "04rjm7dw49riyn9vgsx0hjbw7c8ljbd6lbsbx0xx9gzw9mar8qfl",
     "version": "8.6.5"
   },
   "wp-cerber-es_VE": {
     "path": "wp-cerber/8.6.5/es_VE",
-    "rev": "352771",
-    "sha256": "1387as3i31ff8mv1iasy9x9l0v68zp5gm6y2fzwc8q612sn2a6af",
+    "rev": "353973",
+    "sha256": "0m6wmbqmbij698qmqmlsb58adbf7v1hd51ax6dcvikswsvwb8d2r",
     "version": "8.6.5"
   },
   "wp-cerber-ja": {
@@ -108222,94 +108396,94 @@
     "version": "1.3.1"
   },
   "wp-google-maps-de_DE": {
-    "path": "wp-google-maps/8.0.24/de_DE",
-    "rev": "353569",
-    "sha256": "1y9lm2xkpvavr7bc2v4g39zaranchhkw6an0nfryfj3yd16na00w",
-    "version": "8.0.24"
+    "path": "wp-google-maps/8.0.25/de_DE",
+    "rev": "354193",
+    "sha256": "0l7qvi30kzxazjbnaq7pwk4imwrps5qp4hp1fvcz9l7n7lk5l0zx",
+    "version": "8.0.25"
   },
   "wp-google-maps-el": {
-    "path": "wp-google-maps/8.0.24/el",
-    "rev": "353483",
-    "sha256": "18v0c4dcfz86lnpvxqc7m1m985g323hrjlmgsk0c74ja2pg7gg2a",
-    "version": "8.0.24"
+    "path": "wp-google-maps/8.0.25/el",
+    "rev": "354194",
+    "sha256": "0hjvkgji7wpxal752d5p2mavib6xw3j12ax8s41vzqxfh2rvw4lr",
+    "version": "8.0.25"
   },
   "wp-google-maps-en_AU": {
-    "path": "wp-google-maps/8.0.24/en_AU",
-    "rev": "353477",
-    "sha256": "0dgqmykb2sg61wra3nv0fwn6d9bw5aggmwy7ings51d4l1z3fkc3",
-    "version": "8.0.24"
+    "path": "wp-google-maps/8.0.25/en_AU",
+    "rev": "354188",
+    "sha256": "08yq0mfsxynbmgq11c73knaa02prix7qxlbpkldyh1ywq9q5vyva",
+    "version": "8.0.25"
   },
   "wp-google-maps-en_CA": {
-    "path": "wp-google-maps/8.0.24/en_CA",
-    "rev": "353478",
-    "sha256": "0lg2bw7ph7h1s5i4ml1qxm8mscswym8v71pia6nc9894inf6fxqv",
-    "version": "8.0.24"
+    "path": "wp-google-maps/8.0.25/en_CA",
+    "rev": "354189",
+    "sha256": "05k1zxl1g8aqfrpr85s8vmjgdm35qpvhc8mxs3j1ddb77rwbvmam",
+    "version": "8.0.25"
   },
   "wp-google-maps-en_GB": {
-    "path": "wp-google-maps/8.0.24/en_GB",
-    "rev": "353481",
-    "sha256": "1c7rkcrcam9vrhakzgkknbzprip10q6ajafzkily0zkw65k21808",
-    "version": "8.0.24"
+    "path": "wp-google-maps/8.0.25/en_GB",
+    "rev": "354192",
+    "sha256": "0y5hiniyii6b5w76p7apzmwcsw0wfrjly3hk2vhlfh99jhhqrwk1",
+    "version": "8.0.25"
   },
   "wp-google-maps-en_NZ": {
-    "path": "wp-google-maps/8.0.24/en_NZ",
-    "rev": "353479",
-    "sha256": "0wqvabb5c6ryn3hxm1y0ycazk04wqz923id6ql3n39h3kh50bqsq",
-    "version": "8.0.24"
+    "path": "wp-google-maps/8.0.25/en_NZ",
+    "rev": "354190",
+    "sha256": "1x8gz1lxs3c3bspf149a19f1jzkn84m9pp8n65gjvwpk520n8v20",
+    "version": "8.0.25"
   },
   "wp-google-maps-en_ZA": {
-    "path": "wp-google-maps/8.0.24/en_ZA",
-    "rev": "353480",
-    "sha256": "0bspgmd5dzbzbyd6589zfavlvh6dgf7cximwn2iyvzabgm69v4q1",
-    "version": "8.0.24"
+    "path": "wp-google-maps/8.0.25/en_ZA",
+    "rev": "354191",
+    "sha256": "03b0kzz7kh1sw4iylvh0aq2bg7rrpjjcyvn5a99kbjjp5cm7lmvc",
+    "version": "8.0.25"
   },
   "wp-google-maps-es_ES": {
-    "path": "wp-google-maps/8.0.24/es_ES",
-    "rev": "353570",
-    "sha256": "1vd6qx7x0xh1ybb1a5y97dmar5gz0f75lbj4mghmv76a5g8f2d9l",
-    "version": "8.0.24"
+    "path": "wp-google-maps/8.0.25/es_ES",
+    "rev": "354199",
+    "sha256": "1gkwwbbrjknai4l7c4k4zz6hvqblvih0085wdvirjpsp4f4d1qaz",
+    "version": "8.0.25"
   },
   "wp-google-maps-es_MX": {
-    "path": "wp-google-maps/8.0.24/es_MX",
-    "rev": "353487",
-    "sha256": "0md0948w390h09yga3fb3cy51nvkc4vq26aw2r5423jb6pc8dh34",
-    "version": "8.0.24"
+    "path": "wp-google-maps/8.0.25/es_MX",
+    "rev": "354198",
+    "sha256": "1gm1h3ma03lb9p404i61aa2jawavh5vq7mpc9bkkl2iqwfflxb11",
+    "version": "8.0.25"
   },
   "wp-google-maps-es_VE": {
-    "path": "wp-google-maps/8.0.24/es_VE",
-    "rev": "353919",
-    "sha256": "0wyax2yb0j1snl85q2y82yayfray4laqxmv5v4y3savmxm8acsm6",
-    "version": "8.0.24"
+    "path": "wp-google-maps/8.0.25/es_VE",
+    "rev": "354200",
+    "sha256": "17zz45kfi5k7ygb099g138j0yjv0xc9dh8r0sjxsizrvq7bq94xa",
+    "version": "8.0.25"
   },
   "wp-google-maps-fa_IR": {
-    "path": "wp-google-maps/8.0.24/fa_IR",
-    "rev": "353484",
-    "sha256": "1kbfzi6j0rv99pgbcs0d0l4bhjm5k8wj7pa89v5vkqizy0haq5x6",
-    "version": "8.0.24"
+    "path": "wp-google-maps/8.0.25/fa_IR",
+    "rev": "354195",
+    "sha256": "0s3krp6qw6yimgy1fqmvbyz152qds0j7m6iydsj653mzisrv9ca9",
+    "version": "8.0.25"
   },
   "wp-google-maps-nl_NL": {
-    "path": "wp-google-maps/8.0.24/nl_NL",
-    "rev": "353476",
-    "sha256": "0np9978jdjfl3qlk61pn5sv5rgbiwx5sm3268194j4wchf3w4mi0",
-    "version": "8.0.24"
+    "path": "wp-google-maps/8.0.25/nl_NL",
+    "rev": "354187",
+    "sha256": "1z5gzbhkih9iwxc2rqgijj0mnc68kajwwxmmqwffm5sc9shg97xk",
+    "version": "8.0.25"
   },
   "wp-google-maps-pl_PL": {
-    "path": "wp-google-maps/8.0.24/pl_PL",
-    "rev": "353485",
-    "sha256": "07ycqh9xl90xjgdcgbhg9axljwias3pw1icwjb6cvqzzhq0h4hzz",
-    "version": "8.0.24"
+    "path": "wp-google-maps/8.0.25/pl_PL",
+    "rev": "354196",
+    "sha256": "0n0nmnl3yg6g9c250c461vl027fd7ip4bn2jrf0jy72x5sfna4ni",
+    "version": "8.0.25"
   },
   "wp-google-maps-sk_SK": {
-    "path": "wp-google-maps/8.0.24/sk_SK",
-    "rev": "353486",
-    "sha256": "1h0rgjamklp7mvddc9mz1z6z6yq89rjnzg98pdzxf24w7lcfj20j",
-    "version": "8.0.24"
+    "path": "wp-google-maps/8.0.25/sk_SK",
+    "rev": "354197",
+    "sha256": "10sz4ppcdy9c24l1nyjr4bp5lkl7ayka83ynzncz5m5w66h5v4hg",
+    "version": "8.0.25"
   },
   "wp-google-maps-uk": {
-    "path": "wp-google-maps/8.0.24/uk",
-    "rev": "353490",
-    "sha256": "19csi96ilard1sn0f3i2iybki2cynsfdiklgn7za662nldvfrc15",
-    "version": "8.0.24"
+    "path": "wp-google-maps/8.0.25/uk",
+    "rev": "354201",
+    "sha256": "00551q2j5i3la7gkb70y4wi492zskzr9n9xzb32w2sr2869mz478",
+    "version": "8.0.25"
   },
   "wp-google-search-ja": {
     "path": "wp-google-search/1.0.9/ja",
@@ -108925,8 +109099,8 @@
   },
   "wp-job-manager-nl_NL": {
     "path": "wp-job-manager/1.34.2/nl_NL",
-    "rev": "345344",
-    "sha256": "1d9b32ypb9jx6gg1sngb31sw1gvs3yshrx7li2m5l1m090hpmb12",
+    "rev": "354283",
+    "sha256": "0hkb9bbf1hd7q8wac3swqi37y6vsy2cqlhnw9j46z2ddc7rkbgiv",
     "version": "1.34.2"
   },
   "wp-job-manager-pt_BR": {
@@ -109645,8 +109819,8 @@
   },
   "wp-mail-smtp-zh_CN": {
     "path": "wp-mail-smtp/2.1.1/zh_CN",
-    "rev": "351467",
-    "sha256": "0rrk5nvjnk5xd12v682h9vl0ycirjqp9zr37mzqfcdi9lx8i0g0y",
+    "rev": "354093",
+    "sha256": "12knbc2f8vyabdcbbk22i6dqw63m3fzz1mzpz9yvndpc4ck36agf",
     "version": "2.1.1"
   },
   "wp-mail-smtp-zh_HK": {
@@ -111481,14 +111655,14 @@
   },
   "wp-photo-album-plus-de_DE": {
     "path": "wp-photo-album-plus/7.4.00.005/de_DE",
-    "rev": "353542",
-    "sha256": "1nr2dchn8gdpkym073jwp0366j9lybyhpl8vw2jqj3syl8wd56a1",
+    "rev": "354185",
+    "sha256": "0yfrcsfidqbprp0bb63zdkrg2c4s714x0ym1lzjm7mscsmk9zfjw",
     "version": "7.4.00.005"
   },
   "wp-photo-album-plus-de_DE_formal": {
     "path": "wp-photo-album-plus/7.4.00.005/de_DE_formal",
-    "rev": "353543",
-    "sha256": "1nb17p6419fbki5qi3gn45ncny3l4xpcsrihgsqsp4wp3b39s6v4",
+    "rev": "354186",
+    "sha256": "1s03q2lf4vm2zy77dxa84hjd65wmiz3xajdsyl31nyb9labj12w0",
     "version": "7.4.00.005"
   },
   "wp-photo-album-plus-en_AU": {
@@ -111535,14 +111709,14 @@
   },
   "wp-photo-album-plus-nl_NL": {
     "path": "wp-photo-album-plus/7.4.00.005/nl_NL",
-    "rev": "353534",
-    "sha256": "0rmdy1f57rircqa3p8byyik74syqaf7f2fzncz44r91cdc96dgsa",
+    "rev": "354183",
+    "sha256": "0pqsvq96ga3yqmyibsm8gqiklf0mxq7hwml2j5w0f6jni7ipljd0",
     "version": "7.4.00.005"
   },
   "wp-photo-album-plus-nl_NL_formal": {
     "path": "wp-photo-album-plus/7.4.00.005/nl_NL_formal",
-    "rev": "353535",
-    "sha256": "1dyrj9pni9a11r965655fbp38q7kc9423pwaxdzmllavis5m9kdv",
+    "rev": "354184",
+    "sha256": "1fcsqg6fxlx8imqfdgnas5ziis3gxa9ry8yb1fkr2qg9srk75vzw",
     "version": "7.4.00.005"
   },
   "wp-photo-album-plus-ru_RU": {
@@ -112543,14 +112717,20 @@
   },
   "wp-retina-2x-es_ES": {
     "path": "wp-retina-2x/5.6.1/es_ES",
-    "rev": "352159",
-    "sha256": "0rryw6vv0p6b6mc98iqvkvwkpdsfvyqxrdyj9qxy39d319hkwx31",
+    "rev": "354586",
+    "sha256": "1qhvzarkkffml91wisjyddp1axv5l5lidyhbxzlhzmzzfgd9ccx9",
+    "version": "5.6.1"
+  },
+  "wp-retina-2x-es_MX": {
+    "path": "wp-retina-2x/5.6.1/es_MX",
+    "rev": "353984",
+    "sha256": "0n98nk11dyhfiq8xafjncd6xk9wbz8cmjv5wwab69693qvx2hsik",
     "version": "5.6.1"
   },
   "wp-retina-2x-es_VE": {
     "path": "wp-retina-2x/5.6.1/es_VE",
-    "rev": "352160",
-    "sha256": "1m82y8ysgm59ljqh1ljqhy9kblrf38ir9wjqqanlp8c5an0wdfgf",
+    "rev": "353974",
+    "sha256": "1865ms5qj00nrs905car0ziyybgjcsg7d9gvfpsfycm92l2lrx43",
     "version": "5.6.1"
   },
   "wp-retina-2x-fr_FR": {
@@ -112900,6 +113080,12 @@
     "rev": "300634",
     "sha256": "1jh08vzwhsr6p768b4wdj23h3j52db5g8vbqs17sl702iq5a03zp",
     "version": "1.0.0"
+  },
+  "wp-seo-tdk-es_MX": {
+    "path": "wp-seo-tdk/2.1.2/es_MX",
+    "rev": "353978",
+    "sha256": "0wb1fwjyrxb6jnxw2pcrg6wax2v03i6wjbryb4r4y49fnlipqqwq",
+    "version": "2.1.2"
   },
   "wp-seo-tdk-es_VE": {
     "path": "wp-seo-tdk/2.1.2/es_VE",
@@ -116773,8 +116959,8 @@
   },
   "wpdiscuz-nl_NL": {
     "path": "wpdiscuz/7.0.2/nl_NL",
-    "rev": "353764",
-    "sha256": "10adkjqy6f4fh626kaww87riwxhd5fqi8kcv6qvswldyc7d7dw9a",
+    "rev": "354527",
+    "sha256": "10qddwzzkdpqpfp46pafh7ivygwpzcw4jdhjcl9iq46x6zqpinq5",
     "version": "7.0.2"
   },
   "wpdiscuz-ru_RU": {
@@ -117001,8 +117187,8 @@
   },
   "wpforo-tr_TR": {
     "path": "wpforo/1.7.7/tr_TR",
-    "rev": "346394",
-    "sha256": "0rissr4n3r0i5rf7cgqv69b12wjs3yz5clfiq78ga28n650d3875",
+    "rev": "354112",
+    "sha256": "1gfb0hlm0j2bnsf2rsn229kyarl1vrvlgyb3alz60fdsnsv8fpih",
     "version": "1.7.7"
   },
   "wpforo-zh_CN": {
@@ -117726,22 +117912,22 @@
     "version": "3.3.0"
   },
   "wpsso-fr_BE": {
-    "path": "wpsso/7.8.0/fr_BE",
-    "rev": "349880",
-    "sha256": "1ana37rhb43v7d4k8mz8nf0bxwvj0505lmxm9ijzz06g36cvhi0h",
-    "version": "7.8.0"
+    "path": "wpsso/7.9.0/fr_BE",
+    "rev": "354440",
+    "sha256": "1mvg37i0xnhzm30jnhglpmjld101jnmf2x3g38516hj2ncdc6q47",
+    "version": "7.9.0"
   },
   "wpsso-fr_CA": {
-    "path": "wpsso/7.8.0/fr_CA",
-    "rev": "350583",
-    "sha256": "1ywnfih6y3ii5y0y5d8px6s20jqdcnfj0mplpd9iw5pcq0qdd05y",
-    "version": "7.8.0"
+    "path": "wpsso/7.9.0/fr_CA",
+    "rev": "354441",
+    "sha256": "08w9m06fpsv13bjs4grk5hw6v7bnv149pm9kil4ygnfpqiq0cbby",
+    "version": "7.9.0"
   },
   "wpsso-fr_FR": {
-    "path": "wpsso/7.8.0/fr_FR",
-    "rev": "349882",
-    "sha256": "0r5290f0yqq5xak6gd5py6wsbi831rmnm8sk3q17wirxhxk7iw7p",
-    "version": "7.8.0"
+    "path": "wpsso/7.9.0/fr_FR",
+    "rev": "354442",
+    "sha256": "1p9641yhqkjr73mblh2lqkm5nw5qkjajr1nw36kw166f3rx54h15",
+    "version": "7.9.0"
   },
   "wpsso-inherit-parent-meta-fr_CA": {
     "path": "wpsso-inherit-parent-meta/3.1.0/fr_CA",
@@ -117756,22 +117942,22 @@
     "version": "3.1.0"
   },
   "wpsso-organization-fr_BE": {
-    "path": "wpsso-organization/3.2.0/fr_BE",
-    "rev": "337190",
-    "sha256": "0dnfn9cxpljsn7n2sqqhd330zy67373rgz4qa5x29kqav7czvyz9",
-    "version": "3.2.0"
+    "path": "wpsso-organization/3.3.0/fr_BE",
+    "rev": "354473",
+    "sha256": "1g43sd61sy1prif8i5d2c61w67a22d1gf4h6m9448sj9yvvsvcps",
+    "version": "3.3.0"
   },
   "wpsso-organization-fr_CA": {
-    "path": "wpsso-organization/3.2.0/fr_CA",
-    "rev": "337191",
-    "sha256": "127dgnnzvirf2nd63yz7z08jbqc40hjncpxbliyvkhgxkxgsm3b7",
-    "version": "3.2.0"
+    "path": "wpsso-organization/3.3.0/fr_CA",
+    "rev": "354474",
+    "sha256": "0isa580y984h83h7vjmfpxjrvnvqkg6mlq9rpa11v6fj3zpxmx79",
+    "version": "3.3.0"
   },
   "wpsso-organization-fr_FR": {
-    "path": "wpsso-organization/3.2.0/fr_FR",
-    "rev": "337192",
-    "sha256": "11gi96yrc1cr28mnf8k333k96pgk2llrncrl456dsngw87aksxf3",
-    "version": "3.2.0"
+    "path": "wpsso-organization/3.3.0/fr_FR",
+    "rev": "354475",
+    "sha256": "0c3z2fjqj3x38v9d8b2g9z04jwk70csydaana67baxfd3iz5mzbb",
+    "version": "3.3.0"
   },
   "wpsso-plm-fr_BE": {
     "path": "wpsso-plm/4.14.0/fr_BE",
@@ -117840,34 +118026,34 @@
     "version": "4.3.0"
   },
   "wpsso-schema-json-ld-en_AU": {
-    "path": "wpsso-schema-json-ld/3.10.0/en_AU",
-    "rev": "351699",
-    "sha256": "1xvb2b6arshm8v6lvrp0j28hk75g4ldvk333migdmp6qi5njlqjx",
-    "version": "3.10.0"
+    "path": "wpsso-schema-json-ld/3.11.0/en_AU",
+    "rev": "354476",
+    "sha256": "156c4ssr9rzk7iv5z8byc94m9iw3ski1kl4mw0065vqnw8ic5d0i",
+    "version": "3.11.0"
   },
   "wpsso-schema-json-ld-en_NZ": {
-    "path": "wpsso-schema-json-ld/3.10.0/en_NZ",
-    "rev": "351700",
-    "sha256": "0m353fmbg8wzzrvirc2js4b8zrcm3842zs9fbm5lvil9iz6c3g0n",
-    "version": "3.10.0"
+    "path": "wpsso-schema-json-ld/3.11.0/en_NZ",
+    "rev": "354477",
+    "sha256": "0v46c9gsksbck9zs75lrhbhmprhk3rjy1bqyyls3b2wgq9mv4nlx",
+    "version": "3.11.0"
   },
   "wpsso-schema-json-ld-fr_BE": {
-    "path": "wpsso-schema-json-ld/3.10.0/fr_BE",
-    "rev": "351701",
-    "sha256": "1f7cbssksyv91x4pxbaw3yxr67xm6mp6x86hg7spyn9ddlx433rh",
-    "version": "3.10.0"
+    "path": "wpsso-schema-json-ld/3.11.0/fr_BE",
+    "rev": "354478",
+    "sha256": "16n61299d816ahx574lnq6nlpil289ffw7bx59qnrlj8s6wc3y6d",
+    "version": "3.11.0"
   },
   "wpsso-schema-json-ld-fr_CA": {
-    "path": "wpsso-schema-json-ld/3.10.0/fr_CA",
-    "rev": "351702",
-    "sha256": "1cxvi9pzyz3wdxji3qvkrg5ijnfb4fjggxk65wap6cxk8jmm9dib",
-    "version": "3.10.0"
+    "path": "wpsso-schema-json-ld/3.11.0/fr_CA",
+    "rev": "354479",
+    "sha256": "159s3pkvzvfln3w7qvxlajbqv7zna7cf8pfpxy2kbgcnhh87x80k",
+    "version": "3.11.0"
   },
   "wpsso-schema-json-ld-fr_FR": {
-    "path": "wpsso-schema-json-ld/3.10.0/fr_FR",
-    "rev": "351703",
-    "sha256": "03mjgjy52wr2fphk946fin6cgb230i2yv0yan8kr02cpd8lrsjb3",
-    "version": "3.10.0"
+    "path": "wpsso-schema-json-ld/3.11.0/fr_FR",
+    "rev": "354480",
+    "sha256": "1rrwp69i3nl86ibs5aplzgvajc5bjkmnmgh4a7cj7p4qy2a34ah1",
+    "version": "3.11.0"
   },
   "wpsso-ssb-fr_BE": {
     "path": "wpsso-ssb/4.7.0/fr_BE",
@@ -118081,8 +118267,8 @@
   },
   "wptelegram-es_ES": {
     "path": "wptelegram/2.1.15/es_ES",
-    "rev": "314101",
-    "sha256": "0p9lpcb1aca1plvgfnpqcq4927xxs304zddwywksdn3ddb0q3g90",
+    "rev": "354513",
+    "sha256": "01fwv3x0h0h1kr2k69cmhmwj5w15fgy42z6m0hcr17wa6wbdmayj",
     "version": "2.1.15"
   },
   "wptelegram-fa_IR": {
@@ -119575,8 +119761,8 @@
   },
   "yith-live-chat-it_IT": {
     "path": "yith-live-chat/1.4.4/it_IT",
-    "rev": "353645",
-    "sha256": "00i91vz8nm5q56pccm9n0cyd5phcp9qbzza6p0rixarmbg2v8c50",
+    "rev": "354344",
+    "sha256": "0mb25l960jpc29h2yfb7ilyrkpyd082hlc7a2gb7mhqn1cfg7kvh",
     "version": "1.4.4"
   },
   "yith-live-chat-nl_NL": {
@@ -119791,8 +119977,8 @@
   },
   "yith-woocommerce-added-to-cart-popup-it_IT": {
     "path": "yith-woocommerce-added-to-cart-popup/1.4.2/it_IT",
-    "rev": "343247",
-    "sha256": "0hry37p7wxaryk0wh9biglg0ywpchfpxcrc0rzxpaxv14xnh0ds9",
+    "rev": "354598",
+    "sha256": "1pp5gjxzpd24w2sxhxr72k2f8fn90z91zsbi702xcm13gyaxpkk4",
     "version": "1.4.2"
   },
   "yith-woocommerce-added-to-cart-popup-ja": {
