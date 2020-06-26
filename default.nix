@@ -29,6 +29,9 @@ let packages = (self:
       installPhase = ''
         cp -R ./. $out
       '';
+      postFixup = ''
+        find $out
+      '';
     } // optionalAttrs (type == "languages" || type == "pluginLanguages" || type == "themeLanguages") {
       nativeBuildInputs = [ gettext wp-cli ];
       buildPhase = ''
