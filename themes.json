@@ -1368,10 +1368,10 @@
     "version": "1.2.5"
   },
   "allium": {
-    "path": "allium/1.0.3",
-    "rev": "108369",
-    "sha256": "1vxhvwzknn5vm1ppjkmlnz2w50lf7spmgpmfgps2ljnf1kq01sz3",
-    "version": "1.0.3"
+    "path": "allium/1.0.4",
+    "rev": "133559",
+    "sha256": "1am0gvkqwlw5xc454dsa350jjcihhbsff80wv3ddq3sc5fx8nk1s",
+    "version": "1.0.4"
   },
   "allmed": {
     "path": "allmed/1.5",
@@ -5448,10 +5448,10 @@
     "version": "1.1.4"
   },
   "blogrid": {
-    "path": "blogrid/2.1",
-    "rev": "132534",
-    "sha256": "0nnj1xbz0kf96pkxidvi9nq55i5l6svkkr45gdvpc4mrwqwh0m8l",
-    "version": "2.1"
+    "path": "blogrid/2.2",
+    "rev": "133547",
+    "sha256": "0cb9b2w8xndph4raj30nysf3amjpcbm2ridxl6wxx03bhw54vx9b",
+    "version": "2.2"
   },
   "blogrock-core": {
     "path": "blogrock-core/1.0.7",
@@ -9671,6 +9671,12 @@
     "sha256": "0vvshv98qvx4cylx40g14rqhqpzn5zsflc8z3ablg20fkm3hwii4",
     "version": "1.2"
   },
+  "conceptly": {
+    "path": "conceptly/1.0.4",
+    "rev": "133382",
+    "sha256": "0xzqvv0npbniqxkhxj19blnp2ni2ydhylpnm7jxdpv2fg30cskmm",
+    "version": "1.0.4"
+  },
   "confit": {
     "path": "confit/1.3.3",
     "rev": "89101",
@@ -9874,6 +9880,12 @@
     "rev": "77664",
     "sha256": "14aazm7aj55fklmhs4wgaw08620asgjps8fbyfpp0r72111awa4r",
     "version": "1.2.3"
+  },
+  "consultstreet": {
+    "path": "consultstreet/0.5",
+    "rev": "133361",
+    "sha256": "15gy1awv8iv1407a2nzcxcm0726l23khrcdpwlydqr4pdnqfslg3",
+    "version": "0.5"
   },
   "consultup": {
     "path": "consultup/1.9.5",
@@ -13008,16 +13020,22 @@
     "version": "1.0.5"
   },
   "ecommerce-storefront": {
-    "path": "ecommerce-storefront/1.0.5",
-    "rev": "133514",
-    "sha256": "1xj51naqa9h9c14jjcn63m3x1vrsgsvlknzy7500g1i551mdqnns",
-    "version": "1.0.5"
+    "path": "ecommerce-storefront/1.0.6",
+    "rev": "133560",
+    "sha256": "1gaanyk7c1q0djz8n9mqyqvp4pqsk8jw64n5d9kals51j51kry9q",
+    "version": "1.0.6"
   },
   "ecommerce-x": {
     "path": "ecommerce-x/1.1.1",
     "rev": "110657",
     "sha256": "0szvfmcgkrajvkya81bvlgdix8gqfabn81cpy1m3y9icp8by2jzk",
     "version": "1.1.1"
+  },
+  "ecommerce-zone": {
+    "path": "ecommerce-zone/0.3.1",
+    "rev": "133542",
+    "sha256": "0y7v57i7axyp1x5ng6zljsircad2jndbyif0ylkf397i8wbk2l2q",
+    "version": "0.3.1"
   },
   "econature-lite": {
     "path": "econature-lite/1.1",
@@ -13350,10 +13368,10 @@
     "version": "1.2.0"
   },
   "educollege": {
-    "path": "educollege/1.0.2",
-    "rev": "133464",
-    "sha256": "1j9lr6lnzq5rf9ayyhixgz68rqlrpii28dpa4yikkgb68im2psz2",
-    "version": "1.0.2"
+    "path": "educollege/1.0.3",
+    "rev": "133548",
+    "sha256": "0sfdvpwnvi8p9hckmq3rhx2mz6ch5ygqjh7f8dspz50d8rfvw4hw",
+    "version": "1.0.3"
   },
   "edufication": {
     "path": "edufication/1.1.7",
@@ -15784,6 +15802,12 @@
     "rev": "70261",
     "sha256": "1n0sdsajmn783sinpnhckr3q3ygs40j74bpf3h605gaahp7iyf77",
     "version": "1.1.5"
+  },
+  "flaxseed-pro": {
+    "path": "flaxseed-pro/0.0.0.5",
+    "rev": "133403",
+    "sha256": "1nw5h6bmi565jyhq38y3fdbawak0nkqf5jvrfnj20jvzmyj8n5a1",
+    "version": "0.0.0.5"
   },
   "fleming": {
     "path": "fleming/1.0.5",
@@ -18804,10 +18828,10 @@
     "version": "1.2.7"
   },
   "hasium": {
-    "path": "hasium/1.2.4",
-    "rev": "132053",
-    "sha256": "1s2vncrl1slmnkvp94z21r2hqvgc3rjmqzvi1zb858h09fmq0kzh",
-    "version": "1.2.4"
+    "path": "hasium/1.2.5",
+    "rev": "133545",
+    "sha256": "1kl3izwzk5xdnmqhyiddpvsxx7mmdaihr4lhps34zqqk0xkyj12h",
+    "version": "1.2.5"
   },
   "hasten-lite": {
     "path": "hasten-lite/1.5.0",
@@ -20208,10 +20232,10 @@
     "version": "1.2.5"
   },
   "industrial-lite": {
-    "path": "industrial-lite/0.2.8",
-    "rev": "133116",
-    "sha256": "1az8i3mba1qx8m62ivszhq9z48vn2wq0b0drpchdpdls934gig1h",
-    "version": "0.2.8"
+    "path": "industrial-lite/0.2.9",
+    "rev": "133551",
+    "sha256": "0y99ffv8gzgfnkslfxw2w0n6dqd27p15dwcqjhrayh0bfvg5q6n3",
+    "version": "0.2.9"
   },
   "inferno-mf": {
     "path": "inferno-mf/1.2",
@@ -22248,10 +22272,10 @@
     "version": "1.1.0"
   },
   "krystal-shop": {
-    "path": "krystal-shop/1.0.2",
-    "rev": "94669",
-    "sha256": "190cqzzvzzlmf0gski55ygpc3cawfh0km60pj0sai78zq7ghndfk",
-    "version": "1.0.2"
+    "path": "krystal-shop/1.1.1",
+    "rev": "133298",
+    "sha256": "034265pfr893ka5nf4c7l823snaakrwdjk8gh8w9slkwj6j8kz4f",
+    "version": "1.1.1"
   },
   "kubera": {
     "path": "kubera/1.0.2",
@@ -23040,10 +23064,10 @@
     "version": "1.29"
   },
   "lightning": {
-    "path": "lightning/11.0.9",
-    "rev": "133528",
-    "sha256": "0v33859vyqhk6xzhaivg541pfjkv6b2m5lxsy98z03qxr8x6xwxz",
-    "version": "11.0.9"
+    "path": "lightning/11.1.0",
+    "rev": "133565",
+    "sha256": "0wsag2g3r3qqwjjw6dnig4sln41nrs3q27hzcn160r3igp1j6r8l",
+    "version": "11.1.0"
   },
   "lightning-monkey": {
     "path": "lightning-monkey/1.4",
@@ -24816,10 +24840,10 @@
     "version": "1.2"
   },
   "medical-circle": {
-    "path": "medical-circle/2.0.1",
-    "rev": "119242",
-    "sha256": "1hijajp3b2y4cka2zd2dlgicivsm8alchqir2dk49lc40crp8rpb",
-    "version": "2.0.1"
+    "path": "medical-circle/3.0.0",
+    "rev": "133561",
+    "sha256": "04ic64v7a017cj576kaj2fpvp3kc51gnik5fsb25yiv68y6yf47l",
+    "version": "3.0.0"
   },
   "medical-consulting": {
     "path": "medical-consulting/1.0.0",
@@ -28224,10 +28248,10 @@
     "version": "1.3.6"
   },
   "nightingale": {
-    "path": "nightingale/2.1.8",
-    "rev": "131724",
-    "sha256": "0k5rc7s0cssys68yw40rhwh73k0bp2f6dvkjcnacdxf8nax4kg42",
-    "version": "2.1.8"
+    "path": "nightingale/2.2.0",
+    "rev": "133557",
+    "sha256": "1cmrandvyp1rizi0aqmj48dd4pphii066jvaqpzzxc9n4aam2pp3",
+    "version": "2.2.0"
   },
   "nightjar": {
     "path": "nightjar/1.0.3",
@@ -29993,6 +30017,12 @@
     "sha256": "1apd8iqs3jcb246ya8hc6rr09zvyvk0prj4ppwcxlbzcc6hxx498",
     "version": "2.0.8"
   },
+  "own-shop": {
+    "path": "own-shop/1.0.6",
+    "rev": "133442",
+    "sha256": "17ci9xr570lnfbzpsik641d4nla4487rmkdwaycjmm96lrgnc8xc",
+    "version": "1.0.6"
+  },
   "owner": {
     "path": "owner/1.1.9",
     "rev": "130775",
@@ -30198,10 +30228,10 @@
     "version": "2.0.5"
   },
   "panadero-bakery": {
-    "path": "panadero-bakery/0.4.1",
-    "rev": "128494",
-    "sha256": "1z75wal4i2kz9jzhdm8w9531sg8ij6jjlb13zb7szvlyyk2svqyy",
-    "version": "0.4.1"
+    "path": "panadero-bakery/0.4.2",
+    "rev": "133563",
+    "sha256": "1n7lyll39c23nljzr8l2y82dkvnz0rl2d7xzdlgcy29jbdp11x5z",
+    "version": "0.4.2"
   },
   "panaroma": {
     "path": "panaroma/1.4",
@@ -32358,10 +32388,10 @@
     "version": "0.5.0"
   },
   "profisme": {
-    "path": "profisme/2.7",
-    "rev": "133299",
-    "sha256": "0a61w6pz8ypsyrsk13zi4xh3f77ha8fx3g69h75ilpmvhgk6wi5q",
-    "version": "2.7"
+    "path": "profisme/2.8",
+    "rev": "133558",
+    "sha256": "0299wnby7xr1bcns8d3d5lf7vp0sazcgqw7z0q4f9k3z9sqqqj4x",
+    "version": "2.8"
   },
   "profit-lite": {
     "path": "profit-lite/1.6.1",
@@ -36239,6 +36269,12 @@
     "sha256": "0apm9syhy6qmd0mh612dgi8bhvwmmir2ysc3crrxgw8sa0rid74f",
     "version": "1.0.82"
   },
+  "shopstore": {
+    "path": "shopstore/4.1.7",
+    "rev": "133242",
+    "sha256": "1h7n47v88zmld4afrdlf00vgcmrqyz73m5f1791wm0vccysp4cjj",
+    "version": "4.1.7"
+  },
   "shopstudio": {
     "path": "shopstudio/1.0.7",
     "rev": "121670",
@@ -36678,10 +36714,10 @@
     "version": "1.0.4"
   },
   "simone": {
-    "path": "simone/2.1.1",
-    "rev": "54001",
-    "sha256": "0rz43g98r925hdwjvkw4c2jxv06ddja2fg7593g8sn39wqdkar0a",
-    "version": "2.1.1"
+    "path": "simone/2.1.2",
+    "rev": "133556",
+    "sha256": "0jh0f39c7jgzbh4rb816x92r3css0jbii56dhz2bilmkj9ja616z",
+    "version": "2.1.2"
   },
   "simpcalar": {
     "path": "simpcalar/2.6.3",
@@ -39336,10 +39372,10 @@
     "version": "0.1.5"
   },
   "suki": {
-    "path": "suki/1.2.11",
-    "rev": "130503",
-    "sha256": "1j8wxsc8v403jrs7549ps31axz7h1rbrz0a2jqcs7kxg2804z455",
-    "version": "1.2.11"
+    "path": "suki/1.2.12",
+    "rev": "133546",
+    "sha256": "175zxg6dpk333kgzgdwxys321vbmbl530cijd8nsyx58lsx09j3b",
+    "version": "1.2.12"
   },
   "sukra": {
     "path": "sukra/1.0.1",
@@ -43584,10 +43620,10 @@
     "version": "1.0.6"
   },
   "vlogger-video-blog": {
-    "path": "vlogger-video-blog/1.3.5",
-    "rev": "133117",
-    "sha256": "0nkqbs13cv4jpzxlrir2dnxhb8sq7146m82gk2jwgsl3qaig5h5s",
-    "version": "1.3.5"
+    "path": "vlogger-video-blog/1.3.6",
+    "rev": "133552",
+    "sha256": "12p2l1l2l93jr6rda0qr4fyp4l3i678cwplljyvqsirwdpm9kwh4",
+    "version": "1.3.6"
   },
   "vlogr": {
     "path": "vlogr/1.0.7",
@@ -43704,10 +43740,10 @@
     "version": "1.2.9"
   },
   "vw-bakery": {
-    "path": "vw-bakery/0.6.9",
-    "rev": "133118",
-    "sha256": "1r365pgycpxrnln222xdhy9fm1wds3nr1k4z5fjck2ny15m9fzyn",
-    "version": "0.6.9"
+    "path": "vw-bakery/0.7",
+    "rev": "133553",
+    "sha256": "0ffjn0fviz8hvi7hd97vkb0h0hspi9c2h5v7dk426b4v9p6l00ks",
+    "version": "0.7"
   },
   "vw-blog-magazine": {
     "path": "vw-blog-magazine/0.4.7",
@@ -44814,10 +44850,10 @@
     "version": "1.8.6"
   },
   "woostify": {
-    "path": "woostify/1.6.5",
-    "rev": "132535",
-    "sha256": "18axfdckd0863h2qw7wg5a69xfqz7a00drlmcpw32r1rajcm5v10",
-    "version": "1.6.5"
+    "path": "woostify/1.6.6",
+    "rev": "133549",
+    "sha256": "0lmvzqbbf1qas36dxslkfa6jbfacl03q2mzgg6y9njybga3h8xxh",
+    "version": "1.6.6"
   },
   "woot": {
     "path": "woot/3.0.2",
