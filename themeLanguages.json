@@ -1170,10 +1170,10 @@
     "version": "1.6"
   },
   "academic-cs_CZ": {
-    "path": "academic/2.4/cs_CZ",
-    "rev": "326184",
-    "sha256": "0bcbrr947xrzs47f9bxfrqcmskj1qdq78srzz0l6kvv1996fqwql",
-    "version": "2.4"
+    "path": "academic/2.5/cs_CZ",
+    "rev": "400385",
+    "sha256": "11yq6zyms0vm4q8qwpkx26bklg0mn9nw3aqd006i98dcxb3i6bk2",
+    "version": "2.5"
   },
   "academic-education-el": {
     "path": "academic-education/0.2.7/el",
@@ -2765,23 +2765,29 @@
     "sha256": "03hw6hcpyr9sp32ac1sxswmkmxb3lawnfs7mk3bmy4b87rm1i26n",
     "version": "2.1.3"
   },
+  "allegiant-es_CO": {
+    "path": "allegiant/1.2.5/es_CO",
+    "rev": "401198",
+    "sha256": "0kbdn19bah54x27kqlyjiqmj5ch96dna1sbys67jy0463j90pqsd",
+    "version": "1.2.5"
+  },
   "allegiant-es_ES": {
-    "path": "allegiant/1.2.4/es_ES",
-    "rev": "297032",
-    "sha256": "0v8f5xxhxn5hnsd1jf14cy46cnf5b3pzlba0g8b9j6vizlnh36ji",
-    "version": "1.2.4"
+    "path": "allegiant/1.2.5/es_ES",
+    "rev": "400820",
+    "sha256": "0dgips7xh40g1xrdzr41zngs42q7p1dkgvwbznsflr2bwmcmcskm",
+    "version": "1.2.5"
   },
   "allegiant-es_VE": {
-    "path": "allegiant/1.2.4/es_VE",
-    "rev": "295500",
-    "sha256": "091za83a3b2x8wdc5hglzmj38hv2kdvaxx44nhnps88y2zrafdpl",
-    "version": "1.2.4"
+    "path": "allegiant/1.2.5/es_VE",
+    "rev": "401199",
+    "sha256": "0fj83chwyy6wqvqk9vf6n1vpxwl095k6p31ysvai7fsjabdwmfj0",
+    "version": "1.2.5"
   },
   "allegiant-tr_TR": {
-    "path": "allegiant/1.2.4/tr_TR",
-    "rev": "337778",
-    "sha256": "003h1jnr8xmbrhik8wnnrb4x0nr8813y88l9xrvgc0r0kam1rafn",
-    "version": "1.2.4"
+    "path": "allegiant/1.2.5/tr_TR",
+    "rev": "400822",
+    "sha256": "06cw3r4jdvj490cs8lwg4n31bplzmrh3j2c14xg048j8dsw5rsvz",
+    "version": "1.2.5"
   },
   "alleria-en_AU": {
     "path": "alleria/1.5.4/en_AU",
@@ -5797,8 +5803,8 @@
   },
   "astra-it_IT": {
     "path": "astra/2.5.4/it_IT",
-    "rev": "391916",
-    "sha256": "0d2rj709b7f3y65amdwikp0aimzn6br0853676gih9vzlxhkg08h",
+    "rev": "400880",
+    "sha256": "0zy02p7fyy8vqz0g8iky5rk6pz0silr8vshrymbf528bf2wqb3ib",
     "version": "2.5.4"
   },
   "astra-ja": {
@@ -6378,46 +6384,46 @@
     "version": "0.4.5"
   },
   "avant-es_ES": {
-    "path": "avant/1.1.43/es_ES",
-    "rev": "394247",
-    "sha256": "0rypf7qmz913in0jz4v03zjpwbfr88whb5jxpvxdqqz51pz0xix5",
-    "version": "1.1.43"
+    "path": "avant/1.1.44/es_ES",
+    "rev": "400382",
+    "sha256": "1zhhj792jfi7cjh7i9fzm4afdvpn6hxg8gv2z5i9jflvlsvllc7n",
+    "version": "1.1.44"
   },
   "avant-es_MX": {
-    "path": "avant/1.1.43/es_MX",
-    "rev": "394246",
-    "sha256": "15f0xhqljnsbg71zyv6404zkkj204wmzwy5acvlgy6mcrs3vl7k7",
-    "version": "1.1.43"
+    "path": "avant/1.1.44/es_MX",
+    "rev": "400381",
+    "sha256": "1shp56jxpfb0r6rg6f85xzlrb5sr5jbz1whpd3vw2kxxrrqqrlzp",
+    "version": "1.1.44"
   },
   "avant-es_VE": {
-    "path": "avant/1.1.43/es_VE",
-    "rev": "394248",
-    "sha256": "0l10jkfnm6gnahj6877ljxq4rkyhb9ma4lg1p5z7jqimpasdjbsk",
-    "version": "1.1.43"
+    "path": "avant/1.1.44/es_VE",
+    "rev": "400383",
+    "sha256": "1lh5jjs8y3c9bnhw2wx3p1sydgngqxq4s8kcrynmc3x8fq7wkx9x",
+    "version": "1.1.44"
   },
   "avant-fi": {
-    "path": "avant/1.1.43/fi",
-    "rev": "394245",
-    "sha256": "1zly9jhj2sw73j4bx79i88szb9pkdlgbzn07g3jrgnxj7c4a1brs",
-    "version": "1.1.43"
+    "path": "avant/1.1.44/fi",
+    "rev": "400380",
+    "sha256": "0bysfcw9iqqhrfzxrb41vzp9nab8bbikzz240yvpa68dwv8671yf",
+    "version": "1.1.44"
   },
   "avant-nl_BE": {
-    "path": "avant/1.1.43/nl_BE",
-    "rev": "394243",
-    "sha256": "1pfg0zp0b4s8apywb5hg2xgc7br2pbwk5wakrr5pf3a14qwdjy7a",
-    "version": "1.1.43"
+    "path": "avant/1.1.44/nl_BE",
+    "rev": "400378",
+    "sha256": "14v796kp6lvd4h1xdzrlps199653h5cmn4wcbnsm9m1mwivk3303",
+    "version": "1.1.44"
   },
   "avant-nl_NL": {
-    "path": "avant/1.1.43/nl_NL",
-    "rev": "394242",
-    "sha256": "0yrmn07mjg31d2vj5l3yg7r679ylwdr5rjm6na3df59qdxn5bj5b",
-    "version": "1.1.43"
+    "path": "avant/1.1.44/nl_NL",
+    "rev": "400377",
+    "sha256": "11d8nyhshkqv9k05b0m8yydmnn2x2m4h1ix96daz1sq607v308qb",
+    "version": "1.1.44"
   },
   "avant-nl_NL_formal": {
-    "path": "avant/1.1.43/nl_NL_formal",
-    "rev": "394244",
-    "sha256": "1vp181plsclacdq9mh8agd8zpr954bnqzavz09ckgifh5kxw2p5g",
-    "version": "1.1.43"
+    "path": "avant/1.1.44/nl_NL_formal",
+    "rev": "400379",
+    "sha256": "0002vmn3pnjc1xg0gmk0bvbl7h8qdsws43silb0rg1acv6bgibpd",
+    "version": "1.1.44"
   },
   "avant-portfolio-fi": {
     "path": "avant-portfolio/1.0.1/fi",
@@ -9701,6 +9707,12 @@
     "sha256": "07jpafssikkzmkk1g4pi1y29awjc577kvmz0gr0srs1k92wqqpak",
     "version": "1.7.28"
   },
+  "blocksy-es_CO": {
+    "path": "blocksy/1.7.28/es_CO",
+    "rev": "401200",
+    "sha256": "0qzdm6i7rsxryzvp2jamkj6f8kihdjvyc9j4f6xf3hvj6gcbjs98",
+    "version": "1.7.28"
+  },
   "blocksy-es_CR": {
     "path": "blocksy/1.7.28/es_CR",
     "rev": "400169",
@@ -9721,8 +9733,8 @@
   },
   "blocksy-es_VE": {
     "path": "blocksy/1.7.28/es_VE",
-    "rev": "400172",
-    "sha256": "12dfzhh9b6fcign8hh89ajsjdhqfxpnv9shmbi3yx06vdshqwb3x",
+    "rev": "401201",
+    "sha256": "1xicynwcd9cp9r46zxsfpa9y4npahafd7y7s42gr6kzpd77y6iya",
     "version": "1.7.28"
   },
   "blocksy-nb_NO": {
@@ -17430,28 +17442,28 @@
     "version": "2.2.1"
   },
   "catch-kathmandu-es_ES": {
-    "path": "catch-kathmandu/4.2/es_ES",
-    "rev": "397457",
-    "sha256": "0ciag9r01x66vqhkx4xxaqk3nziyx4zlp8ybkbwpqj76pwh0qvc4",
-    "version": "4.2"
+    "path": "catch-kathmandu/4.2.2/es_ES",
+    "rev": "401203",
+    "sha256": "1566bza2sikmh6rg1gi14br81bxai64skhwqvc64kmali61r30gr",
+    "version": "4.2.2"
   },
   "catch-kathmandu-es_VE": {
-    "path": "catch-kathmandu/4.2/es_VE",
-    "rev": "397458",
-    "sha256": "0i22y4scxa85rmvgkqs17b5p2az0xgvfh8896pszmmbi6l6pfs5v",
-    "version": "4.2"
+    "path": "catch-kathmandu/4.2.2/es_VE",
+    "rev": "401204",
+    "sha256": "1f023mvcgxr4068ypz38csy1f4jp5d6a8ia2hdwb2nclynacz0y3",
+    "version": "4.2.2"
   },
   "catch-kathmandu-ja": {
-    "path": "catch-kathmandu/4.2/ja",
-    "rev": "397456",
-    "sha256": "1bjg5n988dhsn5klcasyfpmm1jzlbqzkizb7bx695m03116ylwlx",
-    "version": "4.2"
+    "path": "catch-kathmandu/4.2.2/ja",
+    "rev": "401202",
+    "sha256": "1lk5kzwf5j4vzsvn217ykh6jr4fj6c6lcapmwpmj1dyrq7w7z4hq",
+    "version": "4.2.2"
   },
   "catch-kathmandu-sv_SE": {
-    "path": "catch-kathmandu/4.2/sv_SE",
-    "rev": "397459",
-    "sha256": "01c4k01fjh5jhhsfhnwiqahy2hm60jzaxwg94qsbbnd589zqdims",
-    "version": "4.2"
+    "path": "catch-kathmandu/4.2.2/sv_SE",
+    "rev": "401205",
+    "sha256": "0nqpk71r2bisphq69bmgp4q1jljdv8v2sgawril1r76m138md4ar",
+    "version": "4.2.2"
   },
   "catch-mag-sv_SE": {
     "path": "catch-mag/1.1.5/sv_SE",
@@ -20326,6 +20338,12 @@
     "rev": "323253",
     "sha256": "1z3s693nbb14nfgn4d53gbg0h8q5y2qbmmycms6hwgbgzqcbsav3",
     "version": "1.1.4"
+  },
+  "componentz-cs_CZ": {
+    "path": "componentz/1.2.4/cs_CZ",
+    "rev": "400386",
+    "sha256": "0a30gvp37g6iib3vkpma8z9avgdmfmb9vhf8fciy54xxcn1mcyrj",
+    "version": "1.2.4"
   },
   "composer-en_AU": {
     "path": "composer/0.1.6/en_AU",
@@ -24655,8 +24673,8 @@
   },
   "easy-store-es_VE": {
     "path": "easy-store/1.1.2/es_VE",
-    "rev": "393833",
-    "sha256": "1n1ly2sdjmr3wxk9c1q6rlpg3isq3b1n5846wk3nlzby3ncmwyf3",
+    "rev": "400997",
+    "sha256": "1kxvzssyxasi6fs295p2cmiw5q8f31zgipaib5g4sjvrjangk2kb",
     "version": "1.1.2"
   },
   "easy-storefront-ru_RU": {
@@ -40061,6 +40079,18 @@
     "sha256": "031d2rc663s1k2pxcnijn15jq4i8380g6fmj6l9swfxrw3ll4x6a",
     "version": "1.2.0"
   },
+  "kontrast-es_ES": {
+    "path": "kontrast/1.2.2/es_ES",
+    "rev": "400388",
+    "sha256": "18bz4fia869x8dhl3pkqag0qy3rp4kbbapg5pb5llavfkdglb6ak",
+    "version": "1.2.2"
+  },
+  "kontrast-es_VE": {
+    "path": "kontrast/1.2.2/es_VE",
+    "rev": "400389",
+    "sha256": "1ahznyqm1bsikynz2qy572ycimcdhv7ycszgya91517irzfsfi6n",
+    "version": "1.2.2"
+  },
   "kontrast-nl_NL": {
     "path": "kontrast/1.2.2/nl_NL",
     "rev": "399894",
@@ -43254,46 +43284,52 @@
     "version": "0.3.3"
   },
   "magazine-hub-en_AU": {
-    "path": "magazine-hub/1.0.1/en_AU",
-    "rev": "173901",
-    "sha256": "0dknsm6yn0fmsn61y072nishnl13xdaklsd3f34wmshyvy5jma20",
-    "version": "1.0.1"
+    "path": "magazine-hub/1.0.2/en_AU",
+    "rev": "400369",
+    "sha256": "0lqm1cndp4br1i48ky0wnawn0l534czsikmddndr646dj193hjg4",
+    "version": "1.0.2"
   },
   "magazine-hub-en_CA": {
-    "path": "magazine-hub/1.0.1/en_CA",
-    "rev": "175466",
-    "sha256": "1yknnb1ci8x7fj03grn4sk4pixpqbx5mlksi7k45ypaq6pj5dji0",
-    "version": "1.0.1"
+    "path": "magazine-hub/1.0.2/en_CA",
+    "rev": "400370",
+    "sha256": "09gxbm1i89cbflw2zvj10v8sjpfw26ax29hkjil787zpibaxdmps",
+    "version": "1.0.2"
   },
   "magazine-hub-en_NZ": {
-    "path": "magazine-hub/1.0.1/en_NZ",
-    "rev": "173902",
-    "sha256": "18fnn00ngl4fmzs4dbyb6lgbydmsjcrjqxlv20racmvl7kk3qwb7",
-    "version": "1.0.1"
+    "path": "magazine-hub/1.0.2/en_NZ",
+    "rev": "400371",
+    "sha256": "10gmg013vcs5xhrx3r7pd18w5z9rvd5ckglq8pmysa4jb7z9vwh0",
+    "version": "1.0.2"
   },
   "magazine-hub-es_ES": {
-    "path": "magazine-hub/1.0.1/es_ES",
-    "rev": "183891",
-    "sha256": "0jm5jl0xigyscf9aaplcjz3hkspjlnvq7j3sksbkz050g7cy5cr3",
-    "version": "1.0.1"
+    "path": "magazine-hub/1.0.2/es_ES",
+    "rev": "400374",
+    "sha256": "0685c7psvd1i5vw06p4dsshl616sb3aj0aw65413gjj7cfnjl9qa",
+    "version": "1.0.2"
   },
   "magazine-hub-es_MX": {
-    "path": "magazine-hub/1.0.1/es_MX",
-    "rev": "307246",
-    "sha256": "1rzh06a88xqiwhanni2h01drmwid7231052g4nr62xxpb9bg6c3l",
-    "version": "1.0.1"
+    "path": "magazine-hub/1.0.2/es_MX",
+    "rev": "400373",
+    "sha256": "17dg8lfh24gsygh4dzhi922n4w1zzw8agpzf1nf0scwjscf3rwjn",
+    "version": "1.0.2"
   },
   "magazine-hub-es_VE": {
-    "path": "magazine-hub/1.0.1/es_VE",
-    "rev": "306460",
-    "sha256": "0k9mb904swdhnal2yqaii3s0g2v73syhq1l7qdscbjb310qrwd85",
-    "version": "1.0.1"
+    "path": "magazine-hub/1.0.2/es_VE",
+    "rev": "400375",
+    "sha256": "1rcj1i808zdn1n1vdk9b25cdn9k99ywsaqfvy30khxky3dlymbbc",
+    "version": "1.0.2"
   },
   "magazine-hub-ja": {
-    "path": "magazine-hub/1.0.1/ja",
-    "rev": "214968",
-    "sha256": "1373rl0i9wbm20sms29d4zllvvv7phqki6xd94kigxgjh0c0h9fx",
-    "version": "1.0.1"
+    "path": "magazine-hub/1.0.2/ja",
+    "rev": "400372",
+    "sha256": "0krk5x84b4m9phdl5m9n08a3qmdjxcypf2xirf9gkdf84l6m6nrz",
+    "version": "1.0.2"
+  },
+  "magazine-hub-sv_SE": {
+    "path": "magazine-hub/1.0.2/sv_SE",
+    "rev": "400376",
+    "sha256": "0vyxmv40mamwr3p4rajkyqngbx9w8a91cp3cj593n02a88vr9x0q",
+    "version": "1.0.2"
   },
   "magazine-news-en_CA": {
     "path": "magazine-news/2.3.9/en_CA",
@@ -45630,94 +45666,94 @@
     "version": "1.4.1"
   },
   "metro-magazine-cs_CZ": {
-    "path": "metro-magazine/1.3.3/cs_CZ",
-    "rev": "377797",
-    "sha256": "065qd4msfk2lq2ji0lq5lcm78fm69r9cvbakjnxj55xpxx3vrw49",
-    "version": "1.3.3"
+    "path": "metro-magazine/1.3.4/cs_CZ",
+    "rev": "400497",
+    "sha256": "0nsdlbnz055iq6ylkfr67ql2wffr8a5z4y379xmv8n6gfybf0rkd",
+    "version": "1.3.4"
   },
   "metro-magazine-de_DE": {
-    "path": "metro-magazine/1.3.3/de_DE",
-    "rev": "357282",
-    "sha256": "10acx9593q0a72rg3996zgzhkfwn0x88fsr193a0hyf0sj7aihvn",
-    "version": "1.3.3"
+    "path": "metro-magazine/1.3.4/de_DE",
+    "rev": "400502",
+    "sha256": "0spfji56z5q9yv8qnjxwfz6g664xqzjniqzwsirnyxpv737j31p1",
+    "version": "1.3.4"
   },
   "metro-magazine-en_CA": {
-    "path": "metro-magazine/1.3.3/en_CA",
-    "rev": "357278",
-    "sha256": "15hvhqbzf05y01zcgc2m0rz3qhm5lipyz2xangz78k61p1xmggpg",
-    "version": "1.3.3"
+    "path": "metro-magazine/1.3.4/en_CA",
+    "rev": "400498",
+    "sha256": "00wrf9p1nnbni11fmn0kcf8xv8ylpwmlza62r5zhi8xl8xnh529i",
+    "version": "1.3.4"
   },
   "metro-magazine-en_GB": {
-    "path": "metro-magazine/1.3.3/en_GB",
-    "rev": "357279",
-    "sha256": "0s6yqpn7l9brax04c7i3gjcv87m596h7fj4spqn803ii5qvl7dr2",
-    "version": "1.3.3"
+    "path": "metro-magazine/1.3.4/en_GB",
+    "rev": "400499",
+    "sha256": "00nhrddi7sijm11ikcvzl9jcl3rvrananrzih9765jhrdgndqsni",
+    "version": "1.3.4"
   },
   "metro-magazine-es_CR": {
-    "path": "metro-magazine/1.3.3/es_CR",
-    "rev": "357287",
-    "sha256": "0ss125n1imv2fw2xbskbcss1cjkzg4hqqvcj0dfrp1bp9vgr8cm6",
-    "version": "1.3.3"
+    "path": "metro-magazine/1.3.4/es_CR",
+    "rev": "400507",
+    "sha256": "0zix6yc15zhxrcmn7286kr4vf40hf486af537z9ycccy67g39wnx",
+    "version": "1.3.4"
   },
   "metro-magazine-es_ES": {
-    "path": "metro-magazine/1.3.3/es_ES",
-    "rev": "357289",
-    "sha256": "0dma7y5cpndwk8j27x142p508c9hk82qf64m0mqwz4mq71nwyyb2",
-    "version": "1.3.3"
+    "path": "metro-magazine/1.3.4/es_ES",
+    "rev": "400509",
+    "sha256": "1b5xlkvf8h7zmabslmh38swa1wh1iy48zvffcsiq0a6fcf50dsiw",
+    "version": "1.3.4"
   },
   "metro-magazine-es_MX": {
-    "path": "metro-magazine/1.3.3/es_MX",
-    "rev": "357288",
-    "sha256": "1mj3cgbf07nm07xpskng32fqrsiz0qr5bp7phkcg09cpd5hh0fgw",
-    "version": "1.3.3"
+    "path": "metro-magazine/1.3.4/es_MX",
+    "rev": "400508",
+    "sha256": "0qamvp0xw5rs02hi1ydbr87f8yswx9kkyyaiml30bnrq2aqr5v6f",
+    "version": "1.3.4"
   },
   "metro-magazine-es_VE": {
-    "path": "metro-magazine/1.3.3/es_VE",
-    "rev": "378650",
-    "sha256": "0hd0c5z8in9lryzw5m74i5v22zs52jz6wna0cpk7fc345cyz2666",
-    "version": "1.3.3"
+    "path": "metro-magazine/1.3.4/es_VE",
+    "rev": "400510",
+    "sha256": "1hmmf8mz7p62vf6ja3w4w09755mw0swbn0da4nmngyxz20l9nhhl",
+    "version": "1.3.4"
   },
   "metro-magazine-fr_BE": {
-    "path": "metro-magazine/1.3.3/fr_BE",
-    "rev": "357280",
-    "sha256": "1j8426wgljnpcpq8wyzsxxypaazy2pq6jcq609kd0mj9sp07ag00",
-    "version": "1.3.3"
+    "path": "metro-magazine/1.3.4/fr_BE",
+    "rev": "400500",
+    "sha256": "1d16d5kdgks490aqfa1i0m8vkw4f306v0fxzn8d2x60piw74yaa7",
+    "version": "1.3.4"
   },
   "metro-magazine-fr_FR": {
-    "path": "metro-magazine/1.3.3/fr_FR",
-    "rev": "357281",
-    "sha256": "1xjp2bqvmn2qqf82r3rzm9ynpd9rxh4k0n4lj1aypnw48z7sw7gp",
-    "version": "1.3.3"
+    "path": "metro-magazine/1.3.4/fr_FR",
+    "rev": "400501",
+    "sha256": "17pf8aq7d3bkl308s3kpn8m8j67wpzr9frivxlnma4nzzc26ahal",
+    "version": "1.3.4"
   },
   "metro-magazine-id_ID": {
-    "path": "metro-magazine/1.3.3/id_ID",
-    "rev": "357283",
-    "sha256": "1lxdrf0vapvmvfjb4a9hz8lrq2aya305i6kfdldqvfpkl9nszziq",
-    "version": "1.3.3"
+    "path": "metro-magazine/1.3.4/id_ID",
+    "rev": "400503",
+    "sha256": "10151bdr0rw61p2195nl4pwsb15wp99sn7azpwvp26lm4qiigspz",
+    "version": "1.3.4"
   },
   "metro-magazine-it_IT": {
-    "path": "metro-magazine/1.3.3/it_IT",
-    "rev": "373013",
-    "sha256": "16cg7idz2wjhalrmha7w2dx1ilixjg9r7vsc9i4lfap269k3y8lr",
-    "version": "1.3.3"
+    "path": "metro-magazine/1.3.4/it_IT",
+    "rev": "400504",
+    "sha256": "05fqglvhqzasnkgf15a1ml51kjz8kxddw05zb0i2mfkjimx1v31q",
+    "version": "1.3.4"
   },
   "metro-magazine-ja": {
-    "path": "metro-magazine/1.3.3/ja",
-    "rev": "357285",
-    "sha256": "176b6fil6zjxhqrl4hkgnlm1vig3pnfcby91xzimm6p3qfwl6ww4",
-    "version": "1.3.3"
+    "path": "metro-magazine/1.3.4/ja",
+    "rev": "400505",
+    "sha256": "1kab43ss4r6x02b5rsgvld0gablwwj82lccpahh2jx2mpgyr1iky",
+    "version": "1.3.4"
   },
   "metro-magazine-ru_RU": {
-    "path": "metro-magazine/1.3.3/ru_RU",
-    "rev": "357286",
-    "sha256": "1zaiawvy0zadgrzyljf1gb1gyc0s1jndwf7b81jsh5mm5mfcki99",
-    "version": "1.3.3"
+    "path": "metro-magazine/1.3.4/ru_RU",
+    "rev": "400506",
+    "sha256": "1jaqizxgraq7kra24pvf1b6m76g1mvax4kf0n3smv5yiwcsy1prh",
+    "version": "1.3.4"
   },
   "metro-magazine-uk": {
-    "path": "metro-magazine/1.3.3/uk",
-    "rev": "357291",
-    "sha256": "1wv1mr5q14094ajv1pqfxs36c2w2gwc3di3ywpc4h4m8b4hqb00g",
-    "version": "1.3.3"
+    "path": "metro-magazine/1.3.4/uk",
+    "rev": "400511",
+    "sha256": "0wswjf98haa00n8hfsb251rh1n49j3nylgbd5v428pk65h6dxmpc",
+    "version": "1.3.4"
   },
   "metro-magazine-vi": {
     "path": "metro-magazine/1.1.4/vi",
@@ -49332,52 +49368,58 @@
     "version": "1.08"
   },
   "newsberg-de_DE": {
-    "path": "newsberg/0.9/de_DE",
-    "rev": "389912",
+    "path": "newsberg/1.0/de_DE",
+    "rev": "401189",
     "sha256": "1a3ibm3br1aclcqlcwv79ld0qm41kfwgw30l2ap01ml3n8b90gfc",
-    "version": "0.9"
+    "version": "1.0"
   },
   "newsberg-en_GB": {
-    "path": "newsberg/0.9/en_GB",
-    "rev": "389911",
+    "path": "newsberg/1.0/en_GB",
+    "rev": "401188",
     "sha256": "0117yjcha29p1qlmz59z0abmx7rv87wmdhl291gjhxpxd5wph13m",
-    "version": "0.9"
+    "version": "1.0"
   },
   "newsberg-es_ES": {
-    "path": "newsberg/0.9/es_ES",
-    "rev": "389915",
+    "path": "newsberg/1.0/es_ES",
+    "rev": "401192",
     "sha256": "0015g73zk0l52gvjksmb3sj0xdkjjxaxszlcvpgm3m1ka648bji8",
-    "version": "0.9"
+    "version": "1.0"
   },
   "newsberg-es_VE": {
-    "path": "newsberg/0.9/es_VE",
-    "rev": "389916",
+    "path": "newsberg/1.0/es_VE",
+    "rev": "401193",
     "sha256": "0frb84gxifcrmv9l6n2jh37nlgc3cm2nr09f4yyckcg7vc8p6maj",
-    "version": "0.9"
+    "version": "1.0"
   },
   "newsberg-it_IT": {
-    "path": "newsberg/0.9/it_IT",
-    "rev": "389913",
+    "path": "newsberg/1.0/it_IT",
+    "rev": "401190",
     "sha256": "10q136ymqgvnvg855kyzfik8b2v73ypfflisicys9hvgl1jihq5q",
-    "version": "0.9"
+    "version": "1.0"
+  },
+  "newsberg-nl_NL": {
+    "path": "newsberg/1.0/nl_NL",
+    "rev": "401187",
+    "sha256": "1wzhj1f58hz0wy2bmpp66533gvianvkc83px8d58sgk2gw5dhq4i",
+    "version": "1.0"
   },
   "newsberg-ru_RU": {
-    "path": "newsberg/0.9/ru_RU",
-    "rev": "389914",
+    "path": "newsberg/1.0/ru_RU",
+    "rev": "401191",
     "sha256": "1wwxnamlv6d1bsk7dymshyg7mgygdq1zlqkww3jnjny0i6pwziq2",
-    "version": "0.9"
+    "version": "1.0"
   },
   "newsberg-uk": {
-    "path": "newsberg/0.9/uk",
-    "rev": "389917",
+    "path": "newsberg/1.0/uk",
+    "rev": "401194",
     "sha256": "05p11siqglvj8gf34d7rphcd3bb023fsf3lgsv2ganrmr520xzvs",
-    "version": "0.9"
+    "version": "1.0"
   },
   "newsberg-zh_CN": {
-    "path": "newsberg/0.9/zh_CN",
-    "rev": "389910",
+    "path": "newsberg/1.0/zh_CN",
+    "rev": "401186",
     "sha256": "15c17bnphqmffp79v5kznvqkyajs8p7cl5srnasxkna34cb6kgg5",
-    "version": "0.9"
+    "version": "1.0"
   },
   "newsbulk-de_DE": {
     "path": "newsbulk/0.4/de_DE",
@@ -49547,6 +49589,42 @@
     "sha256": "1qpg6jc7n7vfz4j9qz4l0lpsj246bdy6h5hpg7am3lkzri7q94ww",
     "version": "1.0.8"
   },
+  "newslay-en_GB": {
+    "path": "newslay/0.4/en_GB",
+    "rev": "400631",
+    "sha256": "0z1ylb0aq9brif9rsm2aapnrmg1zriljza9m1bkl9hbyc9zggqqh",
+    "version": "0.4"
+  },
+  "newslay-es_ES": {
+    "path": "newslay/0.4/es_ES",
+    "rev": "400633",
+    "sha256": "1zxc29pmppkvi5lnqfzh5rqw877g854236qqsrk4npwqz6hxb060",
+    "version": "0.4"
+  },
+  "newslay-es_MX": {
+    "path": "newslay/0.4/es_MX",
+    "rev": "400929",
+    "sha256": "17n99q55dg97yzcxz4da2vvrh1pp3zrfpr335d9m2ikp63rx5fvm",
+    "version": "0.4"
+  },
+  "newslay-es_VE": {
+    "path": "newslay/0.4/es_VE",
+    "rev": "400634",
+    "sha256": "1iib09rcr8nqjmizc1ivww0xkh41cwjbyc2dmv76n9d5whwi872n",
+    "version": "0.4"
+  },
+  "newslay-ru_RU": {
+    "path": "newslay/0.4/ru_RU",
+    "rev": "400632",
+    "sha256": "1kayxg5zrqdzv98x0g4igws7ms6np9v3dzj3lyf0fqr80k72ky1s",
+    "version": "0.4"
+  },
+  "newslay-uk": {
+    "path": "newslay/0.4/uk",
+    "rev": "400635",
+    "sha256": "1b0ab7s3kn9a1pdzpga8mi9k9525wsa07s9a8d6npfm712lk35d6",
+    "version": "0.4"
+  },
   "newsliner-en_AU": {
     "path": "newsliner/1.0.0/en_AU",
     "rev": "269409",
@@ -49578,22 +49656,22 @@
     "version": "1.0.0"
   },
   "newsmag-en_GB": {
-    "path": "newsmag/2.4.1/en_GB",
-    "rev": "253411",
-    "sha256": "04rky2m8q79wgn95n574xpfxdshhn1fppz2h4iyny0ps96cc4fsk",
-    "version": "2.4.1"
+    "path": "newsmag/2.4.2/en_GB",
+    "rev": "400908",
+    "sha256": "18k733z3n0p15gvlmp64w49b8wdkj43nc50p8fvzc17622axyqwg",
+    "version": "2.4.2"
   },
   "newsmag-es_ES": {
-    "path": "newsmag/2.4.1/es_ES",
-    "rev": "333011",
-    "sha256": "0ff6qp0j6ack4jp4js6ylvx4jdinhzdlg90r62w884nj7alnkxix",
-    "version": "2.4.1"
+    "path": "newsmag/2.4.2/es_ES",
+    "rev": "400909",
+    "sha256": "1dlfq5mnlw5dd7vfq5n63lgq06csz4f6fx582ikz57mybf4ddvj9",
+    "version": "2.4.2"
   },
   "newsmag-es_VE": {
-    "path": "newsmag/2.4.1/es_VE",
-    "rev": "379794",
-    "sha256": "02rxay53lg03lvr5ffgrm6r4m4dfnvpv1ysqfzyvp70vb92gv8s9",
-    "version": "2.4.1"
+    "path": "newsmag/2.4.2/es_VE",
+    "rev": "400910",
+    "sha256": "168h9iy15vq4hphy1namfk10072f57vdkfryxa8vrfz2bkviiniw",
+    "version": "2.4.2"
   },
   "newsmagbd-ur": {
     "path": "newsmagbd/2.0/ur",
@@ -49752,82 +49830,82 @@
     "version": "1.0.0"
   },
   "newsup-de_DE": {
-    "path": "newsup/2.9.9.20/de_DE",
-    "rev": "399559",
-    "sha256": "12gfynwpi53y8iw37r3xqjydr9za9gvvn8d5l675fbl96ma0rp21",
-    "version": "2.9.9.20"
+    "path": "newsup/2.9.9.21/de_DE",
+    "rev": "400485",
+    "sha256": "10b4b2yjapvq8azxj07w1dv882mavai8j68pih1qlmasiqy1aij9",
+    "version": "2.9.9.21"
   },
   "newsup-en_AU": {
-    "path": "newsup/2.9.9.20/en_AU",
-    "rev": "399554",
-    "sha256": "15rhjlaw53w69a3zd37ssvjqvxyj5xkggz4mfa5qj4qxdrka31id",
-    "version": "2.9.9.20"
+    "path": "newsup/2.9.9.21/en_AU",
+    "rev": "400480",
+    "sha256": "1ddrkmngq7bfy7226kb6gad0yiryhznn1nx0gf57rll4vxycr6s4",
+    "version": "2.9.9.21"
   },
   "newsup-en_CA": {
-    "path": "newsup/2.9.9.20/en_CA",
-    "rev": "399555",
-    "sha256": "0amjis7qlgl7sww3vfg8dqhnxgm71h14161fcvxx4v0in85ys904",
-    "version": "2.9.9.20"
+    "path": "newsup/2.9.9.21/en_CA",
+    "rev": "400481",
+    "sha256": "1fyd6nly8whh16wnn851yi5sy9kgf8g21xmsi7798zv1r5645zvb",
+    "version": "2.9.9.21"
   },
   "newsup-en_GB": {
-    "path": "newsup/2.9.9.20/en_GB",
-    "rev": "399558",
-    "sha256": "0bcjwpxn7r5jvx0bsrbm3k7hxn9480gm1nrjvb0c6jx6i4v6cc8j",
-    "version": "2.9.9.20"
+    "path": "newsup/2.9.9.21/en_GB",
+    "rev": "400484",
+    "sha256": "1ixp62w4rgqwh883ng51mhc55p6ks4xiz0pdxq6pp74xw0fm190d",
+    "version": "2.9.9.21"
   },
   "newsup-en_NZ": {
-    "path": "newsup/2.9.9.20/en_NZ",
-    "rev": "399556",
-    "sha256": "062pb06bk4710f181sbm59vyqif10kws7q710fm96byc6kss4yaw",
-    "version": "2.9.9.20"
+    "path": "newsup/2.9.9.21/en_NZ",
+    "rev": "400482",
+    "sha256": "00p0bvylzsg43v6bpaszkd20qgjkamh8n96d1djvc15jknyiqx4s",
+    "version": "2.9.9.21"
   },
   "newsup-en_ZA": {
-    "path": "newsup/2.9.9.20/en_ZA",
-    "rev": "399557",
-    "sha256": "018r470zkxyhnpjd79vdzx4biqiz3rxhxcsjfx5djcn74xpx7js7",
-    "version": "2.9.9.20"
+    "path": "newsup/2.9.9.21/en_ZA",
+    "rev": "400483",
+    "sha256": "1bjf3x8yv06ankvqsjc94r6q0hd0ryy1g603xxdwg3vagbmxjgbj",
+    "version": "2.9.9.21"
   },
   "newsup-es_ES": {
-    "path": "newsup/2.9.9.20/es_ES",
-    "rev": "399563",
-    "sha256": "15q8x4307xg18a07wy1sbr05r2rynlgbvgpvs6211p5bcgb5rd3p",
-    "version": "2.9.9.20"
+    "path": "newsup/2.9.9.21/es_ES",
+    "rev": "400489",
+    "sha256": "0and6m2sbhpv1l5kijjq1kymh6j5jwzpkxf2wb955ciqh0sdbjpd",
+    "version": "2.9.9.21"
   },
   "newsup-es_MX": {
-    "path": "newsup/2.9.9.20/es_MX",
-    "rev": "399562",
-    "sha256": "064pwfmqpzv3i7i7hg64vs0g0msv41cx3cy7pyb9i43h6az8l5rf",
-    "version": "2.9.9.20"
+    "path": "newsup/2.9.9.21/es_MX",
+    "rev": "400488",
+    "sha256": "1f9nzmrj21fq7v2f1phqj0awlz17hfdfs14z1q0v4c9l7c1a5rsv",
+    "version": "2.9.9.21"
   },
   "newsup-es_VE": {
-    "path": "newsup/2.9.9.20/es_VE",
-    "rev": "399564",
-    "sha256": "0aviwalwsrw225phx01nsjjbnxp5vzrd25ga2f19c2dinqrrwhgl",
-    "version": "2.9.9.20"
+    "path": "newsup/2.9.9.21/es_VE",
+    "rev": "400490",
+    "sha256": "0pmd6mw9fvxa6zjc4nq034xazqfgzg0ck1rbsiw2n4m5h2gdy8k3",
+    "version": "2.9.9.21"
   },
   "newsup-it_IT": {
-    "path": "newsup/2.9.9.20/it_IT",
-    "rev": "399560",
-    "sha256": "0hkh695mqz8bflz0fpll3xpbgc7bs4m35dil5xf0frbyikvajiqw",
-    "version": "2.9.9.20"
+    "path": "newsup/2.9.9.21/it_IT",
+    "rev": "400486",
+    "sha256": "1hss1zgi6i8s5rwpzz1xgk1ylv9k1yj37x8jydcs6wlqdp4gz25f",
+    "version": "2.9.9.21"
   },
   "newsup-ru_RU": {
-    "path": "newsup/2.9.9.20/ru_RU",
-    "rev": "399561",
-    "sha256": "1hvc2lk5ixs28rd7as3r90aih1kak9akyr3d5r8mqi2k9fvzasv4",
-    "version": "2.9.9.20"
+    "path": "newsup/2.9.9.21/ru_RU",
+    "rev": "400487",
+    "sha256": "1gw83j787lgfx8iljmvral0pp7g656ys6i7z5pg7s06gl5880dwy",
+    "version": "2.9.9.21"
   },
   "newsup-uk": {
-    "path": "newsup/2.9.9.20/uk",
-    "rev": "399565",
-    "sha256": "1m27p8m459lz3cvdn9aj3aipbi3aip8j0xlydppizpdkc14qblm4",
-    "version": "2.9.9.20"
+    "path": "newsup/2.9.9.21/uk",
+    "rev": "400491",
+    "sha256": "18qw754rd7snbzzv84jax1v9scq3hclrmahh1cb0qnxaxv8c3iw9",
+    "version": "2.9.9.21"
   },
   "newsup-zh_CN": {
-    "path": "newsup/2.9.9.20/zh_CN",
-    "rev": "399553",
-    "sha256": "0inp3dwakifwnmhvvzx0rbqlpdq3928vnwwzbl5j4fpy7f24fmsi",
-    "version": "2.9.9.20"
+    "path": "newsup/2.9.9.21/zh_CN",
+    "rev": "400479",
+    "sha256": "1by9shx8kfwl3f15kai1va9i89p2fjwwl4r6hcvc6kk1jr0ivrj5",
+    "version": "2.9.9.21"
   },
   "newton-sk_SK": {
     "path": "newton/1.0.8/sk_SK",
@@ -54642,10 +54720,10 @@
     "version": "1.6"
   },
   "overlay-fr_FR": {
-    "path": "overlay/1.1.36/fr_FR",
-    "rev": "391265",
-    "sha256": "0658lxw6zgxr1cnm821yw20x499qrj4qmmz9p09794zr62wxh7w3",
-    "version": "1.1.36"
+    "path": "overlay/1.1.37/fr_FR",
+    "rev": "400699",
+    "sha256": "03ry9w1ivzpinsp0xpbl86mkqp9gdlgg192hqcdw4y5mxyiifjfq",
+    "version": "1.1.37"
   },
   "overview-it_IT": {
     "path": "overview/2.1.0/it_IT",
@@ -54924,82 +55002,82 @@
     "version": "3.3"
   },
   "page-builder-framework-da_DK": {
-    "path": "page-builder-framework/2.5.4/da_DK",
-    "rev": "390183",
-    "sha256": "0hxvmz83k71pi4kamc1wm9z9mj4jr1wkxbg394nkpndbwq3y5ks0",
-    "version": "2.5.4"
+    "path": "page-builder-framework/2.5.5/da_DK",
+    "rev": "400349",
+    "sha256": "18307r0cy1c091z7xfxw1hr2f6x5fv9bykrfigpv1ilayvivh4dk",
+    "version": "2.5.5"
   },
   "page-builder-framework-de_DE": {
-    "path": "page-builder-framework/2.5.4/de_DE",
-    "rev": "395701",
-    "sha256": "0g2x1q0acdw07l8dlabli4mivy5aamgirbaq7kkips7ygc4wkf3j",
-    "version": "2.5.4"
+    "path": "page-builder-framework/2.5.5/de_DE",
+    "rev": "400353",
+    "sha256": "0n2bq5hf9ww5lhfcga0l6adg9z7mv1pd2yjj07sawd6cykgscn8n",
+    "version": "2.5.5"
   },
   "page-builder-framework-de_DE_formal": {
-    "path": "page-builder-framework/2.5.4/de_DE_formal",
-    "rev": "395702",
-    "sha256": "08dmlabk07y4c8ml7zkkf050x7qm8lsxybyidkw6vq1j5dqcprws",
-    "version": "2.5.4"
+    "path": "page-builder-framework/2.5.5/de_DE_formal",
+    "rev": "400354",
+    "sha256": "1gxvx9x3p6jb4n8v03r13q1nlgswzdl6qdlv0znp5b6fz90kcv6f",
+    "version": "2.5.5"
   },
   "page-builder-framework-en_GB": {
-    "path": "page-builder-framework/2.5.4/en_GB",
-    "rev": "390184",
-    "sha256": "1fvmqpjlck1d9l3p9w9k3rh0qvcib1zlr63k713gby9x8nfg215k",
-    "version": "2.5.4"
+    "path": "page-builder-framework/2.5.5/en_GB",
+    "rev": "400350",
+    "sha256": "10sf0bzk0g7iqkcc9z3j4gaj0vmlgqqbd1fyx9h57l61yq0pwvxz",
+    "version": "2.5.5"
   },
   "page-builder-framework-es_ES": {
-    "path": "page-builder-framework/2.5.4/es_ES",
-    "rev": "390192",
-    "sha256": "0wppxx5rr0lccxgnzkhqb0yk717jcp6kq6lbmw48m0mmng5120id",
-    "version": "2.5.4"
+    "path": "page-builder-framework/2.5.5/es_ES",
+    "rev": "400358",
+    "sha256": "0y051rw22kyqwkr83amaawcxghklji8n9n34jyqazf06avfcscyw",
+    "version": "2.5.5"
   },
   "page-builder-framework-es_VE": {
-    "path": "page-builder-framework/2.5.4/es_VE",
-    "rev": "390193",
-    "sha256": "07yvlzi1cfywgyqa6dr2i2gvq58yq09v03cv4a4x6adsi4xdxc0g",
-    "version": "2.5.4"
+    "path": "page-builder-framework/2.5.5/es_VE",
+    "rev": "400359",
+    "sha256": "078sdcpgwjwiars3rlls7467ydpyrm0zsh4w2al6vsrq8dq94471",
+    "version": "2.5.5"
   },
   "page-builder-framework-fr_FR": {
-    "path": "page-builder-framework/2.5.4/fr_FR",
-    "rev": "392664",
-    "sha256": "02v42zpdvkinvykprm8bnq9q11krq039xdg5fil65by78fz616as",
-    "version": "2.5.4"
+    "path": "page-builder-framework/2.5.5/fr_FR",
+    "rev": "400351",
+    "sha256": "18vypdgy389fxf40xrwfh780j3g7w7rr1bi7qmmr2kqrrcdirj51",
+    "version": "2.5.5"
   },
   "page-builder-framework-hr": {
-    "path": "page-builder-framework/2.5.4/hr",
-    "rev": "390182",
-    "sha256": "1pv1b258384fp3wicgjdaq22gxpikfc76k1cfmhwv468y14lz5fz",
-    "version": "2.5.4"
+    "path": "page-builder-framework/2.5.5/hr",
+    "rev": "400348",
+    "sha256": "1a9qalybzxcngj5wnx2w4gnwnqbzc6a044gfy6fckdmvr463yg1n",
+    "version": "2.5.5"
   },
   "page-builder-framework-id_ID": {
-    "path": "page-builder-framework/2.5.4/id_ID",
-    "rev": "390189",
-    "sha256": "146xvq1zcxp6zivs9mrcxlg321y0l2ay7l4mpvd82mkg28p73cd3",
-    "version": "2.5.4"
+    "path": "page-builder-framework/2.5.5/id_ID",
+    "rev": "400355",
+    "sha256": "0b90ivkb4lsk25y704j2zm4bnkdnh7j7bky74xz8x9l0ds5jdmlq",
+    "version": "2.5.5"
   },
   "page-builder-framework-ka_GE": {
-    "path": "page-builder-framework/2.5.4/ka_GE",
-    "rev": "390186",
-    "sha256": "01mg3r4y7wbip7v70qjvadm6mg9rqg4ds537rzygb2kspp3wvfmy",
-    "version": "2.5.4"
+    "path": "page-builder-framework/2.5.5/ka_GE",
+    "rev": "400352",
+    "sha256": "0bhwmvgi4kq7h74r4g3q4kzxpaznvcm6d92mz2xchzs8bckm0n80",
+    "version": "2.5.5"
   },
   "page-builder-framework-nb_NO": {
-    "path": "page-builder-framework/2.5.4/nb_NO",
-    "rev": "390190",
-    "sha256": "12wlc9n1sj71n8hn2m35rcpi18bgl9h81zjj5qwknv74rpg8xyl7",
-    "version": "2.5.4"
+    "path": "page-builder-framework/2.5.5/nb_NO",
+    "rev": "400356",
+    "sha256": "1nisrbs2q3hm2kdxkyfrnland7qmdigx7pad57amnn73n4nz8szc",
+    "version": "2.5.5"
   },
   "page-builder-framework-pt_BR": {
-    "path": "page-builder-framework/2.5.4/pt_BR",
-    "rev": "390191",
-    "sha256": "1wbw5r7vz2vlv4xcaj7bzg98q4xap83q457h10k31mbx4fp1drrb",
-    "version": "2.5.4"
+    "path": "page-builder-framework/2.5.5/pt_BR",
+    "rev": "400357",
+    "sha256": "079sskv82jhz1cqgrhwafw1p0rqs4h12vvbpc756rqv6jd0srq7w",
+    "version": "2.5.5"
   },
   "page-builder-framework-sv_SE": {
-    "path": "page-builder-framework/2.5.4/sv_SE",
-    "rev": "390194",
-    "sha256": "1smwd68yf6flmglcz0py68phv5d2ym45apjrf5ryis5wwfzk8zyx",
-    "version": "2.5.4"
+    "path": "page-builder-framework/2.5.5/sv_SE",
+    "rev": "400360",
+    "sha256": "0apj41qm5pv806qjw2r4jd0lfagqqdzb8qp3pyvpy0apxxbbbg7w",
+    "version": "2.5.5"
   },
   "palabras-en_CA": {
     "path": "palabras/0.0.4/en_CA",
@@ -55788,40 +55866,40 @@
     "version": "0.0.4"
   },
   "perfect-magazine-en_AU": {
-    "path": "perfect-magazine/1.1.4/en_AU",
-    "rev": "383140",
-    "sha256": "1zsk38da18l010lb6kyh92cf7mr4l3ph3y8kx1blqahl2z9718f3",
-    "version": "1.1.4"
+    "path": "perfect-magazine/1.1.5/en_AU",
+    "rev": "400813",
+    "sha256": "1pjr770sdn3jkbbpp41lygpiq10mm4f80x9nrkcypiw5w20x6jyn",
+    "version": "1.1.5"
   },
   "perfect-magazine-en_CA": {
-    "path": "perfect-magazine/1.1.4/en_CA",
-    "rev": "383141",
-    "sha256": "1ig7plxaf8wd32vdcgipcpfnp6lf0qr6sv7ky7vswdxplb9p1aq7",
-    "version": "1.1.4"
+    "path": "perfect-magazine/1.1.5/en_CA",
+    "rev": "400814",
+    "sha256": "025kkbiqlhg1yyciipw39qfmh01sza58n61pzymhd6mqly3v9wfh",
+    "version": "1.1.5"
   },
   "perfect-magazine-en_GB": {
-    "path": "perfect-magazine/1.1.4/en_GB",
-    "rev": "383144",
-    "sha256": "1vvljpgq51qqy5jzsmpc54sihh2gbxpdsaqzl26j2rkc0h5b8vj1",
-    "version": "1.1.4"
+    "path": "perfect-magazine/1.1.5/en_GB",
+    "rev": "400817",
+    "sha256": "0finxrawnplglvj591qbr8kcbaad9c08p8qdx84a5cci3w1rmq8f",
+    "version": "1.1.5"
   },
   "perfect-magazine-en_NZ": {
-    "path": "perfect-magazine/1.1.4/en_NZ",
-    "rev": "383142",
-    "sha256": "0c2m55m2y0y7xiq457psil1mlmgykh95lzgfg8md92fmhyz1v7vi",
-    "version": "1.1.4"
+    "path": "perfect-magazine/1.1.5/en_NZ",
+    "rev": "400815",
+    "sha256": "0lbkqaka56vxp7463nzxkiw6m1im4i4ky3qw4zbfzy3wd5yqwl7v",
+    "version": "1.1.5"
   },
   "perfect-magazine-en_ZA": {
-    "path": "perfect-magazine/1.1.4/en_ZA",
-    "rev": "383143",
-    "sha256": "1ky3mv5h43210d9fp6dhs7klhk2vbsnr6xb2i2gnvzkzcanqay38",
-    "version": "1.1.4"
+    "path": "perfect-magazine/1.1.5/en_ZA",
+    "rev": "400816",
+    "sha256": "1fav0wxgfzgj3nb985aa6ibmb3fpma57kaa3gxiswa3gdjhzvbyk",
+    "version": "1.1.5"
   },
   "perfect-magazine-es_ES": {
-    "path": "perfect-magazine/1.1.4/es_ES",
-    "rev": "383145",
-    "sha256": "033nsab2cr2sd2ig6zwdyndjxbj2inbi6slfg27j4yc3dyjpvzfb",
-    "version": "1.1.4"
+    "path": "perfect-magazine/1.1.5/es_ES",
+    "rev": "400818",
+    "sha256": "1wrad3ah469sypmi02y3n800q9ja9612f511w3wc6iym1w2p9af5",
+    "version": "1.1.5"
   },
   "perfect-portfolio-cs_CZ": {
     "path": "perfect-portfolio/1.1.1/cs_CZ",
@@ -59868,10 +59946,10 @@
     "version": "1.1.0"
   },
   "regina-lite-en_GB": {
-    "path": "regina-lite/2.0.4/en_GB",
-    "rev": "322898",
-    "sha256": "1ri1xip7k8343gzhjmz6arm3dh3sn82jqna1w3pc4imbxc1pqa44",
-    "version": "2.0.4"
+    "path": "regina-lite/2.0.5/en_GB",
+    "rev": "400812",
+    "sha256": "09hz6z2scd49ma655bimmhnrghkjsizryx63vdpcn9mv1x7g0a6j",
+    "version": "2.0.5"
   },
   "reginald-ja": {
     "path": "reginald/1.2.6/ja",
@@ -69522,58 +69600,58 @@
     "version": "1.0.4"
   },
   "suffice-de_DE": {
-    "path": "suffice/1.2.2/de_DE",
-    "rev": "391004",
-    "sha256": "0lg29byrbjs8cwxxg59swfz62x52ppak1xbj7x39c826zhks7c0n",
-    "version": "1.2.2"
+    "path": "suffice/1.2.3/de_DE",
+    "rev": "400689",
+    "sha256": "0f9i8pnq0vfbg2909z20l6xqq7ic75x9fwwd78krqaxq0bfvd9s6",
+    "version": "1.2.3"
   },
   "suffice-es_ES": {
-    "path": "suffice/1.2.2/es_ES",
-    "rev": "391293",
-    "sha256": "1n68fjhaqxic0z5fkpghs5lqmvkhqpb1d737jdr4h32w42vv2ry1",
-    "version": "1.2.2"
+    "path": "suffice/1.2.3/es_ES",
+    "rev": "400691",
+    "sha256": "07mw576y6h91cca0qr8fsw5j3h2jc3s7sw7pwp7f33ryy067vv3q",
+    "version": "1.2.3"
   },
   "suffice-es_VE": {
-    "path": "suffice/1.2.2/es_VE",
-    "rev": "391192",
-    "sha256": "0f6rnmhr8q3bnawfaxgflsm2yhbw050k4ggxf87ppjfx3lnk5ss2",
-    "version": "1.2.2"
+    "path": "suffice/1.2.3/es_VE",
+    "rev": "400692",
+    "sha256": "029w8vhsd5qlsshyfmz4gy4rm8i8z2xdcfb6qqcd1ccfi8vxhfcd",
+    "version": "1.2.3"
   },
   "suffice-fr_BE": {
-    "path": "suffice/1.2.2/fr_BE",
-    "rev": "391002",
-    "sha256": "0xqk7y9vzdy2zf9x9vysvm7c8sbc0127bcadn5pll26vir05l52p",
-    "version": "1.2.2"
+    "path": "suffice/1.2.3/fr_BE",
+    "rev": "400687",
+    "sha256": "16hbjq2bxwk45vzg30jnngkak5x3rdpj8s09lkq82kwnqimgaiy1",
+    "version": "1.2.3"
   },
   "suffice-fr_FR": {
-    "path": "suffice/1.2.2/fr_FR",
-    "rev": "391003",
-    "sha256": "0bciyxn8jyr60jpzzpwjy9hfx7id386pivqigx8ib181fdymgmai",
-    "version": "1.2.2"
+    "path": "suffice/1.2.3/fr_FR",
+    "rev": "400688",
+    "sha256": "1v8vy30nqnzpgqammcs8jx4rag77daa6yrispqa323h26a7a3nga",
+    "version": "1.2.3"
   },
   "suffice-it_IT": {
-    "path": "suffice/1.2.2/it_IT",
-    "rev": "391005",
-    "sha256": "1fz4q0scv6iqp5m1h8cw67dikrdga0bs80mbywhy3ca56rf90fpf",
-    "version": "1.2.2"
+    "path": "suffice/1.2.3/it_IT",
+    "rev": "400990",
+    "sha256": "17df4na2zl6hpw21d2sjs7w3icx6715v45vnhnyxxx5w0p6zyqrw",
+    "version": "1.2.3"
   },
   "suffice-nl_NL": {
-    "path": "suffice/1.2.2/nl_NL",
-    "rev": "392801",
-    "sha256": "1ki8llaygh9100w905b8qnv2ch8rwwcaj7i1lpsn7mb34hv851fb",
-    "version": "1.2.2"
+    "path": "suffice/1.2.3/nl_NL",
+    "rev": "400685",
+    "sha256": "16w09zn7pv94hrfwrgcbqz372v1k0arakji9xvvgdcyz25mdjf25",
+    "version": "1.2.3"
   },
   "suffice-nl_NL_formal": {
-    "path": "suffice/1.2.2/nl_NL_formal",
-    "rev": "391001",
-    "sha256": "14748wamr58901vzaji88bn39rnbxwk3nn3ad553336gr1lhn72h",
-    "version": "1.2.2"
+    "path": "suffice/1.2.3/nl_NL_formal",
+    "rev": "400686",
+    "sha256": "0rpvxdjwc8dsfms5w8brrg8a45zvj9ff6b2bcqq371g03x9zwnrp",
+    "version": "1.2.3"
   },
   "suffice-tr_TR": {
-    "path": "suffice/1.2.2/tr_TR",
-    "rev": "391008",
-    "sha256": "109pf2aq48fj9g72x5ixklpiwim9rizwi120srhlslfnpbpwm1va",
-    "version": "1.2.2"
+    "path": "suffice/1.2.3/tr_TR",
+    "rev": "400693",
+    "sha256": "1zhkfaymbxmb51z1ld1rxs91n44sxp24qkcg8dy0zllyp3arp2ds",
+    "version": "1.2.3"
   },
   "suffix-lite-en_AU": {
     "path": "suffix-lite/1.0.9/en_AU",
@@ -69678,28 +69756,28 @@
     "version": "1.2.13"
   },
   "sullivan-es_ES": {
-    "path": "sullivan/1.26/es_ES",
-    "rev": "399675",
-    "sha256": "1ndh89pzw6xixlf3khns84s05d4mhbc4lr2mmxipxf1d84fg54rl",
-    "version": "1.26"
+    "path": "sullivan/1.27/es_ES",
+    "rev": "400256",
+    "sha256": "0jadh0gjc46z0pvviwy91y5a0a89gvz5kp55ijdzp873syblvm0a",
+    "version": "1.27"
   },
   "sullivan-it_IT": {
-    "path": "sullivan/1.26/it_IT",
-    "rev": "399674",
-    "sha256": "1b1srhzsdacmwmr1f6krq3rkavk61pnf9ihyxqvbnjgf8fs9dvgy",
-    "version": "1.26"
+    "path": "sullivan/1.27/it_IT",
+    "rev": "400255",
+    "sha256": "1f9n75drq15xw6f6wnyjv29j6vmiqcngjr4z1izd5ngy1hyp286r",
+    "version": "1.27"
   },
   "sullivan-sv_SE": {
-    "path": "sullivan/1.26/sv_SE",
-    "rev": "399676",
-    "sha256": "0wklq7raa1dfj66hdsxj5z05wlm4ky3mrws1yxfi7qa2bx3bmyfr",
-    "version": "1.26"
+    "path": "sullivan/1.27/sv_SE",
+    "rev": "400257",
+    "sha256": "0ajzgshz8wfp0l24x7wdz6dwj2sp4fnabpxiccc5fzbdh8bxsbrh",
+    "version": "1.27"
   },
   "sullivan-zh_TW": {
-    "path": "sullivan/1.26/zh_TW",
-    "rev": "399673",
-    "sha256": "1i2m48sj5380iknvkibim9x4610dwr4ssmc1s811h0hi57v9v3sa",
-    "version": "1.26"
+    "path": "sullivan/1.27/zh_TW",
+    "rev": "400254",
+    "sha256": "1d5yz9hcbw8gqvpj0rr31vkd2kfb9j71y4394xx9vk1vwwm1j4w1",
+    "version": "1.27"
   },
   "sumo-en_AU": {
     "path": "sumo/1.0.3/en_AU",
@@ -72397,20 +72475,20 @@
   },
   "total-es_ES": {
     "path": "total/1.2.46/es_ES",
-    "rev": "400098",
-    "sha256": "11zkjawdd85yrqv6la30gj800ad3p10lwaks36mcfm0x9kjbnz4y",
+    "rev": "400345",
+    "sha256": "19rsiq9bxkd56afsfmaadzyx0rj8mcgy1lx46syzc6gqkzcjsxvb",
     "version": "1.2.46"
   },
   "total-es_MX": {
     "path": "total/1.2.46/es_MX",
-    "rev": "400097",
-    "sha256": "0ifvpvwxxh22g4f2imnah44vd1m9c5pbgf31v06bsznvzja29qyr",
+    "rev": "400926",
+    "sha256": "00kdcl4s99i0rxar6b8gzqrpg05jx0453sbhdrm08b7gwmlgnj0l",
     "version": "1.2.46"
   },
   "total-es_VE": {
     "path": "total/1.2.46/es_VE",
-    "rev": "400099",
-    "sha256": "18am2vxqhhqjzj8mslkr8s0qi4r41i2rna4f85kbw0lxjwawd39a",
+    "rev": "400265",
+    "sha256": "05im4xibkx1hjbxwca34pqrfa86cl1h5q1jsvpz5k7pnsa4lmciv",
     "version": "1.2.46"
   },
   "total-hr": {
@@ -78348,40 +78426,40 @@
     "version": "1.0.1"
   },
   "university-hub-es_CO": {
-    "path": "university-hub/2.0/es_CO",
-    "rev": "399211",
-    "sha256": "1dazw6xxg29fsd1hmsixa9byywhdsj6vvwgdir91xbia6185hglh",
-    "version": "2.0"
+    "path": "university-hub/2.0.1/es_CO",
+    "rev": "400330",
+    "sha256": "0c7kjzhkm4g2a8y7h373p4qhwrziyv8d7i64ba9a46sj78l6j9sz",
+    "version": "2.0.1"
   },
   "university-hub-es_ES": {
-    "path": "university-hub/2.0/es_ES",
-    "rev": "399253",
-    "sha256": "0qjs5agaglcqip4i1lwiylkx7lal28wjkgmhgkj3l425qjfwlj2l",
-    "version": "2.0"
+    "path": "university-hub/2.0.1/es_ES",
+    "rev": "400332",
+    "sha256": "0ry92p90l48c1qx78543hkyvqzcbj42bcl8pw0lshvp9q7hly129",
+    "version": "2.0.1"
   },
   "university-hub-es_MX": {
-    "path": "university-hub/2.0/es_MX",
-    "rev": "399539",
-    "sha256": "07xbxyda9zs10a8w18qfrmcd115h47gs8dya5vcc09cnaa9d2g7a",
-    "version": "2.0"
+    "path": "university-hub/2.0.1/es_MX",
+    "rev": "400331",
+    "sha256": "0zk5a9rqh92jhx4sn0x9430kd6jrvfp3d87psmw3f9wjwv4icbac",
+    "version": "2.0.1"
   },
   "university-hub-es_VE": {
-    "path": "university-hub/2.0/es_VE",
-    "rev": "399212",
-    "sha256": "0n98nfkj9m6a0q3q4cx9inxvjwdv4a0s6gacjdm2qiw8jff4l5zf",
-    "version": "2.0"
+    "path": "university-hub/2.0.1/es_VE",
+    "rev": "400333",
+    "sha256": "1bpyspg5h2md6n3gf5l0p9m3id26g0znrrdz7wh5janwakv11573",
+    "version": "2.0.1"
   },
   "university-hub-ru_RU": {
-    "path": "university-hub/2.0/ru_RU",
-    "rev": "381955",
-    "sha256": "1dfdgzcjgx32mmcs0b27086cj6d7dqyfhfzjw1rb6qhj4z78bpvv",
-    "version": "2.0"
+    "path": "university-hub/2.0.1/ru_RU",
+    "rev": "400329",
+    "sha256": "1s5wb5yxaivc2zwk2px1gjvn34kjzy0rxz23mga7r96m804lbhdz",
+    "version": "2.0.1"
   },
   "university-hub-uk": {
-    "path": "university-hub/2.0/uk",
-    "rev": "381956",
-    "sha256": "1zmyi04gb1ij7kb76khqh2vwj60sns00a9p0v6kx13l2syk1q5f0",
-    "version": "2.0"
+    "path": "university-hub/2.0.1/uk",
+    "rev": "400334",
+    "sha256": "0wp7zcd8vxsriic0lz90p4ymwy6rdnw31707j79k9l1350zga5q7",
+    "version": "2.0.1"
   },
   "university-pl_PL": {
     "path": "university/1.3/pl_PL",
@@ -82287,6 +82365,12 @@
     "path": "write/2.1.2/ja",
     "rev": "211522",
     "sha256": "1rnisa4wgxw2ls4ryysvimp2lwxq9g9vf7s92nnxd0lnf94wkw29",
+    "version": "2.1.2"
+  },
+  "write-nl_NL": {
+    "path": "write/2.1.2/nl_NL",
+    "rev": "400576",
+    "sha256": "1864vk4vqzm07nnh9jpfdrasqb1x6q6f73jjc919q14d388al2gr",
     "version": "2.1.2"
   },
   "writee-en_GB": {
