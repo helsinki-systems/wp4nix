@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -e
+set -u
+set -o pipefail
+set -x
+
+NIX_VERSION=$(nix --version|cut -d ' ' -f 3|cut -c -3)
+case "$NIX_VERSION" in
+	"3.0")
+		nixFlags="--option experimental-features nix-command eval --raw --impure --expr"
+	;;
+	"2.4")
+		nixFlags="--option experimental-features nix-command eval --raw --impure --expr"
+	;;
+	*)
+		nixFlags="eval --raw"
+	;;
+esac
+export WP_VERSION=$(nix $nixFlags '(import <nixpkgs> {}).wordpress.version')
+./wp4nix
