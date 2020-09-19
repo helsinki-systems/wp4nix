@@ -8,6 +8,7 @@ stages:
 variables:
   NIX_PATH: "nixpkgs=/nix/var/nix/profiles/per-user/root/channels/nixpkgs"
   COMMIT_LOG: "1"
+  CI_COMMIT_MESSAGE: "Overwritten, because https://stackoverflow.com/questions/28865473/setting-environment-variable-to-a-large-value-argument-list-too-long#28865503"
 
 build:
   stage: build
