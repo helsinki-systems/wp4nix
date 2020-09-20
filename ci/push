@@ -56,4 +56,4 @@ git add plugins.json themes.json languages.json pluginLanguages.json themeLangua
 	echo -n "$firstLine"
 	echo "$details"
 ) | git commit -F -
-git push git@"$GITLAB_HOST":helsinki-systems/matomo4nix HEAD:master
+git push git@"$GITLAB_HOST":helsinki-systems/wp4nix HEAD:master
