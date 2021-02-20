@@ -17429,6 +17429,12 @@
     "sha256": "1qwssl0vbvaq310g9wwvs4xqcch9vlcbbgxmla4jvl5yl8b3f9km",
     "version": "1.0.4"
   },
+  "bravada-ja": {
+    "path": "bravada/1.0.4/ja",
+    "rev": "519313",
+    "sha256": "0zjk1jjkrnd4y9gznv4l73if6hxy8jr5wk4lacn612npkdk3z7bv",
+    "version": "1.0.4"
+  },
   "bravada-ro_RO": {
     "path": "bravada/1.0.4/ro_RO",
     "rev": "514728",
@@ -21816,10 +21822,10 @@
     "version": "1.0"
   },
   "citadela-cs_CZ": {
-    "path": "citadela/1.6.4/cs_CZ",
-    "rev": "513736",
-    "sha256": "085fiv756ajv0ly1dyvjbhwgj3xpw7i0camc0i1j44bs44iz5142",
-    "version": "1.6.4"
+    "path": "citadela/1.7.0/cs_CZ",
+    "rev": "519101",
+    "sha256": "1a7hqis2zzbbzpnz39ik3m2fc3a562vwgx3a6qrn3v2mkh6ig0lw",
+    "version": "1.7.0"
   },
   "city-informer-en_CA": {
     "path": "city-informer/1.7/en_CA",
@@ -24745,26 +24751,26 @@
   },
   "covernews-es_EC": {
     "path": "covernews/1.6.3/es_EC",
-    "rev": "518090",
-    "sha256": "06ai5phiyaaf4sx4yp2lrz9aw426dmdlndjb37892q3yqyl9ync1",
+    "rev": "519017",
+    "sha256": "0w13vqmkr0ys03qg0b0rxajvzxxh2f55x36n6xvbhii8a3wlbkir",
     "version": "1.6.3"
   },
   "covernews-es_ES": {
     "path": "covernews/1.6.3/es_ES",
-    "rev": "518092",
-    "sha256": "10im25xd77rpb9yvb4j86mc6q2nkyryfiph4gwm321zc928vlral",
+    "rev": "519018",
+    "sha256": "19vq12dx8131gwi7pkls2z7nk0iq6qprqqdkxpq22jlsf2f9z3y0",
     "version": "1.6.3"
   },
   "covernews-es_MX": {
     "path": "covernews/1.6.3/es_MX",
-    "rev": "518091",
-    "sha256": "0482dwg4b793w8223j872ss09m54ypblhl93rgh4srj163d8h53k",
+    "rev": "519270",
+    "sha256": "0mcl7380w8iqf6spn951wsd15x3h4xvgxr9338c4qqydg31vc4jc",
     "version": "1.6.3"
   },
   "covernews-es_VE": {
     "path": "covernews/1.6.3/es_VE",
-    "rev": "518093",
-    "sha256": "1svciszkchqnxxx0gkialvzklbfzzgrvs849w0gfv1y8p5n7mw9h",
+    "rev": "519019",
+    "sha256": "1y59d084jklfbgyb3mw4mzbq6jq8l15l2yyj9i2wswa8c166dn77",
     "version": "1.6.3"
   },
   "covfefe-el": {
@@ -32207,11 +32213,17 @@
     "sha256": "07cvwrgnn2snyscvys1z2ipljfnq4ynz8ggcjrisfd1dy757d820",
     "version": "1.0.3"
   },
+  "experon-magazine-es_ES": {
+    "path": "experon-magazine/1.0.4/es_ES",
+    "rev": "519410",
+    "sha256": "1g93c1f6bnkca7mgf3zag3lbjd159q5qa1k0rhmi76k7kdfjpyi3",
+    "version": "1.0.4"
+  },
   "experon-magazine-nl_NL": {
-    "path": "experon-magazine/1.0.3/nl_NL",
-    "rev": "510652",
+    "path": "experon-magazine/1.0.4/nl_NL",
+    "rev": "519409",
     "sha256": "0sgd61zhhncqkgl82rx3qm7nqyjpv4dfzbpnzd4ay8ph62zda5qh",
-    "version": "1.0.3"
+    "version": "1.0.4"
   },
   "experon-minimal-nl_NL": {
     "path": "experon-minimal/1.0.5/nl_NL",
@@ -37199,6 +37211,12 @@
     "sha256": "1d3hhmihxkahwaxb4d12h04mibxzb04byfdwpkx40wy9ydd7hwk4",
     "version": "3.0.2"
   },
+  "generatepress-lv": {
+    "path": "generatepress/3.0.2/lv",
+    "rev": "519400",
+    "sha256": "1shr3w2kf1hn8gvr4zvlcam37b36r6al6a0z4iixy108sfk6fxd4",
+    "version": "3.0.2"
+  },
   "generatepress-nb_NO": {
     "path": "generatepress/3.0.2/nb_NO",
     "rev": "474861",
@@ -41069,16 +41087,22 @@
     "sha256": "07rj38bnrgv2ihzy96ynr3k6v45002qckiy1zx4s5yyxsn1s6mlv",
     "version": "3.0.10"
   },
+  "hestia-es_EC": {
+    "path": "hestia/3.0.10/es_EC",
+    "rev": "519020",
+    "sha256": "0bfaimlimvpgyi8ab96nq8bvpaw7cf2rih6nr6q1jhxdwbdl8s6v",
+    "version": "3.0.10"
+  },
   "hestia-es_ES": {
     "path": "hestia/3.0.10/es_ES",
-    "rev": "518604",
-    "sha256": "013s4zx2fcxxy529vqkazglmb2r3z1rrhhrzf4fapnk8jnn9nr11",
+    "rev": "519021",
+    "sha256": "0xl1w2dv7ydqy9l1sl3yb74pj1n005iw9bfzzf4bqgkaxq6yhi87",
     "version": "3.0.10"
   },
   "hestia-es_MX": {
     "path": "hestia/3.0.10/es_MX",
-    "rev": "518602",
-    "sha256": "0a9pd1g8rdxgzlwx9jjrq756a19ad8bw5fsa2pmb37rybyd4ii1z",
+    "rev": "519277",
+    "sha256": "0nvfwa5jbci3m594si40z1ggfvgk4ckjjfgsw3c3i444is4kmmwm",
     "version": "3.0.10"
   },
   "hestia-es_PE": {
@@ -41089,8 +41113,8 @@
   },
   "hestia-es_VE": {
     "path": "hestia/3.0.10/es_VE",
-    "rev": "518605",
-    "sha256": "0dljj73gp54aqsxyzmf3vhrcyjws3dnjg8265iq6i45apfywnbhb",
+    "rev": "519022",
+    "sha256": "03z15wr8l3nw144glpzyiybdbrwm7hnd7a4yjvw1x6p8mrfzib19",
     "version": "3.0.10"
   },
   "hestia-fa_IR": {
@@ -45432,16 +45456,16 @@
     "version": "1.1"
   },
   "justread-ru_RU": {
-    "path": "justread/1.2.0/ru_RU",
-    "rev": "302803",
-    "sha256": "19vfa0kichgfz6z83hf236klkfhrc1nkpv6f0bkxwwfi8wl7x6bl",
-    "version": "1.2.0"
+    "path": "justread/1.3.0/ru_RU",
+    "rev": "519096",
+    "sha256": "1b9hvgda7bglljx1fs0vq2wm7bdld5k55mpmqz081j5cp4dvkcyi",
+    "version": "1.3.0"
   },
   "justread-vi": {
-    "path": "justread/1.2.0/vi",
-    "rev": "301763",
-    "sha256": "13vrg9akqr3vy4pzn57rh3ln4a9la5h1b8gg1vp6k7dvcgn8dx4b",
-    "version": "1.2.0"
+    "path": "justread/1.3.0/vi",
+    "rev": "519097",
+    "sha256": "0qypsmn2szwl8sdcvkmzbij398ci1sr1815mlaxxlm6bqzfajasn",
+    "version": "1.3.0"
   },
   "justwrite-es_CO": {
     "path": "justwrite/2.0.3.6/es_CO",
@@ -70535,6 +70559,12 @@
     "sha256": "027fr2kfmqz933i73lfw805xbfh8wsn226wjbzifhnzw6lcpj518",
     "version": "1.0.1"
   },
+  "royale-news-lite-sv_SE": {
+    "path": "royale-news-lite/1.0.1/sv_SE",
+    "rev": "519363",
+    "sha256": "0xxb4fp7d8s5w6bcgfnjrrh0g8qyxs7csdzprp66zfzsygnfif4f",
+    "version": "1.0.1"
+  },
   "royale-news-pt_BR": {
     "path": "royale-news/2.0.8/pt_BR",
     "rev": "307200",
@@ -71103,6 +71133,12 @@
     "path": "scaffold/1.3.1/ru_RU",
     "rev": "312260",
     "sha256": "1h34ym2mf3gpcfiqs2sn343wmdw2qhy5h6m6zkka7dm7l618mivh",
+    "version": "1.3.1"
+  },
+  "scaffold-sv_SE": {
+    "path": "scaffold/1.3.1/sv_SE",
+    "rev": "519364",
+    "sha256": "1snx91jld0skivval6bgdj0ry04i1linllnqb7z37i5afvds10al",
     "version": "1.3.1"
   },
   "scaffold-uk": {
@@ -72707,6 +72743,12 @@
     "sha256": "1yf0y4h15852vzrqklp2nbzjihyg465yl7w9429kv65276kzqvwx",
     "version": "1.3.2"
   },
+  "seo-writers-blogily-sv_SE": {
+    "path": "seo-writers-blogily/1.0.9/sv_SE",
+    "rev": "519365",
+    "sha256": "0ds41hwn1nilq2z1kqc6djrbs0kz8467ymr4g4rgqnmfxzncggii",
+    "version": "1.0.9"
+  },
   "seos-business-en_CA": {
     "path": "seos-business/2.0.0/en_CA",
     "rev": "378199",
@@ -74086,6 +74128,12 @@
     "rev": "111945",
     "sha256": "05ycw53h3rfz10nv9vc4nsd1r3a240zwh713116xw3qbqryha1c1",
     "version": "1.2.2"
+  },
+  "shree-clean-sv_SE": {
+    "path": "shree-clean/1.0.8/sv_SE",
+    "rev": "519386",
+    "sha256": "1vvvgfaxnrknppfjdaaxfwwislbs0x2xvgi4wgfh3ibmr4xy14ac",
+    "version": "1.0.8"
   },
   "shutter-up-es_ES": {
     "path": "shutter-up/1.0.7/es_ES",
@@ -92826,46 +92874,46 @@
     "version": "1.8.5"
   },
   "woostify-es_CO": {
-    "path": "woostify/1.8.2/es_CO",
-    "rev": "506854",
-    "sha256": "0q55fp0pi9s9ivfcvw070c334f9iwk6nz4zylj1nshg5q9sgqzwz",
-    "version": "1.8.2"
+    "path": "woostify/1.8.3/es_CO",
+    "rev": "519309",
+    "sha256": "18f60hlcs193ix55drv87m9bwi3bq51khsaprh4y07hqdnjhvada",
+    "version": "1.8.3"
   },
   "woostify-es_ES": {
-    "path": "woostify/1.8.2/es_ES",
-    "rev": "506856",
-    "sha256": "057x5d6d05s47iywp1bgr1vpfrhsprsgh7kypscy4zy4msa016vz",
-    "version": "1.8.2"
+    "path": "woostify/1.8.3/es_ES",
+    "rev": "519311",
+    "sha256": "150q320h47zhxv7lnlnv1hvyfmka8x1lxnwzh0cgjg5ykyywbijb",
+    "version": "1.8.3"
   },
   "woostify-es_MX": {
-    "path": "woostify/1.8.2/es_MX",
-    "rev": "506855",
-    "sha256": "0j5dvba78kjv4pckm5q50aicwr872csh7sacvwkhkyq0dm9anlhb",
-    "version": "1.8.2"
+    "path": "woostify/1.8.3/es_MX",
+    "rev": "519310",
+    "sha256": "04ybw274zxp3krjnwdi9iq8hhg7hhyq935p6fhc1k22k0gfczr1f",
+    "version": "1.8.3"
   },
   "woostify-es_VE": {
-    "path": "woostify/1.8.2/es_VE",
-    "rev": "506857",
-    "sha256": "1lna6ypwla8kxyjf70wgfxhzisski541h0k7190km2rj7hjzwv61",
-    "version": "1.8.2"
+    "path": "woostify/1.8.3/es_VE",
+    "rev": "519312",
+    "sha256": "1yddajgz24p35v8hyah0par4c9w2bzwni4sh3ydd8jyap860rxg5",
+    "version": "1.8.3"
   },
   "woostify-fr_FR": {
-    "path": "woostify/1.8.2/fr_FR",
-    "rev": "506853",
-    "sha256": "1sfsf0p8clhigq8fa6nw6dzzbqmzm6m2kwdkb04myxhwwx1aczzn",
-    "version": "1.8.2"
+    "path": "woostify/1.8.3/fr_FR",
+    "rev": "519308",
+    "sha256": "0grahcfw7sgas0yw0j5nxchqllz5npyh9w3kbz6dsvfknig0npif",
+    "version": "1.8.3"
   },
   "woostify-nl_BE": {
-    "path": "woostify/1.8.2/nl_BE",
-    "rev": "506852",
-    "sha256": "0cb132calimwqrh02p68xdb6fm80wv7wfj3c6xhxkj34rdg3dp4r",
-    "version": "1.8.2"
+    "path": "woostify/1.8.3/nl_BE",
+    "rev": "519307",
+    "sha256": "0ryybqwwym9br6pfajyykwgl156lhq4ciwba6c4r93i1mzm6kmzr",
+    "version": "1.8.3"
   },
   "woostify-nl_NL": {
-    "path": "woostify/1.8.2/nl_NL",
-    "rev": "506851",
-    "sha256": "0hnbxqsiin0w1zz83dp7rp1icpi15lj2i1fifqz2czbyryxijsjs",
-    "version": "1.8.2"
+    "path": "woostify/1.8.3/nl_NL",
+    "rev": "519415",
+    "sha256": "1hrgg61xiccgajzdd1lggpd4ay2wqs7wqk2ls0gs500a0pv1pxyl",
+    "version": "1.8.3"
   },
   "woot-es_ES": {
     "path": "woot/3.0.3/es_ES",
@@ -93712,6 +93760,12 @@
     "rev": "133841",
     "sha256": "0nj6m7qvz4sw9qjqs41yfmm2ami7iqkd8dy34c6jnan6rw07wjh5",
     "version": "1.1.1"
+  },
+  "writee-nl_NL": {
+    "path": "writee/2.0.4/nl_NL",
+    "rev": "519458",
+    "sha256": "0sqjx1silbp9hzk230idc1937hprbmq78bx6xjykdwcpcxlg63ng",
+    "version": "2.0.4"
   },
   "writee-sv_SE": {
     "path": "writee/2.0.4/sv_SE",
