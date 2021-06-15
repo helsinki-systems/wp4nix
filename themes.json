@@ -2394,10 +2394,10 @@
     "version": "1.2.2"
   },
   "architect-design": {
-    "path": "architect-design/2.1.2",
-    "rev": "149041",
-    "sha256": "1q9sqrx6qmm7sd76h1wknfvhrll4yzm5c70bjwxac7byhbdjlchk",
-    "version": "2.1.2"
+    "path": "architect-design/2.1.3",
+    "rev": "149507",
+    "sha256": "0fgywahqpxykrnqi6zmgyvsl6q7wxbxdqpy05d4l70b2imzy33f7",
+    "version": "2.1.3"
   },
   "architect-lite": {
     "path": "architect-lite/1.0.4",
@@ -2442,10 +2442,10 @@
     "version": "1.0.7"
   },
   "arendelle": {
-    "path": "arendelle/1.0.8",
-    "rev": "148895",
-    "sha256": "1mnp3d3w8xqndngy402a8qp0ac80qs0jv2s4rv3fsijy3pjd5ayg",
-    "version": "1.0.8"
+    "path": "arendelle/1.0.9",
+    "rev": "149589",
+    "sha256": "05fcjbb06vimz3rc7k2jyryxrlsn2gfv3r9aya2hb9f85ik5n38r",
+    "version": "1.0.9"
   },
   "ares": {
     "path": "ares/2.1.0",
@@ -2520,10 +2520,10 @@
     "version": "1.0.1"
   },
   "arilewp": {
-    "path": "arilewp/2.7.7",
-    "rev": "149042",
-    "sha256": "1vvjvacwrkysayccclb1as6q7k3zn9rmidpvpqd982k1cv0g4744",
-    "version": "2.7.7"
+    "path": "arilewp/2.7.8",
+    "rev": "149508",
+    "sha256": "0bb0x6gr51g3v7mrkzm0b209prycg1gyipvzfh77za4bdlc96iw8",
+    "version": "2.7.8"
   },
   "arimolite": {
     "path": "arimolite/1.0.3",
@@ -2796,10 +2796,10 @@
     "version": "1.0.2"
   },
   "assentpress": {
-    "path": "assentpress/1.3",
-    "rev": "149038",
-    "sha256": "19pk1ric5iv3xdn60c2hzjnqmf573z2d8iafk0jrsz0yirxf6z04",
-    "version": "1.3"
+    "path": "assentpress/1.4",
+    "rev": "149509",
+    "sha256": "1c6q2ix5x0kvvpnlai3gkazhakmffaxyq1rcmvxgn6k807c6l9ms",
+    "version": "1.4"
   },
   "associationx": {
     "path": "associationx/1.19",
@@ -3366,10 +3366,10 @@
     "version": "1.0.1"
   },
   "avril": {
-    "path": "avril/1.0.53",
-    "rev": "149076",
-    "sha256": "1b788za2zp9yg1rll1zhzmznaf0n0q6q3bmgs5llzd5jwrj3p5cq",
-    "version": "1.0.53"
+    "path": "avril/1.0.54",
+    "rev": "149556",
+    "sha256": "1nx3nl7dc8q1dnswxkqbdlli1pxw58y71zskgmcmc30r9kyir0gi",
+    "version": "1.0.54"
   },
   "avrilly": {
     "path": "avrilly/1.0.5",
@@ -3576,10 +3576,10 @@
     "version": "2.1"
   },
   "az-multipurpose": {
-    "path": "az-multipurpose/0.1.4",
-    "rev": "149383",
-    "sha256": "1vif51s1si3xcslw5d5clnkd3v3vwgjcww47jnac5hc4ypkhxcmd",
-    "version": "0.1.4"
+    "path": "az-multipurpose/0.1.5",
+    "rev": "149548",
+    "sha256": "11n5gxk8zsz4zwzqa34rh71bjlyrxq8m79nhh9hsa59zibylzviy",
+    "version": "0.1.5"
   },
   "aza-lite": {
     "path": "aza-lite/1.1.1",
@@ -4326,16 +4326,22 @@
     "version": "1.6.9.2"
   },
   "beshop": {
-    "path": "beshop/1.0.19",
-    "rev": "148946",
-    "sha256": "0angcf9cg9qpf2kif87iz8b3vmh7gsfgjx7gnz55n5sdbq0i5819",
-    "version": "1.0.19"
+    "path": "beshop/1.0.20",
+    "rev": "149565",
+    "sha256": "1lzf8yrwsrwsmwb63cliq13wzinbf45s6ganlv41w5sbgpcv3fl1",
+    "version": "1.0.20"
   },
   "beshop-free": {
     "path": "beshop-free/1.0.2",
     "rev": "145474",
     "sha256": "11jry3mqw45p69xxn8lmpki2788py4v78by4agmh5zfwxrq31rm2",
     "version": "1.0.2"
+  },
+  "beshop-plus": {
+    "path": "beshop-plus/1.0.0",
+    "rev": "148948",
+    "sha256": "0b683fa6jgqb7zzpfrjccpv5z6g8354iy2wxdlapbdf3vmldz16v",
+    "version": "1.0.0"
   },
   "best": {
     "path": "best/1.4",
@@ -6858,10 +6864,10 @@
     "version": "1.0.6"
   },
   "bootframe-core": {
-    "path": "bootframe-core/4.0.5",
-    "rev": "128856",
-    "sha256": "14j3cwdnglsc7xnbrzynqml4h1r9bbwi87ssngxa2f4a0y17lg27",
-    "version": "4.0.5"
+    "path": "bootframe-core/4.0.8",
+    "rev": "149587",
+    "sha256": "0nv6i7a8y8hwd46frv70vx2as4ri8y3zbxa0a4ydjgfcpj10aq0r",
+    "version": "4.0.8"
   },
   "bootpress": {
     "path": "bootpress/1.3",
@@ -7278,10 +7284,10 @@
     "version": "1.5"
   },
   "brightpress": {
-    "path": "brightpress/1.3.4",
-    "rev": "149039",
-    "sha256": "0jbc8ap877s0d67d3660v71f66z9xzja1cgbb8bdw3cvx06if2vf",
-    "version": "1.3.4"
+    "path": "brightpress/1.3.5",
+    "rev": "149510",
+    "sha256": "1a3hymaxcx4lymz97zh9acj2m6wf4r3rwdn6cghxjn5xxagzfmx1",
+    "version": "1.3.5"
   },
   "brigsby": {
     "path": "brigsby/1.9.14",
@@ -7626,10 +7632,10 @@
     "version": "0.4"
   },
   "busicorp": {
-    "path": "busicorp/1.2.7",
-    "rev": "149082",
-    "sha256": "08frdfcmk1144ajna177gddgmf9rgw1cr5qmda06y3ici7x0nhhg",
-    "version": "1.2.7"
+    "path": "busicorp/1.2.8",
+    "rev": "149579",
+    "sha256": "1gf5q74a1p4r799dvgxd3092hlwqlws12zcvfnpwzxhy2hw27m38",
+    "version": "1.2.8"
   },
   "busify": {
     "path": "busify/1.0.8",
@@ -7920,10 +7926,10 @@
     "version": "1.4"
   },
   "business-health": {
-    "path": "business-health/1.0.4",
-    "rev": "149426",
-    "sha256": "0cr7bnp71hzxxgxk71zyfv6wfjf6jhqrl50pfm4x6l7a0iasav5d",
-    "version": "1.0.4"
+    "path": "business-health/1.0.5",
+    "rev": "149540",
+    "sha256": "1khdhg6rfycirchm2ap672jbxnnwwb7crbscfpsswxjyqjc4jhxz",
+    "version": "1.0.5"
   },
   "business-hour": {
     "path": "business-hour/0.0.5",
@@ -8046,10 +8052,10 @@
     "version": "1.2.5"
   },
   "business-owner": {
-    "path": "business-owner/1.0.1",
-    "rev": "121063",
-    "sha256": "0znvxs8rma6w6aki5q67v9filfwin84f4ava3m6670x2dgvgrg48",
-    "version": "1.0.1"
+    "path": "business-owner/1.0.2",
+    "rev": "149544",
+    "sha256": "0z82i9gniwk47z8dbyzgv1q4s4ch3dx2y02phfpy01shskin3c0d",
+    "version": "1.0.2"
   },
   "business-page": {
     "path": "business-page/1.0.9",
@@ -8172,10 +8178,10 @@
     "version": "1.3.3"
   },
   "business-street": {
-    "path": "business-street/1.8.4",
-    "rev": "149043",
-    "sha256": "0fngdd0374ppf8x2vixgjl3crzzswwmy9iksrxysdjmn5igw6mcq",
-    "version": "1.8.4"
+    "path": "business-street/1.8.5",
+    "rev": "149511",
+    "sha256": "1jjyimx6hm7ia962127zm88zy122rhgajj6f370k6680pfx2wdyk",
+    "version": "1.8.5"
   },
   "business-times": {
     "path": "business-times/1.1.0",
@@ -10331,6 +10337,12 @@
     "sha256": "09qyr96kny6y7d2l7ag4sny29kl83clprgshckk2y5jm24js3j6b",
     "version": "0.0.6"
   },
+  "clubnature": {
+    "path": "clubnature/0.0.5",
+    "rev": "149326",
+    "sha256": "1rmkx39kyxdarjzy22id5gbpx8adsw8g00i0i1bss7h9aqm0rgrg",
+    "version": "0.0.5"
+  },
   "clubtravel": {
     "path": "clubtravel/1.1.3",
     "rev": "137826",
@@ -11082,10 +11094,10 @@
     "version": "1.0.3"
   },
   "consultera": {
-    "path": "consultera/1.6.2",
-    "rev": "149083",
-    "sha256": "1pyr9ds0fcvkwh9c2vr49713myr45x86hlvqz69fv89x7w349hpa",
-    "version": "1.6.2"
+    "path": "consultera/1.6.3",
+    "rev": "149580",
+    "sha256": "0zjfnadjzq6w5xnd8sk3mqy82wj7afffiya6dn5k7rhl2vxvnmqx",
+    "version": "1.6.3"
   },
   "consulting": {
     "path": "consulting/1.2.17",
@@ -11106,10 +11118,10 @@
     "version": "1.2.3"
   },
   "consultstreet": {
-    "path": "consultstreet/1.4.9",
-    "rev": "149037",
-    "sha256": "0vmqpcyvd6mdpyzlg092hp8aq4pypziv14mim4liqr37ydz65w6z",
-    "version": "1.4.9"
+    "path": "consultstreet/1.5.0",
+    "rev": "149512",
+    "sha256": "00phywx4xgfwz78ab5yhs3wdg8s5zpm2ypps7ympmb1x3a4f7hks",
+    "version": "1.5.0"
   },
   "consultup": {
     "path": "consultup/1.9.9.21",
@@ -11334,10 +11346,10 @@
     "version": "1.8.1"
   },
   "corpera": {
-    "path": "corpera/1.0.3",
-    "rev": "149087",
-    "sha256": "1lricsy2k6x56y4k5kvjy0wjg2fgm2707dprqnf82cpwyd2hcc4q",
-    "version": "1.0.3"
+    "path": "corpera/1.0.4",
+    "rev": "149581",
+    "sha256": "0m8hfmfrv8mqx26cagywng70kn6iqrn9wgxr5w9cb5gxxaz9ny9w",
+    "version": "1.0.4"
   },
   "corpo-eye": {
     "path": "corpo-eye/1.1",
@@ -11622,10 +11634,10 @@
     "version": "1.3"
   },
   "cosmoswp": {
-    "path": "cosmoswp/1.3.2",
-    "rev": "143993",
-    "sha256": "0rvm27d6qdf42g2b25vx0smgwf7ny5pgabdx9mbf7mdy0dgfyaxv",
-    "version": "1.3.2"
+    "path": "cosmoswp/1.3.3",
+    "rev": "149588",
+    "sha256": "0cl5wf9y0zs2c17jp6p7afqjxifp2zc3j04r1bn6kym9vrzhx6nl",
+    "version": "1.3.3"
   },
   "cosparell": {
     "path": "cosparell/1.0.4",
@@ -12707,6 +12719,12 @@
     "sha256": "0h532jrhisknxdlsq3k5dgkbgnnn50yx318wcpmy32gs8xp3x72m",
     "version": "1.0.5"
   },
+  "darkbiz-child": {
+    "path": "darkbiz-child/1.0.1",
+    "rev": "149490",
+    "sha256": "1bqcad6dqjqjag26zpzpvs3q09s8zd2f5794snb8awkiyydyk2ca",
+    "version": "1.0.1"
+  },
   "darke": {
     "path": "darke/1.0.3",
     "rev": "25990",
@@ -13200,10 +13218,10 @@
     "version": "1.0.2"
   },
   "designexo": {
-    "path": "designexo/1.7",
-    "rev": "149048",
-    "sha256": "063sqlkfmxi7jb2dkn77fshsaa6d2h38rab6dg5zz55dmfd2gc00",
-    "version": "1.7"
+    "path": "designexo/1.8",
+    "rev": "149513",
+    "sha256": "14hji6g31zqakwvlhjr4c8icm4i5xg3qkb4sk4c684arxlzxlq35",
+    "version": "1.8"
   },
   "designfolio": {
     "path": "designfolio/1.23",
@@ -14754,10 +14772,10 @@
     "version": "1.0.4"
   },
   "editorial-plus": {
-    "path": "editorial-plus/1.0.2",
-    "rev": "121117",
-    "sha256": "0d30gy7v7va5k47zwiklhhzpm1zyjw43ns8pbq0qpf8l5b788y5w",
-    "version": "1.0.2"
+    "path": "editorial-plus/1.0.3",
+    "rev": "149543",
+    "sha256": "0nmwyjdi9d6b62jvn8sg5xzrrv2d3m57nga2m928jar13ap410lj",
+    "version": "1.0.3"
   },
   "editorialmag": {
     "path": "editorialmag/1.1.6",
@@ -14976,10 +14994,10 @@
     "version": "1.1.3"
   },
   "education-zone": {
-    "path": "education-zone/1.2.5",
-    "rev": "131838",
-    "sha256": "0q0cgpmz83lsrqlcdbrxz4mcv62v43x1cl0lysw9j06nws1dqiwz",
-    "version": "1.2.5"
+    "path": "education-zone/1.2.6",
+    "rev": "149519",
+    "sha256": "0nhin95ln3h5i10vvb575lr1qjsqhnm0r8b2cvzc38g4ldk542k3",
+    "version": "1.2.6"
   },
   "educational": {
     "path": "educational/1.0.9",
@@ -15582,10 +15600,10 @@
     "version": "1.0.14"
   },
   "empresa": {
-    "path": "empresa/1.9.1",
-    "rev": "149049",
-    "sha256": "1siwkgl8b3c53fjsala3d91y3k6rbw8pj17w2li4dnp00igf0d0f",
-    "version": "1.9.1"
+    "path": "empresa/1.9.2",
+    "rev": "149514",
+    "sha256": "099lwca93nrljqm28l13wjlbvdq30alsjl88qackx3r2b3r161lv",
+    "version": "1.9.2"
   },
   "empt-lite": {
     "path": "empt-lite/1.0.2",
@@ -15702,22 +15720,22 @@
     "version": "5.1.2"
   },
   "enjoynews": {
-    "path": "enjoynews/1.1.2",
-    "rev": "149475",
-    "sha256": "18w5f3rifqpm4gc8yfl65j60grifykk0b1in9y9d0813f48phgr6",
-    "version": "1.1.2"
+    "path": "enjoynews/1.1.3",
+    "rev": "149577",
+    "sha256": "1nhlskdvr65md7brdzd1ybcmnyfj01p1arq89vq0l7biaffyca55",
+    "version": "1.1.3"
   },
   "enjoynow": {
-    "path": "enjoynow/1.0.7",
-    "rev": "149474",
-    "sha256": "0rs4p169n4skk6mzfhpwm0573bq3hki0w18kvmjjxypb183iz3i5",
-    "version": "1.0.7"
+    "path": "enjoynow/1.0.8",
+    "rev": "149575",
+    "sha256": "0s3ff7dpphrwidh0czvv40dcfhplw67r20rxsp6v0v0vxgbn0gq6",
+    "version": "1.0.8"
   },
   "enjoypress": {
-    "path": "enjoypress/1.1.0",
-    "rev": "149501",
-    "sha256": "0aha59zkmscaz9vfjvzskaa8nadx9c65zxcbf004h5lhcc6n9s37",
-    "version": "1.1.0"
+    "path": "enjoypress/1.1.1",
+    "rev": "149578",
+    "sha256": "0bp4b6c0lhqvx382zrjx0m0p2vjs9wp8brzxgwrsm53bi2y4mjy2",
+    "version": "1.1.1"
   },
   "enlighten": {
     "path": "enlighten/1.3.5",
@@ -15738,10 +15756,10 @@
     "version": "1.2.0"
   },
   "ennova": {
-    "path": "ennova/1.9",
-    "rev": "147037",
-    "sha256": "1sapwqsda5y2hamqlkzs6mzckkim6v8phgi1h6n8j3qynwd2kimp",
-    "version": "1.9"
+    "path": "ennova/1.9.1",
+    "rev": "149522",
+    "sha256": "07x9pij3sq45czknbvfdgb5g3zr13xl21az0zwfli3i8hsyp83qk",
+    "version": "1.9.1"
   },
   "enormous": {
     "path": "enormous/1.3.1",
@@ -17046,10 +17064,10 @@
     "version": "1.0.3"
   },
   "favblog": {
-    "path": "favblog/1.0.2",
-    "rev": "148796",
-    "sha256": "0sbg8yfw5zqsb14ryr7xxkvwfnkzr8kfh43mizqh84cz6xdh4sin",
-    "version": "1.0.2"
+    "path": "favblog/1.0.3",
+    "rev": "149542",
+    "sha256": "1wlwlz419xlvhq7558mm2rawi6vn0yq246h9fzk6vlz7a74g44ga",
+    "version": "1.0.3"
   },
   "fazio": {
     "path": "fazio/1.3",
@@ -17128,6 +17146,12 @@
     "rev": "143716",
     "sha256": "1clsl79v7vd0lr0v7x2b5af3kzlcw8bic0bc6cifn5khc4fwfymn",
     "version": "1.3.7"
+  },
+  "feedlistly": {
+    "path": "feedlistly/1.1",
+    "rev": "149429",
+    "sha256": "0866v2s59q71kz183k3dxg027mb4iwclpd5i3cmx7m38z76p4cqa",
+    "version": "1.1"
   },
   "felicity": {
     "path": "felicity/1.0.7",
@@ -17478,10 +17502,10 @@
     "version": "2.7"
   },
   "firm-graphy": {
-    "path": "firm-graphy/1.2.0",
-    "rev": "135135",
-    "sha256": "1bgh3wiqh4al03ixxj97nj6634r00r6k784h4yx0l3b30fw03ljr",
-    "version": "1.2.0"
+    "path": "firm-graphy/1.2.1",
+    "rev": "149524",
+    "sha256": "1jrpr41s86nnkyqylzv39pigcg6k24xfzdm3m3x02axjk5lf2ibz",
+    "version": "1.2.1"
   },
   "firmasite": {
     "path": "firmasite/1.5.3",
@@ -17604,10 +17628,10 @@
     "version": "1.0.4"
   },
   "fitnessbase": {
-    "path": "fitnessbase/2.1.2",
-    "rev": "149040",
-    "sha256": "1bki478v6fyc9ykdkncyzm6pp0ncd1dc20nx8y2hb3wr0fnwjzwk",
-    "version": "2.1.2"
+    "path": "fitnessbase/2.1.3",
+    "rev": "149515",
+    "sha256": "0qspzp6nq4r0jffczgw6d140ixxn9yhh70h37plyz688wpgq0az7",
+    "version": "2.1.3"
   },
   "fitspiration": {
     "path": "fitspiration/2.0.1",
@@ -18174,10 +18198,10 @@
     "version": "1.2.2"
   },
   "food-restro": {
-    "path": "food-restro/1.2.4",
-    "rev": "134940",
-    "sha256": "1vpnv1rf9yn8s0g80jl906wpanmdr6h5xpnb8l1vm720vabsya0n",
-    "version": "1.2.4"
+    "path": "food-restro/1.2.5",
+    "rev": "149552",
+    "sha256": "13cpscbhnvsabb1rg4v1pqghr5q01j3zpdx8zdcm2d2jhvdba2k4",
+    "version": "1.2.5"
   },
   "food-truck": {
     "path": "food-truck/1.0.5",
@@ -18252,10 +18276,10 @@
     "version": "1.4"
   },
   "foodup": {
-    "path": "foodup/0.6",
-    "rev": "147021",
-    "sha256": "15490m3xbs61z4lqb494fzlxqcf3rhhzp1jfl1z025625qi17vyq",
-    "version": "0.6"
+    "path": "foodup/0.7",
+    "rev": "149521",
+    "sha256": "1nbka81mlzx161mjsc7vzg1zdcivqkmlcagcj91276wby44fhd8l",
+    "version": "0.7"
   },
   "foody": {
     "path": "foody/1.3.5",
@@ -20994,10 +21018,10 @@
     "version": "3.0.1"
   },
   "happify": {
-    "path": "happify/1.0.4",
-    "rev": "149498",
-    "sha256": "14w2zkacvjbhwx3w82w4mb1ab0v8zzzas0qj014q1bp4rfjqha4g",
-    "version": "1.0.4"
+    "path": "happify/1.0.5",
+    "rev": "149525",
+    "sha256": "1k98rfh43xbnr6ham583gq74yc3xighi93n0bkgmqpd82z7p01pn",
+    "version": "1.0.5"
   },
   "happy-cyclope": {
     "path": "happy-cyclope/1.0",
@@ -22410,10 +22434,10 @@
     "version": "1.2"
   },
   "imperion": {
-    "path": "imperion/1.0.4",
-    "rev": "149425",
-    "sha256": "024alzzhixcc0s7khbdmph2zns0fdfi8bs3kxa2inv38rx38a09g",
-    "version": "1.0.4"
+    "path": "imperion/1.0.5",
+    "rev": "149541",
+    "sha256": "0r4mdsk4kq88qg0kp5ad7f0hg44byxz0lg3jdhxsqlq9mbardwlr",
+    "version": "1.0.5"
   },
   "impressio-lite": {
     "path": "impressio-lite/1.0.4",
@@ -22980,16 +23004,16 @@
     "version": "2.7"
   },
   "interiorpress": {
-    "path": "interiorpress/1.4.6",
-    "rev": "149045",
-    "sha256": "04y9hagfqjiib1hs9a0km62566894nlk111vcjq1qyzmipnl8z30",
-    "version": "1.4.6"
+    "path": "interiorpress/1.4.7",
+    "rev": "149516",
+    "sha256": "1rpqdiiglvrxbn3gz37y778940hh6vszljmrvpy3aa84b72rvacl",
+    "version": "1.4.7"
   },
   "interiorwp": {
-    "path": "interiorwp/1.1",
-    "rev": "149265",
-    "sha256": "1i00s2cpjb293knqjns80p9b1ggpnccdnsw0mjcry6izjdffgpa3",
-    "version": "1.1"
+    "path": "interiorwp/1.2",
+    "rev": "149517",
+    "sha256": "1n56yg6n5lhn3rjwyzv2kyvifis29l32d9qdndgpmg1nhbp4v9cl",
+    "version": "1.2"
   },
   "internet-provider": {
     "path": "internet-provider/0.2.4",
@@ -23958,10 +23982,10 @@
     "version": "2.1"
   },
   "kadence": {
-    "path": "kadence/1.0.25",
-    "rev": "149420",
-    "sha256": "0fpz6bg3xysc79nxbpsjyjg6s2pi6xzy7xvxhnk5gzamgghi32gj",
-    "version": "1.0.25"
+    "path": "kadence/1.0.26",
+    "rev": "149586",
+    "sha256": "0jmr2x6knh05sr5mx8nxpqq7z76y3i7sqv5lilf1hvcrp2s5sbpd",
+    "version": "1.0.26"
   },
   "kafal": {
     "path": "kafal/1.0.12",
@@ -28230,10 +28254,10 @@
     "version": "1.0.4"
   },
   "metasoft": {
-    "path": "metasoft/1.0.5",
-    "rev": "149450",
-    "sha256": "155k2b9vvir0mklzdnnxx26qsh6b03i6afzcc0psfq3m84k6ph72",
-    "version": "1.0.5"
+    "path": "metasoft/1.0.6",
+    "rev": "149557",
+    "sha256": "1j2dg3s781f37lj0nij1gs81nirsk7w19732c9lp0f50bwrp6ys7",
+    "version": "1.0.6"
   },
   "meteorite": {
     "path": "meteorite/2.5.1",
@@ -31344,10 +31368,10 @@
     "version": "1.0.0"
   },
   "newsup": {
-    "path": "newsup/2.9.9.68",
-    "rev": "149339",
-    "sha256": "141rvyki06lh5p50mxh8bqy2y1ivphvx9f79yx590rgkj07q50nv",
-    "version": "2.9.9.68"
+    "path": "newsup/2.9.9.69",
+    "rev": "149520",
+    "sha256": "0ir8cdbbnh6vyiknn62nxcvm1nk2vcayg4v72mv6j66qqwqyb85y",
+    "version": "2.9.9.69"
   },
   "newswords": {
     "path": "newswords/1.1.0",
@@ -31386,10 +31410,10 @@
     "version": "1.0.8"
   },
   "newyork-city": {
-    "path": "newyork-city/1.6.8",
-    "rev": "149046",
-    "sha256": "13fgxxmhxknkxznp7qdwsa70s7cvws01wgh89n2s3mv1j6fjj2zs",
-    "version": "1.6.8"
+    "path": "newyork-city/1.6.9",
+    "rev": "149518",
+    "sha256": "0z4dbpzsxxw4f631agj6s25r5yqwm5hz9c3pnc1m0n82ixnzlj5p",
+    "version": "1.6.9"
   },
   "newzer": {
     "path": "newzer/1.2.2",
@@ -32214,10 +32238,10 @@
     "version": "2.1.0"
   },
   "ocelot": {
-    "path": "ocelot/1.0.2",
-    "rev": "106680",
-    "sha256": "0lp47jwspbb2l947psvv9np87ha3n2iqc38a3zjal24cs4x46h41",
-    "version": "1.0.2"
+    "path": "ocelot/1.0.3",
+    "rev": "149441",
+    "sha256": "018539ifd8nh385brbixwdhgi41l088sxrqpzdhf67awaa5g4qxa",
+    "version": "1.0.3"
   },
   "ochiba": {
     "path": "ochiba/1.3.0",
@@ -32724,10 +32748,10 @@
     "version": "1.2"
   },
   "online-bazaar": {
-    "path": "online-bazaar/1.0.2",
-    "rev": "100624",
-    "sha256": "0vzvj8pwa49pd7iayc221wvf9byjfd48lksxhdxixljrqmqr85hi",
-    "version": "1.0.2"
+    "path": "online-bazaar/1.0.3",
+    "rev": "149523",
+    "sha256": "1j74bvb794pd9wfc5dp1zymrykxfhhf309fv9l6q4jggsz9384pm",
+    "version": "1.0.3"
   },
   "online-blog": {
     "path": "online-blog/1.1.5",
@@ -34638,10 +34662,10 @@
     "version": "1.0.4"
   },
   "physiotherapy-lite": {
-    "path": "physiotherapy-lite/1.1.1",
-    "rev": "148309",
-    "sha256": "10nfhn22258s9hzbkha99mw6rfblw54d1kjcvyc61xwi3z2mlp6r",
-    "version": "1.1.1"
+    "path": "physiotherapy-lite/1.1.2",
+    "rev": "149567",
+    "sha256": "13hjz0ni91x1akz1yr9nnwrk3k3zhbdn5l3x94v7fj0h0c7pybw2",
+    "version": "1.1.2"
   },
   "physique": {
     "path": "physique/1.1",
@@ -38496,10 +38520,10 @@
     "version": "1.0.4"
   },
   "rynobiz": {
-    "path": "rynobiz/1.2.6",
-    "rev": "149084",
-    "sha256": "17n82030mirsnkk43j2dc6h0y85lvm0516b8hlxwrg0fpyvxb33j",
-    "version": "1.2.6"
+    "path": "rynobiz/1.2.7",
+    "rev": "149582",
+    "sha256": "0qx57s6bmmwm20xmg8ancl72qs0zksynpa0pjv7qyiq5692fclps",
+    "version": "1.2.7"
   },
   "ryu": {
     "path": "ryu/1.4.7",
@@ -39714,10 +39738,10 @@
     "version": "1.1"
   },
   "shams-solar": {
-    "path": "shams-solar/0.6.3",
-    "rev": "148506",
-    "sha256": "10zrh5zpa2yz3h0178s2rhc18lvid2a0g2pd89g09fdfiwjdyk5w",
-    "version": "0.6.3"
+    "path": "shams-solar/0.6.4",
+    "rev": "149528",
+    "sha256": "14y1rakmrc52nx3c43fspfgassgbz3g7lbsfcq66kx5snh2rvdga",
+    "version": "0.6.4"
   },
   "shaoor": {
     "path": "shaoor/1.0.0.5",
@@ -39762,10 +39786,10 @@
     "version": "2.0.1"
   },
   "shapro": {
-    "path": "shapro/0.2.1",
-    "rev": "149055",
-    "sha256": "1wxcsc4c3mjih322v3vdhs09vlyl5kflxm8qs5n1dcqrc84m1wnk",
-    "version": "0.2.1"
+    "path": "shapro/0.3.1",
+    "rev": "149545",
+    "sha256": "1k57q65899h7ybi62p5qm507vvv2rwvbqmlnv6hs6349z2xs9kc3",
+    "version": "0.3.1"
   },
   "shark-business": {
     "path": "shark-business/1.1.7",
@@ -43302,10 +43326,10 @@
     "version": "0.3"
   },
   "strangerwp": {
-    "path": "strangerwp/1.7.4",
-    "rev": "149047",
-    "sha256": "1qbx2jw21263lxjjc8xd5izdpwl7646gh9vb9y2i5fppvjml4ils",
-    "version": "1.7.4"
+    "path": "strangerwp/1.7.5",
+    "rev": "149526",
+    "sha256": "01ghvljbxssf6sk8bgvzci8jgfl50kgl9h8408sjgq8cda9j5z0x",
+    "version": "1.7.5"
   },
   "strapped": {
     "path": "strapped/1.4",
@@ -44028,10 +44052,10 @@
     "version": "1.0.4"
   },
   "sydnee": {
-    "path": "sydnee/0.5",
-    "rev": "148580",
-    "sha256": "1pr2hji7nkamfvz8193l1x85mrq1s58cfgs8kdf22bp87pv74lg6",
-    "version": "0.5"
+    "path": "sydnee/0.6",
+    "rev": "149546",
+    "sha256": "017y2q35bavpx4zpijwmp4pkc7a631cj7nwalcgb17zsxl622qy7",
+    "version": "0.6"
   },
   "sydney": {
     "path": "sydney/1.77",
@@ -44112,10 +44136,10 @@
     "version": "1.6.8"
   },
   "tafri-travel": {
-    "path": "tafri-travel/0.5.9",
-    "rev": "148505",
-    "sha256": "1yvn2izc1rcq1p2889j2nxy8hrllc26pz89gn16sipsj1ghs5gil",
-    "version": "0.5.9"
+    "path": "tafri-travel/0.6",
+    "rev": "149529",
+    "sha256": "0phwkzfri3hp2ir3iw6mww2lnibirqvnsq46nm7gl57s9xrswmry",
+    "version": "0.6"
   },
   "tailor": {
     "path": "tailor/2.0",
@@ -44172,10 +44196,10 @@
     "version": "1.08"
   },
   "tameer-construction": {
-    "path": "tameer-construction/0.6.2",
-    "rev": "148504",
-    "sha256": "09vgpxdmy1f0p6gjyb6khw8z848kccxkj56wbphm5gsnw8yg68kx",
-    "version": "0.6.2"
+    "path": "tameer-construction/0.6.3",
+    "rev": "149530",
+    "sha256": "0r5k992kjdzpipydyf2m3sfj9q861pnq66jl3bqc64gljz8bviba",
+    "version": "0.6.3"
   },
   "tampa": {
     "path": "tampa/2.2",
@@ -44184,10 +44208,10 @@
     "version": "2.2"
   },
   "tanawul-bakery": {
-    "path": "tanawul-bakery/0.5.8",
-    "rev": "147410",
-    "sha256": "1l6ywbsfl9arhvl1x0ibv2axwplflcvj39c5cmm6q89r12ncvcc8",
-    "version": "0.5.8"
+    "path": "tanawul-bakery/0.5.9",
+    "rev": "149531",
+    "sha256": "0arf47smnbmrmxz2rl5z810i2sbmyyv6zaanak934ib7rbxgvgv4",
+    "version": "0.5.9"
   },
   "tancho": {
     "path": "tancho/1.3.0",
@@ -45144,10 +45168,10 @@
     "version": "0.6.2"
   },
   "the-writers-blog": {
-    "path": "the-writers-blog/0.5.6",
-    "rev": "148071",
-    "sha256": "1kmd20vbm2pmkpwsa90rxfr2jzmh939pdfjkx3sjribxh6pyhrbc",
-    "version": "0.5.6"
+    "path": "the-writers-blog/0.5.7",
+    "rev": "149532",
+    "sha256": "1jvkif5m588nqr59zba2dr53bj9wx1dlf7iywvwrz0x8xh98qal5",
+    "version": "0.5.7"
   },
   "the100": {
     "path": "the100/1.1.2",
@@ -45492,10 +45516,10 @@
     "version": "1.43"
   },
   "tijarat-business": {
-    "path": "tijarat-business/0.5.6",
-    "rev": "148073",
-    "sha256": "0h6nk6mzl0hp0chvx1qjsn8d9s0jpkkwnsnv52il3vqprn3b1js4",
-    "version": "0.5.6"
+    "path": "tijarat-business/0.5.7",
+    "rev": "149533",
+    "sha256": "11gfpz1a31zlrb0z5m7vd318xdyinjwd8vax45g7j4q51skjx27a",
+    "version": "0.5.7"
   },
   "tiki-time": {
     "path": "tiki-time/1.3",
@@ -46278,10 +46302,10 @@
     "version": "1.1.1"
   },
   "traverse-diary": {
-    "path": "traverse-diary/1.0.1",
-    "rev": "121066",
-    "sha256": "1nl5dwwbx22djc3m6n1hjg4gzwx5x62zb6hbvqgl8azjs41gyf50",
-    "version": "1.0.1"
+    "path": "traverse-diary/1.0.2",
+    "rev": "149547",
+    "sha256": "0kczhk6c22yxq1lmyjz52hpy81widlix7isnf2ax5gm5s2blixmi",
+    "version": "1.0.2"
   },
   "traversify-lite": {
     "path": "traversify-lite/1.1.8",
@@ -47741,6 +47765,12 @@
     "sha256": "1wsmf36lj7iw74ydm4g4bkhsy71cql7y50hszazcnmjdbd72nc56",
     "version": "3.1"
   },
+  "vendorfuel": {
+    "path": "vendorfuel/1.0.1",
+    "rev": "149091",
+    "sha256": "0dlfn79xa3gl117hr6fjblcs18iykhg2ar3qlcsi3agpg3hbzm16",
+    "version": "1.0.1"
+  },
   "venice-lite": {
     "path": "venice-lite/1.4.5",
     "rev": "148279",
@@ -48474,10 +48504,10 @@
     "version": "0.7.4"
   },
   "vw-education-academy": {
-    "path": "vw-education-academy/0.7.6",
-    "rev": "147726",
-    "sha256": "17j64v0rr2nzkfl44kad89dng9i9rcgjrcjzc60i5jh5pj6yf64n",
-    "version": "0.7.6"
+    "path": "vw-education-academy/0.7.7",
+    "rev": "149539",
+    "sha256": "0z5p1h3g979p704nvs01m6q4qv2sqh4qs810ldjf2pfcayvbx3ql",
+    "version": "0.7.7"
   },
   "vw-education-lite": {
     "path": "vw-education-lite/1.5.1",
@@ -48522,10 +48552,10 @@
     "version": "0.7.4"
   },
   "vw-hair-salon": {
-    "path": "vw-hair-salon/0.7.4",
-    "rev": "147158",
-    "sha256": "0gqf0y2m2951k7pd806iwmymhjpy2d1m9rvy53nbcxs1k0hyy0as",
-    "version": "0.7.4"
+    "path": "vw-hair-salon/0.7.5",
+    "rev": "149568",
+    "sha256": "1phy0rcqjpm03mkis0d61x2vzv2zxx3glz9ig03j5914qfbsabm6",
+    "version": "0.7.5"
   },
   "vw-health-coaching": {
     "path": "vw-health-coaching/0.7.2",
@@ -48540,10 +48570,10 @@
     "version": "0.2"
   },
   "vw-hospital-lite": {
-    "path": "vw-hospital-lite/1.5",
-    "rev": "148383",
-    "sha256": "1md5bmi4jhw0w6qks9rxx90kr71y88d60vc2fklylzgwnd8vnjhm",
-    "version": "1.5"
+    "path": "vw-hospital-lite/1.5.1",
+    "rev": "149569",
+    "sha256": "0zzyh2ygqki8dhm3as4sgp91vkq1j4iql6gfhm2n9lb5p5bs5f9x",
+    "version": "1.5.1"
   },
   "vw-hotel": {
     "path": "vw-hotel/0.6.4",
@@ -48552,16 +48582,16 @@
     "version": "0.6.4"
   },
   "vw-interior-designs": {
-    "path": "vw-interior-designs/0.6.3",
-    "rev": "148194",
-    "sha256": "0vnjqzni706kl4vgn5xpnga3sd10pg4q0hdzs3a0imhl9zlcxvdi",
-    "version": "0.6.3"
+    "path": "vw-interior-designs/0.6.4",
+    "rev": "149537",
+    "sha256": "0c8gc2k8czq4b4s9psm6ky9vn2j28czpqfdl8qn0ykvpap5dv858",
+    "version": "0.6.4"
   },
   "vw-kids": {
-    "path": "vw-kids/0.6.2",
-    "rev": "148242",
-    "sha256": "1k9ingccm76a80bpxc1z3ry0wkks5rswh665zk0244cnnqb6ifdd",
-    "version": "0.6.2"
+    "path": "vw-kids/0.6.3",
+    "rev": "149535",
+    "sha256": "1jpm16y750v1gbb90cpzd254qlp63p112jk1rn0b79d1pknsdwwf",
+    "version": "0.6.3"
   },
   "vw-landing-page": {
     "path": "vw-landing-page/0.6.6",
@@ -48594,10 +48624,10 @@
     "version": "0.6.9"
   },
   "vw-medical-care": {
-    "path": "vw-medical-care/0.6.3",
-    "rev": "148191",
-    "sha256": "1nl3wr51vyd4klqab73gby30hirdpl3si9m1z7z0z8b9ak7drm6m",
-    "version": "0.6.3"
+    "path": "vw-medical-care/0.6.4",
+    "rev": "149536",
+    "sha256": "1axagw6ql4qhyg6wafd1zkp5n40n74zr7crz1s5612rzxx1l50y0",
+    "version": "0.6.4"
   },
   "vw-minimalist": {
     "path": "vw-minimalist/0.3.1",
@@ -48636,10 +48666,10 @@
     "version": "0.6.3"
   },
   "vw-personal-trainer": {
-    "path": "vw-personal-trainer/0.6.2",
-    "rev": "148243",
-    "sha256": "1n7ig14lrlpvyjhiz3mwfqx31ws18fni5q9mx1d3v4dk9lpa1gf4",
-    "version": "0.6.2"
+    "path": "vw-personal-trainer/0.6.3",
+    "rev": "149538",
+    "sha256": "1fnqvd359rcjfmjvv6z2xdp45kfvgxgfs0qkwnpwpfgplp9wrjw9",
+    "version": "0.6.3"
   },
   "vw-pet-shop": {
     "path": "vw-pet-shop/0.7.7",
@@ -48666,10 +48696,10 @@
     "version": "1.4.2"
   },
   "vw-restaurant-lite": {
-    "path": "vw-restaurant-lite/1.6.5",
-    "rev": "148379",
-    "sha256": "1gw5hpsc6lpbkj31mrzkwfqvsn6llwhjgv4hlf1zfkrzak7s7kxa",
-    "version": "1.6.5"
+    "path": "vw-restaurant-lite/1.6.6",
+    "rev": "149584",
+    "sha256": "09qc3b0i9gwmwcnay3kdw2sld65xgwi9axmvpf24x8d2ncn68a9y",
+    "version": "1.6.6"
   },
   "vw-school-education": {
     "path": "vw-school-education/0.7.2",
@@ -48690,10 +48720,10 @@
     "version": "0.6.7"
   },
   "vw-spa-lite": {
-    "path": "vw-spa-lite/1.6.9",
-    "rev": "148380",
-    "sha256": "0qckrhs63bh2rn22s0arkrjnxclwgqmv3c0if1a4mrldkxi6crmr",
-    "version": "1.6.9"
+    "path": "vw-spa-lite/1.7",
+    "rev": "149585",
+    "sha256": "0k65b55ga9v8dygnjlmj6cqm7ybhq6kx0njnbarpgxqwxwygnjbk",
+    "version": "1.7"
   },
   "vw-startup": {
     "path": "vw-startup/0.7.3",
@@ -50340,10 +50370,10 @@
     "version": "1.0.2"
   },
   "writers-blogily": {
-    "path": "writers-blogily/3.9",
-    "rev": "149361",
-    "sha256": "198myzg9jbpckqr2sq3smfv41k2krcsfmbbn53xp0zpjar8v2cwg",
-    "version": "3.9"
+    "path": "writers-blogily/4.0",
+    "rev": "149527",
+    "sha256": "069ldhrglffcpvvbx4bwr5v2dm8zcicq0zivripdzg0s7ddidnkh",
+    "version": "4.0"
   },
   "writerstrap": {
     "path": "writerstrap/1.0.6",
@@ -51186,10 +51216,10 @@
     "version": "1.3.1"
   },
   "zenzero": {
-    "path": "zenzero/1.7.5",
-    "rev": "146808",
-    "sha256": "07j01llg55447wimq5k1wfpf3qhvl3kd9aadx46h1r16jxs8jmgh",
-    "version": "1.7.5"
+    "path": "zenzero/1.7.6",
+    "rev": "149571",
+    "sha256": "0sb60vbrwx5cjlxk7c5bldg2lxqjjlz0r0pldmj12h4n22svcblr",
+    "version": "1.7.6"
   },
   "zerif-lite": {
     "path": "zerif-lite/1.8.5.49",
