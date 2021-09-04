@@ -2922,16 +2922,16 @@
     "version": "2.3"
   },
   "aino-de_DE": {
-    "path": "aino/2.4.0/de_DE",
-    "rev": "658055",
-    "sha256": "0fv6dgnlmamgy9fa56y73rdrfxvxnbmsl7iz19n90mkmkx0bn0wn",
-    "version": "2.4.0"
+    "path": "aino/2.4.1/de_DE",
+    "rev": "666857",
+    "sha256": "19643ymwwx86ksn4ahgw43wcb8vmr2kx8yimfmyqypsp58j18yv3",
+    "version": "2.4.1"
   },
   "aino-de_DE_formal": {
-    "path": "aino/2.4.0/de_DE_formal",
-    "rev": "658056",
-    "sha256": "0ds1yygp3grxb9cdg82drfcgi4x8isrgcaryi8afflg3lp7nxrjb",
-    "version": "2.4.0"
+    "path": "aino/2.4.1/de_DE_formal",
+    "rev": "666858",
+    "sha256": "1dkq7mmqmgdzmha68wya6gaaaxn0c0dhxrl5rigxz5nbj599liw0",
+    "version": "2.4.1"
   },
   "air-light-de_DE": {
     "path": "air-light/7.8.6/de_DE",
@@ -5381,10 +5381,16 @@
     "sha256": "1sslahpf9z5dyg6x82qdwx0a0dv9618bmfmjp7z6pkhcrsz7qhbp",
     "version": "3.2.2"
   },
+  "appointment-es_EC": {
+    "path": "appointment/3.2.2/es_EC",
+    "rev": "666506",
+    "sha256": "0y4l8zfhaqm8q7fk8s0zr1vcnx4pajvgpzp8akskwwyfwy9fm9kr",
+    "version": "3.2.2"
+  },
   "appointment-es_ES": {
     "path": "appointment/3.2.2/es_ES",
-    "rev": "666316",
-    "sha256": "11k4p18fidqmhsg8lrbj9xr9jgxxpfzdid6gns5w02p08anmsq8c",
+    "rev": "666507",
+    "sha256": "01kmkxszzn31sixns21zh55bnk0a4slfad9zr6v88wnwg8r9n3br",
     "version": "3.2.2"
   },
   "appointment-es_MX": {
@@ -5395,8 +5401,8 @@
   },
   "appointment-es_VE": {
     "path": "appointment/3.2.2/es_VE",
-    "rev": "666317",
-    "sha256": "0zdgr7cnsgfn9vlm15ldrp8lssxrxdwf5pfjkz9jcl49dn7rgnqa",
+    "rev": "666508",
+    "sha256": "0vsfb2qf8bix3ia696ls0gnp8jk8qdssqgv2iw321w9sbf1g4ch4",
     "version": "3.2.2"
   },
   "appointment-fr_FR": {
@@ -5919,6 +5925,12 @@
     "path": "aravalli/1.0.6/ru_RU",
     "rev": "664380",
     "sha256": "14a8fi130k2m03ci7fbfqi2wiw04724rpna2zm96kqij4vfv7wrb",
+    "version": "1.0.6"
+  },
+  "aravalli-sr_RS": {
+    "path": "aravalli/1.0.6/sr_RS",
+    "rev": "666848",
+    "sha256": "0ks0nq0a5x6rqiibb6qr49pd2yd9cjsnpvbdhav9l0kas5jabh7y",
     "version": "1.0.6"
   },
   "aravalli-tr_TR": {
@@ -7319,6 +7331,12 @@
     "sha256": "0jgky45f3imm9w1g4hb5zp1shryi27xhfvgm9x3ph80iqaqcan5j",
     "version": "2.13"
   },
+  "ashe-sr_RS": {
+    "path": "ashe/2.13/sr_RS",
+    "rev": "667087",
+    "sha256": "0lkcyc3isfax6lzfjv44pmf86bd4s3cmpmnf0wclkvaq9rck4c8m",
+    "version": "2.13"
+  },
   "ashe-sv_SE": {
     "path": "ashe/2.13/sv_SE",
     "rev": "654972",
@@ -7633,8 +7651,8 @@
   },
   "astra-sv_SE": {
     "path": "astra/3.6.9/sv_SE",
-    "rev": "665386",
-    "sha256": "0p5qba96fcflzzkhfl30yf2kvp1fxmpdp5mbvrvxrp8j19wxqmxm",
+    "rev": "666699",
+    "sha256": "0d2l7ab2iqasf4mbzrsyj3vx34x9kcx0iwm4wfms47xdc0dfz16s",
     "version": "3.6.9"
   },
   "astra-tr_TR": {
@@ -9072,112 +9090,118 @@
     "version": "1.0.4"
   },
   "axtria-ar": {
-    "path": "axtria/1.0.6/ar",
-    "rev": "662798",
+    "path": "axtria/1.0.7/ar",
+    "rev": "666829",
     "sha256": "1s6ngrydmrn8nb5q8hyzzrgr848xya10xha2bxahxi43s51a4mv1",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "axtria-da_DK": {
-    "path": "axtria/1.0.6/da_DK",
-    "rev": "662799",
+    "path": "axtria/1.0.7/da_DK",
+    "rev": "666830",
     "sha256": "0iqbaw2wy9wddg1b7xbs467dpy0pkndim07kwcdy2mqnx19p0rxm",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "axtria-de_DE": {
-    "path": "axtria/1.0.6/de_DE",
-    "rev": "662804",
+    "path": "axtria/1.0.7/de_DE",
+    "rev": "666835",
     "sha256": "1y3l73dsbwzf2741nh398pvzr5k0f03iz5aq2mvk3b94nn0mdvhh",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "axtria-en_GB": {
-    "path": "axtria/1.0.6/en_GB",
-    "rev": "662802",
+    "path": "axtria/1.0.7/en_GB",
+    "rev": "666833",
     "sha256": "09gpda2bgf2nscfcm99kzkdxrhnvpawak6g8c7nc6hql8pbgkaz1",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "axtria-es_ES": {
-    "path": "axtria/1.0.6/es_ES",
-    "rev": "662812",
+    "path": "axtria/1.0.7/es_ES",
+    "rev": "666844",
     "sha256": "134pqg7sqrays8was21ll3r298sy9wr08sis6vs1k8m3l22kpb8m",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "axtria-es_MX": {
-    "path": "axtria/1.0.6/es_MX",
-    "rev": "662811",
+    "path": "axtria/1.0.7/es_MX",
+    "rev": "666843",
     "sha256": "0149ks8mm7ln76c9v5q3yrb941ahxcbib3cff2hj5wb4di43klkp",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "axtria-fr_FR": {
-    "path": "axtria/1.0.6/fr_FR",
-    "rev": "662803",
+    "path": "axtria/1.0.7/fr_FR",
+    "rev": "666834",
     "sha256": "1ia7wkp88qjazaybim5wrc52ms3g0xpi4zb6j00ljr6nsa8wbir0",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "axtria-it_IT": {
-    "path": "axtria/1.0.6/it_IT",
-    "rev": "662805",
+    "path": "axtria/1.0.7/it_IT",
+    "rev": "666836",
     "sha256": "1wpp8hfzm5f8dhm1l5n5h68cj9mq4d0pjczzhvmy7svgdd2jjzyr",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "axtria-ja": {
-    "path": "axtria/1.0.6/ja",
-    "rev": "662806",
+    "path": "axtria/1.0.7/ja",
+    "rev": "666837",
     "sha256": "1al4awq519lmh3qxzgjmx5xdzy5r9jn12shlsn9qx28daf877cnp",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "axtria-nl_BE": {
-    "path": "axtria/1.0.6/nl_BE",
-    "rev": "662801",
+    "path": "axtria/1.0.7/nl_BE",
+    "rev": "666832",
     "sha256": "19zxmk9j721qgpaxg2bv5xg4jpar1vn9snkjwdd90lm5xdkdinml",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "axtria-nl_NL": {
-    "path": "axtria/1.0.6/nl_NL",
-    "rev": "662800",
+    "path": "axtria/1.0.7/nl_NL",
+    "rev": "666831",
     "sha256": "0rbdj7anbzypqh2c5ll08kslsf7c76avd491wnw758f0ap8wrax1",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "axtria-pt_BR": {
-    "path": "axtria/1.0.6/pt_BR",
-    "rev": "662807",
+    "path": "axtria/1.0.7/pt_BR",
+    "rev": "666838",
     "sha256": "1qhi2ph2cvdv15q2yfawh2qzbrkw35j8vrsl3qxpx7yqih5prq1p",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "axtria-pt_PT": {
-    "path": "axtria/1.0.6/pt_PT",
-    "rev": "662808",
+    "path": "axtria/1.0.7/pt_PT",
+    "rev": "666839",
     "sha256": "0x2vcv3vxn8ajvjy5dhcgnc2ianghpjsb5zi74da94s7h6d3vig6",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "axtria-ro_RO": {
-    "path": "axtria/1.0.6/ro_RO",
-    "rev": "662809",
+    "path": "axtria/1.0.7/ro_RO",
+    "rev": "666840",
     "sha256": "1g4qfqiaqm8ly22wmsnkly32d0cxgrchmyc5lh864gjxn93x3rs8",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "axtria-ru_RU": {
-    "path": "axtria/1.0.6/ru_RU",
-    "rev": "662810",
+    "path": "axtria/1.0.7/ru_RU",
+    "rev": "666841",
     "sha256": "1qzca7imdkf5gk4bj43n6qgayvbwyim6pbvy6lqvydf47j71q4wj",
-    "version": "1.0.6"
+    "version": "1.0.7"
+  },
+  "axtria-sr_RS": {
+    "path": "axtria/1.0.7/sr_RS",
+    "rev": "666842",
+    "sha256": "1fj7x9dry3kj7gm002pzxrq84ck12fiqskpzcz8nhjqr0lmw4lvh",
+    "version": "1.0.7"
   },
   "axtria-sv_SE": {
-    "path": "axtria/1.0.6/sv_SE",
-    "rev": "662813",
+    "path": "axtria/1.0.7/sv_SE",
+    "rev": "666845",
     "sha256": "10d53si86fggfrhi6x6ahb1ar24rgs6flbpgh470hi1wq9d4gxvw",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "axtria-tr_TR": {
-    "path": "axtria/1.0.6/tr_TR",
-    "rev": "662814",
+    "path": "axtria/1.0.7/tr_TR",
+    "rev": "666846",
     "sha256": "154zvffysr64jpska81dqhninwpg1r85m3ra821d01xx4mfxjfx0",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "axtria-uk": {
-    "path": "axtria/1.0.6/uk",
-    "rev": "662815",
+    "path": "axtria/1.0.7/uk",
+    "rev": "666847",
     "sha256": "1las8wa71zs3miwkbpyc79lmdk4g86ja3l92h71gb32by9jqjl1r",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "ayabiostorelite-sv_SE": {
     "path": "ayabiostorelite/1.1.6/sv_SE",
@@ -12660,94 +12684,94 @@
     "version": "1.3.1"
   },
   "blocksy-ar": {
-    "path": "blocksy/1.8.5.3/ar",
-    "rev": "664037",
-    "sha256": "1lz6q7kw8r5hm6k2hfwc3y1jir975ip1qpwgfzjms97biy4x2rxz",
-    "version": "1.8.5.3"
+    "path": "blocksy/1.8.5.4/ar",
+    "rev": "667049",
+    "sha256": "069jd642vafcy8hppr1gczxzwfa2zxhccxryjs6xnja6ysiwx3j2",
+    "version": "1.8.5.4"
   },
   "blocksy-de_DE": {
-    "path": "blocksy/1.8.5.3/de_DE",
-    "rev": "664041",
-    "sha256": "1k6dyb6z44giclb71bim8yh63ydx0q4kbdnmkkpn4cl1qbx6gdqr",
-    "version": "1.8.5.3"
+    "path": "blocksy/1.8.5.4/de_DE",
+    "rev": "667053",
+    "sha256": "0mr95prgdcz7pkg9x6ql2b9qd7mris72xgwxq8x1k53lp1sgffd1",
+    "version": "1.8.5.4"
   },
   "blocksy-el": {
-    "path": "blocksy/1.8.5.3/el",
-    "rev": "664042",
-    "sha256": "13qm0n7wkd474r4zbjybryal7w7bd72agn33rk1vqrgvb3xih9gp",
-    "version": "1.8.5.3"
+    "path": "blocksy/1.8.5.4/el",
+    "rev": "667054",
+    "sha256": "0891qxzawqc4v9jc2kn42fm80fwnhsy62k5czx3v3z826aafcyym",
+    "version": "1.8.5.4"
   },
   "blocksy-es_CO": {
-    "path": "blocksy/1.8.5.3/es_CO",
-    "rev": "664046",
-    "sha256": "0d8bhdn5nk5ss5kvz7krl16xfvfr7bq0xxiqnfbrxpfp65pvf77g",
-    "version": "1.8.5.3"
+    "path": "blocksy/1.8.5.4/es_CO",
+    "rev": "667058",
+    "sha256": "00kal466079cn56qr02qkrml07bq08vldasigfbh6iql9rm135zv",
+    "version": "1.8.5.4"
   },
   "blocksy-es_CR": {
-    "path": "blocksy/1.8.5.3/es_CR",
-    "rev": "664047",
+    "path": "blocksy/1.8.5.4/es_CR",
+    "rev": "667059",
     "sha256": "1xss5qdpn94lgww94jpq7yv33qd8y53b4m2771f9nbqbp0z39bji",
-    "version": "1.8.5.3"
+    "version": "1.8.5.4"
   },
   "blocksy-es_EC": {
-    "path": "blocksy/1.8.5.3/es_EC",
-    "rev": "664606",
-    "sha256": "1zsnxsqdv9qsb2jncyblx6z4gr7nx7k4n6hmidvjvcfp828shnwp",
-    "version": "1.8.5.3"
+    "path": "blocksy/1.8.5.4/es_EC",
+    "rev": "667060",
+    "sha256": "1lsgvq5mncsb2pw1zldjbhjshh8amqdcasa0lx07gnlf5qh1byhm",
+    "version": "1.8.5.4"
   },
   "blocksy-es_ES": {
-    "path": "blocksy/1.8.5.3/es_ES",
-    "rev": "664607",
-    "sha256": "1p8hldf1nr0wkjlhlpmv96aqszwzz083ya4a6h1xdc3ss1xq2rqk",
-    "version": "1.8.5.3"
+    "path": "blocksy/1.8.5.4/es_ES",
+    "rev": "667062",
+    "sha256": "0kyjkcw3jsldfgzhgzk377908975jihdri1zw9hvrqf4h9gc5yii",
+    "version": "1.8.5.4"
   },
   "blocksy-es_MX": {
-    "path": "blocksy/1.8.5.3/es_MX",
-    "rev": "664049",
-    "sha256": "09vbsxr8j7bnyxqzcny3v2j4s6c0jwb0wl031kbn6n3gc88izm48",
-    "version": "1.8.5.3"
+    "path": "blocksy/1.8.5.4/es_MX",
+    "rev": "667061",
+    "sha256": "0c4faxp6cl219w60a1q8xd23570j4lga7zklf2433cdinfm0kvhq",
+    "version": "1.8.5.4"
   },
   "blocksy-es_VE": {
-    "path": "blocksy/1.8.5.3/es_VE",
-    "rev": "664608",
-    "sha256": "1cbylky3l1qqfnmy6hmav1pivc6ffkamrgs8wlfay3aq6v6w5s7m",
-    "version": "1.8.5.3"
+    "path": "blocksy/1.8.5.4/es_VE",
+    "rev": "667063",
+    "sha256": "04zb40idbvxy5h4l5pgr0kas1wxrd5hmksyxrzplipi6lpnc9vmh",
+    "version": "1.8.5.4"
   },
   "blocksy-fr_FR": {
-    "path": "blocksy/1.8.5.3/fr_FR",
-    "rev": "664040",
-    "sha256": "0hcgc6p2c9b7ai1c1mi1parvy25nz1njpdn04vrjc9mvdb3jrzx6",
-    "version": "1.8.5.3"
+    "path": "blocksy/1.8.5.4/fr_FR",
+    "rev": "667052",
+    "sha256": "091i9pbnskzawzgvx9hnn3iy3p1nvg3mjb5lhx16rv8m6ssc6d38",
+    "version": "1.8.5.4"
   },
   "blocksy-nb_NO": {
-    "path": "blocksy/1.8.5.3/nb_NO",
-    "rev": "664043",
-    "sha256": "1a0nmk8zpwbr1ghmggjviwv4hxmz31846ki8h0vgsfsnfyh74s4x",
-    "version": "1.8.5.3"
+    "path": "blocksy/1.8.5.4/nb_NO",
+    "rev": "667055",
+    "sha256": "1h3j53awnp7j1bw67m5vl1qplvljv0ghq1sdx4q88in4sic6l2ck",
+    "version": "1.8.5.4"
   },
   "blocksy-nl_NL": {
-    "path": "blocksy/1.8.5.3/nl_NL",
-    "rev": "666007",
-    "sha256": "0w1415dwi4qp3lfqbn49zpb80h2vc2i0520n50d6i4856wkblc27",
-    "version": "1.8.5.3"
+    "path": "blocksy/1.8.5.4/nl_NL",
+    "rev": "667051",
+    "sha256": "0ypaga8xxzjj9bagvk5j7aqy3kyccxrjcv8wph6ahgiwlgqx0d2x",
+    "version": "1.8.5.4"
   },
   "blocksy-pt_BR": {
-    "path": "blocksy/1.8.5.3/pt_BR",
-    "rev": "664044",
-    "sha256": "1lrllbjl4f12r8j71zzffjkllv13dlp1gl0fagmrwy4q43zp9cn5",
-    "version": "1.8.5.3"
+    "path": "blocksy/1.8.5.4/pt_BR",
+    "rev": "667056",
+    "sha256": "0abnpzzl4258n7z353qirvwgrfci12bmfxl8jpxfa1qr2dsvgr19",
+    "version": "1.8.5.4"
   },
   "blocksy-ru_RU": {
-    "path": "blocksy/1.8.5.3/ru_RU",
-    "rev": "664982",
-    "sha256": "1f8amf27cm2x555500qmvyfcs524ny3cmbr7hprjkzg6mj21zpiq",
-    "version": "1.8.5.3"
+    "path": "blocksy/1.8.5.4/ru_RU",
+    "rev": "667057",
+    "sha256": "0db80xfr1fr3ni389z38msz5132nvpc1i73zg1gqk8qh4il14vrp",
+    "version": "1.8.5.4"
   },
   "blocksy-uk": {
-    "path": "blocksy/1.8.5.3/uk",
-    "rev": "664052",
-    "sha256": "1qcdgbbmy2jbq9cwx6ypsq4rcny8dczbm593cyskz3mw7mcsb0ih",
-    "version": "1.8.5.3"
+    "path": "blocksy/1.8.5.4/uk",
+    "rev": "667064",
+    "sha256": "0ibpd0jwfrirv3cdns6l9hg43w4cj4y881lrgghjbx99m0dqs0j3",
+    "version": "1.8.5.4"
   },
   "blocksy-zh_CN": {
     "path": "blocksy/1.7.71/zh_CN",
@@ -12756,10 +12780,10 @@
     "version": "1.7.71"
   },
   "blocksy-zh_TW": {
-    "path": "blocksy/1.8.5.3/zh_TW",
-    "rev": "665710",
-    "sha256": "14rz504sww792635spmspsri5nc0hb6yabqkcypp3hrxc3ynwasc",
-    "version": "1.8.5.3"
+    "path": "blocksy/1.8.5.4/zh_TW",
+    "rev": "667050",
+    "sha256": "0l93i6picdylg4xic5ik9inzy78d52mkqnnxfv27rbz4nvlvxby1",
+    "version": "1.8.5.4"
   },
   "blockz-sv_SE": {
     "path": "blockz/0.5.1/sv_SE",
@@ -12990,10 +13014,10 @@
     "version": "1.0.2"
   },
   "blog-gutener-sv_SE": {
-    "path": "blog-gutener/1.0.4/sv_SE",
-    "rev": "607528",
-    "sha256": "0v99v22s5qclsfbwq2qj22kcddil3nd3brhyamq14mqkbfffg8ya",
-    "version": "1.0.4"
+    "path": "blog-gutener/1.0.5/sv_SE",
+    "rev": "666739",
+    "sha256": "0dj81bs15amd8p2a1m26xr20b38al0hn727z5fffrv8hacpf920q",
+    "version": "1.0.5"
   },
   "blog-inn-sv_SE": {
     "path": "blog-inn/1.1.3/sv_SE",
@@ -19206,124 +19230,124 @@
     "version": "2.0.1"
   },
   "bravada-de_DE": {
-    "path": "bravada/1.0.5/de_DE",
-    "rev": "606007",
-    "sha256": "06dy35sa7ls29i0r2zljfkqw783x89m4gzlq29mk8dxlrmx09509",
-    "version": "1.0.5"
+    "path": "bravada/1.0.6/de_DE",
+    "rev": "666726",
+    "sha256": "1m7xdvzdirzdns39ldvzc349mal4dx6z422z3hrn60w29nvdxhvw",
+    "version": "1.0.6"
   },
   "bravada-de_DE_formal": {
-    "path": "bravada/1.0.5/de_DE_formal",
-    "rev": "606008",
-    "sha256": "0l1n64gzrkxwwav5923qvg8fyfgzlcxznirkww46kgvj4a52paw5",
-    "version": "1.0.5"
+    "path": "bravada/1.0.6/de_DE_formal",
+    "rev": "666727",
+    "sha256": "09iy35l7qw18fsrf17qrns5k54aqq5rs63dnf9b83mwniw70z7pc",
+    "version": "1.0.6"
   },
   "bravada-en_CA": {
-    "path": "bravada/1.0.5/en_CA",
-    "rev": "555056",
-    "sha256": "0g05h0sx3fag4dvjg62vxxvpd5fk6037ksx9mz73ac6yzhrxz8ja",
-    "version": "1.0.5"
+    "path": "bravada/1.0.6/en_CA",
+    "rev": "666721",
+    "sha256": "1bx91rxgm74ars7awsi123qk30bcsnp6h1bk08h1dlg4slalfm2g",
+    "version": "1.0.6"
   },
   "bravada-en_GB": {
-    "path": "bravada/1.0.5/en_GB",
-    "rev": "552609",
-    "sha256": "1kqkz8fw411v0bfc2vc7r9lam6mwai19xavkx5fhq66rhdxl0zz1",
-    "version": "1.0.5"
+    "path": "bravada/1.0.6/en_GB",
+    "rev": "666722",
+    "sha256": "157hjzh9bszncgs93gy68706wr7vl5yhigkvb4ksy9jijfxaj8aq",
+    "version": "1.0.6"
   },
   "bravada-es_CO": {
-    "path": "bravada/1.0.5/es_CO",
-    "rev": "552487",
-    "sha256": "1g89i6bxv3i1s8mshqfnr7nm0w0bsn1s8i73pdp986qfsdiqp8ac",
-    "version": "1.0.5"
+    "path": "bravada/1.0.6/es_CO",
+    "rev": "666733",
+    "sha256": "1x467cwq1wdmln3dki75yqbh3695z72a1ipfgapjp4kcppv1r0rx",
+    "version": "1.0.6"
   },
   "bravada-es_EC": {
-    "path": "bravada/1.0.5/es_EC",
-    "rev": "552706",
-    "sha256": "0k4cig7wi8n2swql9b2fzqfdn96nhiy92y93q4gbw5893vk6rpyk",
-    "version": "1.0.5"
+    "path": "bravada/1.0.6/es_EC",
+    "rev": "666734",
+    "sha256": "0x0ndpkaxwnqzwwzsvhy1id57v2kaxapwk6k2ybs3f9p9a1zl4fl",
+    "version": "1.0.6"
   },
   "bravada-es_ES": {
-    "path": "bravada/1.0.5/es_ES",
-    "rev": "552490",
-    "sha256": "150pm2p8d1y13n74b4j63dkhi5dz3mn4nkamlkfi8s8jq8pjnv0l",
-    "version": "1.0.5"
+    "path": "bravada/1.0.6/es_ES",
+    "rev": "666736",
+    "sha256": "1d24xppz4k2plv1mf8hwz8qcjz17ii52xcrsxba1fd0skzvm9s0b",
+    "version": "1.0.6"
   },
   "bravada-es_MX": {
-    "path": "bravada/1.0.5/es_MX",
-    "rev": "552917",
-    "sha256": "1xkad7chanhbrg2ly9drj81iaw6hximl2nmr8k7x75sc3xhsss6i",
-    "version": "1.0.5"
+    "path": "bravada/1.0.6/es_MX",
+    "rev": "666735",
+    "sha256": "0nk9kg3ih6nqy40pzasz0p8d95s4mghrd9wyv7lgqxds0jm8688g",
+    "version": "1.0.6"
   },
   "bravada-es_VE": {
-    "path": "bravada/1.0.5/es_VE",
-    "rev": "552707",
-    "sha256": "1c3fw2qpqy8nlprlxvbrghp2x29892sxz47fbnsjf1bv2i8rnyb5",
-    "version": "1.0.5"
+    "path": "bravada/1.0.6/es_VE",
+    "rev": "666737",
+    "sha256": "02zfcsik9xqbahg2wcrhkxqmc8mi6gg6c7prkw0n1nm0s3w735bv",
+    "version": "1.0.6"
   },
   "bravada-fr_BE": {
-    "path": "bravada/1.0.5/fr_BE",
-    "rev": "552479",
-    "sha256": "0fmzvgbq5hk1r7h9231flv36v3jb1c6rvlxy70j42m5mz6z4rqsl",
-    "version": "1.0.5"
+    "path": "bravada/1.0.6/fr_BE",
+    "rev": "666723",
+    "sha256": "02h8pcjw3dx80k5yrmiffk19rf1d8p9cjy9iarly5n7lnc2slcp1",
+    "version": "1.0.6"
   },
   "bravada-fr_CA": {
-    "path": "bravada/1.0.5/fr_CA",
-    "rev": "569604",
-    "sha256": "07783wak7adijfpkhl3q8s8xsh03j89218ls6ph2yd8avx7zhf3d",
-    "version": "1.0.5"
+    "path": "bravada/1.0.6/fr_CA",
+    "rev": "666724",
+    "sha256": "04rdwx3bziw4q3h49ykh7q0598nydh7k224wjl7rg6cjgdcg2xdb",
+    "version": "1.0.6"
   },
   "bravada-fr_FR": {
-    "path": "bravada/1.0.5/fr_FR",
-    "rev": "552480",
-    "sha256": "08izs4dr40gmnf8pzk3qq7phn4mwz42x0v7kqibjp4rcynx187ap",
-    "version": "1.0.5"
+    "path": "bravada/1.0.6/fr_FR",
+    "rev": "666725",
+    "sha256": "15lxsi7bndcahamg88nvgaxa3vv9xv6f0sscimaly834q89fr7qy",
+    "version": "1.0.6"
   },
   "bravada-it_IT": {
-    "path": "bravada/1.0.5/it_IT",
-    "rev": "564236",
-    "sha256": "0c1c3v2h0ld58p9n06da0jk00ja1bpx2z57b2w5djk10psy7z13m",
-    "version": "1.0.5"
+    "path": "bravada/1.0.6/it_IT",
+    "rev": "666728",
+    "sha256": "1mkpa7r5f23n7d82hz0jzrhjjvnd7zngijlf2zi4qwwhiwh9yhkf",
+    "version": "1.0.6"
   },
   "bravada-ja": {
-    "path": "bravada/1.0.5/ja",
-    "rev": "555626",
-    "sha256": "133nlvx96p95gjry6607j61dgqdha2sflh0vbfv26q1yd66glbwx",
-    "version": "1.0.5"
+    "path": "bravada/1.0.6/ja",
+    "rev": "666729",
+    "sha256": "0mn30bkrpzryz1vd41bhcc25i086kwiwfarim04rd8yr2i7ihirb",
+    "version": "1.0.6"
   },
   "bravada-nl_NL": {
-    "path": "bravada/1.0.5/nl_NL",
-    "rev": "662892",
-    "sha256": "0sibyw7plm5cmfyx4s7wvk8c57fmlkvmj42mm4crg0vn729hdnnm",
-    "version": "1.0.5"
+    "path": "bravada/1.0.6/nl_NL",
+    "rev": "666720",
+    "sha256": "0fi03p9kpxh4s7j6hla8l2mmyqkpignfg3hkn4f22yay44ms35gc",
+    "version": "1.0.6"
   },
   "bravada-pt_BR": {
-    "path": "bravada/1.0.5/pt_BR",
-    "rev": "564118",
-    "sha256": "1h6xl629pa7nrsvw0x16jkv18vb1zwjslmdwqcb5yjg5vb22p0vl",
-    "version": "1.0.5"
+    "path": "bravada/1.0.6/pt_BR",
+    "rev": "666730",
+    "sha256": "1klmnk21w5vfkvd63kck84qjzq5xpmdb0schwip3rhi2yljfpazm",
+    "version": "1.0.6"
   },
   "bravada-ro_RO": {
-    "path": "bravada/1.0.5/ro_RO",
-    "rev": "655737",
-    "sha256": "0ng49scml72jw639v3h4snifamry91cxfzq9mnyg3pvj7w631c2c",
-    "version": "1.0.5"
+    "path": "bravada/1.0.6/ro_RO",
+    "rev": "666731",
+    "sha256": "0k9j266bfhbvj6qs5dzvc0qsg1cdnmk7wk7655hm556hmy4v77sa",
+    "version": "1.0.6"
   },
   "bravada-ru_RU": {
-    "path": "bravada/1.0.5/ru_RU",
-    "rev": "552486",
-    "sha256": "0gy9q7f8gyr8k2c24x0i152ccdax6dj6an8zkaibvac7a6z6n5cb",
-    "version": "1.0.5"
+    "path": "bravada/1.0.6/ru_RU",
+    "rev": "666732",
+    "sha256": "04wxz559jmbn8acz314ck2npwb6a8r9s4y4j3knhpq6994syg3zx",
+    "version": "1.0.6"
   },
   "bravada-tr_TR": {
-    "path": "bravada/1.0.5/tr_TR",
-    "rev": "561599",
-    "sha256": "1n9dqp7l5qfy0ifffhavpp8a91ziz7larf7js6lsqi5lkfbk5m8d",
-    "version": "1.0.5"
+    "path": "bravada/1.0.6/tr_TR",
+    "rev": "666738",
+    "sha256": "0wrhg5pz9pm7y70bdw6483l0csn9wk19vhwz70xlcvdasbkl9p4l",
+    "version": "1.0.6"
   },
   "bravada-zh_CN": {
-    "path": "bravada/1.0.5/zh_CN",
-    "rev": "585834",
-    "sha256": "0z2d1c9ma9am5zw37lqhlvqwcszr9n8n71vpk3995g1nkrp2jyji",
-    "version": "1.0.5"
+    "path": "bravada/1.0.6/zh_CN",
+    "rev": "666719",
+    "sha256": "1mi1mhayvszgahd51mb39x32f5y6aypslw283rqm9vj4yjk913zm",
+    "version": "1.0.6"
   },
   "bravado-ja": {
     "path": "bravado/1.0.2/ja",
@@ -20239,8 +20263,8 @@
   },
   "busicare-ro_RO": {
     "path": "busicare/1.1.1/ro_RO",
-    "rev": "665994",
-    "sha256": "1l0x1n928j51za7rr0djclqd3alp6dhpn0b2iyakrh3q4szyf55w",
+    "rev": "666866",
+    "sha256": "02gzq6g0yl811xh9z3xwh3sakapd5ahc8rswa9yqc0nad56cr2wr",
     "version": "1.1.1"
   },
   "busicare-ru_RU": {
@@ -24175,8 +24199,8 @@
   },
   "citadela-sk_SK": {
     "path": "citadela/3.9.0/sk_SK",
-    "rev": "666088",
-    "sha256": "1pfyqbm0z659m0dc5c8wy7xj035z4i4brlcq9gzqlwrm0j4wv8hc",
+    "rev": "666664",
+    "sha256": "0y71b3r8948pqgjgb2p7qdj8r88nkxbqpn05wvkpz9s9gll8k9qm",
     "version": "3.9.0"
   },
   "city-informer-en_CA": {
@@ -24805,8 +24829,8 @@
   },
   "cloudpress-business-es_MX": {
     "path": "cloudpress-business/1.2.1/es_MX",
-    "rev": "665911",
-    "sha256": "13nljfnr5g0111v568i2fwrdbaa8fagalv4wz9f2yz82bnicj96x",
+    "rev": "666809",
+    "sha256": "0mhims96igynqvcgb6by6wpmini606jcz3kpl5jad531q9hcq1w2",
     "version": "1.2.1"
   },
   "cloudpress-business-fr_BE": {
@@ -25105,8 +25129,8 @@
   },
   "cloudpress-ro_RO": {
     "path": "cloudpress/2.4.5/ro_RO",
-    "rev": "666272",
-    "sha256": "08sfyczzzrcnja7bphv2l7sfd9szav48agp4kw0z0j317r40vq5c",
+    "rev": "666868",
+    "sha256": "10iny8grqwaqncpvg1bq8kz9756zhqbx7ncaycxv5820jrm71z7c",
     "version": "2.4.5"
   },
   "cloudpress-ru_RU": {
@@ -25287,6 +25311,12 @@
     "path": "coachpress-lite/1.0.7/nl_NL",
     "rev": "662887",
     "sha256": "164pzmbk8ziqqs22mz79gqf4h32bpcjym17xsbyqcfhj7zx76dq1",
+    "version": "1.0.7"
+  },
+  "coachpress-lite-ru_RU": {
+    "path": "coachpress-lite/1.0.7/ru_RU",
+    "rev": "666824",
+    "sha256": "1lpzmr6cxwqb4liv7439nggybdkq8b0ng2kibqbqchhlx7kkv5hz",
     "version": "1.0.7"
   },
   "coachpress-lite-sv_SE": {
@@ -29215,8 +29245,8 @@
   },
   "customizr-pl_PL": {
     "path": "customizr/4.4.12/pl_PL",
-    "rev": "665647",
-    "sha256": "02wksx2i1qgz8m5wj3ss3mjkx0afwm67kvfqzjr25yl62dkmf040",
+    "rev": "666590",
+    "sha256": "09w92j4f8r2iag6k014ardbp56k5ny8q9xifrjbr3dprsmafv9lf",
     "version": "4.4.12"
   },
   "customizr-pt_BR": {
@@ -38808,22 +38838,22 @@
     "version": "1.0.8"
   },
   "feminine-shop-es_EC": {
-    "path": "feminine-shop/0.3.1/es_EC",
-    "rev": "650339",
-    "sha256": "19saily52rbpn6cdyny153aaj5nxiznhmip8pmlvw79k2h0pxz20",
-    "version": "0.3.1"
+    "path": "feminine-shop/0.3.2/es_EC",
+    "rev": "666531",
+    "sha256": "1jkl2yn2frm25psf1cnlnwncqrjkf66haggddvm540aalirmkm4l",
+    "version": "0.3.2"
   },
   "feminine-shop-es_ES": {
-    "path": "feminine-shop/0.3.1/es_ES",
-    "rev": "650340",
-    "sha256": "1wmh1rlza6k530dmy4nnacz0l82aqinldkkyk2ib7mxh9psbpzrz",
-    "version": "0.3.1"
+    "path": "feminine-shop/0.3.2/es_ES",
+    "rev": "666532",
+    "sha256": "0cxwmlspqpsrx7g70a9kkj1vzga4q5wdwhzyx442ip3rq2mnn995",
+    "version": "0.3.2"
   },
   "feminine-shop-es_VE": {
-    "path": "feminine-shop/0.3.1/es_VE",
-    "rev": "650341",
-    "sha256": "0ydhzqhj0kbw9hc7dkb1mr918q94j9rc79qzspvinz8aiji17iah",
-    "version": "0.3.1"
+    "path": "feminine-shop/0.3.2/es_VE",
+    "rev": "666533",
+    "sha256": "1dq58d4fa4rp47lcnzhgjiqmhg4wq9mwza3lvf4r8l0wxdvzkr59",
+    "version": "0.3.2"
   },
   "fepper-sv_SE": {
     "path": "fepper/1.0.3/sv_SE",
@@ -43524,34 +43554,34 @@
     "version": "1.2.1"
   },
   "greenigma-en_AU": {
-    "path": "greenigma/1.8.1/en_AU",
-    "rev": "134926",
-    "sha256": "1ns9qyhxb3rdbk93hk55nhc302m885df1a9nfdkglhbc5vynxgj8",
-    "version": "1.8.1"
+    "path": "greenigma/2.5/en_AU",
+    "rev": "666788",
+    "sha256": "0zbzp4dm34pzy4670iplsh5cv7wni3i1al3r4mal57fnzj73pmzs",
+    "version": "2.5"
   },
   "greenigma-en_CA": {
-    "path": "greenigma/1.8.1/en_CA",
-    "rev": "134927",
-    "sha256": "0mqb2qxlvm670dpibv78jhf18ldl8m35gigmw31js4mhh6l6q20h",
-    "version": "1.8.1"
+    "path": "greenigma/2.5/en_CA",
+    "rev": "666789",
+    "sha256": "0ilq6xmczal62vshhdsmyq1qi1jxdh4jmgzl4n03mkpfp32yqddi",
+    "version": "2.5"
   },
   "greenigma-en_GB": {
-    "path": "greenigma/1.8.1/en_GB",
-    "rev": "134928",
-    "sha256": "1mgnagdl2jxcvs8sraz6gam92kckd0d9r91zzl4pj0807mpgg1fw",
-    "version": "1.8.1"
+    "path": "greenigma/2.5/en_GB",
+    "rev": "666790",
+    "sha256": "16xy2rjjm8086pc2piy0q514y3xvj3q24dnr9wdqfk03k022ix3j",
+    "version": "2.5"
   },
   "greenigma-es_ES": {
-    "path": "greenigma/2.4/es_ES",
-    "rev": "289370",
-    "sha256": "19n5jgw9wnr7y2yl43j6dh56z4pr2b8hm0r7w1fqglikvprf6haw",
-    "version": "2.4"
+    "path": "greenigma/2.5/es_ES",
+    "rev": "666792",
+    "sha256": "0x748hl6df2cs7xxaxfzn9p5b94yb5jjdkhlxiznzzlpfi1whzaz",
+    "version": "2.5"
   },
   "greenigma-fr_CA": {
-    "path": "greenigma/2.4/fr_CA",
-    "rev": "289369",
-    "sha256": "14gi1iaznlddjqx79p2p9xgxd1l8h65k3cpf79fcs0yamswqjl67",
-    "version": "2.4"
+    "path": "greenigma/2.5/fr_CA",
+    "rev": "666791",
+    "sha256": "1lfmcij159zvwx2pnrcw8961zkdivkw00hn8jip96ph9g199z851",
+    "version": "2.5"
   },
   "greenr-en_CA": {
     "path": "greenr/1.3.6/en_CA",
@@ -44226,16 +44256,16 @@
     "version": "1.0.14"
   },
   "gutener-charity-ngo-sv_SE": {
-    "path": "gutener-charity-ngo/1.0.7/sv_SE",
-    "rev": "494044",
-    "sha256": "044v1p9f8bjwfwspbqiijnd9r6a1q048l1p2hcq60hww45cs5ag0",
-    "version": "1.0.7"
+    "path": "gutener-charity-ngo/1.0.8/sv_SE",
+    "rev": "666740",
+    "sha256": "0ir75nr75qikyx1qf5i05w34kmchkdjja83prfndhvk9azlpxzbj",
+    "version": "1.0.8"
   },
   "gutener-medical-sv_SE": {
-    "path": "gutener-medical/1.0.9/sv_SE",
-    "rev": "569859",
-    "sha256": "1wg5h9s6x2bs22ndm5gdcq1djad8qy4pjqiahq4flndr04vf9398",
-    "version": "1.0.9"
+    "path": "gutener-medical/1.1.0/sv_SE",
+    "rev": "666747",
+    "sha256": "0yd3h8n1gdcjmnj4l41snx361wqbkxwzplybmiyi99ssshcbl4l3",
+    "version": "1.1.0"
   },
   "gutenix-de_DE": {
     "path": "gutenix/1.1.5/de_DE",
@@ -47521,8 +47551,8 @@
   },
   "honeypress-ro_RO": {
     "path": "honeypress/2.3.1/ro_RO",
-    "rev": "664445",
-    "sha256": "0yy1l28csa9ivfi9fkw2vwxyxqm4wgl9d6l8yldqcm709d6gjlw5",
+    "rev": "666867",
+    "sha256": "0bmy91gr5gy0zwwybccvsshjgl0irgh557yb3nhk4iv9yz8z427r",
     "version": "2.3.1"
   },
   "honeypress-ru_RU": {
@@ -47971,8 +48001,8 @@
   },
   "hueman-pl_PL": {
     "path": "hueman/3.7.12/pl_PL",
-    "rev": "665658",
-    "sha256": "04cyyh9lznnp891yajphs5x19vzask5y9gk556pwn678w42v954k",
+    "rev": "666983",
+    "sha256": "0ns3vci8vn4w4flg0g6x6ainyh5drlidvvwa019w9gcpzhj8lafj",
     "version": "3.7.12"
   },
   "hueman-ru_RU": {
@@ -49014,16 +49044,16 @@
     "version": "1.2.4"
   },
   "industrial-lite-ru_RU": {
-    "path": "industrial-lite/0.4.6/ru_RU",
-    "rev": "645097",
-    "sha256": "02nars4bizks95z34cyn5nx93ija36b72hj7zazfgs57x9ad4yqw",
-    "version": "0.4.6"
+    "path": "industrial-lite/0.4.7/ru_RU",
+    "rev": "666802",
+    "sha256": "1n0jc7ha5rwpkablnr6s9qpw8a40ggzpf9zdwy2b00l73m6m4npx",
+    "version": "0.4.7"
   },
   "industrial-lite-uk": {
-    "path": "industrial-lite/0.4.6/uk",
-    "rev": "645098",
-    "sha256": "1zyka5havrr27yixbfw9cxg1ic5gq57zhsi509i79kr7rji329an",
-    "version": "0.4.6"
+    "path": "industrial-lite/0.4.7/uk",
+    "rev": "666803",
+    "sha256": "0vpxn2d0xbldf12j7h1iq9zka7qvslgdzc4mk6yq859d67mka7fx",
+    "version": "0.4.7"
   },
   "infinitano-en_CA": {
     "path": "infinitano/1.0.4/en_CA",
@@ -58729,8 +58759,8 @@
   },
   "mesmerize-pl_PL": {
     "path": "mesmerize/1.6.108/pl_PL",
-    "rev": "665657",
-    "sha256": "1fzlzvk5k2w05lv6i0165dcpfz5lmdjc1s2vry842s2jqdh4n9jl",
+    "rev": "666645",
+    "sha256": "0b2hsrsngqmp3gva7fb7qkwqjyiar10cppcj723p1rx3mzr837b4",
     "version": "1.6.108"
   },
   "mesmerize-pt_BR": {
@@ -62405,6 +62435,12 @@
     "sha256": "1r8a44rnhrgnymdi9rvl7q268715v9zayq4h6c2ng53c7k9wrw5a",
     "version": "2.2.3"
   },
+  "narrative-lite-ru_RU": {
+    "path": "narrative-lite/1.0.0/ru_RU",
+    "rev": "666826",
+    "sha256": "0bj6p5gvj1g16k8kyjif1m206wiphprvxh1a80f1wdmn3kgpsgr2",
+    "version": "1.0.0"
+  },
   "natural-lite-es_ES": {
     "path": "natural-lite/1.6.1/es_ES",
     "rev": "595696",
@@ -64285,8 +64321,8 @@
   },
   "newspaperss-pl_PL": {
     "path": "newspaperss/2.0.8/pl_PL",
-    "rev": "665660",
-    "sha256": "1cbash12yl90bgrqc7hj1p77kh4mn8w4fj8kkz5gailck6wvmgv7",
+    "rev": "666646",
+    "sha256": "07a20jdmx60nmih9602bdaim347kmxvbzayr5zldypivpa0xdls7",
     "version": "2.0.8"
   },
   "newspaperss-uk": {
@@ -68755,8 +68791,8 @@
   },
   "onepress-pl_PL": {
     "path": "onepress/2.2.7/pl_PL",
-    "rev": "663769",
-    "sha256": "1whp76rglb0js77y3b5xba30bk1axy69zr68njnfsspqvfvjmy1c",
+    "rev": "667020",
+    "sha256": "04wgg2avqs0739m3284z76wx8j261njfnic7xr6ykaajs5k3qq0h",
     "version": "2.2.7"
   },
   "onepress-pt_BR": {
@@ -72625,8 +72661,8 @@
   },
   "polmo-lite-pl_PL": {
     "path": "polmo-lite/4.0.3/pl_PL",
-    "rev": "665692",
-    "sha256": "1lapf3yqj4n0qr4dkw5nkjm0fzfi5551hdpixa509img5241fd2d",
+    "rev": "666984",
+    "sha256": "0dhmq47ly3s03hkkdap58819dpwx2hnpms64637yw8xzd73i7spw",
     "version": "4.0.3"
   },
   "poloray-en_AU": {
@@ -78013,8 +78049,8 @@
   },
   "rife-free-pl_PL": {
     "path": "rife-free/2.4.13/pl_PL",
-    "rev": "666123",
-    "sha256": "12gykxpcfpmri02ga5idppk8wn7v5nfbqywvmb572291i4ky0b6i",
+    "rev": "667000",
+    "sha256": "1ra2m556v89aglyajifisd9jbvsa73dgsv1skjks3nr0zwkq7l22",
     "version": "2.4.13"
   },
   "rife-free-pt_BR": {
@@ -79933,8 +79969,8 @@
   },
   "screenr-pl_PL": {
     "path": "screenr/1.2.3/pl_PL",
-    "rev": "663765",
-    "sha256": "0kn7lvaarlgkkhj8jzgis8q793xr0ir8avrvzrqiz5id93vwr1ms",
+    "rev": "667019",
+    "sha256": "19r74nd7ib93y56kyw5wpji9hk1sc5dxcc38igbfyz7wr87j4dw8",
     "version": "1.2.3"
   },
   "screenr-pt_BR": {
@@ -81377,6 +81413,12 @@
     "sha256": "1fvvkhrxxpxlbqp88ap256xqjs61a7xpw9qhshxq17y3zrl81x6l",
     "version": "1.0.4"
   },
+  "seva-lite-ru_RU": {
+    "path": "seva-lite/1.0.4/ru_RU",
+    "rev": "666827",
+    "sha256": "0x32njm5wxiy7abhj5g1r2n88sw0vsanzmgya7f0y098j97s8fch",
+    "version": "1.0.4"
+  },
   "seva-lite-sv_SE": {
     "path": "seva-lite/1.0.4/sv_SE",
     "rev": "647729",
@@ -82413,6 +82455,12 @@
     "path": "shopmax/1.0.2/ru_RU",
     "rev": "664115",
     "sha256": "0jq43y2h896691sqknxfpkdgn93wx2jgs4j91cvvmdnw9kxfi99s",
+    "version": "1.0.2"
+  },
+  "shopmax-sr_RS": {
+    "path": "shopmax/1.0.2/sr_RS",
+    "rev": "666853",
+    "sha256": "0nzyfl8swh857s933alic6niz1wq8n8f9kr8q6byb8d05rlg6wwx",
     "version": "1.0.2"
   },
   "shopmax-tr_TR": {
@@ -86191,8 +86239,8 @@
   },
   "spice-software-ro_RO": {
     "path": "spice-software/0.2/ro_RO",
-    "rev": "658194",
-    "sha256": "1hff3bwm9mzc28wc1mfxkaibzbdgql3h15dklzfp88m52pnn50m5",
+    "rev": "666865",
+    "sha256": "0544zd0iifqxfgqn198h8n6z51db7q18ag9x3wq4qvsabm7j3h9y",
     "version": "0.2"
   },
   "spice-software-ru_RU": {
@@ -88217,6 +88265,12 @@
     "sha256": "0vy1b1n24lm8g6i4zhaqw0i26lgwnlsmahgbna080rpjw4zkv1jp",
     "version": "1.0.8"
   },
+  "storebiz-sr_RS": {
+    "path": "storebiz/1.0.8/sr_RS",
+    "rev": "666849",
+    "sha256": "1a548yd9nhm0g3klpw4a9hfk4m9ij9bcfjh83blbdk4hxbkr5mgb",
+    "version": "1.0.8"
+  },
   "storebiz-tr_TR": {
     "path": "storebiz/1.0.8/tr_TR",
     "rev": "665487",
@@ -88465,8 +88519,8 @@
   },
   "storefront-pl_PL": {
     "path": "storefront/3.8.1/pl_PL",
-    "rev": "664738",
-    "sha256": "0qffkl9xsd08wlp9lpl7a1h9xw5kkz7yv9mz633zn4r45zhq55am",
+    "rev": "666960",
+    "sha256": "0k0y4j8wijr0xzbppkfn487yqfrcj9d6ga5vgybz8m7h4andc22h",
     "version": "3.8.1"
   },
   "storefront-pt_BR": {
@@ -96169,8 +96223,8 @@
   },
   "twentyseventeen-pl_PL": {
     "path": "twentyseventeen/2.8/pl_PL",
-    "rev": "663852",
-    "sha256": "0274y1ysxw6lw8n83y3my88557di1jnzaiyj65181ybn4bs1n2qj",
+    "rev": "666998",
+    "sha256": "0if034rfvvc9vsf4d04c2kf23j74yn3mjy5n1psi44l0ijs26qjx",
     "version": "2.8"
   },
   "twentyseventeen-pt_AO": {
@@ -101766,22 +101820,22 @@
     "version": "0.8.5"
   },
   "vw-book-store-es_MX": {
-    "path": "vw-book-store/0.7.5/es_MX",
-    "rev": "649225",
-    "sha256": "0qs82fizrhavdhxrnj1lh48jk86ya2axywia0npqy4sb2wza49x1",
-    "version": "0.7.5"
+    "path": "vw-book-store/0.7.6/es_MX",
+    "rev": "666760",
+    "sha256": "00x07db4mq6785pwbi5bmpag35xrlhhj6ncy924sbm16b53x1acc",
+    "version": "0.7.6"
   },
   "vw-book-store-ru_RU": {
-    "path": "vw-book-store/0.7.5/ru_RU",
-    "rev": "649224",
-    "sha256": "1xrnlnyni6r83ib0nilmk69sxjjjmhipxhrh6cdcsjk86i2mxipn",
-    "version": "0.7.5"
+    "path": "vw-book-store/0.7.6/ru_RU",
+    "rev": "666759",
+    "sha256": "05flkzg7dn3xlsv6gaq2kngdf5s930p7qqa8w96b2ldzii7gz5nb",
+    "version": "0.7.6"
   },
   "vw-book-store-uk": {
-    "path": "vw-book-store/0.7.5/uk",
-    "rev": "649226",
-    "sha256": "0mkjqc1ys1n1qb893146kq9csjqndp6136xg1m1flxzvnp073rgm",
-    "version": "0.7.5"
+    "path": "vw-book-store/0.7.6/uk",
+    "rev": "666761",
+    "sha256": "03fdxg6sz2llr5p2xfs7248kv3nnlvr2v1gq89zv1akc2aiy2yrr",
+    "version": "0.7.6"
   },
   "vw-charity-ngo-ru_RU": {
     "path": "vw-charity-ngo/0.7.2/ru_RU",
@@ -101796,16 +101850,16 @@
     "version": "0.7.2"
   },
   "vw-cleaning-company-ru_RU": {
-    "path": "vw-cleaning-company/0.5.7/ru_RU",
-    "rev": "647836",
-    "sha256": "1pryvvgc0s3vw829k97x08xdb8qh28gaj05pvliiq4fhkwvzhylc",
-    "version": "0.5.7"
+    "path": "vw-cleaning-company/0.5.8/ru_RU",
+    "rev": "666757",
+    "sha256": "08ma73gw0pgv7kpkd1p4wj654bsj1lcpi654mv7aap2fpzx352y3",
+    "version": "0.5.8"
   },
   "vw-cleaning-company-uk": {
-    "path": "vw-cleaning-company/0.5.7/uk",
-    "rev": "647837",
-    "sha256": "1ma1yv9q40332xwcwhngx4gxgs2nbqcn9hqrnff1iff89v3f9wiz",
-    "version": "0.5.7"
+    "path": "vw-cleaning-company/0.5.8/uk",
+    "rev": "666758",
+    "sha256": "0m75325j0c5ifqizzkhpn71yn062w4lwn7yshl1zayxall5zmj2j",
+    "version": "0.5.8"
   },
   "vw-construction-estate-ru_RU": {
     "path": "vw-construction-estate/0.8.2/ru_RU",
@@ -101958,16 +102012,16 @@
     "version": "0.6.7"
   },
   "vw-maintenance-services-ru_RU": {
-    "path": "vw-maintenance-services/0.7.2/ru_RU",
-    "rev": "642869",
-    "sha256": "18czn6jjhygm3fm3jff331xi18b51863023vfcq2qlich7ncgvyi",
-    "version": "0.7.2"
+    "path": "vw-maintenance-services/0.7.3/ru_RU",
+    "rev": "666799",
+    "sha256": "0wgvl8g8dpv7km6vx4p7zqaayf08k5hsgg0czs7x4q2sq6qghcz7",
+    "version": "0.7.3"
   },
   "vw-maintenance-services-uk": {
-    "path": "vw-maintenance-services/0.7.2/uk",
-    "rev": "642870",
-    "sha256": "1cmlm6n47y0b5rsajlbzq5sbxqm0qdqnshcah5kwdnwkr9i98x99",
-    "version": "0.7.2"
+    "path": "vw-maintenance-services/0.7.3/uk",
+    "rev": "666800",
+    "sha256": "0f7z1r4hbpjgyqlivinf48kqaw77068qdhr97qsdih6zxgmg8sfk",
+    "version": "0.7.3"
   },
   "vw-medical-care-ru_RU": {
     "path": "vw-medical-care/0.6.8/ru_RU",
@@ -101982,28 +102036,28 @@
     "version": "0.6.8"
   },
   "vw-one-page-fr_BE": {
-    "path": "vw-one-page/0.6.8/fr_BE",
-    "rev": "642299",
-    "sha256": "0b3kf29aj5zg6phzvlmm1w28snvm8w5ms043d38xwrgwpyivxrrm",
-    "version": "0.6.8"
+    "path": "vw-one-page/0.6.9/fr_BE",
+    "rev": "666795",
+    "sha256": "17p92j8w02s9np2r67sxsg1a7smksyhz9mh2ch58x93nbynzrdh4",
+    "version": "0.6.9"
   },
   "vw-one-page-fr_FR": {
-    "path": "vw-one-page/0.6.8/fr_FR",
-    "rev": "642300",
-    "sha256": "00y6imnvx131h7rl436vrgw5pz2sq4ywx2iqnr7101fjv9ihm84k",
-    "version": "0.6.8"
+    "path": "vw-one-page/0.6.9/fr_FR",
+    "rev": "666796",
+    "sha256": "1y5fann3ns17986kvnldi0s0y60v34i0504x3sw7ikx25b5jchs9",
+    "version": "0.6.9"
   },
   "vw-one-page-ru_RU": {
-    "path": "vw-one-page/0.6.8/ru_RU",
-    "rev": "642301",
-    "sha256": "001fmgydra4pw8crwk96z4ynwk8w0mnvfcf7nb9iqwkvd767jq44",
-    "version": "0.6.8"
+    "path": "vw-one-page/0.6.9/ru_RU",
+    "rev": "666797",
+    "sha256": "1hlwmvlp19jpwma12aa8fg02kawg15qvfrqp3z8g55bi2fpsn9zb",
+    "version": "0.6.9"
   },
   "vw-one-page-uk": {
-    "path": "vw-one-page/0.6.8/uk",
-    "rev": "642302",
-    "sha256": "00iwkzyifa5s6r2w20m00hjq4prq73clpcb4jpppyx0im8nvxvjp",
-    "version": "0.6.8"
+    "path": "vw-one-page/0.6.9/uk",
+    "rev": "666798",
+    "sha256": "1gx0wh9lhkzqk6qr55wgf8n2hb4s1v8fdwpwxz9xjmdmis1kl0mq",
+    "version": "0.6.9"
   },
   "vw-pet-shop-ru_RU": {
     "path": "vw-pet-shop/0.8.1/ru_RU",
@@ -102771,6 +102825,12 @@
     "path": "wellness-coach-lite/1.0.0/en_GB",
     "rev": "659238",
     "sha256": "1g07gnx71jakia746mhfvdf0il55lic6gglsqlhllzabzyyq4c5c",
+    "version": "1.0.0"
+  },
+  "wellness-coach-lite-ru_RU": {
+    "path": "wellness-coach-lite/1.0.0/ru_RU",
+    "rev": "666812",
+    "sha256": "0pksva12wlv1ibv9993g8i7hqrq8ac6x8ad3z1dbbq4dmym1iax7",
     "version": "1.0.0"
   },
   "wellness-cs_CZ": {
@@ -105057,6 +105117,12 @@
     "path": "yoga-fitness/1.0.0/ro_RO",
     "rev": "611595",
     "sha256": "096w530vzx5a5qn2h23zsg5snv1bni9njlh7svavqvy8z7w2bss9",
+    "version": "1.0.0"
+  },
+  "yoga-fitness-ru_RU": {
+    "path": "yoga-fitness/1.0.0/ru_RU",
+    "rev": "666828",
+    "sha256": "133yf5vmjzkqnbsdca8khyp934rq05j7nrrqalfbg209hk88dm1y",
     "version": "1.0.0"
   },
   "yoga-fitness-sv_SE": {
