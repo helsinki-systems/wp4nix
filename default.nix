@@ -28,6 +28,10 @@ let packages = self:
             cp -R ./. $out
             runHook postInstall
           '';
+
+          passthru = {
+            wpName = pname;
+          } // (args.passthru or {});
         } // lib.optionalAttrs (type == "language" || type == "pluginLanguage" || type == "themeLanguage") {
           nativeBuildInputs = [ gettext wp-cli ];
           dontBuild = false;
@@ -42,7 +46,7 @@ let packages = self:
 
             runHook postBuild
           '';
-        } // removeAttrs args [ "type" "pname" "version" ])) {};
+        } // removeAttrs args [ "type" "pname" "version" "passthru" ])) {};
 
     # Create a derivation from the official wordpress.org packages.
     # This takes the type, the pname and the data generated from the go tool.
