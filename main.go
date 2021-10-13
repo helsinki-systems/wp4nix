@@ -239,9 +239,19 @@ func buildPkgQueueWorker(jobs <-chan map[string]interface{}, results chan<- map[
 type Worker func(jobs <-chan map[string]interface{}, results chan<- map[string]interface{}, exited chan<- bool, repo *Repository, t string)
 
 func startWorkers(worker Worker, jobs chan map[string]interface{}, results chan<- map[string]interface{}, repo *Repository, t string) {
-	numWorkers := 32
+	var numWorkers int
+	var err error
 	if DEBUG {
 		numWorkers = 1
+	} else {
+		workersStr := os.Getenv("WORKERS")
+		if workersStr == "" {
+			workersStr = "32"
+		}
+		numWorkers, err = strconv.Atoi(workersStr)
+		if err != nil {
+			panic(err)
+		}
 	}
 
 	exited := make(chan (bool))

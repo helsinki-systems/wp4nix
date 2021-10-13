@@ -17,6 +17,11 @@ The `WP_VERSION` needs to be set to to the release you want to generate language
 You can set the `COMMIT_LOG`, if you want commit logs to be generated.
 This is used by the `ci` script.
 
+The amount of workers defaults to 32 unless you are running in debug mode which can be enabled by setting `DEBUG=1`, this can be overridden with the `WORKERS` environment variable.
+
+The parameters `-l`, `-p`, `-t`, `-pl`, `-tl` can be used to specify a comma-separated list of packages to fetch.
+The default is to fetch all of them.
+
 ---
 
 The `ci` script is run daily by our CI and updates all categories.
