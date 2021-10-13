@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"errors"
+	"flag"
 	"fmt"
 	"io/ioutil"
 	"log"
@@ -351,7 +352,7 @@ func processPkgQueue(queue <-chan map[string]interface{}, po map[string]interfac
 	writeFile(t, mergePs(po, pn))
 }
 
-func processType(t string) {
+func processType(t string, hasLimits bool, limit string) {
 	po := loadFile(t)
 	log.Printf("Starting to process %s", t)
 	subdomain := "i18n"
@@ -367,22 +368,40 @@ func processType(t string) {
 		directory = "/themes"
 	}
 	repo := NewRepository("https://" + subdomain + ".svn.wordpress.org" + directory)
-	pkgs, _ := repo.List("", nil)
-	log.Printf("Got list of %d %s", len(pkgs), t)
-	if DEBUG {
-		log.Printf("Only processing first and last 50 %s, because we are in debug mode.", t)
-		if len(pkgs) > 100 {
-			pkgs = append(pkgs[:50], pkgs[len(pkgs)-50:]...)
+
+	var pkgs []Entry
+	if !hasLimits {
+		pkgs, _ = repo.List("", nil)
+		log.Printf("Got list of %d %s", len(pkgs), t)
+		if DEBUG {
+			log.Printf("Only processing first and last 50 %s, because we are in debug mode.", t)
+			if len(pkgs) > 100 {
+				pkgs = append(pkgs[:50], pkgs[len(pkgs)-50:]...)
+			}
+		}
+	} else {
+		for _, pkgName := range strings.Split(limit, ",") {
+			newEntry := Entry{
+				Kind:   "dir",
+				Name:   pkgName,
+				Commit: Commit{},
+			}
+			pkgs = append(pkgs, newEntry)
 		}
 	}
-	queue := make(chan map[string]interface{})
 
+	if len(pkgs) == 0 {
+		return
+	}
+
+	queue := make(chan map[string]interface{})
 	go buildPkgQueue(pkgs, repo, queue, t)
 	processPkgQueue(queue, po, t, repo)
 	log.Printf("Finished processing %s", t)
 }
 
 func main() {
+	// Parse environment
 	_, DEBUG = os.LookupEnv("DEBUG")
 	_, COMMIT_LOG = os.LookupEnv("COMMIT_LOG")
 	var isSet bool
@@ -393,9 +412,19 @@ func main() {
 		split := strings.Split(WP_VERSION, ".")
 		WP_VERSION = fmt.Sprintf("%s.%s", split[0], split[1])
 	}
-	processType("languages")
-	processType("themes")
-	processType("plugins")
-	processType("pluginLanguages")
-	processType("themeLanguages")
+	// Parse parameters
+	languages := flag.String("l", "", "languages to fetch - defaults to all")
+	themes := flag.String("t", "", "themes to fetch - defaults to all")
+	plugins := flag.String("p", "", "plugins to fetch - defaults to all")
+	pluginLanguages := flag.String("pl", "", "plugin languages to fetch - defaults to all")
+	themeLanguages := flag.String("tl", "", "theme languages to fetch - defaults to all")
+	flag.Parse()
+	hasLimits := *languages != "" || *themes != "" || *plugins != "" || *pluginLanguages != "" || *themeLanguages != ""
+
+	// Run it
+	processType("languages", hasLimits, *languages)
+	processType("themes", hasLimits, *themes)
+	processType("plugins", hasLimits, *plugins)
+	processType("pluginLanguages", hasLimits, *pluginLanguages)
+	processType("themeLanguages", hasLimits, *themeLanguages)
 }
