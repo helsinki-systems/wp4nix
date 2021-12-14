@@ -6755,6 +6755,30 @@
     "sha256": "17yw0cm1x44s55sryf5qwarfbqp9yig070wfc8wz62glh7yqcqqh",
     "version": "2.0.45"
   },
+  "arrival-me-es_CO": {
+    "path": "arrival-me/1.0.7/es_CO",
+    "rev": "737365",
+    "sha256": "1sc828ni9kzy5h74pqf0hhrrcsvddw3c4cn9akx7dl7ic837wpi5",
+    "version": "1.0.7"
+  },
+  "arrival-me-es_EC": {
+    "path": "arrival-me/1.0.7/es_EC",
+    "rev": "737366",
+    "sha256": "0478ksk4ccj4dcqdj3snqx1wwcxz0lj56zd6dm6xw5zibn392fm9",
+    "version": "1.0.7"
+  },
+  "arrival-me-es_ES": {
+    "path": "arrival-me/1.0.7/es_ES",
+    "rev": "737367",
+    "sha256": "1dgvvm7kxg1ldvsz541pzc2qyfv9zb1a3qzgc2skqjd43s9jvqmy",
+    "version": "1.0.7"
+  },
+  "arrival-me-es_VE": {
+    "path": "arrival-me/1.0.7/es_VE",
+    "rev": "737368",
+    "sha256": "0z1a8ags0rrigwka2xhb76hgzibxki74a67xq5rfa7c8q9yxi2xb",
+    "version": "1.0.7"
+  },
   "arrival-me-nl_NL": {
     "path": "arrival-me/1.0.7/nl_NL",
     "rev": "733532",
@@ -8267,6 +8291,12 @@
     "sha256": "08bvbcvlvdny83pmjh12ac4fnvgjc3m7b3h3bg7ffvgbygg4yvy9",
     "version": "1.1.13"
   },
+  "atrium-lite-sv_SE": {
+    "path": "atrium-lite/1.0.1/sv_SE",
+    "rev": "737634",
+    "sha256": "1v26snddl6lrnnfq7k3dibqxswv5sxafg1lzmiy1zida7a6hi8bg",
+    "version": "1.0.1"
+  },
   "attesa-en_CA": {
     "path": "attesa/1.4.5/en_CA",
     "rev": "683658",
@@ -9388,6 +9418,12 @@
     "rev": "100680",
     "sha256": "0zw6m4fi70hxzflfrn5njc765yqiz570pwqbnjmiayizmv8vidwg",
     "version": "1.0.4"
+  },
+  "axtia-sv_SE": {
+    "path": "axtia/1.0.3/sv_SE",
+    "rev": "737636",
+    "sha256": "0awfqpdznq39aa3kxvag5kni0cj9mxifnaf4j3xxmnmhb0xi1106",
+    "version": "1.0.3"
   },
   "axtria-ar": {
     "path": "axtria/1.0.9/ar",
@@ -21557,6 +21593,12 @@
     "sha256": "0rjbizwcgppyn44qwcg7na60wcvb7hczcfhpdhjncb7fisk05ham",
     "version": "1.2.2"
   },
+  "business-multi-lite-sv_SE": {
+    "path": "business-multi-lite/1.2/sv_SE",
+    "rev": "737649",
+    "sha256": "08hnqdm6xkwzd6v4lk0jb2wnqqa0l0zvj9lisabzv8m544zn64r7",
+    "version": "1.2"
+  },
   "business-one-page-cs_CZ": {
     "path": "business-one-page/1.2.7/cs_CZ",
     "rev": "674906",
@@ -23020,6 +23062,12 @@
     "rev": "158535",
     "sha256": "0yh5s8qwq1blj9iipkc01gzqgvbq080bnmw3qx361hr7p59kaxhs",
     "version": "1.6.6"
+  },
+  "cargo-transport-sv_SE": {
+    "path": "cargo-transport/1.0.1/sv_SE",
+    "rev": "737650",
+    "sha256": "0z96scwfl8x8nj25kln760kna2i61i9sr6nwkw43la1aa3xwpm0b",
+    "version": "1.0.1"
   },
   "cargoex-de_DE": {
     "path": "cargoex/1.3/de_DE",
@@ -25224,46 +25272,46 @@
     "version": "1.0"
   },
   "citadela-cs_CZ": {
-    "path": "citadela/4.2.12/cs_CZ",
-    "rev": "731578",
-    "sha256": "1lpky299fa6nk8mdspqvgzgapq3szryvpmb1gal6s3nx0vmrs8km",
-    "version": "4.2.12"
+    "path": "citadela/5.0.1/cs_CZ",
+    "rev": "737759",
+    "sha256": "1r895nxzb9z2m8dxyx3l3n6m0mz5i3ncf4wkm1g6ldy1xcrpi0ff",
+    "version": "5.0.1"
   },
   "citadela-es_EC": {
-    "path": "citadela/4.2.12/es_EC",
-    "rev": "731582",
-    "sha256": "0jdg5d77212jvc49wa9gjpbsg7ayx8wqnmikh1i5wvg737j60klz",
-    "version": "4.2.12"
+    "path": "citadela/5.0.1/es_EC",
+    "rev": "737763",
+    "sha256": "1i2n59k5i9h74lmjwxs5iiymj4h6vkfkfax99yi2y39lm08k7gl8",
+    "version": "5.0.1"
   },
   "citadela-es_ES": {
-    "path": "citadela/4.2.12/es_ES",
-    "rev": "731583",
-    "sha256": "0ikcl1244fbnfmrksl6wgskg75k8m9hid9m08xm00vwk12cnl3s8",
-    "version": "4.2.12"
+    "path": "citadela/5.0.1/es_ES",
+    "rev": "737764",
+    "sha256": "0hjzdn4192c997viqrwra7b6vvwqcgap6a7q1gx4bgx98hb2mz4g",
+    "version": "5.0.1"
   },
   "citadela-es_VE": {
-    "path": "citadela/4.2.12/es_VE",
-    "rev": "731584",
-    "sha256": "18shpgqavcq3m38ia4dg1h4wgnxzlh0knxg3i8xiryf6zdjmm82h",
-    "version": "4.2.12"
+    "path": "citadela/5.0.1/es_VE",
+    "rev": "737765",
+    "sha256": "0951rmgkm0i41n9bnj1dkjx14aihic66jylipdg3cw8wc8kz4fpp",
+    "version": "5.0.1"
   },
   "citadela-nl_NL": {
-    "path": "citadela/4.2.12/nl_NL",
-    "rev": "731579",
-    "sha256": "1rq0xc4q14g0fq3lcbp07fq59bmh5wj2h76h636s95ygpvjkg0x6",
-    "version": "4.2.12"
+    "path": "citadela/5.0.1/nl_NL",
+    "rev": "737760",
+    "sha256": "1agxvm27blmkvyksczcjank7dfkzhl56aj9702c3rwi548qzhply",
+    "version": "5.0.1"
   },
   "citadela-ro_RO": {
-    "path": "citadela/4.2.12/ro_RO",
-    "rev": "731580",
-    "sha256": "0slqapzgcb4smli78iwnllsv2q65w8dsycc0calppkvxpr28qqyi",
-    "version": "4.2.12"
+    "path": "citadela/5.0.1/ro_RO",
+    "rev": "737761",
+    "sha256": "1r9si8pgirmicr0ah9wasyiz0p6wr6pfrz146wibcqqm0ab1xc9a",
+    "version": "5.0.1"
   },
   "citadela-sk_SK": {
-    "path": "citadela/4.2.12/sk_SK",
-    "rev": "731581",
-    "sha256": "0z6rfb74cnbcy65w9gzdjvpiglvwg5q1kycr7wklag3sf51q9avd",
-    "version": "4.2.12"
+    "path": "citadela/5.0.1/sk_SK",
+    "rev": "737762",
+    "sha256": "0n7m7h91ijppa4kan6xpdiqlbhs499fy6nmc9rhn5nk318vdkx8h",
+    "version": "5.0.1"
   },
   "city-informer-en_CA": {
     "path": "city-informer/1.7/en_CA",
@@ -27905,6 +27953,12 @@
     "sha256": "1vbfys2ch1gg07d3hqd5apxwbf7n0icia7aa5i3dhw5sjvy5bnak",
     "version": "1.1.2"
   },
+  "construction-bell-sv_SE": {
+    "path": "construction-bell/1.0.4/sv_SE",
+    "rev": "737652",
+    "sha256": "10jy25vgd054lm7qli3xcqzixj4i60gycnhs2qmf67kq14dp0r0r",
+    "version": "1.0.4"
+  },
   "construction-business-nl_NL": {
     "path": "construction-business/1.0.1/nl_NL",
     "rev": "510638",
@@ -28175,6 +28229,12 @@
     "sha256": "0x9qxz912kk1yp021fwshpj457p0sp65favvn15ybmrx720qrqrs",
     "version": "1.3.1"
   },
+  "construction-renovation-sv_SE": {
+    "path": "construction-renovation/0.2/sv_SE",
+    "rev": "737680",
+    "sha256": "022kimn56p15307fk1j5hys4694nlj8698rv263nn4jzy5fxc8nq",
+    "version": "0.2"
+  },
   "constructisle-en_AU": {
     "path": "constructisle/1.0.3/en_AU",
     "rev": "29327",
@@ -28222,6 +28282,12 @@
     "rev": "735148",
     "sha256": "1spcjqzayvlh7m3w1wsyjadynizxlmgbn0isa2gg91gr2xggr25k",
     "version": "1.0.2"
+  },
+  "consultare-light-sv_SE": {
+    "path": "consultare-light/1.0.1/sv_SE",
+    "rev": "737654",
+    "sha256": "06vjbgpcyg3w9x0fydim47jjwk8833and77kqjz6b5xjalkbvipp",
+    "version": "1.0.1"
   },
   "consultco-dark-nl_NL": {
     "path": "consultco-dark/0.1/nl_NL",
@@ -28883,6 +28949,12 @@
     "sha256": "0iqkk0h55kfp1afj33fb2jlgrk51m5mhcx7bs9l7n4q7qgl76q68",
     "version": "0.7.4"
   },
+  "core-news-sv_SE": {
+    "path": "core-news/1.0.2/sv_SE",
+    "rev": "737655",
+    "sha256": "1nrf8r6a6vrmjdf5dj88dkb4vp3jimw0iksd2605j9lsb7js7q1y",
+    "version": "1.0.2"
+  },
   "corgi-love-en_CA": {
     "path": "corgi-love/1.11/en_CA",
     "rev": "79605",
@@ -29262,118 +29334,118 @@
     "version": "1.0.3"
   },
   "coziplus-ar": {
-    "path": "coziplus/1.0.1/ar",
-    "rev": "719798",
+    "path": "coziplus/1.0.2/ar",
+    "rev": "737656",
     "sha256": "0ffpcbn0sy4mcvx8bg4szlpf9vwx8k0m52vfmw1yd1wj0dvwsnjv",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "coziplus-da_DK": {
-    "path": "coziplus/1.0.1/da_DK",
-    "rev": "719799",
+    "path": "coziplus/1.0.2/da_DK",
+    "rev": "737657",
     "sha256": "1h7l146dpnfqknlp85yr4ihq4p5lsv9icdrs2ashby9jd3asab4k",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "coziplus-de_DE": {
-    "path": "coziplus/1.0.1/de_DE",
-    "rev": "719805",
+    "path": "coziplus/1.0.2/de_DE",
+    "rev": "737663",
     "sha256": "1wnxqbdc88m1py5r1c9vy3i64rj3c5iy2qrapww5cn35m0iyxxm5",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "coziplus-en_GB": {
-    "path": "coziplus/1.0.1/en_GB",
-    "rev": "719802",
+    "path": "coziplus/1.0.2/en_GB",
+    "rev": "737660",
     "sha256": "13b428z0ypzgwry7i71ybaiqzgp80nx8bqp4v5va8pdlmx8c2fjs",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "coziplus-es_ES": {
-    "path": "coziplus/1.0.1/es_ES",
-    "rev": "719814",
+    "path": "coziplus/1.0.2/es_ES",
+    "rev": "737672",
     "sha256": "00g4whbqwbd4ycz3y0812f6y2ngbwbs9nb3hs7v4l6zv9ldsp4vx",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "coziplus-es_MX": {
-    "path": "coziplus/1.0.1/es_MX",
-    "rev": "719813",
+    "path": "coziplus/1.0.2/es_MX",
+    "rev": "737671",
     "sha256": "1rmbd2wqlx8nh0697c06cqm5lfd3sfw3cdzh1nxrsz9lqyxcj3yc",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "coziplus-fr_BE": {
-    "path": "coziplus/1.0.1/fr_BE",
-    "rev": "719803",
+    "path": "coziplus/1.0.2/fr_BE",
+    "rev": "737661",
     "sha256": "0dkliyi7nbbfnv41jqqhs3ddgb647yh1ddqxkp02i451v76ilx30",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "coziplus-fr_FR": {
-    "path": "coziplus/1.0.1/fr_FR",
-    "rev": "719804",
+    "path": "coziplus/1.0.2/fr_FR",
+    "rev": "737662",
     "sha256": "1nfrk0yyqfngbbs4d7h5kb2j5m8gpw6xljcw7hmynh5nzdcl6iif",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "coziplus-it_IT": {
-    "path": "coziplus/1.0.1/it_IT",
-    "rev": "719806",
+    "path": "coziplus/1.0.2/it_IT",
+    "rev": "737664",
     "sha256": "0q905h76hp389kpagh8kqyjaj7k4kmf8i1hbsz0b6h1z4cpph48k",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "coziplus-ja": {
-    "path": "coziplus/1.0.1/ja",
-    "rev": "719807",
+    "path": "coziplus/1.0.2/ja",
+    "rev": "737665",
     "sha256": "14iij84lmcak27wg3l41qq3was4ll6b62r85gfmhiiig6ryww83v",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "coziplus-nl_BE": {
-    "path": "coziplus/1.0.1/nl_BE",
-    "rev": "719801",
+    "path": "coziplus/1.0.2/nl_BE",
+    "rev": "737659",
     "sha256": "1rlbdp2qjykl8lwlp8q3h80qrigdgk7clm6m9lcjb4fmpwvcg1lq",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "coziplus-nl_NL": {
-    "path": "coziplus/1.0.1/nl_NL",
-    "rev": "719800",
+    "path": "coziplus/1.0.2/nl_NL",
+    "rev": "737658",
     "sha256": "1jxp9824wkr7i14bx2brr7gdkqv69rfmxynd6s1v4pywpdqpl52r",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "coziplus-pt_BR": {
-    "path": "coziplus/1.0.1/pt_BR",
-    "rev": "719808",
+    "path": "coziplus/1.0.2/pt_BR",
+    "rev": "737666",
     "sha256": "0mnq43fd2clwakh8w1hrh5i5hd2077r4xi8frvg0d1cj7ys8jmnm",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "coziplus-pt_PT": {
-    "path": "coziplus/1.0.1/pt_PT",
-    "rev": "719809",
+    "path": "coziplus/1.0.2/pt_PT",
+    "rev": "737667",
     "sha256": "0bi2lbg7sn5lqj5rkxv2bf9pnbvfh8wy880vjfw89bryacw4gplv",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "coziplus-ro_RO": {
-    "path": "coziplus/1.0.1/ro_RO",
-    "rev": "719810",
+    "path": "coziplus/1.0.2/ro_RO",
+    "rev": "737668",
     "sha256": "1ldxz1m0hphal22ir3zzbhp4zdjl7q0kssk91v2df1j1pa0cxkgq",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "coziplus-ru_RU": {
-    "path": "coziplus/1.0.1/ru_RU",
-    "rev": "719811",
+    "path": "coziplus/1.0.2/ru_RU",
+    "rev": "737669",
     "sha256": "0123jy1s30ydvj6ii39fc7zi4j1jraj6saj09lj8fv8d3gc2d520",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "coziplus-sr_RS": {
-    "path": "coziplus/1.0.1/sr_RS",
-    "rev": "719812",
+    "path": "coziplus/1.0.2/sr_RS",
+    "rev": "737670",
     "sha256": "00y5jl2xw7w27vcbin3n7ihdl1llxrd1avv307gj55fzhnxibiwy",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "coziplus-tr_TR": {
-    "path": "coziplus/1.0.1/tr_TR",
-    "rev": "719815",
+    "path": "coziplus/1.0.2/tr_TR",
+    "rev": "737673",
     "sha256": "0xcmji2l8x1h8g705lsby2i47mbz4af4vd25hy02h53bhvl2wpw8",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "coziplus-uk": {
-    "path": "coziplus/1.0.1/uk",
-    "rev": "719816",
+    "path": "coziplus/1.0.2/uk",
+    "rev": "737674",
     "sha256": "0lilh2bz529k6anq9a0yibkcbz3rb19rfpz5qnnf8287p14afwqa",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "cozipress-ar": {
     "path": "cozipress/1.0.9/ar",
@@ -38508,10 +38580,10 @@
     "version": "0.3"
   },
   "expert-mechanic-sv_SE": {
-    "path": "expert-mechanic/0.1.6/sv_SE",
-    "rev": "703023",
-    "sha256": "1vv3771cpzr38xvjyn6p1cz32qay39x95lyg0xa1ac3z4220rnlb",
-    "version": "0.1.6"
+    "path": "expert-mechanic/0.1.8/sv_SE",
+    "rev": "737364",
+    "sha256": "0imblxqjmxlcw132i3z0f191yrgxn8sxfd1xb18vw65gjgb8jrm1",
+    "version": "0.1.8"
   },
   "exploore-ja": {
     "path": "exploore/2.5/ja",
@@ -38578,6 +38650,12 @@
     "rev": "710158",
     "sha256": "0ib9skzmsfjg63hzas5f5r1chzqfch6jmyb7mr7v0x3r08a5gil9",
     "version": "1.0.1"
+  },
+  "exs-dark-sv_SE": {
+    "path": "exs-dark/1.0.0/sv_SE",
+    "rev": "737675",
+    "sha256": "0ylsaxs22xmhhpaicf0bik6142igbb80af0bmcgdgj698yvnk25v",
+    "version": "1.0.0"
   },
   "exs-fashion-sv_SE": {
     "path": "exs-fashion/1.0.2/sv_SE",
@@ -40925,6 +41003,18 @@
     "sha256": "1126libbyyldq351vqg35hsfip8pgrs936haywsvzqb8dl9hvnxy",
     "version": "2.6.4"
   },
+  "fervent-sv_SE": {
+    "path": "fervent/0.1.0/sv_SE",
+    "rev": "737676",
+    "sha256": "12g4m4s33rhws1m96cpqqspn04gps7qajp2fghghphimb78qz62p",
+    "version": "0.1.0"
+  },
+  "festate-sv_SE": {
+    "path": "festate/1.3.7/sv_SE",
+    "rev": "737677",
+    "sha256": "033vb19pjnw0xazvq8adncnjynpp909nvv9zynvd6mrkizp3421i",
+    "version": "1.3.7"
+  },
   "ffashion-en_GB": {
     "path": "ffashion/1.4.0/en_GB",
     "rev": "669105",
@@ -42465,6 +42555,12 @@
     "path": "fmovies/1.3.6/ca",
     "rev": "669119",
     "sha256": "07514bxbgh7gjil9bl3jj0z5lylzd05rlvffzk4i8i5ci0mh6c42",
+    "version": "1.3.6"
+  },
+  "fmovies-sv_SE": {
+    "path": "fmovies/1.3.6/sv_SE",
+    "rev": "737679",
+    "sha256": "02kc5p4a9i2ninh4h9z0ax5ar073wpjm1c8s0ii8s4vzzg054xbl",
     "version": "1.3.6"
   },
   "foliopress-sv_SE": {
@@ -61170,10 +61266,10 @@
     "version": "1.1.5"
   },
   "megla-sv_SE": {
-    "path": "megla/1.0.3/sv_SE",
-    "rev": "655993",
-    "sha256": "0b0a3mjbc5m3k1i75zknqwc12jrqkad2dbpva1n6y8qd7xgm2ywx",
-    "version": "1.0.3"
+    "path": "megla/1.0.4/sv_SE",
+    "rev": "737624",
+    "sha256": "05bxz6lfxga5rzazpbgxzin3ywncr9az20r5v2dzakzs2khzq44n",
+    "version": "1.0.4"
   },
   "mekanews-lite-ja": {
     "path": "mekanews-lite/1.0.4/ja",
@@ -62983,8 +63079,8 @@
   },
   "minimal-grid-nl_NL": {
     "path": "minimal-grid/1.3.0/nl_NL",
-    "rev": "737197",
-    "sha256": "0fi8sbslyrpg7jv82rhq10cbc0nwkjwap1zxhfy7mwlldi5i3vb5",
+    "rev": "737633",
+    "sha256": "0bj2hci53dkicw1qmgxfdxcmhib90l5bir8fw0k6yjlasrn0163l",
     "version": "1.3.0"
   },
   "minimal-grid-pl_PL": {
@@ -64038,10 +64134,10 @@
     "version": "1.5"
   },
   "modul-r-bg_BG": {
-    "path": "modul-r/1.4.2/bg_BG",
-    "rev": "733451",
-    "sha256": "124wih7arc4rd6j8gh16j5a3j2fq9rkg6lhyc7ian2fvim8hr5ph",
-    "version": "1.4.2"
+    "path": "modul-r/1.4.3/bg_BG",
+    "rev": "737471",
+    "sha256": "0b6g2hnz9kl5gsf6ijmwbq2ii36ilhbciwps3lwci3nqpyhqy6lc",
+    "version": "1.4.3"
   },
   "modulus-en_CA": {
     "path": "modulus/1.4.1/en_CA",
@@ -66431,16 +66527,28 @@
     "sha256": "07jmnbi1yk2kh13d4bhkir8yjrn9qykx6i1s2apn20pwwabnpw5x",
     "version": "1.1.7"
   },
+  "news-base-es_CO": {
+    "path": "news-base/1.1.7/es_CO",
+    "rev": "737357",
+    "sha256": "1ch8iypjxw03m9n8698w8m7mnw8a14ngpz4cpkvlfqxf09mg9nkz",
+    "version": "1.1.7"
+  },
+  "news-base-es_EC": {
+    "path": "news-base/1.1.7/es_EC",
+    "rev": "737358",
+    "sha256": "04x8zgn4iygr358g3mn5kr5nw17vxnr56agvd18rw4696653iw91",
+    "version": "1.1.7"
+  },
   "news-base-es_ES": {
     "path": "news-base/1.1.7/es_ES",
-    "rev": "737242",
-    "sha256": "16fjyxj5qvd51fl7vllvqqr4wns3fn8cmm7hj3q513mfj20d32md",
+    "rev": "737359",
+    "sha256": "0nl3s2ajl259xas80ksz55z3lb93a9cc114cz2kx8m0axfflv0j1",
     "version": "1.1.7"
   },
   "news-base-es_VE": {
     "path": "news-base/1.1.7/es_VE",
-    "rev": "737243",
-    "sha256": "0kyhljh174326pjdcyxlzv1dj0d9nj80sg624xj0fw8lag3aiph9",
+    "rev": "737360",
+    "sha256": "05gzhfl0i6lzp5bdmiqk2ym4hxrrd3hhfhj6z3v07ddwdwj16pd9",
     "version": "1.1.7"
   },
   "news-bit-de_DE": {
@@ -71041,8 +71149,8 @@
   },
   "oceanwp-uk": {
     "path": "oceanwp/3.1.2/uk",
-    "rev": "731041",
-    "sha256": "1kfvf2ynsc672bl8s63w735i7b9854qpbs10bgnrcmmxpbclq76f",
+    "rev": "737817",
+    "sha256": "1pn0lskxd1ckambfyz8r4nck7grj97b5yvxsgb6wzqqz623f2p9b",
     "version": "3.1.2"
   },
   "ocin-lite-ja": {
@@ -72085,8 +72193,8 @@
   },
   "online-blog-en_GB": {
     "path": "online-blog/1.1.6/en_GB",
-    "rev": "737272",
-    "sha256": "1qlzi507v6z3jnjdlbhz0mvx4q9j5x71naaffd2hcmi8jgw3hhcm",
+    "rev": "737400",
+    "sha256": "1mqzm94cx0j7q8m4vqclvk13vc1yc8p5zngxqmpa8gf5nchqs3f9",
     "version": "1.1.6"
   },
   "online-blog-en_NZ": {
@@ -97817,6 +97925,12 @@
     "sha256": "05dkin86c5zcw5f81n3vvhsbmnsgmav50jh2y4wm5bbcsbwdkdiq",
     "version": "1.4.2"
   },
+  "travel-and-tour-es_ES": {
+    "path": "travel-and-tour/1.0.0/es_ES",
+    "rev": "737712",
+    "sha256": "0ja2ndkmra3p2mvagdbh402carmp9vq21aqgfga6x2rc0kmyl6cd",
+    "version": "1.0.0"
+  },
   "travel-diaries-es_CO": {
     "path": "travel-diaries/1.2.0/es_CO",
     "rev": "685400",
@@ -106938,16 +107052,16 @@
     "version": "0.8.1"
   },
   "vw-charity-ngo-ru_RU": {
-    "path": "vw-charity-ngo/0.7.5/ru_RU",
-    "rev": "719342",
-    "sha256": "12665l51kml9qzvkqf9r98lqi1650pcb5zd4jdsj6ldyckdd6lhg",
-    "version": "0.7.5"
+    "path": "vw-charity-ngo/0.7.6/ru_RU",
+    "rev": "737510",
+    "sha256": "0qij818k2gmmndqhs9jfxxwm720jmi0v6iv2mf363cawpf4nnbpy",
+    "version": "0.7.6"
   },
   "vw-charity-ngo-uk": {
-    "path": "vw-charity-ngo/0.7.5/uk",
-    "rev": "719343",
-    "sha256": "19yyq9c0insh7kspg6jbpln3izzywfhi7xmnrpp777iggv65nbaa",
-    "version": "0.7.5"
+    "path": "vw-charity-ngo/0.7.6/uk",
+    "rev": "737511",
+    "sha256": "00bq837p6gbcna22rc8qk6rzg39bka9g3ydn5nh2cgwww1kwjv0j",
+    "version": "0.7.6"
   },
   "vw-cleaning-company-ru_RU": {
     "path": "vw-cleaning-company/0.6.4/ru_RU",
@@ -107070,16 +107184,16 @@
     "version": "0.6"
   },
   "vw-gardening-landscaping-ru_RU": {
-    "path": "vw-gardening-landscaping/0.8.6/ru_RU",
-    "rev": "730078",
+    "path": "vw-gardening-landscaping/0.8.7/ru_RU",
+    "rev": "737473",
     "sha256": "0ppzbgp0c86zxa56l86y7wk0nbi5ccgdkmwzxvj6fh6f85hk64lf",
-    "version": "0.8.6"
+    "version": "0.8.7"
   },
   "vw-gardening-landscaping-uk": {
-    "path": "vw-gardening-landscaping/0.8.6/uk",
-    "rev": "730079",
+    "path": "vw-gardening-landscaping/0.8.7/uk",
+    "rev": "737474",
     "sha256": "1xprpd867wczdqv4b1h81g3gc89wrzlw9c7lpdyzvckycm7yknpx",
-    "version": "0.8.6"
+    "version": "0.8.7"
   },
   "vw-health-coaching-ru_RU": {
     "path": "vw-health-coaching/0.8.3/ru_RU",
@@ -107160,16 +107274,16 @@
     "version": "0.7.2"
   },
   "vw-pet-shop-ru_RU": {
-    "path": "vw-pet-shop/0.8.3/ru_RU",
-    "rev": "718762",
-    "sha256": "05hhbz0xjahmzdzivi7505c0nl10xfg1qq129n4m67sb1rhy2dkj",
-    "version": "0.8.3"
+    "path": "vw-pet-shop/0.8.4/ru_RU",
+    "rev": "737505",
+    "sha256": "1pwqfqcs24g6m3vmk9hdhklpp8djni2nq16g3xpfiqjflb89aj5j",
+    "version": "0.8.4"
   },
   "vw-pet-shop-uk": {
-    "path": "vw-pet-shop/0.8.3/uk",
-    "rev": "718763",
-    "sha256": "0p191b67fhkwzidpqih93agxhj0k4lskb7l5yxq1wa3z63026bqz",
-    "version": "0.8.3"
+    "path": "vw-pet-shop/0.8.4/uk",
+    "rev": "737506",
+    "sha256": "08zw46wkcp4pzwp5f0766vbbd19zc7vra2a0zxndm0r8i031hbyy",
+    "version": "0.8.4"
   },
   "vw-photography-ru_RU": {
     "path": "vw-photography/0.7/ru_RU",
