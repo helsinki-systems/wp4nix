@@ -23033,6 +23033,12 @@
     "sha256": "14sjsfikb7x7rw7n9xvyj170nhpqa77yh10dcgivxh6wvp03f9ji",
     "version": "1.0.28"
   },
+  "calliope-nl_NL_formal": {
+    "path": "calliope/1.0.28/nl_NL_formal",
+    "rev": "749776",
+    "sha256": "06chh2yzh83jl9yr3bnvb076ds7764bdamyxz5jjhghaymfzxnxl",
+    "version": "1.0.28"
+  },
   "calliope-pt_BR": {
     "path": "calliope/1.0.28/pt_BR",
     "rev": "628944",
@@ -23520,10 +23526,10 @@
     "version": "2.0"
   },
   "car-repair-sv_SE": {
-    "path": "car-repair/0.2.1/sv_SE",
-    "rev": "749342",
-    "sha256": "1fx3xdy69335ghbvccyj76dbk2jyd22hwc7rmvsnfpimrycx68gf",
-    "version": "0.2.1"
+    "path": "car-repair/0.2.2/sv_SE",
+    "rev": "749709",
+    "sha256": "1h23jyrx2fbpf8n1fviqgkgddana724k9ld71aqn1q3z02l13gqj",
+    "version": "0.2.2"
   },
   "car-service-sv_SE": {
     "path": "car-service/0.3.7/sv_SE",
@@ -28782,10 +28788,10 @@
     "version": "1.3.1"
   },
   "construction-renovation-sv_SE": {
-    "path": "construction-renovation/0.2/sv_SE",
-    "rev": "749341",
-    "sha256": "1gzl53w5jycay0hpc25ihrgj7yvsskfb1i5vwxi683rbqv3l5919",
-    "version": "0.2"
+    "path": "construction-renovation/0.2.1/sv_SE",
+    "rev": "749696",
+    "sha256": "046dklx2s0cpzv8afwv5hjsnsaljca8qdzj9xcjbc5h77ij15mjl",
+    "version": "0.2.1"
   },
   "construction-techup-nl_NL": {
     "path": "construction-techup/1.4/nl_NL",
@@ -28854,52 +28860,58 @@
     "version": "0.1"
   },
   "consultco-de_DE": {
-    "path": "consultco/0.7/de_DE",
-    "rev": "729384",
+    "path": "consultco/0.8/de_DE",
+    "rev": "749646",
     "sha256": "0jslk9q0blflks088q8blrnppiwz0rc8ch854p9rx23yyk7fh492",
-    "version": "0.7"
+    "version": "0.8"
   },
   "consultco-es_CO": {
-    "path": "consultco/0.7/es_CO",
-    "rev": "729387",
+    "path": "consultco/0.8/es_CO",
+    "rev": "749650",
     "sha256": "00ndnqnkvkkw74f7qa5rzzsvfx60hdcwia94qz2qi833rlpjsnl7",
-    "version": "0.7"
+    "version": "0.8"
   },
   "consultco-es_EC": {
-    "path": "consultco/0.7/es_EC",
-    "rev": "729388",
+    "path": "consultco/0.8/es_EC",
+    "rev": "749651",
     "sha256": "0k4qwlrpq6811m032nlbzywx8rvyls68palyi9nmaj00vk4yn5v9",
-    "version": "0.7"
+    "version": "0.8"
   },
   "consultco-es_ES": {
-    "path": "consultco/0.7/es_ES",
-    "rev": "729389",
+    "path": "consultco/0.8/es_ES",
+    "rev": "749652",
     "sha256": "13flvvgpxjf6rh36r5ir2sna5s2fihv6rxj41p640w0x5jdiim0h",
-    "version": "0.7"
+    "version": "0.8"
   },
   "consultco-es_VE": {
-    "path": "consultco/0.7/es_VE",
-    "rev": "729390",
+    "path": "consultco/0.8/es_VE",
+    "rev": "749653",
     "sha256": "0p2vvgywvr6siab4f16121g2d0nlvs7raasgysvdayf9gdmlzd06",
-    "version": "0.7"
+    "version": "0.8"
   },
   "consultco-it_IT": {
-    "path": "consultco/0.7/it_IT",
-    "rev": "729385",
+    "path": "consultco/0.8/it_IT",
+    "rev": "749647",
     "sha256": "03dbblks04xjx79b9hkmv3j3ajfj9bi4b5vggbpm7clmpdh6hvzg",
-    "version": "0.7"
+    "version": "0.8"
+  },
+  "consultco-ja": {
+    "path": "consultco/0.8/ja",
+    "rev": "749648",
+    "sha256": "1h3nvffdwbdql3x4014x6krqd2cmhwvhn35aqh3jz7n702vkvv4k",
+    "version": "0.8"
   },
   "consultco-nl_NL": {
-    "path": "consultco/0.7/nl_NL",
-    "rev": "729383",
+    "path": "consultco/0.8/nl_NL",
+    "rev": "749645",
     "sha256": "1dky4fjgxpqspi1w9jl8f3pkqgmsrfcny86amclvx0jqpv9pma2s",
-    "version": "0.7"
+    "version": "0.8"
   },
   "consultco-ru_RU": {
-    "path": "consultco/0.7/ru_RU",
-    "rev": "729386",
+    "path": "consultco/0.8/ru_RU",
+    "rev": "749649",
     "sha256": "1yzsv5gycsa802dg0l2g8nzl6cpdzilavw3nyyj532wyp36f3bms",
-    "version": "0.7"
+    "version": "0.8"
   },
   "consulting-es_ES": {
     "path": "consulting/1.2.18/es_ES",
@@ -33090,10 +33102,10 @@
     "version": "1.04"
   },
   "digicrew-sv_SE": {
-    "path": "digicrew/1.0.18/sv_SE",
-    "rev": "738083",
-    "sha256": "16zbyk2jqajvqh3rfcwj7cn4p9znl4sap4f2af64m6qq7sgyywd8",
-    "version": "1.0.18"
+    "path": "digicrew/1.0.19/sv_SE",
+    "rev": "749659",
+    "sha256": "17zixk1ql2rmah93adil8a1k53vcshyjp79dybzmp75navbx53xj",
+    "version": "1.0.19"
   },
   "diginews-de_DE": {
     "path": "diginews/1.6/de_DE",
@@ -41087,6 +41099,12 @@
     "sha256": "0n5c6f51sqz1dsd8wpx83fn3ah9gw6hvsp925g70cpwdwa556c9w",
     "version": "1.0.0"
   },
+  "fashion-lite-ja": {
+    "path": "fashion-lite/1.0.0/ja",
+    "rev": "749654",
+    "sha256": "10hxjkxw49kd8x7abwbw71i89hc8hg4f45r11a4p6zsnap8z5l0r",
+    "version": "1.0.0"
+  },
   "fashion-lite-ro_RO": {
     "path": "fashion-lite/1.0.0/ro_RO",
     "rev": "714615",
@@ -45145,8 +45163,8 @@
   },
   "generatepress-fi": {
     "path": "generatepress/3.1.0/fi",
-    "rev": "707330",
-    "sha256": "1qi28yv9x4hmzzv57cj9cbvfqjyrpg8b2baz8j1p88369dnzxnks",
+    "rev": "749842",
+    "sha256": "02aaf5pnl9v8rbnbk1h515nz975hfnbvb8pwc85j1n7bbzxhdygl",
     "version": "3.1.0"
   },
   "generatepress-fr_BE": {
@@ -58469,6 +58487,12 @@
     "sha256": "0m851gygfw7js44xzg3s03il6nc8y6ifghjf0gklv437vxlchdx7",
     "version": "1.5"
   },
+  "lightweightly-nl_NL": {
+    "path": "lightweightly/1.0.1/nl_NL",
+    "rev": "749752",
+    "sha256": "1gp8f0r7x651mbz4dvkdga2bg3pawa9b6n84srswwx8n0ymww39g",
+    "version": "1.0.1"
+  },
   "lime-slice-en_AU": {
     "path": "lime-slice/3.1.2/en_AU",
     "rev": "29205",
@@ -66048,16 +66072,16 @@
     "version": "0.3"
   },
   "moving-company-lite-ru_RU": {
-    "path": "moving-company-lite/0.5.5/ru_RU",
-    "rev": "731560",
-    "sha256": "0bkpyqddya4bjdzxp4fjhdajq5bihclc2w7f5rjyci62vrglmqns",
-    "version": "0.5.5"
+    "path": "moving-company-lite/0.5.6/ru_RU",
+    "rev": "749643",
+    "sha256": "09dm5cgzjs50lfqglchjqc0v40m9ylzkgy790c1hwjnwkm2749qp",
+    "version": "0.5.6"
   },
   "moving-company-lite-uk": {
-    "path": "moving-company-lite/0.5.5/uk",
-    "rev": "731561",
-    "sha256": "06zz393pkfqfz2rri61nlx57pjqrs79irhc8x6jpimwsiml8nv30",
-    "version": "0.5.5"
+    "path": "moving-company-lite/0.5.6/uk",
+    "rev": "749644",
+    "sha256": "19xy90c4wpyk26iyvjihjd6x2li4q0mj4igjsflh0183y6x22mcc",
+    "version": "0.5.6"
   },
   "mudita-es_ES": {
     "path": "mudita/1.1.6/es_ES",
@@ -76265,6 +76289,12 @@
     "sha256": "199dkqly1p4jlzd52l3phnklam6ckjjivgcr3av1nnzljndk2d14",
     "version": "1.3.0"
   },
+  "pep-brand-nl_NL": {
+    "path": "pep-brand/1.3.0/nl_NL",
+    "rev": "749754",
+    "sha256": "100ayfpqcggk8hzvyb9rnsxikfrrqqcy4dvcx31vfri2a0qxliz9",
+    "version": "1.3.0"
+  },
   "pep-en_CA": {
     "path": "pep/1.5.1/en_CA",
     "rev": "102132",
@@ -79320,10 +79350,10 @@
     "version": "1.0.0"
   },
   "property-builder-sv_SE": {
-    "path": "property-builder/0.2.2/sv_SE",
-    "rev": "716231",
-    "sha256": "01h4qawv9ipl9wdszq38b2qx4m6yjn8xb4qcmrirr56mfpmwd1bg",
-    "version": "0.2.2"
+    "path": "property-builder/0.2.4/sv_SE",
+    "rev": "749695",
+    "sha256": "1g1j1ghk44ljp6h11ilzn33wz6y42pb33gk6wrnzjqwsdpfxd4ws",
+    "version": "0.2.4"
   },
   "protopress-de_DE": {
     "path": "protopress/1.2.1/de_DE",
@@ -99941,6 +99971,12 @@
     "sha256": "0ja2ndkmra3p2mvagdbh402carmp9vq21aqgfga6x2rc0kmyl6cd",
     "version": "1.0.0"
   },
+  "travel-and-tour-ja": {
+    "path": "travel-and-tour/1.0.0/ja",
+    "rev": "749656",
+    "sha256": "0s4nzs7jxs90m37shm2bgxy1axd2nki5fq6v5x6vx7j56zyrc4dj",
+    "version": "1.0.0"
+  },
   "travel-and-tour-sv_SE": {
     "path": "travel-and-tour/1.0.0/sv_SE",
     "rev": "738404",
@@ -100281,6 +100317,12 @@
     "path": "travel-voyage/1.0.0/it_IT",
     "rev": "723476",
     "sha256": "0y5x7avl4358ivk7ld7jysxznyk2m4idry9slzpbx3blrp2cfgx5",
+    "version": "1.0.0"
+  },
+  "travel-voyage-ja": {
+    "path": "travel-voyage/1.0.0/ja",
+    "rev": "749657",
+    "sha256": "1nrxh671md0ymnl44sjfln400dwrvv6gwg6zdv59q0rjwbavkxm8",
     "version": "1.0.0"
   },
   "travel-voyage-nl_BE": {
@@ -105211,8 +105253,8 @@
   },
   "twentytwelve-it_IT": {
     "path": "twentytwelve/3.5/it_IT",
-    "rev": "729595",
-    "sha256": "0bzzccgg0a6rgx0bb5l3ymysm27kq44xzlkgiwy8xpf5f9l07gyx",
+    "rev": "749760",
+    "sha256": "0fkj2gmra9kbx4njm4zibqp61azy2pggscsnl5v67363py85g0i5",
     "version": "3.5"
   },
   "twentytwelve-ja": {
@@ -109866,40 +109908,40 @@
     "version": "2.1.12"
   },
   "weaver-xtreme-es_CO": {
-    "path": "weaver-xtreme/5.0.1/es_CO",
-    "rev": "749515",
-    "sha256": "12z047s483dhg9b4p0pxad4s52g87bf297p4qp4n6iqn468hln2y",
-    "version": "5.0.1"
+    "path": "weaver-xtreme/5.0.2/es_CO",
+    "rev": "749608",
+    "sha256": "0g4z7p81injbf56c53jdpfgykjqm9cxd8a7y35gz7yrx83738y8w",
+    "version": "5.0.2"
   },
   "weaver-xtreme-es_EC": {
-    "path": "weaver-xtreme/5.0.1/es_EC",
-    "rev": "749516",
-    "sha256": "0zyp7slvbaigs45xwp1md3a62bm6vqrvgrq5zdj4bynclyraiija",
-    "version": "5.0.1"
+    "path": "weaver-xtreme/5.0.2/es_EC",
+    "rev": "749609",
+    "sha256": "1j14gawvi87qmd7xmk2c7w8ckj6g5aimj1iq9wvngawa70iqv2rc",
+    "version": "5.0.2"
   },
   "weaver-xtreme-es_ES": {
-    "path": "weaver-xtreme/5.0.1/es_ES",
-    "rev": "749518",
-    "sha256": "0l34b00mpvah79gzf2pkldn86f3acjqh9x347z1n244f7bysw4n2",
-    "version": "5.0.1"
+    "path": "weaver-xtreme/5.0.2/es_ES",
+    "rev": "749611",
+    "sha256": "12lf05hmnxmccfhajk2kbikq7l6yqbkmmsss8q1jipk26yd59k4c",
+    "version": "5.0.2"
   },
   "weaver-xtreme-es_MX": {
-    "path": "weaver-xtreme/5.0.1/es_MX",
-    "rev": "749517",
-    "sha256": "02lmzycb5k13cp92ywdk7xrlpci8jgfcpdvs00hpfnbaplfd9dyk",
-    "version": "5.0.1"
+    "path": "weaver-xtreme/5.0.2/es_MX",
+    "rev": "749610",
+    "sha256": "1nz9qgc67k0wy1nnhzy6948mvxs6d0mv34081k394ykwxckv0cn8",
+    "version": "5.0.2"
   },
   "weaver-xtreme-es_VE": {
-    "path": "weaver-xtreme/5.0.1/es_VE",
-    "rev": "749519",
-    "sha256": "1zaamrhagrlkg4bjdvr6hldpivzmls611ghy71cz3mmk7lf20q8p",
-    "version": "5.0.1"
+    "path": "weaver-xtreme/5.0.2/es_VE",
+    "rev": "749612",
+    "sha256": "024x951g3vdfik0gyb94gsjbrwq62c6pqqn6ygnahsvccaw0xqar",
+    "version": "5.0.2"
   },
   "weaver-xtreme-nl_NL": {
-    "path": "weaver-xtreme/5.0.1/nl_NL",
-    "rev": "749514",
-    "sha256": "0vw3dd3px33lf5800mj81s4kxw8c4v4crayk2ykpzgcz5fwhd55q",
-    "version": "5.0.1"
+    "path": "weaver-xtreme/5.0.2/nl_NL",
+    "rev": "749607",
+    "sha256": "02671s5h2xla6lx0m0w061gflpmd7xw1baxdwwww772x1lcdhmy8",
+    "version": "5.0.2"
   },
   "webdiary-ja": {
     "path": "webdiary/1.0.5/ja",
