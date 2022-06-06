@@ -4,6 +4,7 @@ stages:
   - run
   - test
   - push
+  - npins
 
 variables:
   NIX_PATH: "nixpkgs=/nix/var/nix/profiles/per-user/root/channels/nixpkgs"
@@ -55,3 +56,12 @@ push:
     - schedules
   script:
     - ./ci/push
+
+helsinki_npins:
+  stage: npins
+  trigger:
+    project: helsinki-systems/helsinki
+    branch: feat/initial-npins-support
+  variables:
+    COMMAND: update_pin
+    PIN: wp4nix
