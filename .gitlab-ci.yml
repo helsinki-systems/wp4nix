@@ -59,9 +59,7 @@ push:
 
 helsinki_npins:
   stage: npins
-  trigger:
-    project: helsinki-systems/helsinki
-    branch: feat/initial-npins-support
+  trigger: helsinki-systems/helsinki
   variables:
     COMMAND: update_pin
     PIN: wp4nix
