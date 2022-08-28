@@ -8749,8 +8749,8 @@
   },
   "astra-da_DK": {
     "path": "astra/3.9.1/da_DK",
-    "rev": "906973",
-    "sha256": "0y4kb74gcnmbkv9slz702c5qrdr12rwb5pkhgrv619grq4a1a44q",
+    "rev": "930229",
+    "sha256": "118r1a1c21nfnn2hnjqqcnycilqvgrcca4mhlax6wcqna43dlq5c",
     "version": "3.9.1"
   },
   "astra-de_CH": {
@@ -8929,8 +8929,8 @@
   },
   "astra-nl_NL": {
     "path": "astra/3.9.1/nl_NL",
-    "rev": "929489",
-    "sha256": "00l7i4wyyapm2yh57aqgh3fd20cv5ydfr79kh2xq5bbcskdwrrj9",
+    "rev": "930140",
+    "sha256": "06whwj8ji0jsg93x918yw6nzp1rnayzp9l2v5qfy5yg8s28g9m8k",
     "version": "3.9.1"
   },
   "astra-nl_NL_formal": {
@@ -34249,8 +34249,8 @@
   },
   "customizr-gl_ES": {
     "path": "customizr/4.4.21/gl_ES",
-    "rev": "929817",
-    "sha256": "0mvzpzbz54cjqllrh77w8138vjf9ch08f5r3kg51dhnmi69k3nvn",
+    "rev": "930249",
+    "sha256": "03ci3akzm6yvizw8m1jxdavq4h2yx19iw63qv5p08as6j4vfg4pm",
     "version": "4.4.21"
   },
   "customizr-he_IL": {
@@ -34279,8 +34279,8 @@
   },
   "customizr-nl_NL": {
     "path": "customizr/4.4.21/nl_NL",
-    "rev": "929807",
-    "sha256": "1cp9irkkrwcjgrmlcmlaan7i3s3w4cf7r0w08qkrfjxmvp8f0mk3",
+    "rev": "930137",
+    "sha256": "0xlvh3gsvpn4fvhh968ymbcry4iagm4xilbpsndiybsws86dp8v8",
     "version": "4.4.21"
   },
   "customizr-pl_PL": {
@@ -39791,10 +39791,16 @@
     "sha256": "1fz40djln6nz8ixsil33ivqj92xwb9d9n1lm0frlmv7d8wly3ida",
     "version": "1.0.5"
   },
+  "emart-shop-es_EC": {
+    "path": "emart-shop/1.0.5/es_EC",
+    "rev": "930173",
+    "sha256": "0qxw8fnffziq4iklqgmqm53nbszpnsmd0njnrd54wfimpz6bz3fv",
+    "version": "1.0.5"
+  },
   "emart-shop-es_ES": {
     "path": "emart-shop/1.0.5/es_ES",
-    "rev": "930033",
-    "sha256": "07mzrp5m407x9idijficq4h3ha6mav5yj8bcz00k9xz0mv06p7hf",
+    "rev": "930216",
+    "sha256": "13xhkibvbaa0firh0bsl555x0hjiimyk5d9m13s2s2wdz4rwalsa",
     "version": "1.0.5"
   },
   "emart-shop-es_MX": {
@@ -56257,8 +56263,8 @@
   },
   "hueman-nl_NL": {
     "path": "hueman/3.7.23/nl_NL",
-    "rev": "929784",
-    "sha256": "1rdk50z31v1f38hjzd70v8fzrikrzy61vkagv8n4wshrs2msncsm",
+    "rev": "930136",
+    "sha256": "1799fjp5pgcli55n0jm302rx3yk3qxrslssz300lsq01vm6g1y8z",
     "version": "3.7.23"
   },
   "hueman-pl_PL": {
@@ -59835,6 +59841,18 @@
     "path": "joyas-shop/1.0.6/lt_LT",
     "rev": "930061",
     "sha256": "1811p887fa831pa414i2grj1n86frf49k29ix1x1hkh2bj8x1gwp",
+    "version": "1.0.6"
+  },
+  "joyas-shop-nl_BE": {
+    "path": "joyas-shop/1.0.6/nl_BE",
+    "rev": "930170",
+    "sha256": "0ha8yjmg3pjpb637xb48pin0mlv1fi5q1yx6d5pad86yq9xcf3a1",
+    "version": "1.0.6"
+  },
+  "joyas-shop-nl_NL": {
+    "path": "joyas-shop/1.0.6/nl_NL",
+    "rev": "930141",
+    "sha256": "1a86y8y3kfhdy7nzmda1vnxqy21ym8fn35zq5fh8rh8rczp5x8n7",
     "version": "1.0.6"
   },
   "joyas-shop-sv_SE": {
@@ -67062,16 +67080,16 @@
     "version": "1.3.4"
   },
   "masonry-grid-es_ES": {
-    "path": "masonry-grid/1.0.5/es_ES",
-    "rev": "810315",
-    "sha256": "0b2qc49zin8wfk7rnxb9q6w5s3n44advgpacl7pnn0fkzsz8azsx",
-    "version": "1.0.5"
+    "path": "masonry-grid/1.0.7/es_ES",
+    "rev": "930145",
+    "sha256": "1mc895fxsfn484mw8kkradml36c6id8dazax1a6vyya7izhah4jh",
+    "version": "1.0.7"
   },
   "masonry-grid-es_VE": {
-    "path": "masonry-grid/1.0.5/es_VE",
-    "rev": "810316",
-    "sha256": "0cx8rzya7qh3idfcysxlzic81rlcip99id0ips0fqsis14aajilc",
-    "version": "1.0.5"
+    "path": "masonry-grid/1.0.7/es_VE",
+    "rev": "930146",
+    "sha256": "0myjh8mc99whbqjz7fx4l914xrmy78sgx0jza6nnlkqwvid36ihb",
+    "version": "1.0.7"
   },
   "masonry-hu_HU": {
     "path": "masonry/1.3.4/hu_HU",
@@ -71772,10 +71790,10 @@
     "version": "1.0.3"
   },
   "moina-new-nl_NL": {
-    "path": "moina-new/1.0.1/nl_NL",
-    "rev": "915299",
-    "sha256": "04ah4w40zmdkicvs37qba7rrdgg03bim2ri5qp68vzak1vl5lchd",
-    "version": "1.0.1"
+    "path": "moina-new/1.0.2/nl_NL",
+    "rev": "930159",
+    "sha256": "0jq0jchj35wc1m0kifdrp2h1z3932akd5cwmdfwdghz03vryf5mx",
+    "version": "1.0.2"
   },
   "moina-sv_SE": {
     "path": "moina/1.0.12/sv_SE",
@@ -124740,10 +124758,10 @@
     "version": "1.2.7"
   },
   "zentile-es_ES": {
-    "path": "zentile/1.6/es_ES",
-    "rev": "609656",
-    "sha256": "1i84pf7i7d0bs240lrkxks8kkb61h09mcj631s0vrbwimgg3zvip",
-    "version": "1.6"
+    "path": "zentile/1.7/es_ES",
+    "rev": "930348",
+    "sha256": "14kp0q71gcdnpg7jg6knddz0va9b1lh53vvm8amjskplmgark38f",
+    "version": "1.7"
   },
   "zenzero-en_GB": {
     "path": "zenzero/1.8.0/en_GB",
