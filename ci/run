@@ -5,14 +5,7 @@ set -u
 set -o pipefail
 set -x
 
-NIX_VERSION=$(nix --version|cut -d ' ' -f 3|cut -c -3)
-if [[ "$NIX_VERSION" > 2.3 ]]; then
-	nixFlags="--option experimental-features nix-command eval --raw --impure --expr"
-else
-	nixFlags="eval --raw"
-fi
-
-export WP_VERSION=$(nix $nixFlags '(import <nixpkgs> {}).wordpress.version')
+export WP_VERSION=$(nix --option experimental-features nix-command eval --raw --impure --expr '(import <nixpkgs> {}).wordpress.version')
 ./wp4nix
 
 # vim: set ft=sh sw=4:
