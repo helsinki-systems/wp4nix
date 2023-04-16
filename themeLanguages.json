@@ -10361,6 +10361,12 @@
     "sha256": "0bjqpj78dzk3a9kwn6qx9l2vm6mrssd6yifrn2znq4rda243xrsw",
     "version": "1.0.2"
   },
+  "auto-parts-store-ja": {
+    "path": "auto-parts-store/1.0.2/ja",
+    "rev": "1104895",
+    "sha256": "1v1gcid2mq5dh491hq98qlrp129k4304w1fqnzm1m22iv9sgwv7b",
+    "version": "1.0.2"
+  },
   "auto-parts-store-nl_BE": {
     "path": "auto-parts-store/1.0.2/nl_BE",
     "rev": "1102642",
@@ -10392,16 +10398,16 @@
     "version": "0.5.4"
   },
   "automotive-centre-ru_RU": {
-    "path": "automotive-centre/0.9/ru_RU",
-    "rev": "1095443",
-    "sha256": "0n23lpghlgdgv37y57rb3g1x02iynk7z0ja1bx4hrx4y1fvjsfgs",
-    "version": "0.9"
+    "path": "automotive-centre/0.9.1/ru_RU",
+    "rev": "1104915",
+    "sha256": "040y7nmx23p6zm1gc6cva7sq9f447rpgly194jj0k3zrhi5lvcz6",
+    "version": "0.9.1"
   },
   "automotive-centre-uk": {
-    "path": "automotive-centre/0.9/uk",
-    "rev": "1095444",
-    "sha256": "042h71dzk096j0xxkjydc1igvpghddn2gs18x5v2lj002m0ka1ha",
-    "version": "0.9"
+    "path": "automotive-centre/0.9.1/uk",
+    "rev": "1104916",
+    "sha256": "0sb1snv6wpbh6ip9iw90riz09827s0yn3nd0jyklhq311k6i65nf",
+    "version": "0.9.1"
   },
   "automotive-charging-station-ru_RU": {
     "path": "automotive-charging-station/1.2/ru_RU",
@@ -29610,16 +29616,16 @@
     "version": "1.1.1"
   },
   "chromenews-es_ES": {
-    "path": "chromenews/4.4.1/es_ES",
-    "rev": "1100485",
+    "path": "chromenews/4.4.2/es_ES",
+    "rev": "1105019",
     "sha256": "05b7h820pm8ngsx8h761gd0bknp5h1l5bjm23gkn9i4ldvj49ngc",
-    "version": "4.4.1"
+    "version": "4.4.2"
   },
   "chromenews-nl_NL": {
-    "path": "chromenews/4.4.1/nl_NL",
-    "rev": "1100300",
-    "sha256": "1mmwr6pj9f55xxvz3cmhfmvxidv6n40ncmk2wnijy9n49z9hgjd6",
-    "version": "4.4.1"
+    "path": "chromenews/4.4.2/nl_NL",
+    "rev": "1105018",
+    "sha256": "04s739hha9i22sry1ij6ji9636bgvf7hv7hahw94ni1vc6r92wgx",
+    "version": "4.4.2"
   },
   "chronus-de_DE": {
     "path": "chronus/2.1.1/de_DE",
@@ -34464,34 +34470,34 @@
     "version": "1.11"
   },
   "cormorant-es_CO": {
-    "path": "cormorant/1.0.2/es_CO",
-    "rev": "983540",
-    "sha256": "1r28w6851v4yail896kwz8p5ad32dfdv536ayv4yg1r2kq3y8rv1",
-    "version": "1.0.2"
+    "path": "cormorant/2.0.1/es_CO",
+    "rev": "1104918",
+    "sha256": "07d6krvxkdz7qq9znx5c64gpjdcnsmx2zylnfi1106xf5309jf34",
+    "version": "2.0.1"
   },
   "cormorant-es_EC": {
-    "path": "cormorant/1.0.2/es_EC",
-    "rev": "983541",
-    "sha256": "1rscnmc61w52rwmpsc701vhlky48pq9iyjnyrjmbdqdl3hlv39qy",
-    "version": "1.0.2"
+    "path": "cormorant/2.0.1/es_EC",
+    "rev": "1104919",
+    "sha256": "1pyxjlimfm2qdazyxzpd1liblavsrxqdphyglr160byw11dvfpi3",
+    "version": "2.0.1"
   },
   "cormorant-es_ES": {
-    "path": "cormorant/1.0.2/es_ES",
-    "rev": "983542",
-    "sha256": "1ick8sf29z3jlim0pypilznz9564ly7vjmff2aspkjf98k9w0dwm",
-    "version": "1.0.2"
+    "path": "cormorant/2.0.1/es_ES",
+    "rev": "1104920",
+    "sha256": "139rvd7a7sd0n2vq1w5x8gb4v48mi2lvgnn03lpfb4zqx21ghlfd",
+    "version": "2.0.1"
   },
   "cormorant-es_VE": {
-    "path": "cormorant/1.0.2/es_VE",
-    "rev": "983543",
-    "sha256": "003hlpbxkdrdixsn53pxfw0m25x3i716j56nbvm9ji8ygnxsfp06",
-    "version": "1.0.2"
+    "path": "cormorant/2.0.1/es_VE",
+    "rev": "1104921",
+    "sha256": "05h9cvvkshg6cvgrwk64hafh15nrqnswc4id7482hmdqlcz62cv8",
+    "version": "2.0.1"
   },
   "cormorant-sv_SE": {
-    "path": "cormorant/1.0.2/sv_SE",
-    "rev": "983544",
-    "sha256": "1i17fbqbhyb0f35wm7gh1f0i4nj1884mbbhlms0v5ypmwx75lhc6",
-    "version": "1.0.2"
+    "path": "cormorant/2.0.1/sv_SE",
+    "rev": "1104922",
+    "sha256": "0dim9f2pl6p6xywmfljczqk6x0b7wfvy1vxiwpg32g57d100zxph",
+    "version": "2.0.1"
   },
   "coronado-en_CA": {
     "path": "coronado/4.01/en_CA",
@@ -48899,6 +48905,12 @@
     "sha256": "13jiyzjmg6ii610ir8bzafvgs2813qw24qsl8dhszdzi7zyfq47k",
     "version": "1.0.3"
   },
+  "fashion-mart-ja": {
+    "path": "fashion-mart/1.0.3/ja",
+    "rev": "1104894",
+    "sha256": "1vakkl41v0kb6pgxmrrg2qg17piayjjaffv758b4qhn9024ygcri",
+    "version": "1.0.3"
+  },
   "fashion-pin-es_ES": {
     "path": "fashion-pin/1.0.1/es_ES",
     "rev": "894248",
@@ -59640,16 +59652,16 @@
     "version": "1.0.5"
   },
   "hexagon-ru_RU": {
-    "path": "hexagon/0.3.7/ru_RU",
-    "rev": "1063987",
-    "sha256": "1bb0s0x56k52agdnnnqpxfn69fp13s5r4p7mjnnvpc8ckb3wcvii",
-    "version": "0.3.7"
+    "path": "hexagon/0.3.8/ru_RU",
+    "rev": "1104913",
+    "sha256": "03dvkn8zpdyvs8p86lkqqdzjzsapkkx4zga6yggm1gxmcsv2bdca",
+    "version": "0.3.8"
   },
   "hexagon-sv_SE": {
-    "path": "hexagon/0.3.7/sv_SE",
-    "rev": "1063988",
-    "sha256": "0hq8dx45sldz0p46rn2dnmb2z9j9rklq1swwcbfz5g0sdkm5vvpi",
-    "version": "0.3.7"
+    "path": "hexagon/0.3.8/sv_SE",
+    "rev": "1104965",
+    "sha256": "1m23maz0852sd30203za0r8zals7v35klqa3dhhxwklg3k0693m3",
+    "version": "0.3.8"
   },
   "hexo-ja": {
     "path": "hexo/1.6/ja",
@@ -63300,10 +63312,10 @@
     "version": "1.2.1"
   },
   "intenso-sv_SE": {
-    "path": "intenso/1.0.3/sv_SE",
-    "rev": "1016211",
-    "sha256": "0qnijvzdk00zqm229kgh6727xqnjwydfch3zpf5lp9pw5r2rqavq",
-    "version": "1.0.3"
+    "path": "intenso/1.0.4/sv_SE",
+    "rev": "1104994",
+    "sha256": "1xnzdl27i3s8x4hrwy42m6v924syyzs7q2f43q6z1k2mhxrf28pd",
+    "version": "1.0.4"
   },
   "intentionally-blank-de_AT": {
     "path": "intentionally-blank/3.0.3/de_AT",
@@ -63900,10 +63912,10 @@
     "version": "1.0.9"
   },
   "istante-sv_SE": {
-    "path": "istante/1.0.5/sv_SE",
-    "rev": "1004022",
-    "sha256": "1xk1lanff5z900yzl6lrpxzwy714qbsx6nmxv08pv5m63jy51hhd",
-    "version": "1.0.5"
+    "path": "istante/1.0.6/sv_SE",
+    "rev": "1105004",
+    "sha256": "1rs677bp640fp3hdrfxkpw7hjbp02937xqbadhd35rm1kj4qfl8x",
+    "version": "1.0.6"
   },
   "istk-portfolio-ja": {
     "path": "istk-portfolio/1.0.6/ja",
@@ -65202,10 +65214,10 @@
     "version": "1.3.7"
   },
   "jungla-nl_NL": {
-    "path": "jungla/1.0.0/nl_NL",
-    "rev": "915302",
-    "sha256": "1z3pnkj40j3c6mnwcyy37cxcgc37wcar29mhsm5baqsq3gqxjn8q",
-    "version": "1.0.0"
+    "path": "jungla/1.0.1/nl_NL",
+    "rev": "1105007",
+    "sha256": "11m3zzsvk77apxzdljmvr63wl3946c58bgvflb4q4g9149bqcdnl",
+    "version": "1.0.1"
   },
   "juridica-cs_CZ": {
     "path": "juridica/1.0.6/cs_CZ",
@@ -67818,16 +67830,16 @@
     "version": "1.2"
   },
   "law-firm-lite-ru_RU": {
-    "path": "law-firm-lite/0.8.2/ru_RU",
-    "rev": "1096226",
-    "sha256": "0izc0shiqax0iqr6jmsn3qm8a58q6zrzly40xsvkvqiz6z5q8283",
-    "version": "0.8.2"
+    "path": "law-firm-lite/0.8.3/ru_RU",
+    "rev": "1104970",
+    "sha256": "11y6a3sbh7x1xggaas863v32dbg4sx15nvs90r5msxlrhy1nsvdp",
+    "version": "0.8.3"
   },
   "law-firm-lite-uk": {
-    "path": "law-firm-lite/0.8.2/uk",
-    "rev": "1096227",
-    "sha256": "1krvyg9ymyzjad2q2wll7qbi6mb1nz71p7gasp3c66l31sz8fwf5",
-    "version": "0.8.2"
+    "path": "law-firm-lite/0.8.3/uk",
+    "rev": "1104971",
+    "sha256": "0l27p877pvkswjbi6j4j86a4dpnx4znmg107nfd6i0x9vbjr3w75",
+    "version": "0.8.3"
   },
   "lawman-education-nl_NL": {
     "path": "lawman-education/1.0.1/nl_NL",
@@ -69342,58 +69354,58 @@
     "version": "1.29"
   },
   "lightning-en_GB": {
-    "path": "lightning/15.8.3/en_GB",
-    "rev": "1104732",
+    "path": "lightning/15.8.4/en_GB",
+    "rev": "1105008",
     "sha256": "0mxpwhyxm2xqw9fsm7wpyck2vyhjjgd38hzk7n8hv7dspm5b53as",
-    "version": "15.8.3"
+    "version": "15.8.4"
   },
   "lightning-es_CO": {
-    "path": "lightning/15.8.3/es_CO",
-    "rev": "1104736",
+    "path": "lightning/15.8.4/es_CO",
+    "rev": "1105012",
     "sha256": "0sm7qkvc3qll1grda5csbq2av0rxjqp7da24ir6i667di68p97x9",
-    "version": "15.8.3"
+    "version": "15.8.4"
   },
   "lightning-es_EC": {
-    "path": "lightning/15.8.3/es_EC",
-    "rev": "1104737",
+    "path": "lightning/15.8.4/es_EC",
+    "rev": "1105013",
     "sha256": "0a51y4bnpny90flwhjwkyzir0pcgcwq6qv6jqi9jw5vqfap3n5zn",
-    "version": "15.8.3"
+    "version": "15.8.4"
   },
   "lightning-es_ES": {
-    "path": "lightning/15.8.3/es_ES",
-    "rev": "1104739",
+    "path": "lightning/15.8.4/es_ES",
+    "rev": "1105015",
     "sha256": "1ijl8i75walh5p82n94xwrx4ji0y87zn0kgvbcds2mrn2mqz6jla",
-    "version": "15.8.3"
+    "version": "15.8.4"
   },
   "lightning-es_MX": {
-    "path": "lightning/15.8.3/es_MX",
-    "rev": "1104738",
+    "path": "lightning/15.8.4/es_MX",
+    "rev": "1105014",
     "sha256": "01ya0v6y4855imyvm3k5p5vr5bynnzxq4jvrc4rp120y66xsrqp6",
-    "version": "15.8.3"
+    "version": "15.8.4"
   },
   "lightning-es_VE": {
-    "path": "lightning/15.8.3/es_VE",
-    "rev": "1104740",
+    "path": "lightning/15.8.4/es_VE",
+    "rev": "1105016",
     "sha256": "0ky0z8rp2d9yar1jby5y5y81sp7xvq08hm071zwfrb7iv1kpbpjk",
-    "version": "15.8.3"
+    "version": "15.8.4"
   },
   "lightning-gl_ES": {
-    "path": "lightning/15.8.3/gl_ES",
-    "rev": "1104733",
+    "path": "lightning/15.8.4/gl_ES",
+    "rev": "1105009",
     "sha256": "1j7xgsayvsxaka3d4v9w9j5scf95sgicsn3a0r4b0wspdzbfcnzl",
-    "version": "15.8.3"
+    "version": "15.8.4"
   },
   "lightning-it_IT": {
-    "path": "lightning/15.8.3/it_IT",
-    "rev": "1104734",
+    "path": "lightning/15.8.4/it_IT",
+    "rev": "1105010",
     "sha256": "1bcy8ccz6lf2668mrmj66zsm0npi8z97fy7kq0s5ibz3442jr2a0",
-    "version": "15.8.3"
+    "version": "15.8.4"
   },
   "lightning-ja": {
-    "path": "lightning/15.8.3/ja",
-    "rev": "1104735",
+    "path": "lightning/15.8.4/ja",
+    "rev": "1105011",
     "sha256": "196s83pppn2h1djhxx1ckzn91h9dd4igh0hwa8jras2i7pv0439m",
-    "version": "15.8.3"
+    "version": "15.8.4"
   },
   "lightpress-ja": {
     "path": "lightpress/1.4/ja",
@@ -89868,10 +89880,10 @@
     "version": "1.1.0"
   },
   "perfect-blogging-sv_SE": {
-    "path": "perfect-blogging/0.4.4/sv_SE",
-    "rev": "1052937",
-    "sha256": "0xlwym4axprshpriw4v5mxp01an5pa8ivlvhzsd0ak6sy2yxximx",
-    "version": "0.4.4"
+    "path": "perfect-blogging/0.4.5/sv_SE",
+    "rev": "1104950",
+    "sha256": "0kgn8wgyb1wdd8sinyy9ybfxfwp9phzvxbb0dx5d0pq737zgc3ya",
+    "version": "0.4.5"
   },
   "perfect-choice-ja": {
     "path": "perfect-choice/0.0.6/ja",
@@ -119929,14 +119941,14 @@
   },
   "tt1-blocks-de_DE": {
     "path": "tt1-blocks/0.4.8/de_DE",
-    "rev": "1104743",
-    "sha256": "1d1gaq4rcr97750rkibaifwda01ln41xfi07a307r3mxfsz4qni6",
+    "rev": "1105136",
+    "sha256": "1iif2cic3lm2dpqdv1is84m7aqzqfx8sdnv6mggnzvl6ii54hax6",
     "version": "0.4.8"
   },
   "tt1-blocks-de_DE_formal": {
     "path": "tt1-blocks/0.4.8/de_DE_formal",
-    "rev": "1104744",
-    "sha256": "0886bghns2dx75ilc6p5jmp6nwmsxlpw6q5ph7zsdisjlp7bddvv",
+    "rev": "1105137",
+    "sha256": "0ad8waa089j4p2z4m10kqnz0mhknhnj9rcma0jfwg5jzkqk0y5mg",
     "version": "0.4.8"
   },
   "tt1-blocks-en_CA": {
@@ -128496,10 +128508,10 @@
     "version": "1.17"
   },
   "viaggio-lite-sv_SE": {
-    "path": "viaggio-lite/1.0.8/sv_SE",
-    "rev": "752848",
-    "sha256": "04yv08gv0hk4rgaiwghi0nph2ps8i4bfzg3gfzh0i7l86ks3bpdb",
-    "version": "1.0.8"
+    "path": "viaggio-lite/1.0.9/sv_SE",
+    "rev": "1105020",
+    "sha256": "04z6zp2izw9aym7kvp88i0qkqzlnc4sm1ayw42nbdvhv165zy6a3",
+    "version": "1.0.9"
   },
   "viburno-it_IT": {
     "path": "viburno/1.2.0/it_IT",
@@ -129138,10 +129150,10 @@
     "version": "1.0.15"
   },
   "vivace-sv_SE": {
-    "path": "vivace/1.0.4/sv_SE",
-    "rev": "871791",
-    "sha256": "1drc55lg9cc079zka4nsc4z0v1h657bqzw79zvgy6yqh9qxnscbp",
-    "version": "1.0.4"
+    "path": "vivace/1.0.5/sv_SE",
+    "rev": "1105134",
+    "sha256": "09nf5rgnkq7dyvpkxa22lri76zb2n9w9d2jrwyb9kq8fpn8jz1yn",
+    "version": "1.0.5"
   },
   "vivacious-magazine-nl_NL": {
     "path": "vivacious-magazine/1.0.3/nl_NL",
@@ -129468,16 +129480,16 @@
     "version": "0.9.2"
   },
   "vw-ecommerce-store-ru_RU": {
-    "path": "vw-ecommerce-store/1.0.7/ru_RU",
-    "rev": "1097037",
-    "sha256": "13mfmdl44s9dbhkjm4jzib07sxb9mmy7g194864vqbg9brsgrzjy",
-    "version": "1.0.7"
+    "path": "vw-ecommerce-store/1.0.8/ru_RU",
+    "rev": "1104962",
+    "sha256": "08p0wwhr1nhw7p4n4fgm750l5qhpcymlz3gm5h3jj6gfvq5dg2ss",
+    "version": "1.0.8"
   },
   "vw-ecommerce-store-uk": {
-    "path": "vw-ecommerce-store/1.0.7/uk",
-    "rev": "1097038",
-    "sha256": "1m10jnbasjkzvpkrzb52xvms8y8w9riz95c13w4n671s20wjcx01",
-    "version": "1.0.7"
+    "path": "vw-ecommerce-store/1.0.8/uk",
+    "rev": "1104963",
+    "sha256": "048yq39xylyz8vf1bw67knh7p8gk75bjpwd5cl973dhig46n4glg",
+    "version": "1.0.8"
   },
   "vw-event-planner-ru_RU": {
     "path": "vw-event-planner/0.9.5/ru_RU",
@@ -130344,10 +130356,10 @@
     "version": "3.4"
   },
   "wecodeart-ro_RO": {
-    "path": "wecodeart/6.1.0/ro_RO",
-    "rev": "1098049",
-    "sha256": "06sbbk2rmnw2wrs7hg5wkgjsm0rdvy48idknjsp9v3j6zsgv16x5",
-    "version": "6.1.0"
+    "path": "wecodeart/6.1.1/ro_RO",
+    "rev": "1104978",
+    "sha256": "10a5mz73h4s2qppkha45sfagmdv02zd2w496mybpr1mr8k141gx7",
+    "version": "6.1.1"
   },
   "wedding-band-es_ES": {
     "path": "wedding-band/1.1.8/es_ES",
