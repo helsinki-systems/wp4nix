@@ -215,6 +215,9 @@ func buildPkgQueueWorker(jobs <-chan map[string]interface{}, results chan<- map[
 			}
 		} else {
 			// Iterate through available languages
+			if len(resp_json) == 0 {
+				continue
+			}
 			for _, lang_resp := range resp_json["translations"].([]interface{}) {
 				lang_obj := lang_resp.(map[string]interface{})
 				version, err = castVersion(lang_obj["version"])
