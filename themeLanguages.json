@@ -143,6 +143,12 @@
     "sha256": "13fhg13jsi22x1cmr3j85fh35ik2dzqi8qqmljigyah33g1rgjls",
     "version": "1.0.2"
   },
+  "200-bytes-ca": {
+    "path": "200-bytes/1.0.6/ca",
+    "rev": "1145720",
+    "sha256": "1fg7l53kbc0nbba4ancx1j6434jhdcx7jkks938dwq6nk89x43h2",
+    "version": "1.0.6"
+  },
   "200-bytes-es_ES": {
     "path": "200-bytes/1.0.6/es_ES",
     "rev": "1141416",
@@ -2671,8 +2677,8 @@
   },
   "adventure-trekking-camp-ru_RU": {
     "path": "adventure-trekking-camp/1.3/ru_RU",
-    "rev": "1138393",
-    "sha256": "0pbfyph12825gggz5lc17053hjhmqfbgr6zpqyjp9llv9ajnsnpc",
+    "rev": "1146265",
+    "sha256": "1pgfa564r6cj8lz98b9p6fzmfrk191msrlxlzbxapzysda8dmbp4",
     "version": "1.3"
   },
   "adventurous-es_EC": {
@@ -3169,8 +3175,8 @@
   },
   "agama-ru_RU": {
     "path": "agama/1.7.2/ru_RU",
-    "rev": "1109195",
-    "sha256": "02f3g04cr7pdpwx0gh3m1x7zx3k5rb4az39yfh0zd6wdd613bdlg",
+    "rev": "1146759",
+    "sha256": "0wq6zvlmrkrq996wim29ycm6wysyw4gfq93c0rbhv16z6ziyj4vr",
     "version": "1.7.2"
   },
   "agency-bell-nl_NL": {
@@ -7788,10 +7794,10 @@
     "version": "9.3"
   },
   "architecture-building-ru_RU": {
-    "path": "architecture-building/2.0/ru_RU",
-    "rev": "1146281",
-    "sha256": "1zcy7r6jbc5iwfxdj042cfix807r33kynih3y2vi6z27kdajy8v4",
-    "version": "2.0"
+    "path": "architecture-building/2.1/ru_RU",
+    "rev": "1147198",
+    "sha256": "0adhmh2yh2hdn3c726w97av52wb9gyg5nfbbd7z0v0r2m2vv6cna",
+    "version": "2.1"
   },
   "ares-es_CO": {
     "path": "ares/2.1.0/es_CO",
@@ -9991,8 +9997,8 @@
   },
   "astra-nl_NL": {
     "path": "astra/4.1.5/nl_NL",
-    "rev": "1127718",
-    "sha256": "1liwssq6n30h8x37cnvwc0k05wf7yhw19bmy8589dbfg5bv3m61a",
+    "rev": "1147227",
+    "sha256": "0iyifphk0a7h5f6k4xm8fazs4awn49wvrrsk39ydkr84vrrb8n60",
     "version": "4.1.5"
   },
   "astra-nl_NL_formal": {
@@ -10009,8 +10015,8 @@
   },
   "astra-ru_RU": {
     "path": "astra/4.1.5/ru_RU",
-    "rev": "1145795",
-    "sha256": "0k2mf2hycx27zrby727rc30iib84bqz65nrldqinb5vjcf916y91",
+    "rev": "1147165",
+    "sha256": "0pnl6qxck3s4axgknz5x2b66a386kgllf96wdgn7bi936qr3j7q1",
     "version": "4.1.5"
   },
   "astra-sk_SK": {
@@ -10896,16 +10902,16 @@
     "version": "0.5.7"
   },
   "automotive-centre-ru_RU": {
-    "path": "automotive-centre/0.9.3/ru_RU",
-    "rev": "1138480",
-    "sha256": "0jpcq0ga0n2qnmvs315rb7hmh8yzp0y1zikmqmzv7vqb76n9a0d6",
-    "version": "0.9.3"
+    "path": "automotive-centre/0.9.4/ru_RU",
+    "rev": "1146975",
+    "sha256": "0sqaly7bg77nhhlhcbl2r1iqan63q9528xy1y39yhkndiy8bwk4b",
+    "version": "0.9.4"
   },
   "automotive-centre-uk": {
-    "path": "automotive-centre/0.9.3/uk",
-    "rev": "1125919",
-    "sha256": "1mi4cb55bj2bxblp497d4w31cm0phacm26z5jgivab196rpm5and",
-    "version": "0.9.3"
+    "path": "automotive-centre/0.9.4/uk",
+    "rev": "1146976",
+    "sha256": "1jf2zcdflga3q07ys7w305dajx23v7vywadan2x35fp34ndajr2p",
+    "version": "0.9.4"
   },
   "automotive-charging-station-ru_RU": {
     "path": "automotive-charging-station/1.5/ru_RU",
@@ -14550,10 +14556,10 @@
     "version": "2.5"
   },
   "beauty-hair-salon-ru_RU": {
-    "path": "beauty-hair-salon/0.1.7/ru_RU",
-    "rev": "1146297",
-    "sha256": "1qbixk9l88w0dix8mngdg02xyapzafahmm0l8xg5l04cyqs5yrhy",
-    "version": "0.1.7"
+    "path": "beauty-hair-salon/0.1.8/ru_RU",
+    "rev": "1147196",
+    "sha256": "107imqbvsvg4b8pszavv89wbxpqsa62v750a3dfk9rzzvbyb41d6",
+    "version": "0.1.8"
   },
   "beauty-mart-nl_NL": {
     "path": "beauty-mart/1.0.1/nl_NL",
@@ -14629,15 +14635,15 @@
   },
   "beauty-salon-lite-sv_SE": {
     "path": "beauty-salon-lite/1.0.0/sv_SE",
-    "rev": "1146743",
-    "sha256": "0izl9j1h4lyp8vi3hk16qxwx10rj02kwbsjxy8whj7jsa21a3whi",
+    "rev": "1146924",
+    "sha256": "1ymvvgm6dqbj83rwgvswzs39f0xa8bf1908az002y1sbb9bwppfl",
     "version": "1.0.0"
   },
   "beauty-salon-spa-ru_RU": {
-    "path": "beauty-salon-spa/3.2/ru_RU",
-    "rev": "1146303",
-    "sha256": "1k8p2dwg49x17xynii8pnj63mmyp33r9xfr2wpa5aj2hz81vvghf",
-    "version": "3.2"
+    "path": "beauty-salon-spa/3.3/ru_RU",
+    "rev": "1147195",
+    "sha256": "17g2pzibq3iz0qammk4sqmpsf31y240893xycybjqd2y312knn8n",
+    "version": "3.3"
   },
   "beauty-spa-salon-nl_NL": {
     "path": "beauty-spa-salon/7.9/nl_NL",
@@ -18487,8 +18493,8 @@
   },
   "blossom-beauty-sv_SE": {
     "path": "blossom-beauty/1.1.3/sv_SE",
-    "rev": "970014",
-    "sha256": "1kswn9yj9s5s363qq1hmlh3754nxkhbczf0kmxa7jx1vd5gicvvv",
+    "rev": "1146949",
+    "sha256": "0kyrv420kwnr7nphzb6bk6ywpqzgcw6j8l5v1zzn3q60jyb774lc",
     "version": "1.1.3"
   },
   "blossom-beauty-tl": {
@@ -19291,8 +19297,8 @@
   },
   "blossom-diva-es_ES": {
     "path": "blossom-diva/1.0.9/es_ES",
-    "rev": "897413",
-    "sha256": "0m5rwqpdripny791i5y782fffqcrq1dcnfcwxxbkh47lvm5g2pg3",
+    "rev": "1147265",
+    "sha256": "0n2c478knxz8f8nbf1y8iqbcj3qnbbmqszgzi0x9nhia0jby9jds",
     "version": "1.0.9"
   },
   "blossom-diva-es_MX": {
@@ -19417,8 +19423,8 @@
   },
   "blossom-diva-sv_SE": {
     "path": "blossom-diva/1.0.9/sv_SE",
-    "rev": "911213",
-    "sha256": "1icym9c1qa08mn1c85cs5cx1xj7fly0gb2cw6rz3bpfbw8w89739",
+    "rev": "1146950",
+    "sha256": "1fpgpy3x49x586lcdrl7fpxngc0a1m5lk99zi3n670m8kc01v82v",
     "version": "1.0.9"
   },
   "blossom-diva-tl": {
@@ -19471,8 +19477,8 @@
   },
   "blossom-ecommerce-es_ES": {
     "path": "blossom-ecommerce/1.0.1/es_ES",
-    "rev": "898009",
-    "sha256": "0d87mkvkwfsx4zca4nchv8q3bgl6fq0s5pgk2gdjqv6w84zym79j",
+    "rev": "1147249",
+    "sha256": "1awv3s3f1pklv8dirs28i3r6ynq6nic0i550fkv5jrcglcd07b1q",
     "version": "1.0.1"
   },
   "blossom-ecommerce-es_VE": {
@@ -20131,8 +20137,8 @@
   },
   "blossom-health-coach-es_ES": {
     "path": "blossom-health-coach/1.1.2/es_ES",
-    "rev": "1054121",
-    "sha256": "0jnivnljkqymwqf4qib0759hkv551l1srdmag34fsj68d1rxjcwk",
+    "rev": "1147263",
+    "sha256": "15knil1banp8a842cwk6in63zgzakkv7fzyads6zqxryjk72w3z0",
     "version": "1.1.2"
   },
   "blossom-health-coach-es_MX": {
@@ -20257,8 +20263,8 @@
   },
   "blossom-health-coach-sv_SE": {
     "path": "blossom-health-coach/1.1.2/sv_SE",
-    "rev": "1054123",
-    "sha256": "1xklhf4yzwxwf5rq09jff6zrmg3rf1cvkwxf81iqkrvnw9g1hb80",
+    "rev": "1146939",
+    "sha256": "12ks7djlv4rnsg8cm69zrawd75kf209yp4c0swrj92pb8xb8ssgq",
     "version": "1.1.2"
   },
   "blossom-health-coach-tl": {
@@ -20515,8 +20521,8 @@
   },
   "blossom-mommy-blog-sv_SE": {
     "path": "blossom-mommy-blog/1.1.0/sv_SE",
-    "rev": "911206",
-    "sha256": "19wawcklkni5is5bvccivcnbxisl9hfma713ydk59rvg6k6zvayl",
+    "rev": "1146926",
+    "sha256": "0jqilzii0qccrf883yc48x6qmd4qanpw78mc5037ks7l7qaqwxp6",
     "version": "1.1.0"
   },
   "blossom-mommy-blog-tl": {
@@ -21013,8 +21019,8 @@
   },
   "blossom-pinit-sv_SE": {
     "path": "blossom-pinit/1.0.5/sv_SE",
-    "rev": "899751",
-    "sha256": "1sfcgwiq74ldmx07w6l9951sjzj7n5hhyy800lsnq1zaj7mgs7mp",
+    "rev": "1146925",
+    "sha256": "1ylsx130vqswvvcrniyh0b09d6fz4a79s0izx4gsdp4vrg7f44n1",
     "version": "1.0.5"
   },
   "blossom-pinit-tl": {
@@ -21103,8 +21109,8 @@
   },
   "blossom-pinthis-es_ES": {
     "path": "blossom-pinthis/1.1.0/es_ES",
-    "rev": "949912",
-    "sha256": "089acypkyvx0pyv106kv2wrw31l4y3jidc4kzggjywb2764j21df",
+    "rev": "1147253",
+    "sha256": "0i4np66hs06d5zz815n0j7glgxd613g94qvpalz2aya78j35amwf",
     "version": "1.1.0"
   },
   "blossom-pinthis-es_MX": {
@@ -21229,8 +21235,8 @@
   },
   "blossom-pinthis-sv_SE": {
     "path": "blossom-pinthis/1.1.0/sv_SE",
-    "rev": "949914",
-    "sha256": "1d91qywmwp5vlcxpdmifh161vhszrbp0nicw40z94ir3wpqlly51",
+    "rev": "1146945",
+    "sha256": "0a1l49g6fjgvy4bvfr4lbm12lad63w7cbz2d7v4z94zq9gjwxs8v",
     "version": "1.1.0"
   },
   "blossom-pinthis-tl": {
@@ -22267,8 +22273,8 @@
   },
   "blossom-speaker-es_ES": {
     "path": "blossom-speaker/1.1.0/es_ES",
-    "rev": "892929",
-    "sha256": "1nbrxzf8l74v71h3c4qc5mxp1cggjxifcxhip1psjc99zynk95zy",
+    "rev": "1147264",
+    "sha256": "0vy07rys3y08cdxs1maavhvzmmd58rxqhbgc5vyyzxzc6phv4cv6",
     "version": "1.1.0"
   },
   "blossom-speaker-es_MX": {
@@ -22399,8 +22405,8 @@
   },
   "blossom-speaker-sv_SE": {
     "path": "blossom-speaker/1.1.0/sv_SE",
-    "rev": "914371",
-    "sha256": "1n8spkvfp9n4wb4hyi27dl026fqx7z7wa8kgciliici0yr0dvryc",
+    "rev": "1146940",
+    "sha256": "11k9m8945riiaipr8gggbz35i9x2jjqhdq9zhbn8xacsdazfc8bq",
     "version": "1.1.0"
   },
   "blossom-speaker-tl": {
@@ -26123,6 +26129,12 @@
     "sha256": "1apxsrpnkm1l0jzdj9nh7jbfl6byq7g7vpvdxa7mz7cv9jkh9kwz",
     "version": "1.4"
   },
+  "business-coach-es_ES": {
+    "path": "business-coach/1.0.1/es_ES",
+    "rev": "1147273",
+    "sha256": "02syy7qay6x382dgnl7878qcffj428rdn4zfp7zl30j9mx94gw60",
+    "version": "1.0.1"
+  },
   "business-coach-ja": {
     "path": "business-coach/1.0.1/ja",
     "rev": "1145085",
@@ -27426,10 +27438,10 @@
     "version": "1.0.5"
   },
   "cafe-cafeteria-ru_RU": {
-    "path": "cafe-cafeteria/1.4.1/ru_RU",
-    "rev": "1117055",
-    "sha256": "12xr23rdliy0d7b26zm0r8hrkbbkbymn0m7pdayfkc7z682rkk6g",
-    "version": "1.4.1"
+    "path": "cafe-cafeteria/1.4.3/ru_RU",
+    "rev": "1147858",
+    "sha256": "077d5sg1da92idq63r5azfpbamqyimm7lyfcgh55dn2bp0iyvq2l",
+    "version": "1.4.3"
   },
   "cafe-restaurant-nl_NL": {
     "path": "cafe-restaurant/1.0/nl_NL",
@@ -28056,10 +28068,10 @@
     "version": "0.3.1"
   },
   "car-service-sv_SE": {
-    "path": "car-service/5.0.1/sv_SE",
-    "rev": "1140471",
-    "sha256": "10k9hj55lcah2py7iwpzjdbpyxkdbza11pbf2cyzcmf5j1yy1vmi",
-    "version": "5.0.1"
+    "path": "car-service/5.0.2/sv_SE",
+    "rev": "1147501",
+    "sha256": "0nrsyflpb5vjsi1j4lbhvzb2zwvj4hnxayks0q5cpc9g94ci9xsk",
+    "version": "5.0.2"
   },
   "car-wash-services-ru_RU": {
     "path": "car-wash-services/1.8/ru_RU",
@@ -28087,8 +28099,8 @@
   },
   "career-coach-es_ES": {
     "path": "career-coach/1.0.3/es_ES",
-    "rev": "892093",
-    "sha256": "03p2vz8h8dldrjwbh7q8fcn76c4ylhf059rclixcl6x70aa2ybv4",
+    "rev": "1147259",
+    "sha256": "1qg3ylhypk7wq7mgzlsjmykv9rqq9lnbm07qqhxcdiskidg647gc",
     "version": "1.0.3"
   },
   "career-coach-es_VE": {
@@ -30216,10 +30228,10 @@
     "version": "1.6.4"
   },
   "chiropractor-therapy-ru_RU": {
-    "path": "chiropractor-therapy/1.6/ru_RU",
-    "rev": "1146279",
-    "sha256": "1vz6grlfislymvw2zz5sz5gcqy7vfnr4vx4xpkkp2gxa553frcfs",
-    "version": "1.6"
+    "path": "chiropractor-therapy/1.7/ru_RU",
+    "rev": "1147194",
+    "sha256": "0n7grc68yla3jfj6wq2yrkfwhm3c34vl9nzsy9riqnazfyvapbmz",
+    "version": "1.7"
   },
   "chocolat-ja": {
     "path": "chocolat/1.1.15/ja",
@@ -30408,16 +30420,16 @@
     "version": "1.1.1"
   },
   "chromenews-es_ES": {
-    "path": "chromenews/4.5.4/es_ES",
-    "rev": "1131798",
+    "path": "chromenews/4.5.5/es_ES",
+    "rev": "1147691",
     "sha256": "1495b338ksw8gs5fymb3iw0mv490pf1mdp8brw12yalmfa87kjfj",
-    "version": "4.5.4"
+    "version": "4.5.5"
   },
   "chromenews-nl_NL": {
-    "path": "chromenews/4.5.4/nl_NL",
-    "rev": "1129758",
+    "path": "chromenews/4.5.5/nl_NL",
+    "rev": "1147690",
     "sha256": "05zp9vd70qrs47wrvrdfkkvh9i7ixzn2mwc2w1jikrxbbgmf5h5x",
-    "version": "4.5.4"
+    "version": "4.5.5"
   },
   "chronus-de_DE": {
     "path": "chronus/2.1.1/de_DE",
@@ -30726,10 +30738,10 @@
     "version": "1.1.23"
   },
   "civil-engineering-ru_RU": {
-    "path": "civil-engineering/1.5/ru_RU",
-    "rev": "1146270",
-    "sha256": "19wkarxrlz47pvbl9hjxndl792cjyqvbkk6jf119k8v1f1z0kfj9",
-    "version": "1.5"
+    "path": "civil-engineering/1.7/ru_RU",
+    "rev": "1147193",
+    "sha256": "0kgacl112nsk99q73w4q2sxy8w0m8p6a7hz3z3cpv1pndyphlxgr",
+    "version": "1.7"
   },
   "cjanky-en_CA": {
     "path": "cjanky/0.3/en_CA",
@@ -31909,8 +31921,8 @@
   },
   "coachpress-health-es_ES": {
     "path": "coachpress-health/1.0.4/es_ES",
-    "rev": "892085",
-    "sha256": "0qk1npc3pmhy9mww30y85bjisxqwn2ygag03gv3swqlpzqw35f2b",
+    "rev": "1147258",
+    "sha256": "0cw9zwj0gb8xqsk7vyzfp9r65y4v65w06xgwchs5ajqy72ad1066",
     "version": "1.0.4"
   },
   "coachpress-health-es_MX": {
@@ -34541,6 +34553,12 @@
     "sha256": "1q1ss5g4418ijbz3wbzvkhd8nf8k97y9i4r1qxicd4flqz6w9dqb",
     "version": "1.9.6"
   },
+  "consulting-coach-es_ES": {
+    "path": "consulting-coach/1.0.0/es_ES",
+    "rev": "1147267",
+    "sha256": "0z21lmmwq92ii1wx646j59z51np843s1m8brag9681v1s2788kbv",
+    "version": "1.0.0"
+  },
   "consulting-coach-ja": {
     "path": "consulting-coach/1.0.0/ja",
     "rev": "1145172",
@@ -34975,8 +34993,8 @@
   },
   "cook-recipe-es_ES": {
     "path": "cook-recipe/1.0.2/es_ES",
-    "rev": "899134",
-    "sha256": "1m627wp3fbgwv79422q6i9j6fm2kwjl1ccyhd534rlc548lhsy08",
+    "rev": "1147257",
+    "sha256": "1xld06k3yfp52k7y2jhir5hwc0152y1jjplsv9xk9gz6a1h76d21",
     "version": "1.0.2"
   },
   "cook-recipe-es_MX": {
@@ -35047,8 +35065,8 @@
   },
   "cook-recipe-sv_SE": {
     "path": "cook-recipe/1.0.2/sv_SE",
-    "rev": "911214",
-    "sha256": "0cf19zipcb02p78ihr9cdzivaf8p91s7s5cmwjsy05blri70364a",
+    "rev": "1146941",
+    "sha256": "0xix8h6g37qr2pzk7q4d43vid4w4yys94mk830j6067plr80gmqx",
     "version": "1.0.2"
   },
   "cookery-lite-az": {
@@ -36607,14 +36625,14 @@
   },
   "cream-magazine-ru_RU": {
     "path": "cream-magazine/2.1.5/ru_RU",
-    "rev": "1138633",
-    "sha256": "15ffp3xjxmjr39b0ld2pdc54lswbpwzwrcsqi81zl7b27dxsxfsl",
+    "rev": "1147680",
+    "sha256": "0szsqxi3gficm3ym5jpf88hxlb6a5vk1hziws06qgbyk8f9k5gha",
     "version": "2.1.5"
   },
   "cream-magazine-sv_SE": {
     "path": "cream-magazine/2.1.5/sv_SE",
-    "rev": "1115118",
-    "sha256": "1gna6m3ib9slrq8pflwvxhlccfljp9kb4mpw651fqj7b4sl90h58",
+    "rev": "1147681",
+    "sha256": "074gg2g3am7w1g2zmid5ijqz05aqg1d84scsfdg9vmwj37z91bj0",
     "version": "2.1.5"
   },
   "cream-magazine-vi": {
@@ -40111,8 +40129,8 @@
   },
   "digital-download-id_ID": {
     "path": "digital-download/1.1.0/id_ID",
-    "rev": "1003425",
-    "sha256": "0fnc93dxp4s2vsklrblv3brhwxsphh4p137m43317mh9nijxpjln",
+    "rev": "1147811",
+    "sha256": "124s2fmlylfri6pl03fkj8v18m7vqpmqlgz5w0wdyjyh20007zii",
     "version": "1.1.0"
   },
   "digital-download-ja": {
@@ -43561,14 +43579,20 @@
   },
   "elegant-travel-es_ES": {
     "path": "elegant-travel/1.0.1/es_ES",
-    "rev": "899180",
-    "sha256": "1h73xsc99y9j5d8m38bd3nsjwzq33zhhkj68d5c57mj9874z08hi",
+    "rev": "1147252",
+    "sha256": "13kcg2a0axni04y0aifppzzrjg5sq90byj39zbm9mxys4wqq096v",
     "version": "1.0.1"
   },
   "elegant-travel-es_VE": {
     "path": "elegant-travel/1.0.1/es_VE",
     "rev": "899181",
     "sha256": "1q13fjgvzz91g62039ii8735aj777lv7mh90rwv6l7ydlsdhz163",
+    "version": "1.0.1"
+  },
+  "elegant-travel-ja": {
+    "path": "elegant-travel/1.0.1/ja",
+    "rev": "1147586",
+    "sha256": "0f8xx2x9jl411x4bpps9vvsmk9ckr7awgdp7gsp6n9jvbsgqqjdz",
     "version": "1.0.1"
   },
   "elegant-travel-nl_BE": {
@@ -43591,8 +43615,8 @@
   },
   "elegant-travel-sv_SE": {
     "path": "elegant-travel/1.0.1/sv_SE",
-    "rev": "914374",
-    "sha256": "0rzif84alqyh7gf780na3zpal9919zphglhhb5b425a2ndphifjm",
+    "rev": "1147286",
+    "sha256": "01fa8ar6nbp03mzkbd52j2h3c76xwffz312sr8fg8rp31bp9fs0k",
     "version": "1.0.1"
   },
   "eleganto-fa_IR": {
@@ -44269,8 +44293,8 @@
   },
   "empowerwp-ru_RU": {
     "path": "empowerwp/1.0.19/ru_RU",
-    "rev": "1146470",
-    "sha256": "0nc9bphag937m1kwzg8d3kjzk3rzzny0ppv6397g2b31jz7zdkg9",
+    "rev": "1147183",
+    "sha256": "0v38gfy0d8f462a3xfdrfyiyiw5zg7pgyfgfrx3rsyyqllk9mhfr",
     "version": "1.0.19"
   },
   "empowerwp-sv_SE": {
@@ -44615,11 +44639,131 @@
     "sha256": "010nfhx75v6c5k6xyxq6iyss7irlpsk8sizqp3n238syydws4g7j",
     "version": "1.0"
   },
+  "entr-ar": {
+    "path": "entr/1.1.1/ar",
+    "rev": "1147377",
+    "sha256": "0c35w95lcrzlkw5zs741w67p79cdr9rfmf1xq42wpj1qyriac9sq",
+    "version": "1.1.1"
+  },
   "entr-cs_CZ": {
-    "path": "entr/1.1.0/cs_CZ",
-    "rev": "1138195",
+    "path": "entr/1.1.1/cs_CZ",
+    "rev": "1147379",
     "sha256": "0ksqfmqx84smx61dn2jga0v14a4qzmiabhykm71d3yvad6azxvfk",
-    "version": "1.1.0"
+    "version": "1.1.1"
+  },
+  "entr-da_DK": {
+    "path": "entr/1.1.1/da_DK",
+    "rev": "1147380",
+    "sha256": "0jzjli1zhqx2ghanag12xryzkkz3nngp73zz7i1yngp70sscp6xk",
+    "version": "1.1.1"
+  },
+  "entr-de_DE": {
+    "path": "entr/1.1.1/de_DE",
+    "rev": "1147389",
+    "sha256": "1djww8g2rqz2kdpakns5nd5pgvmq4p9jjqf90lqimcqxghcs35v8",
+    "version": "1.1.1"
+  },
+  "entr-en_GB": {
+    "path": "entr/1.1.1/en_GB",
+    "rev": "1147385",
+    "sha256": "1is58zkppsqm3vravd065kv5cshp3ghb0pbn90pvlgw4j34mpj0p",
+    "version": "1.1.1"
+  },
+  "entr-es_ES": {
+    "path": "entr/1.1.1/es_ES",
+    "rev": "1147402",
+    "sha256": "1li8zp1zlqi1yx4hq3i9da1s6bqwwnbfbalhz9qz8k5cl448ivy0",
+    "version": "1.1.1"
+  },
+  "entr-es_MX": {
+    "path": "entr/1.1.1/es_MX",
+    "rev": "1147401",
+    "sha256": "14grqpcycz49snq6432hx4g6bks61bk7bjgpx81idyg3hq3mhvkn",
+    "version": "1.1.1"
+  },
+  "entr-fr_BE": {
+    "path": "entr/1.1.1/fr_BE",
+    "rev": "1147386",
+    "sha256": "04zajiyr6q2gg925phh5jfbgxr5pjlhdanppkzdq104n5vcgmxfk",
+    "version": "1.1.1"
+  },
+  "entr-fr_FR": {
+    "path": "entr/1.1.1/fr_FR",
+    "rev": "1147388",
+    "sha256": "0fjqcs6xqnrcgpfrd98f5vhilkg6m6mxcczijkn28qaa7y00n7ny",
+    "version": "1.1.1"
+  },
+  "entr-it_IT": {
+    "path": "entr/1.1.1/it_IT",
+    "rev": "1147391",
+    "sha256": "1pf7in532v7jkv922bnrcib32bwchs7pbd8g0r6idn7c2w9ihlkf",
+    "version": "1.1.1"
+  },
+  "entr-ja": {
+    "path": "entr/1.1.1/ja",
+    "rev": "1147392",
+    "sha256": "0r29626465vzjgb8lgm65vq5q5zria43saw8dwyg1jv8ygyckmrw",
+    "version": "1.1.1"
+  },
+  "entr-nl_BE": {
+    "path": "entr/1.1.1/nl_BE",
+    "rev": "1147383",
+    "sha256": "0z6yw9yjp4s54hp7cyy3bi6njrfjwr19xc8cx7rphsg5z9ymx6jb",
+    "version": "1.1.1"
+  },
+  "entr-nl_NL": {
+    "path": "entr/1.1.1/nl_NL",
+    "rev": "1147382",
+    "sha256": "0an3q0sc9qmaanlf3w0956k9jbfzzkfc5jn656ycyjl4mqa2nrg8",
+    "version": "1.1.1"
+  },
+  "entr-pl_PL": {
+    "path": "entr/1.1.1/pl_PL",
+    "rev": "1147394",
+    "sha256": "1k5rv3gvg5qdssrpgy8qpzqm7yicv1bpwkh8mjb60z2yiy4icz3j",
+    "version": "1.1.1"
+  },
+  "entr-pt_BR": {
+    "path": "entr/1.1.1/pt_BR",
+    "rev": "1147396",
+    "sha256": "1lgp3bqlcbrjix53ysc89rqr6pcpf93pqzrgsypyai1xhapmc0b9",
+    "version": "1.1.1"
+  },
+  "entr-pt_PT": {
+    "path": "entr/1.1.1/pt_PT",
+    "rev": "1147398",
+    "sha256": "1wlvs74qq6dngj322588ppbvy5p72zhm92szw8wmmjwsl3rn04m9",
+    "version": "1.1.1"
+  },
+  "entr-ru_RU": {
+    "path": "entr/1.1.1/ru_RU",
+    "rev": "1147399",
+    "sha256": "0ry3hnl4v56ghnsbjnf4ih986lpb6qz4i2i1p975ma2lk3rlf9rl",
+    "version": "1.1.1"
+  },
+  "entr-sr_RS": {
+    "path": "entr/1.1.1/sr_RS",
+    "rev": "1147400",
+    "sha256": "0db8bz0jggn2rh8cdzi3xi8adz84x6scbzji23cjkyc19x3vshk9",
+    "version": "1.1.1"
+  },
+  "entr-sv_SE": {
+    "path": "entr/1.1.1/sv_SE",
+    "rev": "1147403",
+    "sha256": "0dvr8pjlkklq9bcn4d0712n15bima3b6cvj704sra1nizx0jz9a8",
+    "version": "1.1.1"
+  },
+  "entr-tr_TR": {
+    "path": "entr/1.1.1/tr_TR",
+    "rev": "1147404",
+    "sha256": "0v4nr3h5i7lirnn490rcp794gri1h4y9gir4z35f0wsgk5k76wjs",
+    "version": "1.1.1"
+  },
+  "entr-uk": {
+    "path": "entr/1.1.1/uk",
+    "rev": "1147405",
+    "sha256": "1x7g6jqkfmazkywnr5f2nvpjzf139466pxxgd16rq2msmrqfm6ga",
+    "version": "1.1.1"
   },
   "envince-de_DE": {
     "path": "envince/1.3.1/de_DE",
@@ -49363,8 +49507,8 @@
   },
   "fashion-diva-sv_SE": {
     "path": "fashion-diva/1.0.7/sv_SE",
-    "rev": "900016",
-    "sha256": "0rszzsk1p5k7z5id5avggds4bffhdzqav9ig1h4ph2nal36z7fg3",
+    "rev": "1146942",
+    "sha256": "1lz2djq0x5gd5y5ykzm6cnn4niml2kic1hv7dv5ndhm6dahgsl45",
     "version": "1.0.7"
   },
   "fashion-diva-tl": {
@@ -49465,8 +49609,8 @@
   },
   "fashion-icon-es_ES": {
     "path": "fashion-icon/1.1.0/es_ES",
-    "rev": "898122",
-    "sha256": "0zic8428wckpsffarv83j95i2bmqn3h0h8lpkzaf4pcn65cs52v8",
+    "rev": "1147248",
+    "sha256": "1yxsjk6n08glnzl7ajc67hdk686nj1ccxjg4gw7rxj4h6a934kv3",
     "version": "1.1.0"
   },
   "fashion-icon-es_MX": {
@@ -49591,8 +49735,8 @@
   },
   "fashion-icon-sv_SE": {
     "path": "fashion-icon/1.1.0/sv_SE",
-    "rev": "911215",
-    "sha256": "15q264xyp3yzy4z1psq44fc84jnw68lnrwwncas9rqb4zpgz155k",
+    "rev": "1146943",
+    "sha256": "049fhjyjrnzqaknr0fqbmbik1kxy0rbs28rbp51nzry1ggfw9xkx",
     "version": "1.1.0"
   },
   "fashion-icon-tl": {
@@ -49693,8 +49837,8 @@
   },
   "fashion-lifestyle-es_ES": {
     "path": "fashion-lifestyle/1.1.0/es_ES",
-    "rev": "898159",
-    "sha256": "122kh76fr4rdlp88455x3yx7x4l2642293a18ykrxnfqp1wp840a",
+    "rev": "1147250",
+    "sha256": "1awig3mbrgqhqx1jkghcwc1j92pb8q3lfg2l84bm6qac1nfzh26f",
     "version": "1.1.0"
   },
   "fashion-lifestyle-es_MX": {
@@ -49819,8 +49963,8 @@
   },
   "fashion-lifestyle-sv_SE": {
     "path": "fashion-lifestyle/1.1.0/sv_SE",
-    "rev": "911211",
-    "sha256": "0irv760g5ihfjn9wa6bw8m6aaa7mazx64n0ic7nvhch3azn91wjd",
+    "rev": "1146938",
+    "sha256": "1vbnmj5p217d90hjz1pxv11c2vr5b9fx8f1k2zirybc8hzwi2ymd",
     "version": "1.1.0"
   },
   "fashion-lifestyle-tl": {
@@ -49951,14 +50095,20 @@
   },
   "fashion-lite-sv_SE": {
     "path": "fashion-lite/1.0.1/sv_SE",
-    "rev": "900015",
-    "sha256": "0zwy01kmr897j2f67an4nh2jj5nadq9s5rvgwl3gn0d6i8vx1isc",
+    "rev": "1146937",
+    "sha256": "0bwyx0f28y3pvbmzi0m9a10i4p8fr3bl2gi8zh36avi1b201x9qm",
     "version": "1.0.1"
   },
   "fashion-magazine-es_ES": {
     "path": "fashion-magazine/1.0.0/es_ES",
     "rev": "1099712",
     "sha256": "0rzbygkm91q4b2d3ddbk16iifhvz16jp9c3wd7s0qyvpl4dsdz76",
+    "version": "1.0.0"
+  },
+  "fashion-magazine-ja": {
+    "path": "fashion-magazine/1.0.0/ja",
+    "rev": "1147583",
+    "sha256": "1kwn6knn9ci0bl17mk9xcdrm9bgb5dj5wprv752q98nrnf5xb66j",
     "version": "1.0.0"
   },
   "fashion-magazine-nl_BE": {
@@ -50053,8 +50203,8 @@
   },
   "fashion-pin-es_ES": {
     "path": "fashion-pin/1.0.1/es_ES",
-    "rev": "894248",
-    "sha256": "0fn1aix8fxqaiisi6q5qknjn9jvzvk19bzgpbrqb5953hrv83rf6",
+    "rev": "1147254",
+    "sha256": "00fhq69bg5ynzzj2as8pwp3y2kwykd0jnn3xp5zmzagwwlj145s5",
     "version": "1.0.1"
   },
   "fashion-pin-fr_FR": {
@@ -50089,8 +50239,8 @@
   },
   "fashion-pin-sv_SE": {
     "path": "fashion-pin/1.0.1/sv_SE",
-    "rev": "911217",
-    "sha256": "1yw4ibwhrncaa4iv6vq6db53bfw9qyy44i6nffk59znbadqs3h9v",
+    "rev": "1146936",
+    "sha256": "139phklcljmd1wbbdln9lvyh8qq4mljnxfm6snnip3hq2rhnih1k",
     "version": "1.0.1"
   },
   "fashion-store-lite-ja": {
@@ -50338,6 +50488,12 @@
     "rev": "906929",
     "sha256": "19k487rbldg1vir1bq0iy5937k62x48zf08a1xqqs4g9q8vrh0p9",
     "version": "1.0.9"
+  },
+  "fashionable-lite-es_ES": {
+    "path": "fashionable-lite/1.0.0/es_ES",
+    "rev": "1147272",
+    "sha256": "00ga2361aa78xq0xwzx0jjbrkvh6syqcimf096knjrn1rxldv533",
+    "version": "1.0.0"
   },
   "fashionable-lite-fr_FR": {
     "path": "fashionable-lite/1.0.0/fr_FR",
@@ -51007,8 +51163,8 @@
   },
   "feminine-pink-id_ID": {
     "path": "feminine-pink/1.0.9/id_ID",
-    "rev": "1098900",
-    "sha256": "00zcqvsvbj9cxbj0f30c4dr3rb3s70xw48wmqw9n33ypims0fk64",
+    "rev": "1147810",
+    "sha256": "0fz8jzzxs31ka800ksm4qb2gddxpa82qavgqrzh0ai9lr64k842z",
     "version": "1.0.9"
   },
   "feminine-pink-it_IT": {
@@ -52705,8 +52861,8 @@
   },
   "floral-fashion-es_ES": {
     "path": "floral-fashion/1.0.2/es_ES",
-    "rev": "961430",
-    "sha256": "085sz34gx5jmfgf8v53l723baxkfbgialljb37ayi0w43hwj57h6",
+    "rev": "1147256",
+    "sha256": "1pd5py6akxmskdvrmjn4kp6vbihpz5g5ynxwq6nyahfm5llrnfh2",
     "version": "1.0.2"
   },
   "floral-fashion-es_VE": {
@@ -52729,8 +52885,8 @@
   },
   "floral-fashion-ja": {
     "path": "floral-fashion/1.0.2/ja",
-    "rev": "961426",
-    "sha256": "0rbs13w1n395h61dvpzqw94r967ifhiz0kakp8ksjxdqwfrc6ff7",
+    "rev": "1147587",
+    "sha256": "10dcd0z077gwidlgr1zcjc7l8gzax878jdmgav7cpi00hbf9bnzb",
     "version": "1.0.2"
   },
   "floral-fashion-nl_BE": {
@@ -52753,8 +52909,8 @@
   },
   "floral-fashion-sv_SE": {
     "path": "floral-fashion/1.0.2/sv_SE",
-    "rev": "961432",
-    "sha256": "0w2ipb6hbjsg4swsirdwrdbj4clq4b2qvvf56qv71k3988jf1hv9",
+    "rev": "1146935",
+    "sha256": "1fmwj0288r0gypskvi0qrg8wg3xk2fnv6l0x51f2z769w21pvwc8",
     "version": "1.0.2"
   },
   "floral-lite-vi": {
@@ -59929,8 +60085,8 @@
   },
   "hello-fashion-sv_SE": {
     "path": "hello-fashion/1.0.2/sv_SE",
-    "rev": "900014",
-    "sha256": "0lfv9v0s6j76zkv9vr1pppyqqalj1qjn7751vkhsva9aklx659ly",
+    "rev": "1146934",
+    "sha256": "05i6gd2nf8dzw64jxdcjlpn81ji2rawi669v9nldkvjfcj11rppy",
     "version": "1.0.2"
   },
   "hello-fashion-tr_TR": {
@@ -59989,8 +60145,8 @@
   },
   "hello-travel-es_ES": {
     "path": "hello-travel/1.0.1/es_ES",
-    "rev": "896969",
-    "sha256": "1p1nzrjnhm104g1a6n0c0n4m58f1vi02lqbgpznykxsnblr8sqdy",
+    "rev": "1147247",
+    "sha256": "00qrcczs6hpxmv9zl3wj7rs0b9jviqprjqb2kxhnz91dzf4hk4dn",
     "version": "1.0.1"
   },
   "hello-travel-es_VE": {
@@ -60031,8 +60187,8 @@
   },
   "hello-travel-sv_SE": {
     "path": "hello-travel/1.0.1/sv_SE",
-    "rev": "911219",
-    "sha256": "1b046fzljlvb36d2h94bj7mgxl068f44kgxr0p5ac7f7n3fdc3hv",
+    "rev": "1146923",
+    "sha256": "0k8knc23laxyqlx1qg8ih3v7wd51yf127vvgpvnk26bmbchzhhqv",
     "version": "1.0.1"
   },
   "hello-vloggers-sv_SE": {
@@ -65868,22 +66024,22 @@
     "version": "2.2.3"
   },
   "jewellery-lite-es_ES": {
-    "path": "jewellery-lite/0.8.7/es_ES",
-    "rev": "1139995",
-    "sha256": "1gdbvz577sxkb2r0mri78dwwpy05ixyj26cjhhgqzwbnfmxy7vyj",
-    "version": "0.8.7"
+    "path": "jewellery-lite/0.8.8/es_ES",
+    "rev": "1147438",
+    "sha256": "087131xn8f46s0dyf2mbf9xcgwpai6wicfisf3rfdpfsx451bc1d",
+    "version": "0.8.8"
   },
   "jewellery-lite-ru_RU": {
-    "path": "jewellery-lite/0.8.7/ru_RU",
-    "rev": "1139994",
-    "sha256": "0008qys9in8jr603k5vd94pp0xvi76l0fwq7wabczyxa6s01w0kb",
-    "version": "0.8.7"
+    "path": "jewellery-lite/0.8.8/ru_RU",
+    "rev": "1147437",
+    "sha256": "1f3a95d9alja91vcx3dbfk39k9agb9px4vxfbg69wj2c8wzmyg3z",
+    "version": "0.8.8"
   },
   "jewellery-lite-uk": {
-    "path": "jewellery-lite/0.8.7/uk",
-    "rev": "1139996",
-    "sha256": "1893hz2ab8xy4gszcv2p2hkkbk51bmdddb3zyrjzahjc2fc8zx65",
-    "version": "0.8.7"
+    "path": "jewellery-lite/0.8.8/uk",
+    "rev": "1147439",
+    "sha256": "1raavlfa4xh3fbs95338x0q004h3cl1x30bws4qb1k09ifhm4dxa",
+    "version": "0.8.8"
   },
   "jewelrify-sv_SE": {
     "path": "jewelrify/1.2.7/sv_SE",
@@ -66151,8 +66307,8 @@
   },
   "jobscout-id_ID": {
     "path": "jobscout/1.1.4/id_ID",
-    "rev": "909518",
-    "sha256": "0g93w2pqdwdblmcvdrzm4gm1jgw7blv08vkkk8a04b6x6flvnpxl",
+    "rev": "1147812",
+    "sha256": "1wp17mk9gs2z0yidl8xmfgzj41xkc484137p5jq9n5rwi03h865v",
     "version": "1.1.4"
   },
   "jobscout-ja": {
@@ -69204,16 +69360,16 @@
     "version": "1.6"
   },
   "law-firm-lite-ru_RU": {
-    "path": "law-firm-lite/0.8.5/ru_RU",
-    "rev": "1138473",
-    "sha256": "04yx69g6pb2h24dc5ig9p05wq0sklvjf78ppkw63q6ij5l3wggjb",
-    "version": "0.8.5"
+    "path": "law-firm-lite/0.8.6/ru_RU",
+    "rev": "1147440",
+    "sha256": "0hi1dsqq8l7nknk1l0d9g6srxbanzzz75i3mp7d126mm8js40cw2",
+    "version": "0.8.6"
   },
   "law-firm-lite-uk": {
-    "path": "law-firm-lite/0.8.5/uk",
-    "rev": "1123650",
-    "sha256": "1drhx5zxqj4szgvdzaqmqz4ms33n20g8zr4ya2qkg1sf0v1662d6",
-    "version": "0.8.5"
+    "path": "law-firm-lite/0.8.6/uk",
+    "rev": "1147441",
+    "sha256": "0gxq47h1z13nd6iljm1iyvbmyzf5zwlz0y2lbabd9g4fkdjmapkb",
+    "version": "0.8.6"
   },
   "lawman-education-nl_NL": {
     "path": "lawman-education/1.0.1/nl_NL",
@@ -69772,6 +69928,12 @@
     "rev": "139140",
     "sha256": "0pli5cjx05g8ph2v79xhinf6rycqra0rdm02fijs7ff82ywnvnjx",
     "version": "1.2.3"
+  },
+  "leadership-coach-es_ES": {
+    "path": "leadership-coach/1.0.0/es_ES",
+    "rev": "1147270",
+    "sha256": "1s5d1qp06jl49pzqnczj7wf69rrwhwc110zdh5ra7kh4hkn1r7kl",
+    "version": "1.0.0"
   },
   "leadership-coach-fr_FR": {
     "path": "leadership-coach/1.0.0/fr_FR",
@@ -70495,8 +70657,8 @@
   },
   "life-coach-es_ES": {
     "path": "life-coach/1.1.1/es_ES",
-    "rev": "892967",
-    "sha256": "1ik5msfkbzkmb3r0zyx75l4db4c52wc24wid2g34v588ib05lvlh",
+    "rev": "1147262",
+    "sha256": "0vp6n927rmm9i498fr67jb64y6sqlq9x75c91kcmwhf15mycyg10",
     "version": "1.1.1"
   },
   "life-coach-es_MX": {
@@ -70627,8 +70789,8 @@
   },
   "life-coach-sv_SE": {
     "path": "life-coach/1.1.1/sv_SE",
-    "rev": "914383",
-    "sha256": "1ayzrliy5lgwf2vdxvgqgh8b3ah9nffpv3jq62b787yfp8wwc3nh",
+    "rev": "1146932",
+    "sha256": "1a3mxh354mf340x9sa1nibj0s1kpsl3zd9ym117wyz1y2a2nbfdn",
     "version": "1.1.1"
   },
   "life-coach-tl": {
@@ -75497,6 +75659,12 @@
     "sha256": "0b1a72irwzp6gqsxnmbw26ls5w7gx7i10ghp1nldjniw7jswc2xm",
     "version": "1.0.3"
   },
+  "meditation-coach-es_ES": {
+    "path": "meditation-coach/1.0.3/es_ES",
+    "rev": "1147261",
+    "sha256": "03himqng5sw9ni0dsjz9a0ra4lp7gyg9nfj625q4gr0vrfi10r3f",
+    "version": "1.0.3"
+  },
   "meditation-coach-it_IT": {
     "path": "meditation-coach/1.0.3/it_IT",
     "rev": "899162",
@@ -75529,8 +75697,8 @@
   },
   "meditation-coach-sv_SE": {
     "path": "meditation-coach/1.0.3/sv_SE",
-    "rev": "911208",
-    "sha256": "12jharj6hfw07rzi8182s3p7rajzr99zhc7z0vrapxslxsjqfkcy",
+    "rev": "1146947",
+    "sha256": "1xgw73k5iad1s8barg6jcr6gi7v26kwd4r8day4h2lh1ckxd3ilw",
     "version": "1.0.3"
   },
   "medium-en_CA": {
@@ -77827,8 +77995,8 @@
   },
   "minimal-travel-es_ES": {
     "path": "minimal-travel/1.0.1/es_ES",
-    "rev": "893062",
-    "sha256": "0fsv3n1j366mvypwylsqjdi9ppq7kdw7c5d8khc6r5p844jqly5m",
+    "rev": "1147251",
+    "sha256": "0j9kxs8fh7fw2sz7a5sdmlccng8p5486gb7aj6af2sfibqk0c7c0",
     "version": "1.0.1"
   },
   "minimal-travel-es_VE": {
@@ -77881,8 +78049,8 @@
   },
   "minimal-travel-sv_SE": {
     "path": "minimal-travel/1.0.1/sv_SE",
-    "rev": "912406",
-    "sha256": "09gkfj5kdn87ms40pj4ycv3hls2mxrpnhcjlldjn1xdcdxv55hhr",
+    "rev": "1146930",
+    "sha256": "1yjx9jgirl55km04x49lyxw4xxn0rsghw6zigfcpjsinbpxzzw3k",
     "version": "1.0.1"
   },
   "minimal-travelogue-en_AU": {
@@ -78015,6 +78183,12 @@
     "path": "minimalist-writer/1.3/nl_NL",
     "rev": "1122667",
     "sha256": "1sbm7mhc00y5l4h8dm5xjrj80b0xxa1777nary06vv674q69f9zi",
+    "version": "1.3"
+  },
+  "minimalist-writer-ru_RU": {
+    "path": "minimalist-writer/1.3/ru_RU",
+    "rev": "1147120",
+    "sha256": "1rbax9gisb8qan3kwssyb14kldcg9r57h2cvg2bdldaj0x766105",
     "version": "1.3"
   },
   "minimalist-writer-sv_SE": {
@@ -79602,22 +79776,22 @@
     "version": "1.9"
   },
   "moving-company-lite-fr_FR": {
-    "path": "moving-company-lite/0.8.1/fr_FR",
-    "rev": "1140015",
-    "sha256": "13af84avpalcjhmhvkna9q186m10jmx8qhvj995h0jnhmb9ygvj5",
-    "version": "0.8.1"
+    "path": "moving-company-lite/0.8.2/fr_FR",
+    "rev": "1147279",
+    "sha256": "1anmj27bpgik17n4fycn622bhghxc3bz1w2mmanj4kfmdqc8b29x",
+    "version": "0.8.2"
   },
   "moving-company-lite-ru_RU": {
-    "path": "moving-company-lite/0.8.1/ru_RU",
-    "rev": "1140016",
-    "sha256": "136n6injhwzpikh6z1b3rd7mcgwgq5vw92h95kkfxg6gnqirvdrf",
-    "version": "0.8.1"
+    "path": "moving-company-lite/0.8.2/ru_RU",
+    "rev": "1147280",
+    "sha256": "1z69va5aphb8v2wrsjvi62wjhx59qrj241psb1v98sfhxd2bvzwl",
+    "version": "0.8.2"
   },
   "moving-company-lite-uk": {
-    "path": "moving-company-lite/0.8.1/uk",
-    "rev": "1140017",
-    "sha256": "1an125770i6bwyn8pz0nrpd2mxcb6wab5g5mrykn4sjj5n3l6y8y",
-    "version": "0.8.1"
+    "path": "moving-company-lite/0.8.2/uk",
+    "rev": "1147281",
+    "sha256": "1lb63y7h81c1i7p7399jd0b16072vwljjq6anp40x7zj03yplxj0",
+    "version": "0.8.2"
   },
   "mudita-es_ES": {
     "path": "mudita/1.1.6/es_ES",
@@ -91597,8 +91771,8 @@
   },
   "perfect-coach-es_ES": {
     "path": "perfect-coach/1.0.4/es_ES",
-    "rev": "892978",
-    "sha256": "075pgmhfgl99pnv5iw0lc96rwidjczclxr3yngsk7cj24inhr78p",
+    "rev": "1147260",
+    "sha256": "0l46zms2cw296v8y1805ym1ndjhvzmnspl5accjmpsmgc8ahpic3",
     "version": "1.0.4"
   },
   "perfect-coach-es_VE": {
@@ -91651,8 +91825,8 @@
   },
   "perfect-coach-sv_SE": {
     "path": "perfect-coach/1.0.4/sv_SE",
-    "rev": "914375",
-    "sha256": "0s5fxak2042kchhkjfvi91rnkw7wpwcmrmknzzhb0yw3qgas88xs",
+    "rev": "1146921",
+    "sha256": "02765sd8f6irbchhmciny3nmsgrhn9176nwy8s58hdgzjh3i9r97",
     "version": "1.0.4"
   },
   "perfect-magazine-en_AU": {
@@ -91900,6 +92074,12 @@
     "rev": "200188",
     "sha256": "1h0ybqs9klrbcawh096j87ysc1rv6g0b5snkca0xhm17qkks571q",
     "version": "1.0.0"
+  },
+  "personal-coach-es_ES": {
+    "path": "personal-coach/1.0.2/es_ES",
+    "rev": "1147271",
+    "sha256": "17sj1zg53bmy1s9wnavncxvswxqzzymnp9inmvh9b7pl4ygx3yjb",
+    "version": "1.0.2"
   },
   "personal-coach-ja": {
     "path": "personal-coach/1.0.2/ja",
@@ -105023,6 +105203,12 @@
     "sha256": "0m1rngyg1g2acal8r2zv5nx6hh809qk6d75mmpdh6mys4al5df26",
     "version": "1.0.4"
   },
+  "seva-business-es_ES": {
+    "path": "seva-business/1.0.4/es_ES",
+    "rev": "1147266",
+    "sha256": "0qimidmfzc1kmzr3kqr8vmxgrzhm8frn7lqgy187dz4s8vzlpfns",
+    "version": "1.0.4"
+  },
   "seva-business-it_IT": {
     "path": "seva-business/1.0.4/it_IT",
     "rev": "899156",
@@ -105061,8 +105247,8 @@
   },
   "seva-business-sv_SE": {
     "path": "seva-business/1.0.4/sv_SE",
-    "rev": "1016222",
-    "sha256": "1khvzl9d11g0h54cc6yf3i9p1lpk39cracpc29x5s2qazkifyz68",
+    "rev": "1146948",
+    "sha256": "1ghsgssykj63zip9k9na7sx1zjxdabj6arrwf6595m8wzzi3y2gx",
     "version": "1.0.4"
   },
   "seva-lite-az": {
@@ -112189,8 +112375,8 @@
   },
   "spicy-recipe-es_ES": {
     "path": "spicy-recipe/1.0.2/es_ES",
-    "rev": "899143",
-    "sha256": "1cjvmgnh49xfkjiizapka9nc5dh2z3icz5wkg6d0f7i5wr4bflf4",
+    "rev": "1147246",
+    "sha256": "06xkl333bd21m9h3kpgh27bfmrsb36f58ab06p7gl98dfd4sfj6a",
     "version": "1.0.2"
   },
   "spicy-recipe-es_VE": {
@@ -112249,8 +112435,8 @@
   },
   "spicy-recipe-sv_SE": {
     "path": "spicy-recipe/1.0.2/sv_SE",
-    "rev": "911198",
-    "sha256": "0a7rf64ld09kbsr1zdwm1gqb4whd9r6clxf6nlzr1pqdb4ndc4jc",
+    "rev": "1146929",
+    "sha256": "08wapd5jkkp4ka2591q1fg7vryyygcbgcxwsw2df3m8rgla4gw1x",
     "version": "1.0.2"
   },
   "spicy-ru_RU": {
@@ -115937,6 +116123,12 @@
     "sha256": "0c4f27237nk15gb445iinxhdilwmp4ij77zksi13by9imk966753",
     "version": "1.0.0"
   },
+  "styled-fashion-ja": {
+    "path": "styled-fashion/1.0.0/ja",
+    "rev": "1147584",
+    "sha256": "05ab81f5sk52zkp8f1d463frrzx8w9gvn54002z3l3z2rshrikiv",
+    "version": "1.0.0"
+  },
   "styled-fashion-nl_BE": {
     "path": "styled-fashion/1.0.0/nl_BE",
     "rev": "1146588",
@@ -118033,8 +118225,8 @@
   },
   "teluro-sv_SE": {
     "path": "teluro/1.0.29/sv_SE",
-    "rev": "1088968",
-    "sha256": "1k3bd488984gzcsch2lsbzqb08m4zv81dkwpfg5cmbny2ai8i36q",
+    "rev": "1147689",
+    "sha256": "1d6vzvmibagmqx33i8bmrvcgmmbq3y6kzwj0yfcfj9y4ggah23zm",
     "version": "1.0.29"
   },
   "teluro-tr_TR": {
@@ -118566,16 +118758,16 @@
     "version": "21.09.16"
   },
   "the-computer-repair-ru_RU": {
-    "path": "the-computer-repair/0.9.8/ru_RU",
-    "rev": "1139862",
-    "sha256": "0law82aqmidfjk059z3bcpafc4djbgbnfszmvdphfwjpc4phi63m",
-    "version": "0.9.8"
+    "path": "the-computer-repair/0.9.9/ru_RU",
+    "rev": "1146993",
+    "sha256": "08b7qbmsgpkcm7jnsyh1sldrcmwi2smlnjsz1sgm0wj08p8iws3f",
+    "version": "0.9.9"
   },
   "the-computer-repair-uk": {
-    "path": "the-computer-repair/0.9.8/uk",
-    "rev": "1139863",
-    "sha256": "0phcf9kssg6mh0d8j5fwwnvcz0zq8610bakpqkq50wrd5cv7s45h",
-    "version": "0.9.8"
+    "path": "the-computer-repair/0.9.9/uk",
+    "rev": "1146994",
+    "sha256": "043ncx4gh6b47lcvhqv0yc2qrympkbxkqkvy12ih5sjmvpvhzmhj",
+    "version": "0.9.9"
   },
   "the-conference-de_DE": {
     "path": "the-conference/1.2.0/de_DE",
@@ -121441,8 +121633,8 @@
   },
   "travel-nomad-es_ES": {
     "path": "travel-nomad/1.0.3/es_ES",
-    "rev": "896983",
-    "sha256": "06ls8704sdljm5qsfldx8yqp7r2zsqxxj54hacc7jz0hn90nv08w",
+    "rev": "1147255",
+    "sha256": "1nkwh1wzhn3dkm1bysv8kf73l310dz74116wxavvn44jgn6rmngp",
     "version": "1.0.3"
   },
   "travel-nomad-es_VE": {
@@ -121507,8 +121699,8 @@
   },
   "travel-nomad-sv_SE": {
     "path": "travel-nomad/1.0.3/sv_SE",
-    "rev": "911189",
-    "sha256": "1yn1g6px8hf5f9wf003ndx0vgnlw8am3laq5x54ni91ipg7xnms7",
+    "rev": "1146928",
+    "sha256": "0gqv947ir6bh1vk4nr76wcr4qqs0sg7bnn9y0a7rn7qbpjyhpbys",
     "version": "1.0.3"
   },
   "travel-notes-ja": {
@@ -122262,58 +122454,58 @@
     "version": "1.0.3"
   },
   "twenty-minutes-es_CO": {
-    "path": "twenty-minutes/1.5.2/es_CO",
-    "rev": "1129762",
-    "sha256": "10rvl65wsgswq1kq18h9lq1zgmq472yjcqm1n978pawfn08f09cf",
-    "version": "1.5.2"
+    "path": "twenty-minutes/1.5.3/es_CO",
+    "rev": "1147469",
+    "sha256": "1x1pz34nmfq9agkchiddl3mb63hhqa36wip9m0337mk667mf02p4",
+    "version": "1.5.3"
   },
   "twenty-minutes-es_EC": {
-    "path": "twenty-minutes/1.5.2/es_EC",
-    "rev": "1129763",
-    "sha256": "18aj3dr4lnbymb7as25x0bb2mygs2kjl5z1v1ny6hx0931l315ch",
-    "version": "1.5.2"
+    "path": "twenty-minutes/1.5.3/es_EC",
+    "rev": "1147470",
+    "sha256": "12nk6zj75if6zqm78xc06n6cpv65jvl0sqr5vsmwc1yh976srvhb",
+    "version": "1.5.3"
   },
   "twenty-minutes-es_ES": {
-    "path": "twenty-minutes/1.5.2/es_ES",
-    "rev": "1129765",
-    "sha256": "0y4fkzyv62kqphk2z1vwyb1b6wcg4k0krfycnkpn9vr1sv2m464a",
-    "version": "1.5.2"
+    "path": "twenty-minutes/1.5.3/es_ES",
+    "rev": "1147472",
+    "sha256": "1g5vv2lvh6c5x3qfwbkdl29scg1wrk6c6vpp8mwf6379zdjsfqxy",
+    "version": "1.5.3"
   },
   "twenty-minutes-es_MX": {
-    "path": "twenty-minutes/1.5.2/es_MX",
-    "rev": "1129764",
-    "sha256": "0f7j63kmiy5cc5dmm05yqh3gwnkr4lf359d1vbqkhy2v2jc4vb2j",
-    "version": "1.5.2"
+    "path": "twenty-minutes/1.5.3/es_MX",
+    "rev": "1147471",
+    "sha256": "1jhkwk7c7llawcy4a27c01qrcjvs3vgxi9xdzmpnwgrb06x50nh0",
+    "version": "1.5.3"
   },
   "twenty-minutes-es_VE": {
-    "path": "twenty-minutes/1.5.2/es_VE",
-    "rev": "1129766",
-    "sha256": "0vj2ghsfzyz4lc23lsys7gnqvd24r994hmk2xc4a43xgdqa7ihvs",
-    "version": "1.5.2"
+    "path": "twenty-minutes/1.5.3/es_VE",
+    "rev": "1147473",
+    "sha256": "1jliadaasj224ni5qf63gr4ar329dpqkisy7cqh06z5plzfw0zr4",
+    "version": "1.5.3"
   },
   "twenty-minutes-gl_ES": {
-    "path": "twenty-minutes/1.5.2/gl_ES",
-    "rev": "1129760",
+    "path": "twenty-minutes/1.5.3/gl_ES",
+    "rev": "1147467",
     "sha256": "03qhj03lw6np3kdgyssjml10z8hykwvmw7grzx0airrs5v3yj5p8",
-    "version": "1.5.2"
+    "version": "1.5.3"
   },
   "twenty-minutes-ja": {
-    "path": "twenty-minutes/1.5.2/ja",
-    "rev": "1129761",
+    "path": "twenty-minutes/1.5.3/ja",
+    "rev": "1147468",
     "sha256": "0v10nd12gv2injxvqznaz2widqdfa74pcazj6f0dalv1viw3qi08",
-    "version": "1.5.2"
+    "version": "1.5.3"
   },
   "twenty-minutes-sv_SE": {
-    "path": "twenty-minutes/1.5.2/sv_SE",
-    "rev": "1129839",
-    "sha256": "1rzqsmbp93j71g78d1l9bg0242kr2b7v9qzrmja4vxcmll0ncfmd",
-    "version": "1.5.2"
+    "path": "twenty-minutes/1.5.3/sv_SE",
+    "rev": "1147474",
+    "sha256": "0d6v7as3pqrz86qbdnn3kyg062c481c3v1x2zxv98zkd4nrjp9qc",
+    "version": "1.5.3"
   },
   "twenty-minutes-ur": {
-    "path": "twenty-minutes/1.5.2/ur",
-    "rev": "1129768",
+    "path": "twenty-minutes/1.5.3/ur",
+    "rev": "1147475",
     "sha256": "10g033vigkxyng2y4pn5zdr5jxpxk9v8n3hmvpbasi2wqpd9sknb",
-    "version": "1.5.2"
+    "version": "1.5.3"
   },
   "twenty8teen-de_DE": {
     "path": "twenty8teen/20221027/de_DE",
@@ -131574,22 +131766,22 @@
     "version": "1.7.9"
   },
   "vw-bakery-es_ES": {
-    "path": "vw-bakery/1.4.5/es_ES",
-    "rev": "1133649",
-    "sha256": "1vmw8gf90c52rr1vgq43rr580ig4k57w5a8ky5j08k26vhgpaiw0",
-    "version": "1.4.5"
+    "path": "vw-bakery/1.4.6/es_ES",
+    "rev": "1147118",
+    "sha256": "1safp4lqbqq6aa3z0c7z8abdy3kfvm2kyppgl2q5zsb24ys3zpzr",
+    "version": "1.4.6"
   },
   "vw-bakery-ru_RU": {
-    "path": "vw-bakery/1.4.5/ru_RU",
-    "rev": "1138202",
-    "sha256": "17pqlarnrz3qbdy5mqkfn9zrrqqp4jdlgqg70bsxjrsb2w07d3am",
-    "version": "1.4.5"
+    "path": "vw-bakery/1.4.6/ru_RU",
+    "rev": "1147117",
+    "sha256": "1i7v9p7gf314hz68a09fwd7yp27i2q5nxwzr5r1pzay0v609wa8m",
+    "version": "1.4.6"
   },
   "vw-bakery-uk": {
-    "path": "vw-bakery/1.4.5/uk",
-    "rev": "1133650",
-    "sha256": "01fnn74lkz6y2d8rn873bl3zjy6510p8qxk3138v9b21px82fvz7",
-    "version": "1.4.5"
+    "path": "vw-bakery/1.4.6/uk",
+    "rev": "1147119",
+    "sha256": "11s89pvml9vp0m3g9ayx5nfbjmn0srhfmfhys6h86fcb7lhaqc6z",
+    "version": "1.4.6"
   },
   "vw-blog-magazine-es_ES": {
     "path": "vw-blog-magazine/0.9.1/es_ES",
@@ -131634,16 +131826,16 @@
     "version": "0.9.6"
   },
   "vw-cleaning-company-ru_RU": {
-    "path": "vw-cleaning-company/0.8.7/ru_RU",
-    "rev": "1139969",
-    "sha256": "03aps4y9fz4241apn2q96s7a587hn54jh4cqr2ln9xv3r9fzbc4g",
-    "version": "0.8.7"
+    "path": "vw-cleaning-company/0.8.8/ru_RU",
+    "rev": "1147028",
+    "sha256": "1bm9p00vy5hbh5kp7maf5nkl3f3bzfm530fh3hc0jga3g98x3j4j",
+    "version": "0.8.8"
   },
   "vw-cleaning-company-uk": {
-    "path": "vw-cleaning-company/0.8.7/uk",
-    "rev": "1139970",
-    "sha256": "1kh79c76l6nmyab096ng3pq4xri2v6dynb2kzd1v7hrkkfj4a43s",
-    "version": "0.8.7"
+    "path": "vw-cleaning-company/0.8.8/uk",
+    "rev": "1147029",
+    "sha256": "1lxm07nr9mia1bax8qa51648gh6g6x5w1cc4rxy7l70awdw4y7xl",
+    "version": "0.8.8"
   },
   "vw-construction-estate-ru_RU": {
     "path": "vw-construction-estate/1.1.2/ru_RU",
@@ -131694,16 +131886,16 @@
     "version": "2.4.1"
   },
   "vw-dentist-ru_RU": {
-    "path": "vw-dentist/1.0.1/ru_RU",
-    "rev": "1138380",
-    "sha256": "0xb6ri4zq7rck0xps6qxxqjj9rb8c74nc3jm0s182m0cdh19yb8q",
-    "version": "1.0.1"
+    "path": "vw-dentist/1.0.2/ru_RU",
+    "rev": "1147172",
+    "sha256": "1rxz1lv9dpqjg1mw958d1c6f6z7kamwl2y9x7d68phag1v3z64ky",
+    "version": "1.0.2"
   },
   "vw-dentist-uk": {
-    "path": "vw-dentist/1.0.1/uk",
-    "rev": "1133640",
-    "sha256": "0iyfx91571c92g06sd15r30lmpgz748prlhpxh337pxjn4knhc50",
-    "version": "1.0.1"
+    "path": "vw-dentist/1.0.2/uk",
+    "rev": "1147173",
+    "sha256": "0lp4l2rarzpxca9fgivqvjq5jhfdq3bwvzqhkh41dx5a1jf9zdzw",
+    "version": "1.0.2"
   },
   "vw-ecommerce-shop-da_DK": {
     "path": "vw-ecommerce-shop/0.9.4/da_DK",
@@ -135517,8 +135709,8 @@
   },
   "yith-proteo-nl_NL": {
     "path": "yith-proteo/1.9.2/nl_NL",
-    "rev": "1102234",
-    "sha256": "1wlhbgxbwcgapr3pb379nhi3r4ghfckkaw2dxxgbsc11259appab",
+    "rev": "1147210",
+    "sha256": "00l0i2z3ql695q36nzk7j1icd601ms653i7qqrdd4rwjz1s32zvy",
     "version": "1.9.2"
   },
   "yith-proteo-pl_PL": {
@@ -136051,8 +136243,8 @@
   },
   "yummy-recipe-sv_SE": {
     "path": "yummy-recipe/1.0.1/sv_SE",
-    "rev": "899769",
-    "sha256": "03m9gpw6xgyf092y32xsm8s6nvfdh26wskc1817cqz7vgclab7ai",
+    "rev": "1146927",
+    "sha256": "0klb0cfp3anki5jj7z07lk031mnm1g67pgyfa1q88kpgvfz7x2nk",
     "version": "1.0.1"
   },
   "yummy-recipe-tr_TR": {
