@@ -8491,8 +8491,8 @@
   },
   "aromatic-nl_BE": {
     "path": "aromatic/3.4/nl_BE",
-    "rev": "1152110",
-    "sha256": "1g1hwdnh8cbwfn5a5ibg6innzkcm6x0hnn8lbw4nfpz255y2dmpl",
+    "rev": "1158531",
+    "sha256": "0l1dwnz4fnn182waqjp445iywrsdpsf5fk9f6ng40cbhxvqq4jp5",
     "version": "3.4"
   },
   "aromatic-nl_NL": {
@@ -11022,10 +11022,10 @@
     "version": "1.0.0"
   },
   "automobile-car-services-ru_RU": {
-    "path": "automobile-car-services/1.9/ru_RU",
-    "rev": "1138351",
-    "sha256": "1gvlr48x5yvp86zsxmsadzrjnprgjrk1bci9lg1vrwz2dwlv2sf7",
-    "version": "1.9"
+    "path": "automobile-car-services/2.0/ru_RU",
+    "rev": "1158486",
+    "sha256": "098ka740qjif5jmx1zpzrxym6qx4kcyd30mvfaic40xj2lc770pq",
+    "version": "2.0"
   },
   "automobile-hub-ru_RU": {
     "path": "automobile-hub/0.5.8/ru_RU",
@@ -13092,16 +13092,16 @@
     "version": "1.0.4"
   },
   "bakery-cafe-nl_NL": {
-    "path": "bakery-cafe/2.0/nl_NL",
-    "rev": "1138478",
-    "sha256": "107y8rwjv3iv3n85jafiv52q7p6qjblk4skyyd6n43ay93s0209y",
-    "version": "2.0"
+    "path": "bakery-cafe/2.1/nl_NL",
+    "rev": "1158487",
+    "sha256": "0hh2x0iwsayb371djx798w1ff4aqi8phxi6k4zvb2rsc8jljwd5m",
+    "version": "2.1"
   },
   "bakery-cafe-ru_RU": {
-    "path": "bakery-cafe/2.0/ru_RU",
-    "rev": "1138479",
-    "sha256": "1873vxr5bysxcvhh3h9fjnaji7cx8pxbgx23i43mvy668yz8mhrd",
-    "version": "2.0"
+    "path": "bakery-cafe/2.1/ru_RU",
+    "rev": "1158488",
+    "sha256": "10clcqjswy2fr3pq4sci6d4cysnpz9c7mrhdzvhrg13r8b30bbc1",
+    "version": "2.1"
   },
   "bakery-en_CA": {
     "path": "bakery/0.11/en_CA",
@@ -14731,8 +14731,8 @@
   },
   "beauty-salon-lite-ja": {
     "path": "beauty-salon-lite/1.0.0/ja",
-    "rev": "1145228",
-    "sha256": "0rwib9fdbjqrbdxziaq531ycig2im18l24rbbdrkh4j1j1lz345a",
+    "rev": "1158492",
+    "sha256": "1bw8gjfrw3gxgsbhj5phj11zlkv4fb9c720ywmnljccrr3g6b8yv",
     "version": "1.0.0"
   },
   "beauty-salon-lite-nl_BE": {
@@ -22291,8 +22291,8 @@
   },
   "blossom-spa-ja": {
     "path": "blossom-spa/1.3.0/ja",
-    "rev": "1154476",
-    "sha256": "05hw4vm5yjq99sdzd20m2lshr26kghfb2z14raq57y3v5fagw11m",
+    "rev": "1158491",
+    "sha256": "1i9r46fh5h9hpnsdf5hpnvl0f2l59vk624ff166rsdm24ddj33q3",
     "version": "1.3.0"
   },
   "blossom-spa-nb_NO": {
@@ -24877,8 +24877,8 @@
   },
   "bravada-es_ES": {
     "path": "bravada/1.1.0/es_ES",
-    "rev": "1158114",
-    "sha256": "1b6yh83llassmg5j9ayyr9b642dpy5fcicj8zlmnwzl0019npaal",
+    "rev": "1158972",
+    "sha256": "0jfn5k75zzwqvb974bj6a7dgaz543lmz542ph8q8np51xag5cy4f",
     "version": "1.1.0"
   },
   "bravada-es_MX": {
@@ -24919,8 +24919,8 @@
   },
   "bravada-ja": {
     "path": "bravada/1.1.0/ja",
-    "rev": "1158107",
-    "sha256": "1pikgc0kg1jx288r5397kjw85cr1aiphinzd2g379yvw19r1l7ls",
+    "rev": "1158493",
+    "sha256": "154migjvirwymsiw5z05hw780fc5y2bi3yy5nkkvlg5lz629lkyv",
     "version": "1.1.0"
   },
   "bravada-nl_NL": {
@@ -28284,10 +28284,10 @@
     "version": "0.3.1"
   },
   "car-service-sv_SE": {
-    "path": "car-service/5.0.2/sv_SE",
-    "rev": "1147501",
-    "sha256": "0nrsyflpb5vjsi1j4lbhvzb2zwvj4hnxayks0q5cpc9g94ci9xsk",
-    "version": "5.0.2"
+    "path": "car-service/5.0.3/sv_SE",
+    "rev": "1158783",
+    "sha256": "18cdank3la6mjja5x3q0xfkg9rj4c4p3si5f1b8y0pgj434p6zn4",
+    "version": "5.0.3"
   },
   "car-wash-services-ru_RU": {
     "path": "car-wash-services/1.8/ru_RU",
@@ -32159,6 +32159,12 @@
     "sha256": "10ria0mb7547m3s9kl4ckjplx0hqhal0frvkfw09b4wmiki5n68k",
     "version": "1.0.3"
   },
+  "coachify-es_CR": {
+    "path": "coachify/1.0.3/es_CR",
+    "rev": "1159126",
+    "sha256": "1y8d5s6g52i40mjs9q6s9zyzkq63v8sz57827gcvh23f1calvmdv",
+    "version": "1.0.3"
+  },
   "coachify-es_ES": {
     "path": "coachify/1.0.3/es_ES",
     "rev": "1157064",
@@ -35982,10 +35988,10 @@
     "version": "1.6.5"
   },
   "cosmetic-store-ru_RU": {
-    "path": "cosmetic-store/2.5/ru_RU",
-    "rev": "1141409",
-    "sha256": "09gz08wjcj7cayph1pyyiqxsqnqzbjkxg2qc3fn4hsg56b31vbzx",
-    "version": "2.5"
+    "path": "cosmetic-store/2.6/ru_RU",
+    "rev": "1158489",
+    "sha256": "0dmiq3hka7f55x1ykgswjxwgmhmsm8slmgkrdcycjn5zbpi7hjvz",
+    "version": "2.6"
   },
   "cosmica-ja": {
     "path": "cosmica/1.10/ja",
@@ -36291,6 +36297,12 @@
     "path": "covernews/4.3.6/es_VE",
     "rev": "1146413",
     "sha256": "16w54iznqnz6hfjhz8v6ji0d8fz3nhnxypgvj9igvdv5x49ivaqx",
+    "version": "4.3.6"
+  },
+  "covernews-nl_NL": {
+    "path": "covernews/4.3.6/nl_NL",
+    "rev": "1158863",
+    "sha256": "08a73zxwd0wfcn8q7yklfhlyqgx2hfg67knzaxv30shzs82jdyp1",
     "version": "4.3.6"
   },
   "covernews-ru_RU": {
@@ -37242,10 +37254,10 @@
     "version": "1.2.3"
   },
   "creative-portfolio-lite-ru_RU": {
-    "path": "creative-portfolio-lite/2.2/ru_RU",
-    "rev": "1138648",
-    "sha256": "188d12n6x8183m2q8nwglxhyhk1kjvadnrvvf5v8ha6djikbknma",
-    "version": "2.2"
+    "path": "creative-portfolio-lite/2.3/ru_RU",
+    "rev": "1158490",
+    "sha256": "08r3l2piffq3r9hjjn538h0xkh2may71flvikgmjbfcmzg0djl9w",
+    "version": "2.3"
   },
   "creative-techup-nl_NL": {
     "path": "creative-techup/1.2/nl_NL",
@@ -42666,10 +42678,10 @@
     "version": "2.1.1"
   },
   "educate-training-coach-ru_RU": {
-    "path": "educate-training-coach/1.2/ru_RU",
-    "rev": "1155147",
-    "sha256": "00dkdjllxh99cfnzhw1ndfphpidqb9r4jvbaink27q74s8f2v8sm",
-    "version": "1.2"
+    "path": "educate-training-coach/1.3/ru_RU",
+    "rev": "1158860",
+    "sha256": "0311hixwivcayprz3xgg815cj8v9ybyd3q4sfb4xxznp029mzd1v",
+    "version": "1.3"
   },
   "educateup-kids-sv_SE": {
     "path": "educateup-kids/1.0.0/sv_SE",
@@ -42834,10 +42846,10 @@
     "version": "2.7"
   },
   "education-insight-ru_RU": {
-    "path": "education-insight/5.5/ru_RU",
-    "rev": "1145756",
-    "sha256": "0hhyyq00zcf13bp6vqg1rgksyz9xwswf6sqclc92qk34g2774fkv",
-    "version": "5.5"
+    "path": "education-insight/5.6/ru_RU",
+    "rev": "1158861",
+    "sha256": "0amial14jxl3mgff8nz16wky9x9kq5f009qk3bzpi0c4ina6k57m",
+    "version": "5.6"
   },
   "education-institute-es_ES": {
     "path": "education-institute/1.0.8/es_ES",
@@ -68586,34 +68598,34 @@
     "version": "1.8"
   },
   "kids-camp-es_ES": {
-    "path": "kids-camp/1.2.1/es_ES",
-    "rev": "924139",
-    "sha256": "00127d49ha9qkbmhk2pgbf3z42cdmgff4y9dzmxf6f7lp59pjgly",
-    "version": "1.2.1"
+    "path": "kids-camp/1.2.2/es_ES",
+    "rev": "1159123",
+    "sha256": "0xliqp0kc4xqbgfxyw75v8ac11ahbdq9bcm5z0r9x9618iwzlpva",
+    "version": "1.2.2"
   },
   "kids-camp-es_MX": {
-    "path": "kids-camp/1.2.1/es_MX",
-    "rev": "924138",
-    "sha256": "1mn5kzlb9zklizv1xqly00sw0a7j3kl087cmfbmviz9bs93kpnfk",
-    "version": "1.2.1"
+    "path": "kids-camp/1.2.2/es_MX",
+    "rev": "1159122",
+    "sha256": "099cy4bfxqr3r3b3gbxz5cs9zks6a04a8kgcqbjrssmsnklrb8bc",
+    "version": "1.2.2"
   },
   "kids-camp-es_VE": {
-    "path": "kids-camp/1.2.1/es_VE",
-    "rev": "924140",
-    "sha256": "1880r9qxyb6fsyggihzkdcqxw1bxqv2zm99b01gh059jq0d6x93i",
-    "version": "1.2.1"
+    "path": "kids-camp/1.2.2/es_VE",
+    "rev": "1159124",
+    "sha256": "1mzq10wy3ddk9zqzibhjvrpgjmzf7ppbdf4zsw9smaazgz1sbbc7",
+    "version": "1.2.2"
   },
   "kids-camp-nl_NL": {
-    "path": "kids-camp/1.2.1/nl_NL",
-    "rev": "1001023",
-    "sha256": "0pb225acf2hf7gyldcwi0qk6llx103h9jcspwvsi8yjrqj8ns8ng",
-    "version": "1.2.1"
+    "path": "kids-camp/1.2.2/nl_NL",
+    "rev": "1159121",
+    "sha256": "0dnxnz46b78qh5h3rvg5qkr0x7rpyid5bbpb5k2pxy1cjaz6vsdi",
+    "version": "1.2.2"
   },
   "kids-camp-sv_SE": {
-    "path": "kids-camp/1.2.1/sv_SE",
-    "rev": "924141",
-    "sha256": "15zxxqm878p5l4z83ab42vppkq40csz5vw12p5d13ji3y81yz9mj",
-    "version": "1.2.1"
+    "path": "kids-camp/1.2.2/sv_SE",
+    "rev": "1159125",
+    "sha256": "1x514qx1q51dmbacq6vlfjprimnipdshhjnhgwp3zhw2v0qixxvp",
+    "version": "1.2.2"
   },
   "kids-campus-ru_RU": {
     "path": "kids-campus/2.1/ru_RU",
@@ -68718,10 +68730,10 @@
     "version": "0.04"
   },
   "kindergarten-school-sv_SE": {
-    "path": "kindergarten-school/4.1/sv_SE",
-    "rev": "1140469",
-    "sha256": "04wm9j6rlzgkvz82khxqcgrds7nbra48gcvjpaxj83gafa1cpzq5",
-    "version": "4.1"
+    "path": "kindergarten-school/4.1.1/sv_SE",
+    "rev": "1158779",
+    "sha256": "1k3902ppylyir5xyz2f43crlds81abmbzp3b8gpax7kf715dvd83",
+    "version": "4.1.1"
   },
   "kingdom-en_CA": {
     "path": "kingdom/1.7/en_CA",
@@ -70104,10 +70116,10 @@
     "version": "1.0.1"
   },
   "lawyer-hub-ru_RU": {
-    "path": "lawyer-hub/0.3.1/ru_RU",
-    "rev": "1138474",
-    "sha256": "0qkng28cydq84a2zwff4qdnm2s9n0vw3l9jcxn2n1xrzkpm1y25k",
-    "version": "0.3.1"
+    "path": "lawyer-hub/0.3.2/ru_RU",
+    "rev": "1158498",
+    "sha256": "1nq3v0gd30flzq27dpza475f733b3g5bggnv53kl7m55n6hcncbd",
+    "version": "0.3.2"
   },
   "lawyer-landing-page-cs_CZ": {
     "path": "lawyer-landing-page/1.2.4/cs_CZ",
@@ -73092,10 +73104,10 @@
     "version": "0.4.8"
   },
   "lz-fashion-ecommerce-sv_SE": {
-    "path": "lz-fashion-ecommerce/0.5.7/sv_SE",
-    "rev": "1121521",
-    "sha256": "1vgsg4xn9fv95a6ziac4zxf3fw0n44jiy9dxxn81nhyzm1k7k2am",
-    "version": "0.5.7"
+    "path": "lz-fashion-ecommerce/0.5.8/sv_SE",
+    "rev": "1158535",
+    "sha256": "04d5mjkjadvy0j06snzq6zr285p0gb4vjasf20dq9q2y00g318b2",
+    "version": "0.5.8"
   },
   "lz-food-recipee-sv_SE": {
     "path": "lz-food-recipee/0.3.5/sv_SE",
@@ -73104,10 +73116,10 @@
     "version": "0.3.5"
   },
   "lz-interior-decor-sv_SE": {
-    "path": "lz-interior-decor/0.5.6/sv_SE",
-    "rev": "1120172",
-    "sha256": "0z6ncgb863cwrdpfk2a5ilizcwfq2sy7b87rbcgansxy52zscz6x",
-    "version": "0.5.6"
+    "path": "lz-interior-decor/0.5.7/sv_SE",
+    "rev": "1158534",
+    "sha256": "0z1nh29xgscbabyqvhhqfbi2ff70bwadmy9jcprcspzf1dwjnn81",
+    "version": "0.5.7"
   },
   "m-shop-ru_RU": {
     "path": "m-shop/1.2.8/ru_RU",
@@ -74593,8 +74605,8 @@
   },
   "mantra-nl_NL": {
     "path": "mantra/3.3.1/nl_NL",
-    "rev": "1102180",
-    "sha256": "012fjfzl42fib06d5r3x3l1pfwz52kjjr84cvz1kmmxwg88i7iqp",
+    "rev": "1158886",
+    "sha256": "007p0yk458c4w6q46i3i1kwcgbxwkwdi2vqrdmwn226qi2iwf45x",
     "version": "3.3.1"
   },
   "mantra-pl_PL": {
@@ -76825,8 +76837,8 @@
   },
   "mental-health-coach-nl_BE": {
     "path": "mental-health-coach/1.0.0/nl_BE",
-    "rev": "1144880",
-    "sha256": "1l547j2rajvcg6lvx8vbqzgb032xhgqgvsa2l0w0iqkxmfqn9xsd",
+    "rev": "1158532",
+    "sha256": "06snz1qriqin79fkzkzljl7dx77xlfhbwczq81syfvq9c90z8nks",
     "version": "1.0.0"
   },
   "mental-health-coach-nl_NL": {
@@ -80868,10 +80880,10 @@
     "version": "7.3"
   },
   "multipurpose-blog-el": {
-    "path": "multipurpose-blog/2.6.1/el",
-    "rev": "1144400",
-    "sha256": "14rc0gki2dxz3kpyphdprjzfpf08x574xzc0jk26xcaf13c80fnb",
-    "version": "2.6.1"
+    "path": "multipurpose-blog/2.6.2/el",
+    "rev": "1158512",
+    "sha256": "0b8c7b6drjm4claiwzxcbj3ghk3mwz9q1rbbmw8vwf6lgbdk0qff",
+    "version": "2.6.2"
   },
   "multipurpose-business-en_AU": {
     "path": "multipurpose-business/1.0.5/en_AU",
@@ -81939,6 +81951,12 @@
     "path": "neve/3.6.4/bg_BG",
     "rev": "1150138",
     "sha256": "0wrj7aaay715s05fqh9kaq3anng4ilzxfpr1mvkm3vqq5v4lyawz",
+    "version": "3.6.4"
+  },
+  "neve-ca": {
+    "path": "neve/3.6.4/ca",
+    "rev": "1158660",
+    "sha256": "062w0ncsvmkq2m3rd86y75ik7s68lp3ma3pqglsy35dl3njpyjmy",
     "version": "3.6.4"
   },
   "neve-cs_CZ": {
@@ -99048,10 +99066,10 @@
     "version": "2.1.9"
   },
   "real-fitness-sv_SE": {
-    "path": "real-fitness/0.3/sv_SE",
-    "rev": "1140461",
-    "sha256": "1cp1hdb4vb4awab9hhhqdkgxxv4vh0v3rajsw54slw2hdfanqb9v",
-    "version": "0.3"
+    "path": "real-fitness/0.3.1/sv_SE",
+    "rev": "1158778",
+    "sha256": "1lgmdyib59crkaghsgvzfxrz0dzwv8f1fyai5p9n9pzllmwibz1r",
+    "version": "0.3.1"
   },
   "real-one-page-nl_NL": {
     "path": "real-one-page/1.0.1/nl_NL",
@@ -108330,10 +108348,10 @@
     "version": "0.4.3"
   },
   "shopping-solution-sv_SE": {
-    "path": "shopping-solution/0.3.7/sv_SE",
-    "rev": "1144401",
-    "sha256": "0387gmas47af4d7797xv98sr8521q9afnpc6a2z19ajfr71afsbj",
-    "version": "0.3.7"
+    "path": "shopping-solution/0.3.8/sv_SE",
+    "rev": "1158514",
+    "sha256": "1pqs9pmazbppca9b3vysc0wzc854vzfapd444rw5v3c9vv2dhvyx",
+    "version": "0.3.8"
   },
   "shoppingcart-en_AU": {
     "path": "shoppingcart/1.2.1/en_AU",
@@ -112165,8 +112183,8 @@
   },
   "spa-center-ja": {
     "path": "spa-center/1.0.0/ja",
-    "rev": "1142318",
-    "sha256": "01sb3ad8cncrw3j5qb1k9g7jjsww6i3zl16n042zlfn459hwb54s",
+    "rev": "1158494",
+    "sha256": "00h4brb0zwvz0nid4vrkal8kfhnvahz8mr6j0jl21zbphj7zchx4",
     "version": "1.0.0"
   },
   "spa-center-nl_BE": {
@@ -129906,10 +129924,10 @@
     "version": "0.1.8"
   },
   "ultimate-blogger-sv_SE": {
-    "path": "ultimate-blogger/0.9.6/sv_SE",
-    "rev": "1144402",
-    "sha256": "15rsdxa7qz5jdimax5dj6ks4y2hf2pgix3698bxbh3yklcjd363z",
-    "version": "0.9.6"
+    "path": "ultimate-blogger/0.9.7/sv_SE",
+    "rev": "1158513",
+    "sha256": "1riqa6m4fcfjgl4jhzkj8wd8g28jnvzyf92vcjq35iijrn405gmf",
+    "version": "0.9.7"
   },
   "ultimate-fa_IR": {
     "path": "ultimate/3.0.8/fa_IR",
@@ -131131,8 +131149,8 @@
   },
   "vandana-lite-nl_BE": {
     "path": "vandana-lite/1.1.7/nl_BE",
-    "rev": "1150022",
-    "sha256": "016jyq66rhm9b2jmz8l9vbip3x8z8hy8ykv232mz35fh0y0g7fra",
+    "rev": "1158530",
+    "sha256": "0aiqx19dc5s2pbsc385g660qlg7iwa22wxkz18bpl3abdcx3hbxf",
     "version": "1.1.7"
   },
   "vandana-lite-nl_NL": {
@@ -131875,8 +131893,8 @@
   },
   "vedic-spa-ja": {
     "path": "vedic-spa/1.0.1/ja",
-    "rev": "1139983",
-    "sha256": "0n0gwqxmsp204fyprbn1vd3w49m69z6sf7xzx26fcb35kryvlpbw",
+    "rev": "1158495",
+    "sha256": "12dnckayy6fmjc9ck16bg4580g0i51lf2km4g5l7j08b0h8r70fx",
     "version": "1.0.1"
   },
   "vedic-spa-nl_BE": {
@@ -133302,16 +133320,16 @@
     "version": "0.9.9"
   },
   "vw-fitness-gym-ru_RU": {
-    "path": "vw-fitness-gym/0.9.2/ru_RU",
-    "rev": "1142971",
-    "sha256": "1hqsflyfhdg8fkpzkbk4cb4idp3i5ip6m9p4fipwp2hmd9xzr2z1",
-    "version": "0.9.2"
+    "path": "vw-fitness-gym/0.9.3/ru_RU",
+    "rev": "1158818",
+    "sha256": "0wdbmn76whry5fclc5zgb0im8d4l7zvca3ws2hxkwh2qiknidwv2",
+    "version": "0.9.3"
   },
   "vw-fitness-gym-uk": {
-    "path": "vw-fitness-gym/0.9.2/uk",
-    "rev": "1142972",
-    "sha256": "10yj5p5pa3d5ih6nqvi3n35rwq1gxlyqx6k5xnk5d005g8n68rv7",
-    "version": "0.9.2"
+    "path": "vw-fitness-gym/0.9.3/uk",
+    "rev": "1158819",
+    "sha256": "0nl63vl5z4qwy4acg6kb42ip5wr4plsbwhzsmyx2zx27q1qy0yl6",
+    "version": "0.9.3"
   },
   "vw-food-corner-sv_SE": {
     "path": "vw-food-corner/0.5.1/sv_SE",
@@ -133356,22 +133374,22 @@
     "version": "0.9.1"
   },
   "vw-kids-el": {
-    "path": "vw-kids/1.0.9/el",
-    "rev": "1143206",
-    "sha256": "1hpk5v7j2byi02lmgdlppalfkpfv5vz1h3v1rdv4aq6y3ksl755m",
-    "version": "1.0.9"
+    "path": "vw-kids/1.1/el",
+    "rev": "1158771",
+    "sha256": "1kxcs6pf0vwha32k016zana0ixbdm1vdiy8f5n86j89wx9i80y46",
+    "version": "1.1"
   },
   "vw-kids-ru_RU": {
-    "path": "vw-kids/1.0.9/ru_RU",
-    "rev": "1143207",
-    "sha256": "14drykzbw3sgk6n1maacyzj3120xz1l138p34smxhqxgm9c1l3q5",
-    "version": "1.0.9"
+    "path": "vw-kids/1.1/ru_RU",
+    "rev": "1158772",
+    "sha256": "08j68hn525dq082rdmbr925vqcl3qajsknr90cwcmvlr9fl2kvsc",
+    "version": "1.1"
   },
   "vw-kids-uk": {
-    "path": "vw-kids/1.0.9/uk",
-    "rev": "1143208",
-    "sha256": "0spqlvmr8fcx46fxagyk4dnpiym9yfaml1k1pgkk0h3azwlsyasi",
-    "version": "1.0.9"
+    "path": "vw-kids/1.1/uk",
+    "rev": "1158773",
+    "sha256": "0zbirgiba1q0yy71nalvi4wspmxfc13fdgyh4h87anp876arj0ni",
+    "version": "1.1"
   },
   "vw-magazine-es_ES": {
     "path": "vw-magazine/0.9/es_ES",
@@ -134052,52 +134070,52 @@
     "version": "2.1.12"
   },
   "weaver-xtreme-es_CO": {
-    "path": "weaver-xtreme/6.2.1.5/es_CO",
-    "rev": "1146863",
-    "sha256": "12g2csbpvjr69s06c8g227akic1zgph1bvwxqrk67drj2qrriiq0",
-    "version": "6.2.1.5"
+    "path": "weaver-xtreme/6.2.1.6/es_CO",
+    "rev": "1158978",
+    "sha256": "14zwb3r5xxv80rsjxsa8h58009wcs4y269vxg5vjymp62rgir27m",
+    "version": "6.2.1.6"
   },
   "weaver-xtreme-es_EC": {
-    "path": "weaver-xtreme/6.2.1.5/es_EC",
-    "rev": "1146864",
-    "sha256": "0wbdzqskh2fgpy9fp3wbb1fnlddsvy1wi76dsybcf4lzc5fv741m",
-    "version": "6.2.1.5"
+    "path": "weaver-xtreme/6.2.1.6/es_EC",
+    "rev": "1158979",
+    "sha256": "107drmy64dag7mj3j4qiq8j4dqqvnaw353f07r39kqpdig91gyq2",
+    "version": "6.2.1.6"
   },
   "weaver-xtreme-es_ES": {
-    "path": "weaver-xtreme/6.2.1.5/es_ES",
-    "rev": "1146866",
-    "sha256": "1ydn1lax18hyma3cdjrk1dc5r1kbdx2gq8ks1gd954yiwsg9yxc0",
-    "version": "6.2.1.5"
+    "path": "weaver-xtreme/6.2.1.6/es_ES",
+    "rev": "1158981",
+    "sha256": "0p14iyisd96rz7zxb2b0z8acm43xn9vxpxa73xaxnyy92adcixwd",
+    "version": "6.2.1.6"
   },
   "weaver-xtreme-es_MX": {
-    "path": "weaver-xtreme/6.2.1.5/es_MX",
-    "rev": "1146865",
-    "sha256": "0wfsyrc7dwhlzr099hy8126lk8y3sdis0wkm48bbyq9znr7gl7nb",
-    "version": "6.2.1.5"
+    "path": "weaver-xtreme/6.2.1.6/es_MX",
+    "rev": "1158980",
+    "sha256": "15f98splsizgiczw9nkzj3l6h3gd75hgn9w1wrfcp7x6dcw1i6vp",
+    "version": "6.2.1.6"
   },
   "weaver-xtreme-es_VE": {
-    "path": "weaver-xtreme/6.2.1.5/es_VE",
-    "rev": "1146867",
-    "sha256": "14idy69ld5vq3hwgxvl58wq1d039aki73dbflb67swwsa4xl7vwi",
-    "version": "6.2.1.5"
+    "path": "weaver-xtreme/6.2.1.6/es_VE",
+    "rev": "1158982",
+    "sha256": "1kpr6nyp4hh5qav0b7g1h9878pfdwspp41h18f955nl9072cmdpw",
+    "version": "6.2.1.6"
   },
   "weaver-xtreme-nl_NL": {
-    "path": "weaver-xtreme/6.2.1.5/nl_NL",
-    "rev": "1155676",
-    "sha256": "0yx7lidg4zjb9ppkkp53qkdv3srgbv653kkxmmsfsvwwz6559246",
-    "version": "6.2.1.5"
+    "path": "weaver-xtreme/6.2.1.6/nl_NL",
+    "rev": "1158976",
+    "sha256": "13jz8mmn86r65zzzgqwaylz9vi6jz1dylch5pbirvkh1dkgi190b",
+    "version": "6.2.1.6"
   },
   "weaver-xtreme-nl_NL_formal": {
-    "path": "weaver-xtreme/6.2.1.5/nl_NL_formal",
-    "rev": "1146862",
-    "sha256": "042dqhhzk77mpkbip0gci02dxxa1842ryji2cgm5qfk3mr9v9184",
-    "version": "6.2.1.5"
+    "path": "weaver-xtreme/6.2.1.6/nl_NL_formal",
+    "rev": "1158977",
+    "sha256": "1s92jpm626j9y381n16vhphx8dg29vxhn90nyi0d0bfv7vka7ji5",
+    "version": "6.2.1.6"
   },
   "web-developer-sv_SE": {
-    "path": "web-developer/0.3.9/sv_SE",
-    "rev": "1143021",
-    "sha256": "0pz8lk0wwxy6sgkdynhzv2j7kmk42xjbzdrf8hzz6zds7hgpyf9b",
-    "version": "0.3.9"
+    "path": "web-developer/0.4/sv_SE",
+    "rev": "1158784",
+    "sha256": "1kqy6kcbx8grhz68xyw9p8ihdh8idad7nc5w4qvqs7b1953vc9fx",
+    "version": "0.4"
   },
   "web-hosting-lite-ru_RU": {
     "path": "web-hosting-lite/1.9/ru_RU",
@@ -134209,8 +134227,8 @@
   },
   "wecodeart-nl_BE": {
     "path": "wecodeart/6.1.2/nl_BE",
-    "rev": "1157136",
-    "sha256": "0pjswclwa0s27jmdk9ripddynjsbkink5vnxj416k6x509ggh9bg",
+    "rev": "1158533",
+    "sha256": "09lln23gnf9mw9j0j3ljrb64lddplxkinpgvd9c0y7rv1am3gjqs",
     "version": "6.1.2"
   },
   "wecodeart-ro_RO": {
@@ -137281,8 +137299,8 @@
   },
   "yoga-fitness-ja": {
     "path": "yoga-fitness/1.0.2/ja",
-    "rev": "1142320",
-    "sha256": "1dkmnibjkc9shx8as71r5bdaj5kh8cbkvmabzn7rnirfpx4m786x",
+    "rev": "1158496",
+    "sha256": "138cqn9yg0cr1k7kzarmlh03m4mb71nk07d8gkh63a64yvn901yf",
     "version": "1.0.2"
   },
   "yoga-fitness-nl_BE": {
