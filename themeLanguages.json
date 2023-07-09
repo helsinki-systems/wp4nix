@@ -150,22 +150,22 @@
     "version": "1.0.2"
   },
   "200-bytes-ca": {
-    "path": "200-bytes/1.0.6/ca",
-    "rev": "1145720",
-    "sha256": "1fg7l53kbc0nbba4ancx1j6434jhdcx7jkks938dwq6nk89x43h2",
-    "version": "1.0.6"
+    "path": "200-bytes/1.0.8/ca",
+    "rev": "1161806",
+    "sha256": "0p40cqvkjr2m0sld6sjn2d0r4piw043qwdp3h1ynanyji0p14rzy",
+    "version": "1.0.8"
   },
   "200-bytes-es_ES": {
-    "path": "200-bytes/1.0.6/es_ES",
-    "rev": "1141416",
-    "sha256": "06k77ssnaywgn8dij67p8f6kdjq4s7bi3g5iiqcxnsiynd9rbyqz",
-    "version": "1.0.6"
+    "path": "200-bytes/1.0.8/es_ES",
+    "rev": "1161941",
+    "sha256": "0lnzphrvdn99jzr7lrwcfgjhni3sly2wyd3p9qf3b03bcpw99kr4",
+    "version": "1.0.8"
   },
   "200-bytes-sv_SE": {
-    "path": "200-bytes/1.0.6/sv_SE",
-    "rev": "1161122",
-    "sha256": "1z3xfd98ssz30h2z6x5bf6a0zqkp7x364nnchh1lqf2sd9whjy3w",
-    "version": "1.0.6"
+    "path": "200-bytes/1.0.8/sv_SE",
+    "rev": "1161808",
+    "sha256": "0gjjcyhrm7dcw5lfb8x88vbsxg6vkd9azk0rli4jm7d8l5i2k42d",
+    "version": "1.0.8"
   },
   "2013-black-and-white-ar": {
     "path": "2013-black-and-white/1.0/ar",
@@ -1228,6 +1228,12 @@
     "rev": "791527",
     "sha256": "1w6kg2v32f8p6x2asl7d97kppkamywhngkxvi9py3s1fhyp6b5fm",
     "version": "4.4"
+  },
+  "aasta-blog-sv_SE": {
+    "path": "aasta-blog/1.3/sv_SE",
+    "rev": "1161131",
+    "sha256": "1nydm8nsydsh3xwzfhf68rs8mf4rdfs2kshsbihq70aq3120pmny",
+    "version": "1.3"
   },
   "aasta-light-nl_NL": {
     "path": "aasta-light/6.2/nl_NL",
@@ -7968,10 +7974,10 @@
     "version": "9.3"
   },
   "architecture-building-ru_RU": {
-    "path": "architecture-building/2.2/ru_RU",
-    "rev": "1159603",
-    "sha256": "0q74z2ihm9215ihrw3w0ym98rxzhjvc405fq71242wwqc44kbvv2",
-    "version": "2.2"
+    "path": "architecture-building/2.3/ru_RU",
+    "rev": "1166853",
+    "sha256": "1z6xq6w6pdqjay35gls4iqncndj0jz0fnbh1x6m1jmgc505hd2jj",
+    "version": "2.3"
   },
   "ares-es_CO": {
     "path": "ares/2.1.0/es_CO",
@@ -17155,8 +17161,8 @@
   },
   "blocksy-ro_RO": {
     "path": "blocksy/1.8.95/ro_RO",
-    "rev": "1164231",
-    "sha256": "07p5bqz8xl0kph3vggyznfbc1w5xhii0pv4wni6gwkhxqi9klkdi",
+    "rev": "1166990",
+    "sha256": "092aiiysa6ipawynz50xl9wzcamjsdmbvjnx50qgc63mfvqxzp5a",
     "version": "1.8.95"
   },
   "blocksy-ru_RU": {
@@ -31068,10 +31074,10 @@
     "version": "1.1.23"
   },
   "civil-engineering-ru_RU": {
-    "path": "civil-engineering/1.8/ru_RU",
-    "rev": "1159604",
+    "path": "civil-engineering/1.9/ru_RU",
+    "rev": "1166854",
     "sha256": "0y9sv7cv05ml7lsmazg8hq6mszh825fhh0mmv3valn0sdz2h3ply",
-    "version": "1.8"
+    "version": "1.9"
   },
   "cjanky-en_CA": {
     "path": "cjanky/0.3/en_CA",
@@ -33421,8 +33427,8 @@
   },
   "colormag-es_ES": {
     "path": "colormag/3.0.1/es_ES",
-    "rev": "1166697",
-    "sha256": "11vc98xdvhy5wim8hp879fwxhky357qk2fx22xlqp1aq37h5h3y8",
+    "rev": "1167014",
+    "sha256": "0wf9zbmags0jqxsw29vkvvisk41nz4har56bh58fj7yaykhx2kp3",
     "version": "3.0.1"
   },
   "colormag-es_MX": {
@@ -40152,22 +40158,22 @@
     "version": "2.3"
   },
   "designexo-he_IL": {
-    "path": "designexo/11.9/he_IL",
-    "rev": "1140827",
+    "path": "designexo/12.3/he_IL",
+    "rev": "1167020",
     "sha256": "0dh8m2mka7wb0d97v7zpjmva22s7wj1x55y56ii7k9j7zybnfw7x",
-    "version": "11.9"
+    "version": "12.3"
   },
   "designexo-nl_NL": {
-    "path": "designexo/11.9/nl_NL",
-    "rev": "1136928",
+    "path": "designexo/12.3/nl_NL",
+    "rev": "1167019",
     "sha256": "1ahjd2ypp9jmziwdbsl8rf3zlzijw59mw8n7xz4b55cday6jp33k",
-    "version": "11.9"
+    "version": "12.3"
   },
   "designexo-sv_SE": {
-    "path": "designexo/11.9/sv_SE",
-    "rev": "1136929",
+    "path": "designexo/12.3/sv_SE",
+    "rev": "1167021",
     "sha256": "146950fsmh306xf774dsa0yc6idl0y3mf5vvszlfy0icplc5yv5i",
-    "version": "11.9"
+    "version": "12.3"
   },
   "designhub-nl_NL": {
     "path": "designhub/6.2/nl_NL",
@@ -40404,10 +40410,10 @@
     "version": "1.04"
   },
   "digicrew-sv_SE": {
-    "path": "digicrew/1.0.23/sv_SE",
-    "rev": "1025486",
-    "sha256": "12bp54h84h3xhmqihg80vzziaqzsms3pfa3w88d25z423ld29x30",
-    "version": "1.0.23"
+    "path": "digicrew/1.0.24/sv_SE",
+    "rev": "1166813",
+    "sha256": "0j5qrhz2nqadg6i8j32ljrn2wzj5gj531sb4l99m8qqq6dczxk19",
+    "version": "1.0.24"
   },
   "diginews-de_DE": {
     "path": "diginews/1.6/de_DE",
@@ -43225,8 +43231,8 @@
   },
   "educational-zone-es_ES": {
     "path": "educational-zone/0.4.2/es_ES",
-    "rev": "1164810",
-    "sha256": "1ilmlfg00ixd5gkz8nwn829nl2hca991xzj5s0cp5hry2lq74swi",
+    "rev": "1167013",
+    "sha256": "13d4vb04brkqbfclfc00hcqkxmms9qngc6p1jg24f0ps8pm45sdl",
     "version": "0.4.2"
   },
   "educational-zone-es_VE": {
@@ -60222,10 +60228,10 @@
     "version": "0.05"
   },
   "healthcare-clinic-ru_RU": {
-    "path": "healthcare-clinic/1.8/ru_RU",
-    "rev": "1159614",
-    "sha256": "0n1ln84b8anlf5j5bl1zgkhq5naca6c3xqxnzhd43d813c8shdfm",
-    "version": "1.8"
+    "path": "healthcare-clinic/1.9/ru_RU",
+    "rev": "1166855",
+    "sha256": "074zzs0wpaw62a98v919mqyhkzramzxbb9ggy1yij4xsqj2w8akn",
+    "version": "1.9"
   },
   "healthcare-lab-es_ES": {
     "path": "healthcare-lab/1.0/es_ES",
@@ -65958,10 +65964,10 @@
     "version": "1.1.1"
   },
   "iqra-education-es_ES": {
-    "path": "iqra-education/0.8.9/es_ES",
-    "rev": "1121524",
-    "sha256": "1nz0r7y3764m0mg0an757ar90xi1gkhwimxlgcq5q1si8h0p0bik",
-    "version": "0.8.9"
+    "path": "iqra-education/0.9/es_ES",
+    "rev": "1166905",
+    "sha256": "0p812cpibvj8dk8mr3l6p7kk7b0arhfrw0cjk21j9s0qf3rqq5dk",
+    "version": "0.9"
   },
   "iris-lite-de_CH": {
     "path": "iris-lite/1.0.1/de_CH",
@@ -70397,6 +70403,12 @@
     "sha256": "13hi416m37z56yxagc6mmgbahjrg9d805n4p6iwbf71gd2hmk4mh",
     "version": "1.0.2"
   },
+  "lawyer-zone-nl_NL": {
+    "path": "lawyer-zone/3.0.3/nl_NL",
+    "rev": "1166958",
+    "sha256": "0n8rwd7nsdq4vxqclqv272lmlnrb2jmf3c2iizplkl5irik05in9",
+    "version": "3.0.3"
+  },
   "lawyer-zone-ru_RU": {
     "path": "lawyer-zone/3.0.3/ru_RU",
     "rev": "1157486",
@@ -73242,10 +73254,10 @@
     "version": "1.1.3"
   },
   "lz-cleaning-services-sv_SE": {
-    "path": "lz-cleaning-services/0.4.8/sv_SE",
-    "rev": "1117038",
-    "sha256": "15mg0mnnb5m1lplrskvi5pqlqam22dnam3gz4q478hlfj216g5xs",
-    "version": "0.4.8"
+    "path": "lz-cleaning-services/0.4.9/sv_SE",
+    "rev": "1166878",
+    "sha256": "1k02ffbzdhrf70sxlf9cniq2mrij6mdp7pnc98yh72ldqgqvwi38",
+    "version": "0.4.9"
   },
   "lz-computer-repair-sv_SE": {
     "path": "lz-computer-repair/0.4.9/sv_SE",
@@ -89059,8 +89071,8 @@
   },
   "ona-es_ES": {
     "path": "ona/1.18.3/es_ES",
-    "rev": "1166114",
-    "sha256": "1127yj9afwkclfrqri4ia0zxhfxp6sg8v7p98vkcbr6b3fmnl9ah",
+    "rev": "1167022",
+    "sha256": "11yyy11w8z2avvsimhl38db62b6fmg5r90y1kfb1r1bdbdd4zzxd",
     "version": "1.18.3"
   },
   "ona-fr_FR": {
@@ -100333,8 +100345,8 @@
   },
   "responsive-es_ES": {
     "path": "responsive/4.8.4/es_ES",
-    "rev": "1162308",
-    "sha256": "1q2w64p8a7w71drdjvd4f8w6z9zb2m97ra9vjf2xs9ya3hgakk1k",
+    "rev": "1167016",
+    "sha256": "0jdzph7hsn4pq5bx2hr7190mypc0q9s4zsak6iawdnf2z25ab3sz",
     "version": "4.8.4"
   },
   "responsive-es_MX": {
@@ -110718,46 +110730,46 @@
     "version": "1.19.15"
   },
   "siteorigin-north-da_DK": {
-    "path": "siteorigin-north/1.19.17/da_DK",
-    "rev": "1136345",
-    "sha256": "0m1mfdnlqdgr4z8zh9hlgq2af25d9l7mzd1mwyn69a0r4i0nyxfv",
-    "version": "1.19.17"
+    "path": "siteorigin-north/1.19.18/da_DK",
+    "rev": "1166906",
+    "sha256": "1mfv7mywgshr3zpiv61v1dp30gh5vgggwjfmbscc1z104y50zz0g",
+    "version": "1.19.18"
   },
   "siteorigin-north-es_CO": {
-    "path": "siteorigin-north/1.19.17/es_CO",
-    "rev": "1136347",
-    "sha256": "1zqkzivwwqv77ad0ripsd4whrk03ipr2fq4vy6mc06knf3zhfqh3",
-    "version": "1.19.17"
+    "path": "siteorigin-north/1.19.18/es_CO",
+    "rev": "1166908",
+    "sha256": "0zz2b3mrvx4344isq00x8axq40a8r1imvrnmn3yy5ykkdqfifmg0",
+    "version": "1.19.18"
   },
   "siteorigin-north-es_EC": {
-    "path": "siteorigin-north/1.19.17/es_EC",
-    "rev": "1136348",
-    "sha256": "1qf8f510ihcwwws9kglvkqbkpnf7knp36b1wcxfj76djxi6n24n6",
-    "version": "1.19.17"
+    "path": "siteorigin-north/1.19.18/es_EC",
+    "rev": "1166909",
+    "sha256": "05flzwn6cvxb3jyzfm0jgxw3yvdhkr93yibp1jhkarib5ifml911",
+    "version": "1.19.18"
   },
   "siteorigin-north-es_ES": {
-    "path": "siteorigin-north/1.19.17/es_ES",
-    "rev": "1136350",
-    "sha256": "1xffb49zh6rciw49wx0wygfc3ck1gp6f7f9fs5i0h17vlg2zwg5f",
-    "version": "1.19.17"
+    "path": "siteorigin-north/1.19.18/es_ES",
+    "rev": "1166911",
+    "sha256": "1y3dzvga1xj7h63rll160vq1qa2ag685w5npfliqiga5ndcfdizx",
+    "version": "1.19.18"
   },
   "siteorigin-north-es_MX": {
-    "path": "siteorigin-north/1.19.17/es_MX",
-    "rev": "1136349",
-    "sha256": "03yd2sws350valv32mn0g5xrnnbwy2r04s208c2n114vzqnn1rra",
-    "version": "1.19.17"
+    "path": "siteorigin-north/1.19.18/es_MX",
+    "rev": "1166910",
+    "sha256": "0jskc3531p24q342cwl1c3lc549ap5cmjnxx19p9scsriz1zzpq6",
+    "version": "1.19.18"
   },
   "siteorigin-north-es_VE": {
-    "path": "siteorigin-north/1.19.17/es_VE",
-    "rev": "1136351",
-    "sha256": "1ni4gh6wdsyfmwpa018g3s9gc1zbq7fg6gcv693ramykj1xmhrwc",
-    "version": "1.19.17"
+    "path": "siteorigin-north/1.19.18/es_VE",
+    "rev": "1166912",
+    "sha256": "1pq4iw73jrzpbp02yspjw706mdzwwcj999wvmjyfsh3lng8f1h4d",
+    "version": "1.19.18"
   },
   "siteorigin-north-nl_NL": {
-    "path": "siteorigin-north/1.19.17/nl_NL",
-    "rev": "1136346",
-    "sha256": "1s8j93bybg41aq6bj1bmllyd441g5s301679cv4gzabdmz5b319v",
-    "version": "1.19.17"
+    "path": "siteorigin-north/1.19.18/nl_NL",
+    "rev": "1166907",
+    "sha256": "1hrf88w530wq7lc2bk0120vqf29k3c6brnjydjnfjnjrgrxm3c8w",
+    "version": "1.19.18"
   },
   "siteorigin-unwind-es_ES": {
     "path": "siteorigin-unwind/1.9.12/es_ES",
@@ -130230,28 +130242,28 @@
     "version": "3.0.8"
   },
   "ultra-da_DK": {
-    "path": "ultra/1.6.4/da_DK",
-    "rev": "1094861",
-    "sha256": "01hgvvznlxpfggw755g7hgrp3c8zcz41bwga03r59kcqw1c3yl9i",
-    "version": "1.6.4"
+    "path": "ultra/1.6.5/da_DK",
+    "rev": "1166985",
+    "sha256": "1bkmask75718zgy2vk2gc903n289fp3mmdjm5zw585iy7srrrpgm",
+    "version": "1.6.5"
   },
   "ultra-es_CO": {
-    "path": "ultra/1.6.4/es_CO",
-    "rev": "805765",
-    "sha256": "0i6kl36272ddcvilqhlhzs98m1cjy3aqbq8v4ks3s0q133y6zbn9",
-    "version": "1.6.4"
+    "path": "ultra/1.6.5/es_CO",
+    "rev": "1166987",
+    "sha256": "05vybr5m9x466fwskha9a6mynlrd3l9kc4x673gkx900f129hsx3",
+    "version": "1.6.5"
   },
   "ultra-es_ES": {
-    "path": "ultra/1.6.4/es_ES",
-    "rev": "805766",
-    "sha256": "19xhdf5bm659sq7cv14ns0lwh7hb6dsydg8dgb6yni3dqz401jja",
-    "version": "1.6.4"
+    "path": "ultra/1.6.5/es_ES",
+    "rev": "1167012",
+    "sha256": "16b2y6p33nf5cpn9g6yds5644ibpw3ba25s31v1x4yzd4lgwpqpq",
+    "version": "1.6.5"
   },
   "ultra-es_VE": {
-    "path": "ultra/1.6.4/es_VE",
-    "rev": "805767",
-    "sha256": "00vyy6p213afvb1vcsf17bvcxx7gxysglkzlx1jn23abyv7pdmfm",
-    "version": "1.6.4"
+    "path": "ultra/1.6.5/es_VE",
+    "rev": "1166989",
+    "sha256": "1c6dfvys4vn8fxm4jls155vsyhqiqkrbx7vw09xsw76jz5wprzam",
+    "version": "1.6.5"
   },
   "ultra-lite-nl_NL": {
     "path": "ultra-lite/1.0.3/nl_NL",
@@ -130290,10 +130302,10 @@
     "version": "1.0.2"
   },
   "ultra-nl_NL": {
-    "path": "ultra/1.6.4/nl_NL",
-    "rev": "1107868",
-    "sha256": "17h9mzv734vblrfg33bwhxfycpv0bknihddwga5i6ayhr3jhn99q",
-    "version": "1.6.4"
+    "path": "ultra/1.6.5/nl_NL",
+    "rev": "1167010",
+    "sha256": "1prla34akyxvss360x5rnw0xl387dayrzqqsf2ync5g0yykdv2xi",
+    "version": "1.6.5"
   },
   "ultra-print-sv_SE": {
     "path": "ultra-print/0.4.4/sv_SE",
@@ -131544,100 +131556,100 @@
     "version": "2.62"
   },
   "vantage-da_DK": {
-    "path": "vantage/1.20.12/da_DK",
-    "rev": "1155501",
-    "sha256": "0zd4rqjd84y77figmdb7xxgvc7wlpvrlfa9s8f21bs2i1ad4g9yn",
-    "version": "1.20.12"
+    "path": "vantage/1.20.14/da_DK",
+    "rev": "1166939",
+    "sha256": "0p0vm3pwmrcqi0ai4d17qm0sbcib1sb2sb1d5v391ngrxyf1r77w",
+    "version": "1.20.14"
   },
   "vantage-de_DE": {
-    "path": "vantage/1.20.12/de_DE",
-    "rev": "1155508",
-    "sha256": "00grmzwyv45ksxpp3q0s7sdxq4yq4ra2447m7yhwhzjrjlnb84jq",
-    "version": "1.20.12"
+    "path": "vantage/1.20.14/de_DE",
+    "rev": "1166946",
+    "sha256": "0922qzmr1mx3w3f05mvw24fq16r4yk01hrmybqgyqc9w2bsij8ia",
+    "version": "1.20.14"
   },
   "vantage-de_DE_formal": {
-    "path": "vantage/1.20.12/de_DE_formal",
-    "rev": "1155509",
-    "sha256": "0iqr5fia1fl2w58hay6ka558f6lsvd2xnfk88cidjrgm9sjqx96s",
-    "version": "1.20.12"
+    "path": "vantage/1.20.14/de_DE_formal",
+    "rev": "1166947",
+    "sha256": "00jrdp60jkwffr0hrkn72wqvagf8pcnfnxy12vy08bnx61ydrgj9",
+    "version": "1.20.14"
   },
   "vantage-en_CA": {
-    "path": "vantage/1.20.12/en_CA",
-    "rev": "1155505",
-    "sha256": "1lr82jw9cfvdm80sz6nrpd1fw48fffzk69pf3rqvgkqmj5h6j020",
-    "version": "1.20.12"
+    "path": "vantage/1.20.14/en_CA",
+    "rev": "1166943",
+    "sha256": "1dsqp2lvknfadirp5l4007ijz5b0awjz0plhwb02f0fz2cmxhc1i",
+    "version": "1.20.14"
   },
   "vantage-en_GB": {
-    "path": "vantage/1.20.12/en_GB",
-    "rev": "1155506",
-    "sha256": "0xij0njfckhyc9xramnkqinpkrxfabssssn2gab5d222l5rjsvx9",
-    "version": "1.20.12"
+    "path": "vantage/1.20.14/en_GB",
+    "rev": "1166944",
+    "sha256": "0rqncj4y6wwwy613181f4r4f3bzay7sz739xghahca26kjm5ndxh",
+    "version": "1.20.14"
   },
   "vantage-es_CO": {
-    "path": "vantage/1.20.12/es_CO",
-    "rev": "1155513",
-    "sha256": "15hw4ldvsc62dzi44dgzn67m1j1cgqbwn92504ag0qps3nrbdhcs",
-    "version": "1.20.12"
+    "path": "vantage/1.20.14/es_CO",
+    "rev": "1166951",
+    "sha256": "035i4qi0pxky0362lkwhg1a9l6s36ff135knpi45j5nqry1xi8hg",
+    "version": "1.20.14"
   },
   "vantage-es_EC": {
-    "path": "vantage/1.20.12/es_EC",
-    "rev": "1155514",
-    "sha256": "1si6w6my16irayfxmgldxq4zqkxd52z9l3aj1s2k3qr2d0iyyx4r",
-    "version": "1.20.12"
+    "path": "vantage/1.20.14/es_EC",
+    "rev": "1166952",
+    "sha256": "04p21smjnw1b2fcrvayb1mca3xjwwagx3fmc72ng6xzzj18pwpp0",
+    "version": "1.20.14"
   },
   "vantage-es_ES": {
-    "path": "vantage/1.20.12/es_ES",
-    "rev": "1155515",
-    "sha256": "16nm0kxn9maainsxqrjhbpnz6zaf86mdmbfhdskfk2dszdz5vp9j",
-    "version": "1.20.12"
+    "path": "vantage/1.20.14/es_ES",
+    "rev": "1166953",
+    "sha256": "1cacrdfg25jvf3p9qra1hbypcylfdh4mbgr8lyg5dpayxlqmh6bp",
+    "version": "1.20.14"
   },
   "vantage-es_VE": {
-    "path": "vantage/1.20.12/es_VE",
-    "rev": "1155516",
-    "sha256": "1yhllmjhqdmd0r27zrmh8mjsllq5q9v8aj2i8p7jrbjvcmncvwx6",
-    "version": "1.20.12"
+    "path": "vantage/1.20.14/es_VE",
+    "rev": "1166954",
+    "sha256": "1sipds8hmc3i0qkq4lnnag7kn8n3v109hgjskk0w7x184brv0a04",
+    "version": "1.20.14"
   },
   "vantage-gl_ES": {
-    "path": "vantage/1.20.12/gl_ES",
-    "rev": "1155507",
-    "sha256": "0na1110s6156a1j32jiqlm38rpcjms0l9zccqm65mfvc07m2snfr",
-    "version": "1.20.12"
+    "path": "vantage/1.20.14/gl_ES",
+    "rev": "1166945",
+    "sha256": "0qhyhijxbw2f8v03c7b3cp9ba7m3h9fhiba19bmicgap9ih2wzck",
+    "version": "1.20.14"
   },
   "vantage-it_IT": {
-    "path": "vantage/1.20.12/it_IT",
-    "rev": "1155510",
-    "sha256": "0c5kkih6aiywsvzlajb568mmfv06r2fyma14piqmik13gclvy461",
-    "version": "1.20.12"
+    "path": "vantage/1.20.14/it_IT",
+    "rev": "1166948",
+    "sha256": "1wzsfzmjlvkb8wrr68ci848qpwdiyn39c3mx71nvc95ja5d7bwyv",
+    "version": "1.20.14"
   },
   "vantage-ja": {
-    "path": "vantage/1.20.12/ja",
-    "rev": "1155511",
-    "sha256": "1fcr95m6yinsrgg85777d8n7x7s9yr3hsqfvbq7cmm7bwvha7lww",
-    "version": "1.20.12"
+    "path": "vantage/1.20.14/ja",
+    "rev": "1166949",
+    "sha256": "0dfw24ckwckbmms0kwvbkarsfhq7wfzk0d382irnsxjc5fbb8fsl",
+    "version": "1.20.14"
   },
   "vantage-nl_BE": {
-    "path": "vantage/1.20.12/nl_BE",
-    "rev": "1155503",
-    "sha256": "0rvxhv72ssq6f7zq5s3jd2fqwxq9f9cnpbd2zbv6cj9qxy5c8ls1",
-    "version": "1.20.12"
+    "path": "vantage/1.20.14/nl_BE",
+    "rev": "1166941",
+    "sha256": "04lgdvjjag4p149p26jgjy309asji7kbjmm4hwf7vj78jl8h3jvs",
+    "version": "1.20.14"
   },
   "vantage-nl_NL": {
-    "path": "vantage/1.20.12/nl_NL",
-    "rev": "1155502",
-    "sha256": "1kn1vas01wkpz427djprfxrd5f06iznnncn8ylg9p2w9nqnfy7wn",
-    "version": "1.20.12"
+    "path": "vantage/1.20.14/nl_NL",
+    "rev": "1166940",
+    "sha256": "0741q8a3jl6l38is38r13w8ayc8n0rsa1wckqjsyxljrcrarhj4q",
+    "version": "1.20.14"
   },
   "vantage-nl_NL_formal": {
-    "path": "vantage/1.20.12/nl_NL_formal",
-    "rev": "1155504",
-    "sha256": "0rjbcs41vvcd75v9mrw32r8gqdb9mhjkkinss8nbwmwj7xnv35gj",
-    "version": "1.20.12"
+    "path": "vantage/1.20.14/nl_NL_formal",
+    "rev": "1166942",
+    "sha256": "10v7zdw9fvcdwi2sba5w2hcpbqffi07nx362fgw2c23py0knmlzf",
+    "version": "1.20.14"
   },
   "vantage-sr_RS": {
-    "path": "vantage/1.20.12/sr_RS",
-    "rev": "1155512",
-    "sha256": "0y6bcssq3938gi0yhh4z1q4hy9ann3i5db23xnl7i19f1lim94ic",
-    "version": "1.20.12"
+    "path": "vantage/1.20.14/sr_RS",
+    "rev": "1166950",
+    "sha256": "1i15wk9fcqr0wcxv0y55lxs1pg42smydmvhi8hrxqdsi20dhyczk",
+    "version": "1.20.14"
   },
   "varg-ary": {
     "path": "varg/1.3.9/ary",
@@ -138181,8 +138193,8 @@
   },
   "zakra-es_ES": {
     "path": "zakra/2.2.2.1/es_ES",
-    "rev": "1164453",
-    "sha256": "03sd34fiak186k32vq6ly2yk7m155n9l739qarw7mmsnijbydxla",
+    "rev": "1167015",
+    "sha256": "1sg62gmbrg5qzjkhxlva01qgzw6xlrw2rraqp78drygw6yilswz4",
     "version": "2.2.2.1"
   },
   "zakra-es_MX": {
