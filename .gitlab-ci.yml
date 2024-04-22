@@ -42,7 +42,8 @@ build:
 
 run_full:
   stage: run
-  needs: []
+  needs:
+    - build
   when: always
   rules:
     - if: '$CI_PIPELINE_SOURCE == "schedule" && $COMMAND == "run"'
@@ -51,12 +52,13 @@ run_full:
       - ./*.log
       - ./*.json
   script:
-    - ./ci/build
     - ./ci/run
+    - ./ci/test
 
 run_debug:
   stage: run
-  needs: []
+  needs:
+    - build
   when: always
   rules:
     - if: '$CI_PIPELINE_SOURCE != "schedule"'
@@ -67,8 +69,8 @@ run_debug:
       - ./*.log
       - ./*.json
   script:
-    - ./ci/build
     - ./ci/run
+    - ./ci/test
 
 test:
   stage: test
@@ -83,7 +85,8 @@ test:
 
 push:
   stage: push
-  needs: []
+  needs:
+    - run_full
   when: always
   rules:
     - if: '$CI_PIPELINE_SOURCE == "schedule" && $COMMAND == "run"'
@@ -92,6 +95,11 @@ push:
 
 helsinki_npins:
   stage: npins
+  needs:
+    - push
+  when: always
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "schedule" && $COMMAND == "run"'
   trigger: helsinki-systems/helsinki
   variables:
     COMMAND: update_pin
