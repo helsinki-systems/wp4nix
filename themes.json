@@ -276,22 +276,22 @@
     "version": "4.4"
   },
   "aasta": {
-    "path": "aasta/9.3",
-    "rev": "225115",
-    "sha256": "0sa2pxii14m33920djk0a4g9dj5br27jih31mpgrl3lr5zqyyzka",
-    "version": "9.3"
+    "path": "aasta/9.4",
+    "rev": "226702",
+    "sha256": "07bvyphxgzkl406g47q6m65z3qbj2m9amfv96mz6c8wx9xlcd1gw",
+    "version": "9.4"
   },
   "aasta-blog": {
-    "path": "aasta-blog/3.7",
-    "rev": "225116",
-    "sha256": "148513bzpwzcs9rlkq1z5ry0azryf3nmsqdrmwr813hbdqa10lgj",
-    "version": "3.7"
+    "path": "aasta-blog/3.8",
+    "rev": "226703",
+    "sha256": "1413z3chv6x9gq9wh2gjjsfri19m5j79yi9b490caqx1pz8v9k0g",
+    "version": "3.8"
   },
   "aasta-light": {
-    "path": "aasta-light/8.8",
-    "rev": "225117",
-    "sha256": "1v82ka9c73h9r39f7p7f4wia4bd8h7843ipbdib9mqdfvbg381ql",
-    "version": "8.8"
+    "path": "aasta-light/8.9",
+    "rev": "226704",
+    "sha256": "1mplqhw5sz5bs9ihd2v4qlapn85yd2s5j419pp1xpi1lzjwwl1b4",
+    "version": "8.9"
   },
   "abacus": {
     "path": "abacus/1.0.8",
@@ -582,10 +582,10 @@
     "version": "1.0.5"
   },
   "accron": {
-    "path": "accron/1.3.1",
-    "rev": "226070",
-    "sha256": "0c1hxdwfc947ydjilak12b11322ylc9kyzwsdwj2dwmxqlxx0j6y",
-    "version": "1.3.1"
+    "path": "accron/1.3.2",
+    "rev": "226833",
+    "sha256": "13dgbfy1qlz8plpwy36hr6c5jv50589kzhgvh2h1m6hd14sx42cd",
+    "version": "1.3.2"
   },
   "ace-blog": {
     "path": "ace-blog/1.0.1",
@@ -972,16 +972,16 @@
     "version": "1.1.1"
   },
   "advance-it-company": {
-    "path": "advance-it-company/1.0.9",
-    "rev": "224125",
-    "sha256": "0rf15rxfl6zjilcdh03dldq8q39ba23rga0iil2gyy4ms54nd99x",
-    "version": "1.0.9"
+    "path": "advance-it-company/1.1.0",
+    "rev": "226763",
+    "sha256": "1q0398rcs3n2040q8xvffbhx1lcs01p2gj9kg259xv8vi8z51f19",
+    "version": "1.1.0"
   },
   "advance-marketing-agency": {
-    "path": "advance-marketing-agency/0.4.3",
-    "rev": "225846",
-    "sha256": "1dai2mnjzhg3imwkw5nqh1n1fglb4g17fbijpsrg0dry98s35w6v",
-    "version": "0.4.3"
+    "path": "advance-marketing-agency/0.4.4",
+    "rev": "226764",
+    "sha256": "1hvy1wnl18nv7nn7nvrx3pl6ksbqnxqp2viz728sq69qlhm2s8sk",
+    "version": "0.4.4"
   },
   "advance-pet-care": {
     "path": "advance-pet-care/1.2.3",
@@ -996,10 +996,10 @@
     "version": "0.9.7"
   },
   "advance-startup": {
-    "path": "advance-startup/0.9.5",
-    "rev": "225847",
-    "sha256": "0hsf1p3lhji0q9ixdfg543zdlbg06zymcm94f008qxwrdjwa6jmj",
-    "version": "0.9.5"
+    "path": "advance-startup/0.9.6",
+    "rev": "226765",
+    "sha256": "1f72zmlsi35rfgv5rqc8gbavjhln8vhd5rh906jyc4yjr4sfsixj",
+    "version": "0.9.6"
   },
   "advance-techup": {
     "path": "advance-techup/1.2",
@@ -1008,10 +1008,10 @@
     "version": "1.2"
   },
   "advance-training-academy": {
-    "path": "advance-training-academy/0.5.1",
-    "rev": "225848",
-    "sha256": "0n4q9dfghh76pmppk8fymxr0105ilhfn8scwr2msklqk765v6hxj",
-    "version": "0.5.1"
+    "path": "advance-training-academy/0.5.2",
+    "rev": "226766",
+    "sha256": "0bljd8x5sgqmrbx20vwyjlsdji77jhz6r14n3wzvsn8ibgwidxhr",
+    "version": "0.5.2"
   },
   "advantage": {
     "path": "advantage/1.0.3",
@@ -1331,6 +1331,12 @@
     "sha256": "0m12d2869aj04m6h230swi0xyrs615qnc0mxz8yl4k23xm6i3ii7",
     "version": "1.6"
   },
+  "agency-eye": {
+    "path": "agency-eye/1.0.0",
+    "rev": "226392",
+    "sha256": "0jbn9kjmma4nn6f6h9n1ipp0cgb7afsfbvl941clpz7530wp86sy",
+    "version": "1.0.0"
+  },
   "agency-firm": {
     "path": "agency-firm/1.4",
     "rev": "226360",
@@ -1398,10 +1404,10 @@
     "version": "0.3"
   },
   "agencywp": {
-    "path": "agencywp/8.3",
-    "rev": "225118",
-    "sha256": "1lsmscw49nd6c57rar0avv948fxj5xwnkmbgx15p96rn4hlvsxg1",
-    "version": "8.3"
+    "path": "agencywp/8.4",
+    "rev": "226705",
+    "sha256": "06vml7kyfa79b9rdf8cmmbijb2094j5rnxlfbyk9js1af2c7fbvl",
+    "version": "8.4"
   },
   "agencyx": {
     "path": "agencyx/1.0.8",
@@ -1446,10 +1452,10 @@
     "version": "1.0.0"
   },
   "agriculture-farm": {
-    "path": "agriculture-farm/0.6.1",
-    "rev": "225849",
-    "sha256": "0lwgw23x921fhk94spi505cjynh2pcsqh0lsk8i0l2qcabr6xklv",
-    "version": "0.6.1"
+    "path": "agriculture-farm/0.6.2",
+    "rev": "226767",
+    "sha256": "0alkr915k3jaywfj102wq97gwd4s03zk9pm8i5yp6lis88w9j6gw",
+    "version": "0.6.2"
   },
   "agriculture-farming": {
     "path": "agriculture-farming/3.3",
@@ -1536,10 +1542,10 @@
     "version": "1.0.17"
   },
   "airin-blog": {
-    "path": "airin-blog/1.4.6",
-    "rev": "225020",
-    "sha256": "0psibxxp0mzq2i7aclqbmrwr4a7hpq2qcrs9nj3ffrf210knzp1w",
-    "version": "1.4.6"
+    "path": "airin-blog/1.4.7",
+    "rev": "226853",
+    "sha256": "1bh9x702rk6q0zzh3frj83k69h0p2x54zpfc7ina8i7gqzzvk86d",
+    "version": "1.4.7"
   },
   "airl": {
     "path": "airl/1.1.4",
@@ -2064,10 +2070,10 @@
     "version": "1.6"
   },
   "allx": {
-    "path": "allx/2.0.4",
-    "rev": "225488",
-    "sha256": "1kvl8gm57dfvcll77g7zdf9rb34byy0xa1aa824mc8hwnf1sdrrs",
-    "version": "2.0.4"
+    "path": "allx/2.0.5",
+    "rev": "226850",
+    "sha256": "1rm5ndn26m9bp7mk08clqlqlwhl53ya1vai5v326yymci03wh6vm",
+    "version": "2.0.5"
   },
   "almaira-shop": {
     "path": "almaira-shop/1.2.8",
@@ -3066,10 +3072,10 @@
     "version": "7.6"
   },
   "appointech": {
-    "path": "appointech/6.8",
-    "rev": "225119",
-    "sha256": "0fkg3v28zvzn866gg80yidq0y1n0gzpv2h98bz8wkp6qb04ijr5b",
-    "version": "6.8"
+    "path": "appointech/6.9",
+    "rev": "226706",
+    "sha256": "0j5vlsa07x6083gxqpbpswb0gcwy3m106mgrcvjahwi62i7f66ml",
+    "version": "6.9"
   },
   "appointee": {
     "path": "appointee/2.0.7",
@@ -3114,10 +3120,10 @@
     "version": "1.3.8"
   },
   "appointo": {
-    "path": "appointo/7.6",
-    "rev": "226071",
-    "sha256": "130jgi660p4zzpf1iyii7svi87j7q5nprwzjkiqhqlwdnw2jzjv9",
-    "version": "7.6"
+    "path": "appointo/7.7",
+    "rev": "226834",
+    "sha256": "0yfdh8fld8sv7pik3iv0vy2l1qr6z75skj3zz07dlq53rk05c1fw",
+    "version": "7.7"
   },
   "appointway": {
     "path": "appointway/1.1.4",
@@ -3294,10 +3300,10 @@
     "version": "1.0.21"
   },
   "archie": {
-    "path": "archie/1.2.4",
-    "rev": "172184",
-    "sha256": "16bhq2x40b9cx28dpa926x3k6rbykrchknih4fj4fg6l2pgixn54",
-    "version": "1.2.4"
+    "path": "archie/1.2.5",
+    "rev": "226854",
+    "sha256": "1n87nwcvx6fqcqfrccfwwj3pmjmav321sv5cm81n9xagi1666s64",
+    "version": "1.2.5"
   },
   "architect-architecture": {
     "path": "architect-architecture/0.5.7",
@@ -3360,10 +3366,10 @@
     "version": "1.0.4"
   },
   "architect-studio": {
-    "path": "architect-studio/6.1",
-    "rev": "225120",
-    "sha256": "06fqkq6ja6rgsnlrg37sykx0zxphnky89pidpvmhwsg6kgnkz2g2",
-    "version": "6.1"
+    "path": "architect-studio/6.2",
+    "rev": "226707",
+    "sha256": "163x0v9w5ymn3r73cxapkcaq7l9221237bsz074yf41sa3vlbl4h",
+    "version": "6.2"
   },
   "architecto": {
     "path": "architecto/8.4",
@@ -3648,10 +3654,10 @@
     "version": "1.0.1"
   },
   "aromatic": {
-    "path": "aromatic/9.6",
-    "rev": "226591",
-    "sha256": "1z5l6fyhs9nnxacgbvzx9kxs1v4m88qd8m3ynz5c9ci5r3v7hrsc",
-    "version": "9.6"
+    "path": "aromatic/9.7",
+    "rev": "226801",
+    "sha256": "1pxyfg4nq4ijaz84vnvr5yf48kcjg79p3v0ikci6frf8yvqpznbb",
+    "version": "9.7"
   },
   "aron": {
     "path": "aron/1.0.7",
@@ -3828,10 +3834,10 @@
     "version": "1.6"
   },
   "arvada": {
-    "path": "arvada/6.5",
-    "rev": "225129",
-    "sha256": "0x6rdzjxsacqdkh66gla1vqicjf6gjma5gidjipw5jgs6cj2z1dn",
-    "version": "6.5"
+    "path": "arvada/6.6",
+    "rev": "226717",
+    "sha256": "0ri1ldqvszi51yvcvm7xdlrhxr1s3mxpvwgyizgg18afdb6djvp0",
+    "version": "6.6"
   },
   "arvana": {
     "path": "arvana/1.0.37",
@@ -3894,10 +3900,10 @@
     "version": "1.0.1"
   },
   "ascendoor-magazine": {
-    "path": "ascendoor-magazine/1.2.0",
-    "rev": "210603",
-    "sha256": "17n4bdbvy7f9p297cd80lh23h1phaml39wn51b27lifr1hvmwi9h",
-    "version": "1.2.0"
+    "path": "ascendoor-magazine/1.2.1",
+    "rev": "226738",
+    "sha256": "1rwwlnx00217hbw1bpwi97sz0r42qmw915sqggvv79h5cq9m5g81",
+    "version": "1.2.1"
   },
   "ascendoor-news": {
     "path": "ascendoor-news/1.0.2",
@@ -3978,10 +3984,10 @@
     "version": "1.0.2"
   },
   "assentpress": {
-    "path": "assentpress/13.0",
-    "rev": "225130",
-    "sha256": "062sg3i2rzdlakwl6ry55pyzyfkbq2g6y3fali408blpig1dyd1v",
-    "version": "13.0"
+    "path": "assentpress/13.1",
+    "rev": "226718",
+    "sha256": "1fds3pq47njxscnc4lal0j8zi12ic894ynr9vb3npv2k4bv5calj",
+    "version": "13.1"
   },
   "associationx": {
     "path": "associationx/2.0",
@@ -4362,16 +4368,16 @@
     "version": "1.0.49"
   },
   "atuvi": {
-    "path": "atuvi/0.2",
-    "rev": "226564",
-    "sha256": "1njc2mkd1pp4sjkdbwg6x4izgsg6w51639c23l5nnd64mn2g098j",
-    "version": "0.2"
+    "path": "atuvi/0.3",
+    "rev": "226792",
+    "sha256": "0q8j78sa99skpdz5nxyzljaksdcq1hi1ri5lbq7kzbsrqvab3gjs",
+    "version": "0.3"
   },
   "atuxa": {
-    "path": "atuxa/1.0.5",
-    "rev": "226041",
-    "sha256": "10iri25bnc2b3q7p43cwga93s04zkwfc8r8karjnjq75f8qpp36y",
-    "version": "1.0.5"
+    "path": "atuxa/1.0.6",
+    "rev": "226791",
+    "sha256": "0i6mb1ssb2mwhsjl6lrw6wca52m2wjj8v4zsqnb2rgq5cma84dg1",
+    "version": "1.0.6"
   },
   "atwood": {
     "path": "atwood/1.2.5",
@@ -4566,10 +4572,10 @@
     "version": "3.5"
   },
   "auto-parts-garage": {
-    "path": "auto-parts-garage/0.4.2",
-    "rev": "223846",
-    "sha256": "08cl4sbcv1sm9ny87n436hq97idfdv97fdhczqvfmvdkqcja5bi0",
-    "version": "0.4.2"
+    "path": "auto-parts-garage/0.4.3",
+    "rev": "226751",
+    "sha256": "01vjvzxpqb4ksv3rf55qxddc4fary7piy9r8xghd1v00n9kh70a9",
+    "version": "0.4.3"
   },
   "auto-parts-store": {
     "path": "auto-parts-store/1.0.5",
@@ -4932,10 +4938,10 @@
     "version": "0.2.7"
   },
   "avira": {
-    "path": "avira/9.6",
-    "rev": "226026",
-    "sha256": "0m7zzsnskhivf7hjp32ya21zjhgn5w5lx9zj6mjm0xm7yfb7qazh",
-    "version": "9.6"
+    "path": "avira/9.7",
+    "rev": "226732",
+    "sha256": "1bi7d12204pvp03hjd8l2bwnyp20d9hdihbb926nai526c4cb6fg",
+    "version": "9.7"
   },
   "avis-lite": {
     "path": "avis-lite/1.0.7",
@@ -4992,10 +4998,10 @@
     "version": "1.0.4"
   },
   "avril": {
-    "path": "avril/8.4",
-    "rev": "226072",
-    "sha256": "0z9d4wxr3vc0cd62gyzzi6v4dhqawcrmqkdpvdf3g5nissdqrblg",
-    "version": "8.4"
+    "path": "avril/8.5",
+    "rev": "226835",
+    "sha256": "0xgrl86kb5sdwrl4z35b4aynvzyc8sqmfg8wyrgy67gh7lx03ycp",
+    "version": "8.5"
   },
   "avrilly": {
     "path": "avrilly/1.0.7",
@@ -5262,10 +5268,10 @@
     "version": "1.4.3"
   },
   "ayroma": {
-    "path": "ayroma/9.1",
-    "rev": "226592",
-    "sha256": "1qgrsd6m6yzzpxcbrakdr3p0jm5rj2gh4g6zqp2zdc6rg8mmgghk",
-    "version": "9.1"
+    "path": "ayroma/9.2",
+    "rev": "226803",
+    "sha256": "0bcks90w4mlwy6091l7iz2b5qwgznx6csfp5jf5fivl6qipa4x8s",
+    "version": "9.2"
   },
   "aytias": {
     "path": "aytias/1.0.1",
@@ -6072,10 +6078,10 @@
     "version": "0.3"
   },
   "beauty-spa-salon": {
-    "path": "beauty-spa-salon/11.6",
-    "rev": "225131",
-    "sha256": "15vwldfhs8jj8zjncxj9vwchqygi72xs4iipfrcb29p46vmhvvrw",
-    "version": "11.6"
+    "path": "beauty-spa-salon/11.7",
+    "rev": "226719",
+    "sha256": "1dpf6capfzzp5cj61vpwvp6marmdn6qgzc8hb6885xgncpq5bac7",
+    "version": "11.7"
   },
   "beauty-studio": {
     "path": "beauty-studio/3.0.4",
@@ -6264,10 +6270,10 @@
     "version": "2.5"
   },
   "benzer": {
-    "path": "benzer/9.6",
-    "rev": "226025",
-    "sha256": "1dsf1zbhwnvff4vvbhscwrx3w8bv22pqjjr6sv43ns1ll4ciaqa4",
-    "version": "9.6"
+    "path": "benzer/9.7",
+    "rev": "226733",
+    "sha256": "17x3idbrygnrrg2ahz4x1rqplmzybpsz7xwrkr4kh1q5fp8ip2yp",
+    "version": "9.7"
   },
   "benzin": {
     "path": "benzin/1.2.1",
@@ -7090,6 +7096,12 @@
     "rev": "175801",
     "sha256": "0a672yq96r5lxaarzrq7g0yh3rdd8z9grj149nzhjnviwkncrdhl",
     "version": "2.2"
+  },
+  "bizbloom": {
+    "path": "bizbloom/1.2",
+    "rev": "226781",
+    "sha256": "0bg2gwfji2v6paykbb3x627dby2c63p5pa6kjlmpwjvrkyfpdl0b",
+    "version": "1.2"
   },
   "bizboost": {
     "path": "bizboost/1.0.3",
@@ -8274,10 +8286,10 @@
     "version": "0.0.4"
   },
   "blog-page": {
-    "path": "blog-page/1.2.2",
-    "rev": "172099",
-    "sha256": "0rimb0a36cqm0qpadf49axpjkh680ysrp2nw9dywy3wmxaqvlnz0",
-    "version": "1.2.2"
+    "path": "blog-page/1.2.3",
+    "rev": "226865",
+    "sha256": "01sqsxkcl0frxjdswlp907paal36n79zll440mwac7ag72y3xmvq",
+    "version": "1.2.3"
   },
   "blog-path": {
     "path": "blog-path/1.0.2",
@@ -8490,10 +8502,10 @@
     "version": "1.6"
   },
   "blogarise": {
-    "path": "blogarise/0.63",
-    "rev": "226127",
-    "sha256": "04lc924ps4fvaqx3b2yaifq0a5sh9xmsc2ph3gn0hby8pjkjyahk",
-    "version": "0.63"
+    "path": "blogarise/0.64",
+    "rev": "226699",
+    "sha256": "1lda3hvijjryap0ivh7l5al3323zlbvvc3f0hxjsnch7rxi4a2qh",
+    "version": "0.64"
   },
   "blogasm": {
     "path": "blogasm/1.1.0",
@@ -9042,10 +9054,10 @@
     "version": "1.5"
   },
   "blogmine": {
-    "path": "blogmine/1.1.1",
-    "rev": "225511",
-    "sha256": "0i4hkgwvqb0im0csww39v7hh49r3qkni0xb6clkiy2kr48jv0wzw",
-    "version": "1.1.1"
+    "path": "blogmine/1.1.2",
+    "rev": "226846",
+    "sha256": "05xy6cs91s5xqryl91bhbv89lc81mz3agsrpnzjs8rbwnl1zc3pk",
+    "version": "1.1.2"
   },
   "blogmotive": {
     "path": "blogmotive/1.1.0",
@@ -10409,6 +10421,12 @@
     "sha256": "0pxbpd0yvw8s4asdj6p2a1kfhjlfj3kalgl6g8nlng0gp38709v3",
     "version": "1.0.5"
   },
+  "bosa-corpo": {
+    "path": "bosa-corpo/1.0.0",
+    "rev": "226542",
+    "sha256": "1i4rcrrjp1wp40s3334fwgfx30x4dfidbx97b49p45mvrpazjr92",
+    "version": "1.0.0"
+  },
   "bosa-corporate-business": {
     "path": "bosa-corporate-business/1.0.3",
     "rev": "175290",
@@ -10962,10 +10980,10 @@
     "version": "1.5"
   },
   "brightpress": {
-    "path": "brightpress/2.5.1",
-    "rev": "225132",
-    "sha256": "0yrdlfmr5a921sq5fldg260dml40a6gwz59h5yczzbac98bga43h",
-    "version": "2.5.1"
+    "path": "brightpress/2.5.2",
+    "rev": "226720",
+    "sha256": "1h9vjpnyvcz0h7sdlljrj5a3phbj1awzdiid9m12jx7arpfn8zc6",
+    "version": "2.5.2"
   },
   "brigsby": {
     "path": "brigsby/1.10.0",
@@ -11256,10 +11274,10 @@
     "version": "6.3"
   },
   "builderzone": {
-    "path": "builderzone/3.3",
-    "rev": "225122",
-    "sha256": "0q7ivawyblmcl74h5hijaqz6zl99p6zm4vjliq4rgbxrfldiczjd",
-    "version": "3.3"
+    "path": "builderzone/3.4",
+    "rev": "226708",
+    "sha256": "0bg3xvnqh2wnih0pql4xd3hqhr9xpg8mxb43gs5b8234fy380yra",
+    "version": "3.4"
   },
   "building-blocks": {
     "path": "building-blocks/1.1",
@@ -12102,10 +12120,10 @@
     "version": "1.0.6"
   },
   "business-roy": {
-    "path": "business-roy/1.1.0",
-    "rev": "214295",
-    "sha256": "1c8g9w9dyb2kl3dm5mny48raprp2nb1nfqc0qvh77cj3khc8mx6z",
-    "version": "1.1.0"
+    "path": "business-roy/1.1.1",
+    "rev": "226737",
+    "sha256": "0ms8ngmzcy1pm3301qp7c5f3ivb01yqi2kmr4hg5l8szs1b9bxyp",
+    "version": "1.1.1"
   },
   "business-shop": {
     "path": "business-shop/1.0.3",
@@ -12150,10 +12168,10 @@
     "version": "1.1.6"
   },
   "business-stock": {
-    "path": "business-stock/1.1",
-    "rev": "225133",
-    "sha256": "0r7wibjvm4lpbd6xd2hf02524py45kvlaly0fgr9a8zzszw2mx34",
-    "version": "1.1"
+    "path": "business-stock/1.2",
+    "rev": "226721",
+    "sha256": "0aj0m3r6gds29ikvyx8a20yk7rxr7rjsiis31z60304y4c0pd7hi",
+    "version": "1.2"
   },
   "business-store": {
     "path": "business-store/1.3.3",
@@ -12258,10 +12276,10 @@
     "version": "1.8"
   },
   "businesslab": {
-    "path": "businesslab/4.2",
-    "rev": "225121",
-    "sha256": "091js777b591kb8hfpkrbw5abpcw5lh28004hgpzw4c1vg63950v",
-    "version": "4.2"
+    "path": "businesslab/4.3",
+    "rev": "226709",
+    "sha256": "0122adpqwsf3vcfp21kgn0kqmk7h4p7ralgw6s70krfj8zr97qq2",
+    "version": "4.3"
   },
   "businessly": {
     "path": "businessly/6.1",
@@ -13164,10 +13182,10 @@
     "version": "0.6"
   },
   "cargo-transport": {
-    "path": "cargo-transport/1.4.6",
-    "rev": "225182",
-    "sha256": "0is583b63nyiklki58iv2bpzk5wb1nhlr5frvw2s2rhra3918px6",
-    "version": "1.4.6"
+    "path": "cargo-transport/1.4.7",
+    "rev": "226828",
+    "sha256": "10ax3maps26zny8q4h9ry5l4myfb446w72y01pxf88dik7ypf6rd",
+    "version": "1.4.7"
   },
   "cargoex": {
     "path": "cargoex/1.4",
@@ -13512,10 +13530,10 @@
     "version": "0.4.5"
   },
   "catering-services": {
-    "path": "catering-services/0.4.4",
-    "rev": "223847",
-    "sha256": "0kw96p52szd8pjd9yj2yr5s9ymgawfghcna3g170wx3k6vxap281",
-    "version": "0.4.4"
+    "path": "catering-services/0.4.5",
+    "rev": "226752",
+    "sha256": "05xxlqk3xby4xqmf84h8wa2gg70y23v9dgipfrr77c9mf538363r",
+    "version": "0.4.5"
   },
   "catmandu": {
     "path": "catmandu/1.1.3",
@@ -14310,10 +14328,10 @@
     "version": "1.0.0"
   },
   "christmas-holiday": {
-    "path": "christmas-holiday/0.3.9",
-    "rev": "224061",
-    "sha256": "1zd3is55029q7z01wxk3q37m42dda2k4vxxqj95ifsbdqh56mb70",
-    "version": "0.3.9"
+    "path": "christmas-holiday/0.4",
+    "rev": "226780",
+    "sha256": "02c2x31vxpi3mrsp6r6k35achyy1m0z6rc04j1ygia7b8l3ly5v7",
+    "version": "0.4"
   },
   "christmas-is-near": {
     "path": "christmas-is-near/1.3.3",
@@ -15270,10 +15288,10 @@
     "version": "0.1.2"
   },
   "clothing": {
-    "path": "clothing/1.0.2",
-    "rev": "226413",
-    "sha256": "03pg58cdgx0mswska42s8miq10j9nw8hy47sg35gk12vh1sgi4g3",
-    "version": "1.0.2"
+    "path": "clothing/1.0.3",
+    "rev": "226845",
+    "sha256": "1gpzm7riy02sj67i7hj5f1mavqiadxn2xf53g4xffq407s0p5b8c",
+    "version": "1.0.3"
   },
   "clothing-apparel-shop": {
     "path": "clothing-apparel-shop/2.1",
@@ -15906,10 +15924,10 @@
     "version": "1.2.7"
   },
   "colorpress": {
-    "path": "colorpress/8.0",
-    "rev": "226073",
-    "sha256": "12hvivc80w1lpc30n4ssjz3hnykzp21blcc0mk4hidjidxj7ybrb",
-    "version": "8.0"
+    "path": "colorpress/8.1",
+    "rev": "226836",
+    "sha256": "1dsdxk3vjcn71dnbzdy5vc2bn3lzhjabqgaz680m7664237z4alk",
+    "version": "8.1"
   },
   "colors": {
     "path": "colors/0.2",
@@ -16152,10 +16170,10 @@
     "version": "1.2"
   },
   "conceptly": {
-    "path": "conceptly/9.0",
-    "rev": "226074",
-    "sha256": "1kksqnc2wjyvyv3w12whp2apzpapiipl3whl2wrhad0blr5d73j6",
-    "version": "9.0"
+    "path": "conceptly/9.1",
+    "rev": "226837",
+    "sha256": "1qjrrw0sgg0n24viaqb83z7br6wff6l692v8fi4cp1h6lr60m8x2",
+    "version": "9.1"
   },
   "conference-event-planner": {
     "path": "conference-event-planner/1.5",
@@ -16506,10 +16524,10 @@
     "version": "2.1"
   },
   "consultexo": {
-    "path": "consultexo/7.2",
-    "rev": "225123",
-    "sha256": "1kl4msx19xh2p9iww6ah1nzvhlf6szji9c93vh3pljj20fim8sva",
-    "version": "7.2"
+    "path": "consultexo/7.3",
+    "rev": "226710",
+    "sha256": "0r0jfsk9pfwygd4f6vw2rbfcwv4hqrg3vnklq9ibl4klci52slhc",
+    "version": "7.3"
   },
   "consulting": {
     "path": "consulting/1.4.6",
@@ -16554,10 +16572,10 @@
     "version": "1.2.3"
   },
   "consultstreet": {
-    "path": "consultstreet/2.6.7",
-    "rev": "225134",
-    "sha256": "13i4jd6y2gigcz7d6v2ayakivg62g4n6bsnj7j00mrzbpcy18h2x",
-    "version": "2.6.7"
+    "path": "consultstreet/2.6.8",
+    "rev": "226723",
+    "sha256": "0rzpv4jsyf9388hn2862m79r6ivzyqk9ccf7yglgyjdrs2lz6gw7",
+    "version": "2.6.8"
   },
   "consultup": {
     "path": "consultup/1.9.9.40",
@@ -16572,10 +16590,10 @@
     "version": "1.0.5"
   },
   "consultzone": {
-    "path": "consultzone/1.6",
-    "rev": "225135",
-    "sha256": "14rmpxxfz7gm7gbwxqjya2977fcpcnqr17djz5lbwhhww7a3912d",
-    "version": "1.6"
+    "path": "consultzone/1.7",
+    "rev": "226724",
+    "sha256": "14774i6rmhz1mrk3i1ybhqj4df3zph10pblg1qddsncj0rq67zg7",
+    "version": "1.7"
   },
   "consus": {
     "path": "consus/1.0.8",
@@ -16878,10 +16896,10 @@
     "version": "1.5"
   },
   "corpex": {
-    "path": "corpex/1.6",
-    "rev": "226075",
-    "sha256": "0pjdmfnwmf5svgqzfzgdwj10bkbs9n1bgn0ka2dydxfrlljrspmb",
-    "version": "1.6"
+    "path": "corpex/1.7",
+    "rev": "226838",
+    "sha256": "1y9vscwgvpssbn6paz4mbd09clbq1pj90nvfnd7irqqysvn9f2x6",
+    "version": "1.7"
   },
   "corpo-digital": {
     "path": "corpo-digital/1.4",
@@ -17694,10 +17712,10 @@
     "version": "2.9.1"
   },
   "create-magazine": {
-    "path": "create-magazine/2.7",
-    "rev": "173088",
-    "sha256": "0cm9zgq29181xg66iah6mjxxyrghqh5h9n0fcz4kdxy016alpawv",
-    "version": "2.7"
+    "path": "create-magazine/2.8",
+    "rev": "226857",
+    "sha256": "0qyswzqm58bhfhy52mmwap89liscl602db4m90d6m4g046mmr2s3",
+    "version": "2.8"
   },
   "creatify": {
     "path": "creatify/0.6.0",
@@ -17868,10 +17886,10 @@
     "version": "1.2.2"
   },
   "creative-one-page": {
-    "path": "creative-one-page/0.6.2",
-    "rev": "225850",
-    "sha256": "19vqx01x0ms33aci56axm3dvyl1dxj9hd42xy94qicm7f8jjysx8",
-    "version": "0.6.2"
+    "path": "creative-one-page/0.6.3",
+    "rev": "226768",
+    "sha256": "1syjzmq8c44vcagsnds11vycrl0q9d383pz7zkw0viqkxn3vxjpi",
+    "version": "0.6.3"
   },
   "creative-portfolio-lite": {
     "path": "creative-portfolio-lite/3.7",
@@ -18036,10 +18054,10 @@
     "version": "1.1"
   },
   "crosswinds-framework": {
-    "path": "crosswinds-framework/1.0.4",
-    "rev": "209394",
-    "sha256": "0gk66bhfpqzp8grhdlcafwy6js9gqklj6qw24kj1vqg7w8h7cj9v",
-    "version": "1.0.4"
+    "path": "crosswinds-framework/1.1",
+    "rev": "226851",
+    "sha256": "075xsxckgfdhhhavzg19lagq6l0g77mj4cx097qj25ifzh8hy886",
+    "version": "1.1"
   },
   "crowdfunding-donation": {
     "path": "crowdfunding-donation/0.4.7",
@@ -19140,10 +19158,10 @@
     "version": "2.03"
   },
   "daystory": {
-    "path": "daystory/1.0.28",
-    "rev": "226628",
-    "sha256": "0632kzy6aqk7h6bq4lr9h6gw5p1nnp2d2qyp1cvap30zlhqbvq1n",
-    "version": "1.0.28"
+    "path": "daystory/1.0.29",
+    "rev": "226786",
+    "sha256": "01b1fpmwp50ygbfhk4ghm188j2djrh936rlq2pn72790pb41fqfk",
+    "version": "1.0.29"
   },
   "daytrip": {
     "path": "daytrip/1.0.5",
@@ -19284,10 +19302,10 @@
     "version": "1.2"
   },
   "decorexo": {
-    "path": "decorexo/10.9",
-    "rev": "225136",
-    "sha256": "1bxvvz3h5s7g3l92yg6c3bk61wkj0mv597gmwxlyxgydknck0cy1",
-    "version": "10.9"
+    "path": "decorexo/11.0",
+    "rev": "226725",
+    "sha256": "0viqnpfragw9yr7ivp2szfnrawm83h1d5wbyv0kl87bcsm1fzapj",
+    "version": "11.0"
   },
   "decorme": {
     "path": "decorme/1.0.18",
@@ -19626,10 +19644,10 @@
     "version": "1.0.2"
   },
   "designer-artist": {
-    "path": "designer-artist/0.3.7",
-    "rev": "223848",
-    "sha256": "1dxzdy8w1wync49dq48ngkmqbrq2vq2y2jp2xcdwn4sfzi1i2a2s",
-    "version": "0.3.7"
+    "path": "designer-artist/0.3.8",
+    "rev": "226755",
+    "sha256": "09m0nd3lha87mfdlx6llcl912bic9cjwhfbcdn8fj0q3njmb0lsl",
+    "version": "0.3.8"
   },
   "designer-blocks": {
     "path": "designer-blocks/1.0.1",
@@ -20022,10 +20040,10 @@
     "version": "2.2"
   },
   "digital-advertising": {
-    "path": "digital-advertising/0.4.6",
-    "rev": "224848",
-    "sha256": "0267yx5c5b98figc6wasmaayrhgasyp1j54wld7rq52wkjcp2phs",
-    "version": "0.4.6"
+    "path": "digital-advertising/0.4.7",
+    "rev": "226829",
+    "sha256": "0p8j3ikwqbyymr7c4gkkhhpjhigvqcmznra18vz1ilh7sjr259b6",
+    "version": "0.4.7"
   },
   "digital-agency-lite": {
     "path": "digital-agency-lite/1.2.1",
@@ -20898,10 +20916,10 @@
     "version": "1.0.3"
   },
   "driving-school-lite": {
-    "path": "driving-school-lite/0.9.6",
-    "rev": "221630",
-    "sha256": "0k431rf7d84v8d886ij6v43iws5qjrm6hq203ncs2qx0i9dglxap",
-    "version": "0.9.6"
+    "path": "driving-school-lite/0.9.7",
+    "rev": "226795",
+    "sha256": "10z4ikf8fj8ka3vdk49dq987bkc3mxjjz45lc77nls4dhgqh49aa",
+    "version": "0.9.7"
   },
   "drizzle-business": {
     "path": "drizzle-business/1.3.3",
@@ -21300,10 +21318,10 @@
     "version": "2.0.2"
   },
   "earnpress": {
-    "path": "earnpress/4.6",
-    "rev": "225137",
-    "sha256": "15dfagxjbyfkbjic35cs30v10nzivy8n0ia6g8vdaljggaws7bbg",
-    "version": "4.6"
+    "path": "earnpress/4.7",
+    "rev": "226726",
+    "sha256": "15369hp1yiqxwvbfxpz0q8x7kay2h65rqyg1nyynd63wj2vd684b",
+    "version": "4.7"
   },
   "earth": {
     "path": "earth/1.0.1",
@@ -21462,10 +21480,10 @@
     "version": "1.0.6"
   },
   "easytech": {
-    "path": "easytech/1.0.20",
-    "rev": "226039",
-    "sha256": "1lzhmyvg4wlnh71v40f6923dfkqzsdpj3m02x9s1ga5l9wgjixmx",
-    "version": "1.0.20"
+    "path": "easytech/1.0.21",
+    "rev": "226789",
+    "sha256": "1f7xa4b8p99srihd0r3kvncmlfw2r74k3zmadzsi0m25sv9vvq5y",
+    "version": "1.0.21"
   },
   "easytheme": {
     "path": "easytheme/2.0",
@@ -21684,10 +21702,10 @@
     "version": "1.0.9"
   },
   "ecommerce-hub": {
-    "path": "ecommerce-hub/0.9.8",
-    "rev": "221631",
-    "sha256": "14411lplfabkfjm8f3mbnq2lg8r34icb21jy54vzws5dcjd17cx1",
-    "version": "0.9.8"
+    "path": "ecommerce-hub/0.9.9",
+    "rev": "226796",
+    "sha256": "181n3wc4jlhfv6rxc1sf7kzmjyacki9yq1941gxg6f7vkgplahlv",
+    "version": "0.9.9"
   },
   "ecommerce-inn": {
     "path": "ecommerce-inn/1.1.1",
@@ -21778,6 +21796,12 @@
     "rev": "129230",
     "sha256": "08iz845n242460rgaihpj5rwphj97436nhvx1am9rihnnx1bfpf0",
     "version": "1.0.5"
+  },
+  "ecommerce-store-elementor": {
+    "path": "ecommerce-store-elementor/0.2",
+    "rev": "226010",
+    "sha256": "0nsjd0m4v30x1hzwsar2jvakcf0fin7f9gds7cym6acp7cqdcr47",
+    "version": "0.2"
   },
   "ecommerce-storefront": {
     "path": "ecommerce-storefront/1.2.2",
@@ -21886,6 +21910,12 @@
     "rev": "220989",
     "sha256": "0zq3hvyvrc0zjl5p9kqcvccvhss6h2qc38igqngvn7bqwmmsj9kl",
     "version": "1.1.2"
+  },
+  "edify": {
+    "path": "edify/1.0.4",
+    "rev": "226847",
+    "sha256": "1sr17iqm92dcv2w7161qdc4ynqy77yxryyddg61x9aiyrwhnjzfk",
+    "version": "1.0.4"
   },
   "edigital": {
     "path": "edigital/1.1.12",
@@ -22368,10 +22398,10 @@
     "version": "1.1.0"
   },
   "edumag": {
-    "path": "edumag/1.1.8",
-    "rev": "172413",
-    "sha256": "1b05igi031vxsfpnix8jpzx84jr1sxl3wj3gjh4bj18qy46wm708",
-    "version": "1.1.8"
+    "path": "edumag/1.1.9",
+    "rev": "226859",
+    "sha256": "19wamwqbdw71x2lhyr9hagsx2pinmwvz8j0raq5irb49d6nfdhmd",
+    "version": "1.1.9"
   },
   "edunation": {
     "path": "edunation/1.0.7",
@@ -22404,10 +22434,10 @@
     "version": "1.0.1"
   },
   "eduvert": {
-    "path": "eduvert/8.1",
-    "rev": "226076",
-    "sha256": "0qsbjl7vy9bal5af3wb2gvg4cv5zapdv3705pls60fg5d6c3v6y3",
-    "version": "8.1"
+    "path": "eduvert/8.2",
+    "rev": "226839",
+    "sha256": "1r63fag5wc3lc9cqlzi8inbw9zfmc55ggzmw3ig1g0sr0y82k92s",
+    "version": "8.2"
   },
   "edward-blog": {
     "path": "edward-blog/1.0.1",
@@ -22656,10 +22686,10 @@
     "version": "1.3.13"
   },
   "election-campaign": {
-    "path": "election-campaign/0.1.4",
-    "rev": "226396",
-    "sha256": "1gwfzywza9hn2qlwk3blfb4gcyflrd7b9lqby9pjz2xiq7hnbihl",
-    "version": "0.1.4"
+    "path": "election-campaign/0.1.5",
+    "rev": "226820",
+    "sha256": "1c5rw9ymxbvazv3xvfsc05bwi2hn0qbxllacabm7mkxz1k2f9d0b",
+    "version": "0.1.5"
   },
   "electo-store": {
     "path": "electo-store/0.1",
@@ -23742,10 +23772,10 @@
     "version": "1.2.1"
   },
   "envopress": {
-    "path": "envopress/9.5",
-    "rev": "225138",
-    "sha256": "0525rzznlawvac0a5v061hbas1s1r2sn1lfss03y180m0apsrcdn",
-    "version": "9.5"
+    "path": "envopress/9.6",
+    "rev": "226727",
+    "sha256": "0hy4s0dwvxrinidh06109wm95sjggszbhzij44qlfmpy51045r9c",
+    "version": "9.6"
   },
   "envy-blog": {
     "path": "envy-blog/1.4.7",
@@ -24774,10 +24804,10 @@
     "version": "1.1.4"
   },
   "express-store": {
-    "path": "express-store/5.2",
-    "rev": "226593",
-    "sha256": "163lznglsi6xnrldfc3ilgics2vra2hd6sybc2zbrxnyv4lc38sy",
-    "version": "5.2"
+    "path": "express-store/5.3",
+    "rev": "226805",
+    "sha256": "0srvvj204j3zzx0ggvvhf26nvkl8f6yzb1jgxrkrh3gmrgxpcy1r",
+    "version": "5.3"
   },
   "expressionblue": {
     "path": "expressionblue/1.0.3",
@@ -25014,10 +25044,10 @@
     "version": "1.3"
   },
   "fabify": {
-    "path": "fabify/9.6",
-    "rev": "226024",
-    "sha256": "1a9y9m7sghkcw4y3nkp8z0lj2japnayd45wyfsa0qdjmx78z1g75",
-    "version": "9.6"
+    "path": "fabify/9.7",
+    "rev": "226734",
+    "sha256": "0j9ss4jd6mp20rmj6mljapr5gbli0ddqhqdayc75ddzk53dv0sdz",
+    "version": "9.7"
   },
   "fabmasonry": {
     "path": "fabmasonry/1.0.1",
@@ -25170,10 +25200,10 @@
     "version": "1.0"
   },
   "fameup": {
-    "path": "fameup/1.0.0.18",
-    "rev": "225114",
-    "sha256": "0bdxjqdd4a34r6ca5m7f9qp1jrzfig0c01crjsv0scv1ql8h2jag",
-    "version": "1.0.0.18"
+    "path": "fameup/1.0.0.19",
+    "rev": "226716",
+    "sha256": "1a9rrmhgx4synjb14fhb4br3qhcx4h6hzj7nqxng4vzyn77xl5sz",
+    "version": "1.0.0.19"
   },
   "family": {
     "path": "family/0.4.3",
@@ -25638,10 +25668,10 @@
     "version": "2.1.9.3"
   },
   "fastest-shop": {
-    "path": "fastest-shop/1.2.4",
-    "rev": "215917",
-    "sha256": "08q97dqam66638af0aajyk5kf0l19i1b6iis5xq3121r8k8khqaw",
-    "version": "1.2.4"
+    "path": "fastest-shop/1.2.5",
+    "rev": "226722",
+    "sha256": "105kq8hykc6kh0g1ilw2a38czj9l57xz6kldgv1sfchz6sx39g52",
+    "version": "1.2.5"
   },
   "fastest-store": {
     "path": "fastest-store/1.0.8",
@@ -25800,10 +25830,10 @@
     "version": "2.5.4"
   },
   "feauty": {
-    "path": "feauty/9.0",
-    "rev": "226594",
-    "sha256": "13yiqnwdd99v92vgawb0hipkq2mib7kas06h5365rqkkx3266ail",
-    "version": "9.0"
+    "path": "feauty/9.1",
+    "rev": "226806",
+    "sha256": "1lryiggyzjzvp2xmn2ybw446k7v5ag51rq83m1a1mbgsgvc8l8jc",
+    "version": "9.1"
   },
   "feedlistly": {
     "path": "feedlistly/1.8",
@@ -26334,10 +26364,10 @@
     "version": "2.7"
   },
   "firm-graphy": {
-    "path": "firm-graphy/1.2.2",
-    "rev": "172412",
-    "sha256": "0czk0l6f1bx64rcw1pjr5g9h4n3ypy327r6jv3q2wpr4khfagpdy",
-    "version": "1.2.2"
+    "path": "firm-graphy/1.2.3",
+    "rev": "226861",
+    "sha256": "0fzdwlz0z61bpck4f1yc8hd9vp3dg3g3jhccpb1fpzwxid6l8c01",
+    "version": "1.2.3"
   },
   "firmasite": {
     "path": "firmasite/1.5.3",
@@ -26544,10 +26574,10 @@
     "version": "1.0.9"
   },
   "fitnessbase": {
-    "path": "fitnessbase/3.2.9",
-    "rev": "225139",
-    "sha256": "1g4qgs2bw3jlinxns29s5qhvnx8f4yq1sskak71p6kmgbhbc27m2",
-    "version": "3.2.9"
+    "path": "fitnessbase/3.3.0",
+    "rev": "226728",
+    "sha256": "0cphy7003k9il71wskqzqwagf8i9xnvrd985r42prmxrzwkwa46b",
+    "version": "3.3.0"
   },
   "fitnessgo": {
     "path": "fitnessgo/1.8",
@@ -26766,10 +26796,10 @@
     "version": "1.1.5"
   },
   "flavita": {
-    "path": "flavita/8.1",
-    "rev": "226077",
-    "sha256": "0lfq3p91i1nhxi1jv6xbfs95bk29f0k9pi5g93wp7y7m1sf8i9p5",
-    "version": "8.1"
+    "path": "flavita/8.2",
+    "rev": "226840",
+    "sha256": "0nva0iynr31ai1r3qskxgy550354d7i63jlzms6151z7dj3p5m4d",
+    "version": "8.2"
   },
   "flawless-recipe": {
     "path": "flawless-recipe/1.0.4",
@@ -26982,10 +27012,10 @@
     "version": "1.1.2"
   },
   "flossy": {
-    "path": "flossy/1.5",
-    "rev": "226595",
-    "sha256": "17qgv8aqdp3nnljrz395hf3znm6a4smws8j0dicdc3abi0cg74v0",
-    "version": "1.5"
+    "path": "flossy/1.6",
+    "rev": "226808",
+    "sha256": "17ajylkx43sbjwaaggbzh5rb3ad0gfmz2n4j2yrd5r2pm1qn321j",
+    "version": "1.6"
   },
   "flounder": {
     "path": "flounder/0.2.4",
@@ -27330,10 +27360,10 @@
     "version": "1.3.9"
   },
   "food-restro": {
-    "path": "food-restro/1.2.7",
-    "rev": "171408",
-    "sha256": "1yvhdcsjcvffp7mfair8md3avglhjiyxaby1q3zafrgifwkwi14d",
-    "version": "1.2.7"
+    "path": "food-restro/1.2.8",
+    "rev": "226863",
+    "sha256": "0sagb0r5xd2c9gark3mzxhc3skijfd04ybrffcz9d85fgp6w2536",
+    "version": "1.2.8"
   },
   "food-travel-blog": {
     "path": "food-travel-blog/1.0.8",
@@ -28194,10 +28224,10 @@
     "version": "1.4"
   },
   "fresh-news": {
-    "path": "fresh-news/1.0.2",
-    "rev": "220966",
-    "sha256": "1hdih5j7bhpn93hzd03kcjp7d5mzhfj3c6ghhpdn53ya4sc6ak2z",
-    "version": "1.0.2"
+    "path": "fresh-news/1.0.3",
+    "rev": "226739",
+    "sha256": "0dbgykplj53zpl47lj6np2c6h6gb0dx4b2ayrz91dcfjdm6pzhvk",
+    "version": "1.0.3"
   },
   "fresh-techup": {
     "path": "fresh-techup/1.1",
@@ -29508,10 +29538,10 @@
     "version": "1.1"
   },
   "globalhub": {
-    "path": "globalhub/2.2",
-    "rev": "225124",
-    "sha256": "0sp0ksykkqqgja5k9qzk3d6kiaahgbsyk92m2jbmw5gsyyhkk8h0",
-    "version": "2.2"
+    "path": "globalhub/2.3",
+    "rev": "226711",
+    "sha256": "0981kzgn4pipm1wx6bkk85nak2n6xh7wy90k30yl8pas6rlmrrg5",
+    "version": "2.3"
   },
   "globetrotter": {
     "path": "globetrotter/1.1.2",
@@ -30084,10 +30114,10 @@
     "version": "1.0.2"
   },
   "gradiant": {
-    "path": "gradiant/8.4",
-    "rev": "226078",
-    "sha256": "1b8w7i1hh9pd613simmbc1crblz0gbk1s7nwyw0haih7hdp3azyb",
-    "version": "8.4"
+    "path": "gradiant/8.5",
+    "rev": "226841",
+    "sha256": "1dyq616wr7gd3x8mxn26ag5mb2873rx89yap8vvy1p957jhq67k4",
+    "version": "8.5"
   },
   "gradient": {
     "path": "gradient/1.0.1",
@@ -31595,6 +31625,12 @@
     "sha256": "11fdylky32zgcb0y4diadw71s3ah1zn1sskl3ri56ia4kd45b50k",
     "version": "1.1"
   },
+  "gym-elementor": {
+    "path": "gym-elementor/1.0",
+    "rev": "225859",
+    "sha256": "1rb9san0gli4lcan890d3fry338fxmsrghzp7a8bajf9ammwpwg0",
+    "version": "1.0"
+  },
   "gym-express": {
     "path": "gym-express/1.0.7",
     "rev": "96584",
@@ -31614,10 +31650,10 @@
     "version": "1.0.1"
   },
   "gym-training-coach": {
-    "path": "gym-training-coach/0.4.2",
-    "rev": "226399",
-    "sha256": "1r68wrfl62pwdys7i98gnsp3dc6nvrqhb9xf4lxyf5hzdg25gbis",
-    "version": "0.4.2"
+    "path": "gym-training-coach/0.4.3",
+    "rev": "226821",
+    "sha256": "0y9j2hr28x2l93vq1q14iq8bm0p5j1174zilfc0gbsw122ybf26r",
+    "version": "0.4.3"
   },
   "gym-workout": {
     "path": "gym-workout/1.2",
@@ -31896,10 +31932,10 @@
     "version": "2.1.5"
   },
   "handyman-cleaner": {
-    "path": "handyman-cleaner/0.1.8",
-    "rev": "226400",
-    "sha256": "010qdjzd9r9wa2i6g23r4rn28l5ilpr738wdbh5jyaqdcgvq15hr",
-    "version": "0.1.8"
+    "path": "handyman-cleaner/0.1.9",
+    "rev": "226822",
+    "sha256": "1mc6dv93rbv8q5fv6wx327qld81v1bzhx9jccss0g6rrp288mcyv",
+    "version": "0.1.9"
   },
   "handyman-cleaning-service": {
     "path": "handyman-cleaning-service/2.2.3",
@@ -31950,10 +31986,10 @@
     "version": "1.5.1"
   },
   "hantus": {
-    "path": "hantus/9.1",
-    "rev": "226079",
-    "sha256": "16rfrlj4ivggwx1ryv4x0c9h1f0yz1cibmi4jvif2qy14g1iaiiw",
-    "version": "9.1"
+    "path": "hantus/9.2",
+    "rev": "226842",
+    "sha256": "0igwskbiwj4m3ajdb7b8qq0hm9d7l838qg3baaxffl41wb5s13v4",
+    "version": "9.2"
   },
   "happenings": {
     "path": "happenings/1.3.3",
@@ -32082,10 +32118,10 @@
     "version": "1.0.2"
   },
   "hartford": {
-    "path": "hartford/2.0",
-    "rev": "225125",
-    "sha256": "1swagvv5w8yngqa2f033cp5yn0k2c00fkgba5pv3lfnwz2s9mdyi",
-    "version": "2.0"
+    "path": "hartford/2.1",
+    "rev": "226712",
+    "sha256": "1zir1gz59xa2x3n4xais1fqf3a9cy5k0jza6wrd6bc2khvnayymq",
+    "version": "2.1"
   },
   "harvest": {
     "path": "harvest/2.0",
@@ -32532,10 +32568,10 @@
     "version": "1.4.8"
   },
   "herbal-ayurveda": {
-    "path": "herbal-ayurveda/0.4.9",
-    "rev": "223849",
-    "sha256": "05mqb3ycpyg6iw4kgn9sqba65n4xz9zpspy4yzm2lknk0rhv4kx0",
-    "version": "0.4.9"
+    "path": "herbal-ayurveda/0.5",
+    "rev": "226757",
+    "sha256": "0gd2xl07jn23lgb4hi344bak2pb0iv9awb6vz62qpyw4777jrila",
+    "version": "0.5"
   },
   "herbal-lite": {
     "path": "herbal-lite/1.3",
@@ -32766,10 +32802,10 @@
     "version": "1.0.4"
   },
   "himalayas": {
-    "path": "himalayas/1.3.1",
-    "rev": "222923",
-    "sha256": "1y7ya1caaamf0rpa4l7mmvj5jbp2dr3i13h7fpsalwawjxsf9wj2",
-    "version": "1.3.1"
+    "path": "himalayas/1.3.2",
+    "rev": "226754",
+    "sha256": "0mz3p6p1x4sm4n9ni81vr3mhivzxlrm13j2clmf25hhmh5hqg1rd",
+    "version": "1.3.2"
   },
   "hinagata": {
     "path": "hinagata/0.9.3",
@@ -33078,10 +33114,10 @@
     "version": "1.5.2"
   },
   "honrix": {
-    "path": "honrix/1.2.2",
-    "rev": "226253",
-    "sha256": "1vav83lx4vac68simbcmkcb6484q2jplp4cxjrv1j1qxgc4a9nzi",
-    "version": "1.2.2"
+    "path": "honrix/1.2.3",
+    "rev": "226744",
+    "sha256": "1zrdx0n4jx67cqim0z8d5xm3pwrrhr9cdn30jhynknxnz092ficj",
+    "version": "1.2.3"
   },
   "hoop": {
     "path": "hoop/1.0.7",
@@ -33396,10 +33432,10 @@
     "version": "0.1.4"
   },
   "house-decor": {
-    "path": "house-decor/1.4",
-    "rev": "225126",
-    "sha256": "0195jqrwcc20gdz7b77rdj7bvcsl2iza7sfrd50ccd5wfah5kqjd",
-    "version": "1.4"
+    "path": "house-decor/1.5",
+    "rev": "226713",
+    "sha256": "12xyw4rvdn20p0fska8gkg68xn3wja4cg5w8adw6pw5wmaqwm0q8",
+    "version": "1.5"
   },
   "house-state": {
     "path": "house-state/1.0.5",
@@ -34830,10 +34866,10 @@
     "version": "1.3"
   },
   "interiorhub": {
-    "path": "interiorhub/8.1",
-    "rev": "225127",
-    "sha256": "1f47dh08vw50hr5r862iym2wknfacyplrjxi042vm1ml8aa8j6f7",
-    "version": "8.1"
+    "path": "interiorhub/8.2",
+    "rev": "226714",
+    "sha256": "0jcpgm554dchq4nlxayj54razjmm4adphx4gb4bnvgmcf9kcngpi",
+    "version": "8.2"
   },
   "interiorpress": {
     "path": "interiorpress/2.7.5",
@@ -34900,6 +34936,12 @@
     "rev": "175389",
     "sha256": "1nkv4zzi3w6480yk1ghv2lwplk09dl4kx0ys9cahj8ahaz15w7hk",
     "version": "1.0.2"
+  },
+  "intothedark": {
+    "path": "intothedark/1.0.4",
+    "rev": "226582",
+    "sha256": "0vfl5gsdxh9sqanghyx9jn57j2545rmrfvapwazww8xw8vfmd8dr",
+    "version": "1.0.4"
   },
   "intrace": {
     "path": "intrace/1.1.2",
@@ -35154,10 +35196,10 @@
     "version": "2.0.1"
   },
   "it-company": {
-    "path": "it-company/1.2.4",
-    "rev": "221791",
-    "sha256": "1zdc61r0482zvbkvypa92fg1wlazsgk9iwcr24yhz3kfiqwzkr9l",
-    "version": "1.2.4"
+    "path": "it-company/1.2.5",
+    "rev": "226798",
+    "sha256": "1mbx6bg214vf77h2dbjkzdb7zsfw62fr4krfvfl56dya9hwayjss",
+    "version": "1.2.5"
   },
   "it-company-lite": {
     "path": "it-company-lite/0.9.7",
@@ -35190,10 +35232,10 @@
     "version": "2.5.2"
   },
   "it-services": {
-    "path": "it-services/0.7.4",
-    "rev": "221796",
-    "sha256": "05jq5dwmvim4x29qbldv0rg9zbbjfanf46y63jml7x64ppmx2pcb",
-    "version": "0.7.4"
+    "path": "it-services/0.7.5",
+    "rev": "226800",
+    "sha256": "09wik35v5z7s0i8w3zl4cyw6lx7wlijalrp03k1w0ryn6kxy5axz",
+    "version": "0.7.5"
   },
   "it-simpl": {
     "path": "it-simpl/1.0.3",
@@ -35850,10 +35892,10 @@
     "version": "1.1.1"
   },
   "journal-notes": {
-    "path": "journal-notes/1.0.2",
-    "rev": "209681",
-    "sha256": "0ch51qjmjm0346zmj0gi6w0rn8wvsnx9h10id64hz38b9dncgwh3",
-    "version": "1.0.2"
+    "path": "journal-notes/1.1.0",
+    "rev": "226852",
+    "sha256": "1riizxqag55d1myzhfs09r65ha21cyrihhfxryykp272y7nafqi3",
+    "version": "1.1.0"
   },
   "journalism": {
     "path": "journalism/1.3",
@@ -36666,10 +36708,10 @@
     "version": "1.1.9"
   },
   "keto-organic-diet": {
-    "path": "keto-organic-diet/0.3.7",
-    "rev": "223850",
-    "sha256": "0s6j9gnjxqrkskc5vgb3dg45alzvn9lkybqvg5083l87bdx9ghkq",
-    "version": "0.3.7"
+    "path": "keto-organic-diet/0.3.8",
+    "rev": "226758",
+    "sha256": "0myr6gmrhn92f9shb8ldvcxzsnfvfs5vmjpgxa5bbhp7cy7kkmrh",
+    "version": "0.3.8"
   },
   "ketos": {
     "path": "ketos/1.0.7",
@@ -36798,10 +36840,10 @@
     "version": "2.1"
   },
   "kids-education": {
-    "path": "kids-education/1.2.6",
-    "rev": "173087",
-    "sha256": "185l79a0yrvmw065p7krhfjs4mxpsydwzxl11i7nrfsdzyhq5f77",
-    "version": "1.2.6"
+    "path": "kids-education/1.2.7",
+    "rev": "226855",
+    "sha256": "0plk269ri9nckp9qnmjl0ih8hxlkp3kxsvqjpsp4zcipx48gx69z",
+    "version": "1.2.7"
   },
   "kids-education-bell": {
     "path": "kids-education-bell/1.0.1",
@@ -37278,10 +37320,10 @@
     "version": "1.3.0"
   },
   "korpo": {
-    "path": "korpo/1.2.0",
-    "rev": "173086",
-    "sha256": "0qzwsmqlhqy4qbdvqwd2cn7fcs6y7zxsilqy3zv42p4l5hj2jlfx",
-    "version": "1.2.0"
+    "path": "korpo/1.2.1",
+    "rev": "226860",
+    "sha256": "1sc8vyxnn5w249c627drvca8z596hlmbqvv5ypp2bzzp3w26y3lw",
+    "version": "1.2.1"
   },
   "kortez": {
     "path": "kortez/1.0.6",
@@ -38424,10 +38466,10 @@
     "version": "1.0.5"
   },
   "lekhak": {
-    "path": "lekhak/1.1.8",
-    "rev": "172411",
-    "sha256": "0mflm9gkpkp3x2kzmr6np0c9j31cs12nw30vy17fp8n3a1myr2fm",
-    "version": "1.1.8"
+    "path": "lekhak/1.1.9",
+    "rev": "226858",
+    "sha256": "0q1rpcna31zvz1098v26600ch8cnkq1dzwdi1kyi07mdqf3s8qhg",
+    "version": "1.1.9"
   },
   "lemesos": {
     "path": "lemesos/2.0.7",
@@ -39294,10 +39336,10 @@
     "version": "3.4"
   },
   "logistic-transport": {
-    "path": "logistic-transport/1.2.4",
-    "rev": "225180",
-    "sha256": "0z6w1fz8dbizgmw6qkaf03rn0i7q57sz3br8xq4bd8kb9gwdqybx",
-    "version": "1.2.4"
+    "path": "logistic-transport/1.2.5",
+    "rev": "226830",
+    "sha256": "1cvggjqb4mpahbj10y762j0ha9m2s76z05q8q04yr58rmfy9pndc",
+    "version": "1.2.5"
   },
   "logistico": {
     "path": "logistico/1.1.5",
@@ -39936,10 +39978,10 @@
     "version": "1.0.1"
   },
   "madisonblog": {
-    "path": "madisonblog/2.5",
-    "rev": "225140",
-    "sha256": "1f7wj3frns0gibdaxm8mh02a91w8kfsa14x8ajljpq6nb7bk0gvj",
-    "version": "2.5"
+    "path": "madisonblog/2.6",
+    "rev": "226729",
+    "sha256": "16sw4031jqa2qzwdv7xrgcyspr1hbbvz7an552mzgsi3dcmancb8",
+    "version": "2.6"
   },
   "madrid": {
     "path": "madrid/1.0.7",
@@ -40500,10 +40542,10 @@
     "version": "1.08"
   },
   "magways": {
-    "path": "magways/1.1.6",
-    "rev": "224998",
-    "sha256": "0nw2p71vbrasgw1bbf8pik4gv2ikqlvx4cszpj0clwp5iy3icy1y",
-    "version": "1.1.6"
+    "path": "magways/1.1.7",
+    "rev": "226743",
+    "sha256": "0g4pwr3wgp6q3zapw6xjv7z66xpl8kfpdgya2hmw57sa9si0g5hv",
+    "version": "1.1.7"
   },
   "magxpress": {
     "path": "magxpress/1.0.6",
@@ -41490,10 +41532,10 @@
     "version": "1.0"
   },
   "medazin": {
-    "path": "medazin/5.8",
-    "rev": "226080",
-    "sha256": "0n3hcsv28cy9mf4cwf3vfw8qhf3vb8k1wf89by8ywis8b05aa32y",
-    "version": "5.8"
+    "path": "medazin/5.9",
+    "rev": "226843",
+    "sha256": "16z0d1qd7anwx271nw524971bi1m8a8nisabmj39vzijpqgsjm3g",
+    "version": "5.9"
   },
   "mederma": {
     "path": "mederma/1.1",
@@ -41916,10 +41958,10 @@
     "version": "1.0.7"
   },
   "mega-construction": {
-    "path": "mega-construction/1.0.1",
-    "rev": "221792",
-    "sha256": "0l873v962hsx1p8vj2g2v8db2w3ccaf1kmyyfm8daf2wv8nviwsq",
-    "version": "1.0.1"
+    "path": "mega-construction/1.0.2",
+    "rev": "226802",
+    "sha256": "0jwrggrsmzjv588mhp76vz38h0b6jch0v4130c0ymp4a69zxvyax",
+    "version": "1.0.2"
   },
   "mega-magazine": {
     "path": "mega-magazine/1.1.5",
@@ -42420,10 +42462,10 @@
     "version": "1.0"
   },
   "mezze": {
-    "path": "mezze/1.1.8",
-    "rev": "171413",
-    "sha256": "0r7qmp6r6c4p9xsa6y4q19ps6nhp8qg8aj8m39sxjg5nkdzcjvfj",
-    "version": "1.1.8"
+    "path": "mezze/1.1.9",
+    "rev": "226866",
+    "sha256": "1kvvfbny50s8x3q8j7i2w4wa15cwm0167friqvfjzyfmvirvb0fk",
+    "version": "1.1.9"
   },
   "mflat": {
     "path": "mflat/1.1.6",
@@ -43626,10 +43668,10 @@
     "version": "1.2.0"
   },
   "modern-construction": {
-    "path": "modern-construction/0.8.2",
-    "rev": "221795",
-    "sha256": "0b4w6pg1brdrq4cm4wfwn2c1xyv17xkxa8d9k2m2az1iaagz4ynx",
-    "version": "0.8.2"
+    "path": "modern-construction/0.8.3",
+    "rev": "226804",
+    "sha256": "0wjdc0qbxpj3nmy613ywgj4q6353ykr73gzxs3x720ibind5gy0z",
+    "version": "0.8.3"
   },
   "modern-decode": {
     "path": "modern-decode/1.1.0",
@@ -43962,10 +44004,10 @@
     "version": "2.0.4"
   },
   "monowp": {
-    "path": "monowp/1.5.5",
-    "rev": "226106",
-    "sha256": "1688d2p5c5xanl5cjx56hln66cl2riicvyvgjm7i89zi6gv63k62",
-    "version": "1.5.5"
+    "path": "monowp/1.5.8",
+    "rev": "226770",
+    "sha256": "1mniaqbw381539sw833ad04iqsxdp0iha1l2jw2qpq794ps8v0jj",
+    "version": "1.5.8"
   },
   "monsoon-blog": {
     "path": "monsoon-blog/1.1",
@@ -44388,10 +44430,10 @@
     "version": "1.1.1"
   },
   "multi-mobile-app": {
-    "path": "multi-mobile-app/0.4.2",
-    "rev": "220199",
-    "sha256": "066jljrr1857z6j8dvv89dbmi4am7xqzhbca01zd8fndcy62zr0n",
-    "version": "0.4.2"
+    "path": "multi-mobile-app/0.4.3",
+    "rev": "226741",
+    "sha256": "15v45s28vmi5rxixd80g4yr9k077gysqyhr098ryxzjz74mnsrj8",
+    "version": "0.4.3"
   },
   "multi-sports": {
     "path": "multi-sports/3.2",
@@ -44484,22 +44526,22 @@
     "version": "0.9.5"
   },
   "multipurpose-lawyer": {
-    "path": "multipurpose-lawyer/0.9.1",
-    "rev": "221885",
-    "sha256": "1bwp3lx9vfz3zp731pnw7x2x7kmyp4biwslmjk1w8iz0kk136fa0",
-    "version": "0.9.1"
+    "path": "multipurpose-lawyer/0.9.2",
+    "rev": "226807",
+    "sha256": "0piz5pb9z44f5xmr7bbny8bpmng5b28aaw5jknrs5h4x2ldkb8df",
+    "version": "0.9.2"
   },
   "multipurpose-magazine": {
-    "path": "multipurpose-magazine/0.9.9",
-    "rev": "221886",
-    "sha256": "0zaaz50139xfqqc4i3m4g5l1gj31s07kl1h607fhv95bhbdwal9b",
-    "version": "0.9.9"
+    "path": "multipurpose-magazine/1.0",
+    "rev": "226809",
+    "sha256": "1r50r82sxr5nbx90wv92fiwmf3kgkvsx7mrxpsxaq2v97m8ix29f",
+    "version": "1.0"
   },
   "multipurpose-photography": {
-    "path": "multipurpose-photography/0.9",
-    "rev": "221887",
-    "sha256": "0i30b5kw4w70wa693db29qgic9hh6fm4vjlj0k4fyjnm45yc5vj8",
-    "version": "0.9"
+    "path": "multipurpose-photography/0.9.1",
+    "rev": "226811",
+    "sha256": "0iyxv8p5qsn0gvk01jbfk4ym3zs6ywwi9wk1y2pk1d9l2pn8r3lm",
+    "version": "0.9.1"
   },
   "multipurpose-portfolio": {
     "path": "multipurpose-portfolio/0.9.3",
@@ -45198,10 +45240,10 @@
     "version": "1.1.4"
   },
   "namaha": {
-    "path": "namaha/1.0.44",
-    "rev": "225075",
-    "sha256": "1q57bs1pkhgrqaic07rzy7d3gms8q3xzdfa8821wgbwq96rkgd7g",
-    "version": "1.0.44"
+    "path": "namaha/1.0.45",
+    "rev": "226849",
+    "sha256": "0s3pfa8ldf5g6sngbz12wi8rvmww7j1jv9zjs1rkjz0k8ykkslxm",
+    "version": "1.0.45"
   },
   "namaste-lite": {
     "path": "namaste-lite/1.3.7",
@@ -46254,16 +46296,16 @@
     "version": "1.0.02"
   },
   "newsair": {
-    "path": "newsair/1.0.0.32",
-    "rev": "226128",
-    "sha256": "09pgfr9ygabxfxm03la6qy4skf15158p097kbz9hf002dr0a2j0q",
-    "version": "1.0.0.32"
+    "path": "newsair/1.0.0.33",
+    "rev": "226701",
+    "sha256": "0m8k6h6q9vkdzv2kvimhmsfyw4jfinzy80yxvc7hafxnb7p5sfy8",
+    "version": "1.0.0.33"
   },
   "newsalt": {
-    "path": "newsalt/1.0.8",
-    "rev": "226630",
-    "sha256": "1cibb0kxnkfwp241fw5wz595qklx87yclhhivcmfji09a7pj6s8d",
-    "version": "1.0.8"
+    "path": "newsalt/1.0.9",
+    "rev": "226787",
+    "sha256": "1xs6h1kscd8qwwk76lawr1fwq5a913ayx9fs5mng2ys0fhc67sl5",
+    "version": "1.0.9"
   },
   "newsanchor": {
     "path": "newsanchor/1.08",
@@ -46319,6 +46361,12 @@
     "sha256": "11vm9dplfs4brvyxx52a95kmbxfc52v6ckgwf237w9c9cldvv7k8",
     "version": "1.0.7"
   },
+  "newsbreak-magazine": {
+    "path": "newsbreak-magazine/1.0.0",
+    "rev": "226565",
+    "sha256": "0gfmrw4m9qr8mirdlrhs4kx9hwvwdcvgyp0wngs4jcc630q3rip2",
+    "version": "1.0.0"
+  },
   "newsbulk": {
     "path": "newsbulk/1.2",
     "rev": "182199",
@@ -46368,10 +46416,10 @@
     "version": "1.1.4"
   },
   "newsdaily": {
-    "path": "newsdaily/1.0.30",
-    "rev": "226627",
-    "sha256": "0f3xqhwrg8k71i5l998i3avlzc1y6ccr8b21m6p3mrxvzp2mfwp3",
-    "version": "1.0.30"
+    "path": "newsdaily/1.0.31",
+    "rev": "226785",
+    "sha256": "0hr8h2f7nl5wdy26q5zifav85z0ramdsvdrn75hkin02qr1vxcfi",
+    "version": "1.0.31"
   },
   "newsdot": {
     "path": "newsdot/1.0.4",
@@ -46392,10 +46440,10 @@
     "version": "1.1.8"
   },
   "newses": {
-    "path": "newses/2.0.0.16",
-    "rev": "225111",
-    "sha256": "1q3282jac1ldmfsdpyb2nk9m3h6rzdhds49p8sh2m6kh5ybc02m9",
-    "version": "2.0.0.16"
+    "path": "newses/2.0.0.17",
+    "rev": "226700",
+    "sha256": "1l65z7wsp635i25kgh5hxiksf31v82pa2xz0g31q2fxfsvhgbhvz",
+    "version": "2.0.0.17"
   },
   "newsever": {
     "path": "newsever/3.4.4",
@@ -46548,10 +46596,10 @@
     "version": "0.4"
   },
   "newsmash": {
-    "path": "newsmash/1.0.43",
-    "rev": "226626",
-    "sha256": "0x6p7yasg8grlkx8s3bgnhkvmjmvgbws8adq804k953md68wr1bp",
-    "version": "1.0.43"
+    "path": "newsmash/1.0.44",
+    "rev": "226784",
+    "sha256": "17vm2l012v0dc9934bvb9yarjyqkcqq1ysxj9x876kzxqxzqwrid",
+    "version": "1.0.44"
   },
   "newsmatic": {
     "path": "newsmatic/1.3.6",
@@ -46584,10 +46632,10 @@
     "version": "1.0.9"
   },
   "newsmunch": {
-    "path": "newsmunch/1.0.7",
-    "rev": "226631",
-    "sha256": "1qlymwvbdnlrksi96shwfvf2py9wxx4y2l8cn2y334bnvw68pfkg",
-    "version": "1.0.7"
+    "path": "newsmunch/1.0.8",
+    "rev": "226788",
+    "sha256": "0l65pvih2b37srcny24pjkiy9bx3vl0hm0jcpklsa4dw58gmwzji",
+    "version": "1.0.8"
   },
   "newsnest": {
     "path": "newsnest/1.3",
@@ -46710,10 +46758,10 @@
     "version": "1.0.22"
   },
   "newspaperss": {
-    "path": "newspaperss/2.35.0",
-    "rev": "224965",
-    "sha256": "0ldxmpdz6w4dzjxvj6mq8w63m5x2z1wi9109kia1s6bl0ry2kfkm",
-    "version": "2.35.0"
+    "path": "newspaperss/2.36.0",
+    "rev": "226745",
+    "sha256": "1xnag53v3fw3qqr5lbr0szs7rppqxmkxkryxnpkb00bczkrpjvrr",
+    "version": "2.36.0"
   },
   "newsphere": {
     "path": "newsphere/3.3.4",
@@ -46854,10 +46902,10 @@
     "version": "0.6"
   },
   "newsup": {
-    "path": "newsup/4.0.0.31",
-    "rev": "226129",
-    "sha256": "0p92gzd9q7j7qc8z9q725m86iw34lvai2m0c7zylblk5qcjllqwy",
-    "version": "4.0.0.31"
+    "path": "newsup/4.0.0.32",
+    "rev": "226697",
+    "sha256": "0q5h37m2l9kjzw7i2s808l8bplwidpl8m6dspnzndhq5kqnkyqm8",
+    "version": "4.0.0.32"
   },
   "newsvista": {
     "path": "newsvista/1.0.8",
@@ -48063,6 +48111,12 @@
     "path": "ocean-blog/1.0",
     "rev": "195692",
     "sha256": "0syzrmj667l9jfxa6w6s6yn6a3310gg55zzw6a2f6khm6c18yxjv",
+    "version": "1.0"
+  },
+  "ocean-blues": {
+    "path": "ocean-blues/1.0",
+    "rev": "226439",
+    "sha256": "1g9z0q6rip8jv9rgw5gykp7zg03k3gjaf5z9ln8q3w9glmkpri14",
     "version": "1.0"
   },
   "ocean-cream": {
@@ -50592,10 +50646,10 @@
     "version": "1.1.4"
   },
   "pencil": {
-    "path": "pencil/1.6.3",
-    "rev": "177195",
-    "sha256": "0rs9xbf53gjfbmir51864yc0dbcy0nyi2iy0yw5yf1fqas7sg8dp",
-    "version": "1.6.3"
+    "path": "pencil/1.6.4",
+    "rev": "226753",
+    "sha256": "0all3xq104l05bng912lcnv9q83f2mlpfgpjnvd2as3ay4kvhwsh",
+    "version": "1.6.4"
   },
   "pencil-draw": {
     "path": "pencil-draw/1.31",
@@ -50958,10 +51012,10 @@
     "version": "1.1.3"
   },
   "pet-business": {
-    "path": "pet-business/1.2.4",
-    "rev": "171490",
-    "sha256": "07b6zk3hnhqixpm6rvsgqq44s7q3nc1f6nl7wiz8rlghp9kw38yr",
-    "version": "1.2.4"
+    "path": "pet-business/1.2.5",
+    "rev": "226864",
+    "sha256": "1fhcq7li3ax252irfisybdcd7zbdsf43lfpx9sdxmrzs17589n6k",
+    "version": "1.2.5"
   },
   "pet-care": {
     "path": "pet-care/1.0.1",
@@ -51210,10 +51264,10 @@
     "version": "1.1.2"
   },
   "photo-fusion": {
-    "path": "photo-fusion/1.2.4",
-    "rev": "173085",
-    "sha256": "1yx5yxrbj091dcrvbw9bxanpx8xb1mvi0fllqb0j2dg7ic973wf1",
-    "version": "1.2.4"
+    "path": "photo-fusion/1.2.5",
+    "rev": "226856",
+    "sha256": "1cv8bmmrvm21lw0plbzkkn7651s7wvigii3bps1v84jzayswsll9",
+    "version": "1.2.5"
   },
   "photo-journal": {
     "path": "photo-journal/1.5.1",
@@ -52080,10 +52134,10 @@
     "version": "1.0.6"
   },
   "plastic-surgery-clinic": {
-    "path": "plastic-surgery-clinic/0.3.9",
-    "rev": "222598",
-    "sha256": "0n063ia6k6qms0gcdcdcmf6zmz129wpc612i4wrpq2h3ck6zlp7c",
-    "version": "0.3.9"
+    "path": "plastic-surgery-clinic/0.4",
+    "rev": "226779",
+    "sha256": "0yr50xcp770nnpxq6hq8f6bgb2j35y841rcpywisv396plcwyhyq",
+    "version": "0.4"
   },
   "plato": {
     "path": "plato/1.1.9",
@@ -52380,10 +52434,10 @@
     "version": "1.0.0"
   },
   "political-campaign": {
-    "path": "political-campaign/0.4.1",
-    "rev": "223851",
-    "sha256": "1nb5mr44abhnz3da764rd5y0hj4kyza2sk7gqlf1ysjwg1ka8m9p",
-    "version": "0.4.1"
+    "path": "political-campaign/0.4.2",
+    "rev": "226759",
+    "sha256": "0cmb80ywg918xnqywdriiy5q3my8s4j44v6bgm41ll9hzqnkbyvw",
+    "version": "0.4.2"
   },
   "political-era": {
     "path": "political-era/1.0.3",
@@ -53712,10 +53766,10 @@
     "version": "0.5"
   },
   "property-hub": {
-    "path": "property-hub/1.0.4",
-    "rev": "223095",
-    "sha256": "04ac7nbynhbcqxxwc6d840726ym4y0i2fabb9n9fp1df9ml7k1iw",
-    "version": "1.0.4"
+    "path": "property-hub/1.0.5",
+    "rev": "226799",
+    "sha256": "04r78kyl8fvc5dsx4szqv979mn8kfgmhimj8hw46rn657zpicpif",
+    "version": "1.0.5"
   },
   "property-listing-elementor": {
     "path": "property-listing-elementor/0.0.2",
@@ -55632,10 +55686,10 @@
     "version": "1.3.3"
   },
   "relief-medical-hospital": {
-    "path": "relief-medical-hospital/0.5.6",
-    "rev": "224134",
-    "sha256": "1d5fvfw1f7v6s52k1qxqgh8jjbzl7ha8ak6dbfxq1vz0r49a6sxq",
-    "version": "0.5.6"
+    "path": "relief-medical-hospital/0.5.7",
+    "rev": "226747",
+    "sha256": "0dahz29z1gmsz2b0vy22bpc0kw12sr63sgi54z0b6d7xrb8ry9n7",
+    "version": "0.5.7"
   },
   "relik": {
     "path": "relik/1.0.1",
@@ -56316,10 +56370,10 @@
     "version": "2.2.3"
   },
   "retailsy": {
-    "path": "retailsy/8.8",
-    "rev": "226596",
-    "sha256": "0z1iqs344xymcpziyr3nlc88pa62dsgvd9bmlgrqbzw8ahbwv7ik",
-    "version": "8.8"
+    "path": "retailsy/8.9",
+    "rev": "226810",
+    "sha256": "0bmnjgizdd8rigi0sb8znn8pyjqcm5m63ncsc69jcjl9w61wi418",
+    "version": "8.9"
   },
   "retention": {
     "path": "retention/1.3",
@@ -58032,10 +58086,10 @@
     "version": "1.0.3"
   },
   "scolax": {
-    "path": "scolax/8.7",
-    "rev": "226023",
-    "sha256": "09rx15ik5gsckmhj0dmirsnrf6r55v24cwnc11wgxm584j915vq3",
-    "version": "8.7"
+    "path": "scolax/8.8",
+    "rev": "226735",
+    "sha256": "0lrlss0kxcyfvv1h0v0d7ik41rcwpznb3d635rr307hha4gb40iw",
+    "version": "8.8"
   },
   "scope": {
     "path": "scope/1.1.6",
@@ -58302,10 +58356,10 @@
     "version": "0.0.50"
   },
   "selfgraphy": {
-    "path": "selfgraphy/1.2.0",
-    "rev": "172409",
-    "sha256": "17avd0frvj7pfkk2kd63pdyyh52csnwlnklvalqck9xxd7gdm6xq",
-    "version": "1.2.0"
+    "path": "selfgraphy/1.2.1",
+    "rev": "226862",
+    "sha256": "1113r72grrpg1djmdgxzw39jcl0cipnp0pqgn9vaxqbn5wkpjphj",
+    "version": "1.2.1"
   },
   "selfie": {
     "path": "selfie/2.3",
@@ -58506,10 +58560,10 @@
     "version": "1.3.2"
   },
   "seo-agency-lite": {
-    "path": "seo-agency-lite/1.2.9",
-    "rev": "224852",
-    "sha256": "02hzklqx6kfflzpy16jih5h8mqhkd8ppp2k90y13p2a59ba7h9cd",
-    "version": "1.2.9"
+    "path": "seo-agency-lite/1.3",
+    "rev": "226831",
+    "sha256": "14wrcni62ibmmmgmnfcibakyqk81v98pz7p1xgcfz4i425apinnr",
+    "version": "1.3"
   },
   "seo-digital-agency": {
     "path": "seo-digital-agency/0.1.9",
@@ -59412,16 +59466,16 @@
     "version": "0.9.3"
   },
   "shoper": {
-    "path": "shoper/1.4.5",
-    "rev": "215135",
-    "sha256": "1yb95hhzqrsng65wa9d5f2axsqms4wbnixrqwg4sq1bfp2w9yx7f",
-    "version": "1.4.5"
+    "path": "shoper/1.4.6",
+    "rev": "226695",
+    "sha256": "0qwgal6wr4a5lkapybwknbxcd9bkl66wmy895lb25zzyg6qpb3kh",
+    "version": "1.4.6"
   },
   "shoper-dark": {
-    "path": "shoper-dark/1.1.0",
-    "rev": "215919",
-    "sha256": "1xjs81ax4kxi11lpn5vjyiqhg6g3283r8mp9g4gl239zc9mr6wp0",
-    "version": "1.1.0"
+    "path": "shoper-dark/1.1.1",
+    "rev": "226731",
+    "sha256": "028bfl17210815h0skhkcanpy939583adqrqpi8avwxg0csx0nlc",
+    "version": "1.1.1"
   },
   "shopera": {
     "path": "shopera/1.4.3",
@@ -59466,16 +59520,16 @@
     "version": "2.2.1"
   },
   "shopient": {
-    "path": "shopient/9.0",
-    "rev": "226597",
-    "sha256": "03hpakfq4ynhfwqhwhhx4sy35s6ar1m63ydjv3mlc8w1xqfk090n",
-    "version": "9.0"
+    "path": "shopient/9.1",
+    "rev": "226812",
+    "sha256": "1lwpr04ds0iw82989i25k3x0k216336bz8x2na1bfwfl8ab7l27h",
+    "version": "9.1"
   },
   "shopiva": {
-    "path": "shopiva/9.0",
-    "rev": "226598",
-    "sha256": "19bnkk7b329cmlk45vzdlnj1liynd0jp0gq0fdf6z8nws2wvj6fz",
-    "version": "9.0"
+    "path": "shopiva/9.1",
+    "rev": "226814",
+    "sha256": "1xaziblmmz8jrnsfmi9vg3qblp1yjwss6w67wcnqihlzdn0953p0",
+    "version": "9.1"
   },
   "shopix": {
     "path": "shopix/1.0.7",
@@ -59508,10 +59562,10 @@
     "version": "1.4.3"
   },
   "shoply": {
-    "path": "shoply/9.0",
-    "rev": "226599",
-    "sha256": "03rnw9v71z6i0c7qw2hlqgyiyadvjgp80ryd3dfkh0h05lyi6rzd",
-    "version": "9.0"
+    "path": "shoply/9.1",
+    "rev": "226815",
+    "sha256": "0sjhrlr6njcc4nz0jvzxblhn9cf97kn1g3k53wa6cnvsn2z2p6sv",
+    "version": "9.1"
   },
   "shopmax": {
     "path": "shopmax/1.1.9",
@@ -59574,10 +59628,10 @@
     "version": "1.1.1"
   },
   "shopper-store": {
-    "path": "shopper-store/1.1.1",
-    "rev": "215138",
-    "sha256": "19as7xya8wpn8n486y9jbrz5xk5qkg07k5rcx5mvqk4wimj15wag",
-    "version": "1.1.1"
+    "path": "shopper-store/1.1.2",
+    "rev": "226696",
+    "sha256": "0wlw49g8pfzp5m6lpj250y4ffcyafnyy4k829p77v0id6zpgg3h6",
+    "version": "1.1.2"
   },
   "shopping": {
     "path": "shopping/0.4.3",
@@ -59652,10 +59706,10 @@
     "version": "1.1.9"
   },
   "shopstar": {
-    "path": "shopstar/1.1.37",
-    "rev": "225285",
-    "sha256": "0rik21ry40aqb28yzl2z4ysjl01qjqqpvrli9ap5db96lnzc0qh7",
-    "version": "1.1.37"
+    "path": "shopstar/1.1.38",
+    "rev": "226761",
+    "sha256": "1frj3jwsylw7h0frzvwvji4yf80a3a395ihkmhfipwn27dlqk00a",
+    "version": "1.1.38"
   },
   "shopstore": {
     "path": "shopstore/4.4.8",
@@ -60384,10 +60438,10 @@
     "version": "1.0.14"
   },
   "silk-newspaper": {
-    "path": "silk-newspaper/1.0.5",
-    "rev": "225931",
-    "sha256": "0c91aqpxmpsp5a6qma5x60r0zgnjdknfrkp0qxwgvp9dqdzmidsc",
-    "version": "1.0.5"
+    "path": "silk-newspaper/1.0.6",
+    "rev": "226746",
+    "sha256": "10z1h2fif7zp15mzvpymr47mw6dyrf6xdl29ivdd23sb5iqmfqxi",
+    "version": "1.0.6"
   },
   "silk-story": {
     "path": "silk-story/1.0.9",
@@ -63054,10 +63108,10 @@
     "version": "1.2.5"
   },
   "specia": {
-    "path": "specia/10.1",
-    "rev": "226022",
-    "sha256": "1jd9qrgk57lym32wkyv62f3mvdivl8hz5q183kvxwjbq80vb2vqb",
-    "version": "10.1"
+    "path": "specia/10.2",
+    "rev": "226736",
+    "sha256": "12d5myh6plinipxkyn5j22zhpgh8jyid4cp6wc251nlmjy5523vf",
+    "version": "10.2"
   },
   "special-news": {
     "path": "special-news/0.0.4",
@@ -63444,10 +63498,10 @@
     "version": "9.5"
   },
   "square": {
-    "path": "square/2.0.42",
-    "rev": "223676",
-    "sha256": "0hj9bg5kxgda7z8h8s636v0s12nfy4nhpmi0g3dixwdp6zjbh97q",
-    "version": "2.0.42"
+    "path": "square/2.0.43",
+    "rev": "226771",
+    "sha256": "19pgqc2qsx36y6ag8wzh4rnxylj312riivnqv3kfdcl7w2511lqi",
+    "version": "2.0.43"
   },
   "squared": {
     "path": "squared/1.1.1",
@@ -63714,10 +63768,10 @@
     "version": "1.1.7"
   },
   "startkit": {
-    "path": "startkit/10.3",
-    "rev": "226081",
-    "sha256": "0ni6b8k29kmf1qx32ckzpdmcsfy5af2na60drmf2z9j4gz4nfn2v",
-    "version": "10.3"
+    "path": "startkit/10.4",
+    "rev": "226844",
+    "sha256": "0y48acg3qw4v3n23h8k4cmym7ihv2ika5hism711l09rlqldvs3p",
+    "version": "10.4"
   },
   "startright": {
     "path": "startright/1.2.1",
@@ -63744,16 +63798,16 @@
     "version": "1.6"
   },
   "startup-shop": {
-    "path": "startup-shop/1.2.4",
-    "rev": "220931",
-    "sha256": "1nx1mw6ksn15vn7dva9pqx54lzvfjgw1wamv64i8v8zg5myqkzqm",
-    "version": "1.2.4"
+    "path": "startup-shop/1.2.5",
+    "rev": "226730",
+    "sha256": "0sbbav409xbv8sx4d3ghk28p5m76l5r8b028al5km91wask05y2y",
+    "version": "1.2.5"
   },
   "startup-solutions": {
-    "path": "startup-solutions/0.1.5",
-    "rev": "226406",
-    "sha256": "0q3s0wwha04y1zwqxz4i3c0lz3ydzc909nrklbpkn7lrdg0a3gjh",
-    "version": "0.1.5"
+    "path": "startup-solutions/0.1.6",
+    "rev": "226824",
+    "sha256": "06sshah8zmz5yddjc39bazrhgym44z4x2pd0wx8zh7f9y4x8pfxg",
+    "version": "0.1.6"
   },
   "startup-store": {
     "path": "startup-store/1.0.5",
@@ -63960,10 +64014,10 @@
     "version": "1.1.51"
   },
   "stockpress": {
-    "path": "stockpress/5.1",
-    "rev": "225128",
-    "sha256": "1ckfgqhi6ahqkpvrrip2bda13x3bdh2qins75db30iyq00910iyg",
-    "version": "5.1"
+    "path": "stockpress/5.2",
+    "rev": "226715",
+    "sha256": "157mn94sj841vzlviad0imj5rvblw31zvrijbcxp8mx92jkcygcw",
+    "version": "5.2"
   },
   "stone": {
     "path": "stone/1.8",
@@ -64086,10 +64140,10 @@
     "version": "1.0.5"
   },
   "storefit": {
-    "path": "storefit/3.7",
-    "rev": "226600",
-    "sha256": "0sv22ki5axc952bc30sfs6fi1yp1n8xcmgimvrb6bc3cdzl5vk1f",
-    "version": "3.7"
+    "path": "storefit/3.8",
+    "rev": "226816",
+    "sha256": "1n2akp1ac1grkaqpsjwbbqz09wa73y7sqvpfsrqkmv1zgd742j4x",
+    "version": "3.8"
   },
   "storeflex": {
     "path": "storeflex/1.0.4",
@@ -64152,10 +64206,10 @@
     "version": "1.0.2"
   },
   "storely": {
-    "path": "storely/9.4",
-    "rev": "226601",
-    "sha256": "0gkzqx6qyjzsna550khga8zmdi855k3ilh6d4mxqzjs0abarc92j",
-    "version": "9.4"
+    "path": "storely/9.5",
+    "rev": "226817",
+    "sha256": "1kxixhjpjvyjg2r7cxg1f9yb9zc0npd4jfh71393c8m676340598",
+    "version": "9.5"
   },
   "storemate": {
     "path": "storemate/1.0.0",
@@ -64200,10 +64254,10 @@
     "version": "3.0.1"
   },
   "storess": {
-    "path": "storess/9.0",
-    "rev": "226602",
-    "sha256": "1znai7xxvs9rc5rqvz6sqrk8fcxqyqshaaljdglily56165wx1m6",
-    "version": "9.0"
+    "path": "storess/9.1",
+    "rev": "226818",
+    "sha256": "122q4h5idlifc7w9wlmrbapgmcxrs0cj3y0wa6ryjxqs2yf55s3i",
+    "version": "9.1"
   },
   "storevilla": {
     "path": "storevilla/1.4.2",
@@ -64230,10 +64284,10 @@
     "version": "1.0.4"
   },
   "storezia": {
-    "path": "storezia/9.1",
-    "rev": "226603",
-    "sha256": "05xzsivafs1kln2ywf6z2hyv77n2c35hrj3khb48xf9y3ly73x1h",
-    "version": "9.1"
+    "path": "storezia/9.2",
+    "rev": "226819",
+    "sha256": "1fnrkr5f3d3bpg5cfbcfsgj7kr3y17m0gf37cag5j0l2f4hl69rl",
+    "version": "9.2"
   },
   "storia": {
     "path": "storia/1.0.6",
@@ -65280,10 +65334,10 @@
     "version": "3.0"
   },
   "swimming-pool-cleaning": {
-    "path": "swimming-pool-cleaning/0.4.2",
-    "rev": "226408",
-    "sha256": "16hq07xx1x85l67kxzyc5fxzzc5xb0dblyrw7mdpnkd9xw8arikm",
-    "version": "0.4.2"
+    "path": "swimming-pool-cleaning/0.4.3",
+    "rev": "226825",
+    "sha256": "1zy88m2zir739naivzzximlbv0q34h8pw5095pxxgcycqkiybmrk",
+    "version": "0.4.3"
   },
   "swimwear-store": {
     "path": "swimwear-store/0.1.3",
@@ -65340,10 +65394,10 @@
     "version": "1.0"
   },
   "sydney": {
-    "path": "sydney/2.36",
-    "rev": "223249",
-    "sha256": "0z76fhwgk86gb087wdr62wqwvkm3bacnbqaigk2f442pbrph18qm",
-    "version": "2.36"
+    "path": "sydney/2.37",
+    "rev": "226783",
+    "sha256": "1cbr9pxf42cym6x69af53hmaa8ff5qbcp4w8kdcchlq24zkcbb06",
+    "version": "2.37"
   },
   "sylvan": {
     "path": "sylvan/2.1.11",
@@ -66438,10 +66492,10 @@
     "version": "1.0.2"
   },
   "th-shop-mania": {
-    "path": "th-shop-mania/1.3.7",
-    "rev": "226629",
-    "sha256": "1a99874cq2sdmbhv93dmk2k680zl290p3k5w4j7ig4ydq7rqp9w0",
-    "version": "1.3.7"
+    "path": "th-shop-mania/1.3.8",
+    "rev": "226776",
+    "sha256": "0kf0amvzfk3whm60w7bw3sg07fa5wc3a3bvigv6air62mglc504f",
+    "version": "1.3.8"
   },
   "th-store": {
     "path": "th-store/1.0.3",
@@ -66894,10 +66948,10 @@
     "version": "1.0.2"
   },
   "the-pet-clinic": {
-    "path": "the-pet-clinic/0.6.4",
-    "rev": "220200",
-    "sha256": "0c41v7qncsprkygyygvc6552pzl2z87n7ly5ffaddcsbp9qsn6i2",
-    "version": "0.6.4"
+    "path": "the-pet-clinic/0.6.5",
+    "rev": "226742",
+    "sha256": "0ns0y2s759ca5wy1381822y459ylsil32v7hqqns0h4k1rpfpwy0",
+    "version": "0.6.5"
   },
   "the-power-of-the-water": {
     "path": "the-power-of-the-water/1.4.2",
@@ -67776,10 +67830,10 @@
     "version": "2.3.9"
   },
   "total": {
-    "path": "total/2.1.62",
-    "rev": "223671",
-    "sha256": "16xll404gb1c1c99bcyx5hkhnm4fxgw87w1pmbmd0xqjwkbjv0b5",
-    "version": "2.1.62"
+    "path": "total/2.1.63",
+    "rev": "226769",
+    "sha256": "1vb780jx840dw54g12yqgmvva9j19j20rih6haav1vhmyibnp485",
+    "version": "2.1.63"
   },
   "totally": {
     "path": "totally/1.2.3",
@@ -67865,6 +67919,12 @@
     "sha256": "07gnc2vl02yd3hh38ghg4j1kg9ibkkqh7nd60avbbizhlv0a7nlb",
     "version": "1.0.2"
   },
+  "tourister": {
+    "path": "tourister/1.0.1",
+    "rev": "226774",
+    "sha256": "03adnnv7350ndsq1q6s1db45fsvdn7km7k12kqmqvddl4a05jnjg",
+    "version": "1.0.1"
+  },
   "tours-and-travels": {
     "path": "tours-and-travels/0.1.2",
     "rev": "93275",
@@ -67878,10 +67938,10 @@
     "version": "0.8.3"
   },
   "township-house-villa": {
-    "path": "township-house-villa/0.3.9",
-    "rev": "226409",
-    "sha256": "0a14gn9idjxr1kh90jxi6y8n1xdcwl4b7xnxn0pjpnah3kxgzw2p",
-    "version": "0.3.9"
+    "path": "township-house-villa/0.4",
+    "rev": "226826",
+    "sha256": "1n73cikagmq0gi7ziphg0pxjsxh107y9ly7952rrb9wk9v58ahfg",
+    "version": "0.4"
   },
   "township-lite": {
     "path": "township-lite/1.7.2",
@@ -68100,10 +68160,10 @@
     "version": "1.1.2"
   },
   "transportation-shipment": {
-    "path": "transportation-shipment/1.3.2",
-    "rev": "225181",
-    "sha256": "1izv018q9xbv02gy7nl0h76pfg0pi76zp1d7kw3cj91wdnyasv3h",
-    "version": "1.3.2"
+    "path": "transportation-shipment/1.3.3",
+    "rev": "226832",
+    "sha256": "08m3m6cf59fg7l6r6698kf3s98r1x6yilc409dyhvq5yxi781aij",
+    "version": "1.3.3"
   },
   "transportex": {
     "path": "transportex/2.0.6",
@@ -68994,10 +69054,10 @@
     "version": "1.3.1"
   },
   "truesoft": {
-    "path": "truesoft/0.8",
-    "rev": "226632",
-    "sha256": "1c9dmg5l9qwbrbqlbp3hnpd10gianmdkhvs7sybg083qa8a727nc",
-    "version": "0.8"
+    "path": "truesoft/0.9",
+    "rev": "226790",
+    "sha256": "1771sa7zzbqzg66canjgyl4g6mprykk3k5gqmn8d17ls23nasg1x",
+    "version": "0.9"
   },
   "trust-me": {
     "path": "trust-me/1.0",
@@ -69540,10 +69600,10 @@
     "version": "1.0.2"
   },
   "ultimate-audio-streaming": {
-    "path": "ultimate-audio-streaming/0.3.7",
-    "rev": "226411",
-    "sha256": "083l6ij1anji5b8h8f6gxybn86ripn3n5lpspix92s3ni023pgf6",
-    "version": "0.3.7"
+    "path": "ultimate-audio-streaming/0.3.8",
+    "rev": "226827",
+    "sha256": "04fyn23kwdpl8nvczx9vx4kq8ij4g19fv0rsxwqxn38wic5y7k2d",
+    "version": "0.3.8"
   },
   "ultimate-blogger": {
     "path": "ultimate-blogger/1.1.6",
@@ -70434,10 +70494,10 @@
     "version": "1.2.0"
   },
   "vancura": {
-    "path": "vancura/1.1",
-    "rev": "220198",
-    "sha256": "0g7cdrd18ak2if4n99dnxbg0xl4z8rybw8v85bms425l7y8z2xla",
-    "version": "1.1"
+    "path": "vancura/1.2",
+    "rev": "226740",
+    "sha256": "0q8fy463np0xknpavvdimxkj8bfg1wf8rf0nzynhrsrlp2zy6fas",
+    "version": "1.2"
   },
   "vandana-health-coach": {
     "path": "vandana-health-coach/1.0.4",
@@ -70806,10 +70866,10 @@
     "version": "4.6.1"
   },
   "veterinary-pet-care": {
-    "path": "veterinary-pet-care/0.9.2",
-    "rev": "222006",
-    "sha256": "0a9hv2vnz4c5b1aari0jp7ynwvvnccczvnd4wzpychf5l7v270bf",
-    "version": "0.9.2"
+    "path": "veterinary-pet-care/0.9.3",
+    "rev": "226813",
+    "sha256": "195dccibi9s7l1w301fybpic8qwkz5905ik5mjmaq9pm9w67408i",
+    "version": "0.9.3"
   },
   "vg-responsive-simple": {
     "path": "vg-responsive-simple/1.17",
@@ -71670,10 +71730,10 @@
     "version": "1.1.1"
   },
   "vw-church": {
-    "path": "vw-church/0.3.8",
-    "rev": "222607",
-    "sha256": "1smkkm3biwshsshsk67z70hbizc3nf18flhqcdc04zzn5g0phybs",
-    "version": "0.3.8"
+    "path": "vw-church/0.3.9",
+    "rev": "226778",
+    "sha256": "1k165p8dvkl397df0wiibc85qk32fck9mbyj5spb5najrxiqi3im",
+    "version": "0.3.9"
   },
   "vw-cleaning-company": {
     "path": "vw-cleaning-company/1.0.4",
@@ -71820,10 +71880,10 @@
     "version": "1.4.4"
   },
   "vw-healthcare": {
-    "path": "vw-healthcare/0.9.6",
-    "rev": "222597",
-    "sha256": "0ci6v8v8vlqwha5r16jr3lqxiav78yn9hw18kv5z3n3vlk0v9s2r",
-    "version": "0.9.6"
+    "path": "vw-healthcare/0.9.7",
+    "rev": "226777",
+    "sha256": "0s65k1v06y9bhx0b0jcm7w8pibr9v9mr732d71cv77rgx72wwdhz",
+    "version": "0.9.7"
   },
   "vw-home-renovation": {
     "path": "vw-home-renovation/0.2.8",
@@ -74369,6 +74429,12 @@
     "sha256": "04fqil59hv4wiqzlh3cl3iq4vsnwhd0d6nhfi691ks43r8wya03g",
     "version": "1.1.2"
   },
+  "wpwheels": {
+    "path": "wpwheels/1.0.1",
+    "rev": "226452",
+    "sha256": "1hh4vblrxdvfjzqirx1ffcqrhzq7ykpwpr1dj8wi65fr6f7fryp7",
+    "version": "1.0.1"
+  },
   "wpxon-blog": {
     "path": "wpxon-blog/1.1.3",
     "rev": "166486",
@@ -75348,10 +75414,10 @@
     "version": "1.0.1"
   },
   "zakra": {
-    "path": "zakra/3.0.14",
-    "rev": "224871",
-    "sha256": "1ajlxvk17dcjdsw1ybr8gi4vjdhr06dyndy18p8mq5isyr2yrzjb",
-    "version": "3.0.14"
+    "path": "zakra/3.0.15",
+    "rev": "226694",
+    "sha256": "01760v84k94llrfr47vr9661p2pscnr0hw5h3dpq8niv4wglf1r1",
+    "version": "3.0.15"
   },
   "zalive": {
     "path": "zalive/1.3.4",
