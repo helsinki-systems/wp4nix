@@ -1,0 +1,6 @@
+feat: Add new feature to handle custom WordPress plugins
+
+- Implemented functionality to manage custom WordPress plugins via Nix
+- Updated `main.go` and `svn.go` to support new plugin structure
+- Added tests for the new feature
+- Updated documentation to reflect changes
