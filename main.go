@@ -355,8 +355,8 @@ func processPkgQueue(queue <-chan map[string]interface{}, po map[string]interfac
 			mod = 10
 		}
 		if i%mod == 0 {
-			go writeFile(t, mergePs(po, pn))
-			go writeLog(t, po, pn)
+			writeFile(t, mergePs(po, pn))
+			writeLog(t, po, pn)
 		}
 	}
 
