@@ -9,10 +9,13 @@ import (
 	"log"
 	"net/http"
 	"os"
-	"os/exec"
 	"regexp"
 	"strconv"
 	"strings"
+	"path/filepath"
+	"crypto/sha256"
+	"github.com/nix-community/go-nix/pkg/nar"
+	"github.com/nix-community/go-nix/pkg/nixbase32"
 )
 
 var DEBUG bool
@@ -70,30 +73,21 @@ func writeFile(t string, c map[string]interface{}) {
 	os.Rename(t+"-new.json", t+".json")
 }
 
-func execCmd(name, dir, file string, args ...string) (string, error) {
-	log.Printf("%s %s %s", name, file, args)
-	cmd := exec.Command(file, args...)
-	cmd.Dir = dir
-	out, err := cmd.CombinedOutput()
-	if err != nil {
-		log.Printf("Failed: %s %s %s %s", err, name, file, args)
-	}
-	return strings.TrimSpace(string(out)), err
-}
-
 func svnPrefetch(repo *Repository, path string, rev string, rawName string) (string, error) {
+	h := sha256.New()
 	// people push some weird shit
 	reg, _ := regexp.Compile("[^a-zA-Z0-9+\\-._?=]+")
 	fixedName := reg.ReplaceAllString(rawName, "")
 	dir, _ := ioutil.TempDir("", "wp4nix-prefetch-")
 	defer os.RemoveAll(dir)
 	var err error
-	var resp string
+	var hashString string
 	err = repo.Export(path, rev, dir+"/"+fixedName, nil, nil)
 	if err == nil {
-		resp, err = execCmd("Hash", dir, "nix-hash", "--type", "sha256", "--base32", fixedName)
+		nar.DumpPath(h, filepath.Join(dir, fixedName))
+		hashString = nixbase32.EncodeToString(h.Sum(nil))
 	}
-	return resp, err
+	return hashString, err
 }
 
 // copy every element from every map into the resulting map
