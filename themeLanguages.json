@@ -5934,10 +5934,10 @@
     "version": "1.4.2"
   },
   "advisio-sr_RS": {
-    "path": "advisio/1.0.4/sr_RS",
-    "rev": "2519673",
-    "sha256": "1kb7bf65nfx7z95vb4j63kzkqwqgj6jk4msgpp41507vb4vxj701",
-    "version": "1.0.4"
+    "path": "advisio/1.0.5/sr_RS",
+    "rev": "2530683",
+    "sha256": "0vljmlrphdkkpmgkdykhrk39ma0lc9klphyv4fjh7m0vbjak3q67",
+    "version": "1.0.5"
   },
   "advisory-ru_RU": {
     "path": "advisory/1.3/ru_RU",
@@ -20341,8 +20341,8 @@
   },
   "astra-es_ES": {
     "path": "astra/4.14.2/es_ES",
-    "rev": "2514536",
-    "sha256": "04zqjz70fy692jv5k87iwjdh3x68lmy2z3ipikihfybn65s9dgx0",
+    "rev": "2529196",
+    "sha256": "1q6s5c8knkckvwiz7qdxhayjfpvz0i3k4x4dk02ifczp1b8qpyw1",
     "version": "4.14.2"
   },
   "astra-es_MX": {
@@ -22825,8 +22825,8 @@
   },
   "auto-parts-garage-nl_NL": {
     "path": "auto-parts-garage/0.9.8/nl_NL",
-    "rev": "2508162",
-    "sha256": "1y8qhyxh2vrspyw99hd50zf4cidky4kkdp6hnbxa194qizai35m6",
+    "rev": "2529919",
+    "sha256": "0i82ylr969vqybsfdz71gmkakwihnrwj0l731vk76alz041kg2nr",
     "version": "0.9.8"
   },
   "auto-parts-garage-nl_NL_formal": {
@@ -30384,10 +30384,10 @@
     "version": "0.4.1"
   },
   "beauty-cosmetics-lite-sr_RS": {
-    "path": "beauty-cosmetics-lite/0.1/sr_RS",
-    "rev": "2506640",
-    "sha256": "1892p6b409d2nlx225ch6hbzf8w58qh4b7733n8kpqgfkyvqbfk8",
-    "version": "0.1"
+    "path": "beauty-cosmetics-lite/0.2/sr_RS",
+    "rev": "2530093",
+    "sha256": "11lj5rjsrwrvfydfk4za47zbys93m8g566b3bj3gh04m8mwgfprd",
+    "version": "0.2"
   },
   "beauty-ecommerce-x-ru_RU": {
     "path": "beauty-ecommerce-x/1.1/ru_RU",
@@ -41538,58 +41538,64 @@
     "version": "1.1.1"
   },
   "blogmunch-es_CL": {
-    "path": "blogmunch/0.2/es_CL",
-    "rev": "2503798",
+    "path": "blogmunch/0.3/es_CL",
+    "rev": "2529212",
     "sha256": "1q2vzl6vzn62756r7qpk79czjnqab8j51mxq5ahrfgvhmlcm7nyf",
-    "version": "0.2"
+    "version": "0.3"
+  },
+  "blogmunch-es_ES": {
+    "path": "blogmunch/0.3/es_ES",
+    "rev": "2529213",
+    "sha256": "03qh3srj0ibxwpa1zv3fhycqx3gpfl9aqpnb99m3wgajvy1md4mr",
+    "version": "0.3"
   },
   "blogmunch-ja": {
-    "path": "blogmunch/0.2/ja",
-    "rev": "2502981",
+    "path": "blogmunch/0.3/ja",
+    "rev": "2529209",
     "sha256": "1ds1c20awwy0pny40pg6j6f9hi3h87b5hrk57i85ihd7gzq7r7pw",
-    "version": "0.2"
+    "version": "0.3"
   },
   "blogmunch-nl_BE": {
-    "path": "blogmunch/0.2/nl_BE",
-    "rev": "2502822",
+    "path": "blogmunch/0.3/nl_BE",
+    "rev": "2529207",
     "sha256": "05mgj6llgvkpkh8imwa7v34s7lqhfrv0wa323az3g3bii3kx4rhd",
-    "version": "0.2"
+    "version": "0.3"
   },
   "blogmunch-nl_NL": {
-    "path": "blogmunch/0.2/nl_NL",
-    "rev": "2504251",
+    "path": "blogmunch/0.3/nl_NL",
+    "rev": "2529206",
     "sha256": "10dyp2y94fwinxyp2ks5viqk5dsblm781f1mm02cn3lxwa8l9w6i",
-    "version": "0.2"
+    "version": "0.3"
   },
   "blogmunch-nl_NL_formal": {
-    "path": "blogmunch/0.2/nl_NL_formal",
-    "rev": "2502823",
+    "path": "blogmunch/0.3/nl_NL_formal",
+    "rev": "2529208",
     "sha256": "0n87y8jqd9yypz1j4anxjh44g7qxpr7adk6likaaf459acig67nv",
-    "version": "0.2"
+    "version": "0.3"
   },
   "blogmunch-ru_RU": {
-    "path": "blogmunch/0.2/ru_RU",
-    "rev": "2504140",
+    "path": "blogmunch/0.3/ru_RU",
+    "rev": "2529210",
     "sha256": "1zyw6f7zbzhj2bkwg8ifvmal98kpqnwldwwbwcll0bqdr3kanhhk",
-    "version": "0.2"
+    "version": "0.3"
   },
   "blogmunch-sr_RS": {
-    "path": "blogmunch/0.2/sr_RS",
-    "rev": "2504141",
+    "path": "blogmunch/0.3/sr_RS",
+    "rev": "2529211",
     "sha256": "0sfxif3igz6r64qjx27yl42lp0nnjh5zkp950amnc0pps052dghf",
-    "version": "0.2"
+    "version": "0.3"
   },
   "blogmunch-uk": {
-    "path": "blogmunch/0.2/uk",
-    "rev": "2506443",
+    "path": "blogmunch/0.3/uk",
+    "rev": "2529214",
     "sha256": "0qcl07s9xn6qpk73v8lzpvcb0m6hiqxifrnffwp65p8pa46j7nkd",
-    "version": "0.2"
+    "version": "0.3"
   },
   "blogmunch-zh_CN": {
-    "path": "blogmunch/0.2/zh_CN",
-    "rev": "2504081",
+    "path": "blogmunch/0.3/zh_CN",
+    "rev": "2529205",
     "sha256": "152srlsrw7l2lb4dhl2mvgwijkkhhzw8wklk39wl91dl70xx12da",
-    "version": "0.2"
+    "version": "0.3"
   },
   "blognest-lo": {
     "path": "blognest/1.1.11/lo",
@@ -44491,14 +44497,14 @@
   },
   "blossom-coach-nl_NL": {
     "path": "blossom-coach/1.5.9/nl_NL",
-    "rev": "2166365",
-    "sha256": "1ihm2j6xjxy79l47ajbm0gj8ds83xnkqam7blqqri6nq6j9qbq6c",
+    "rev": "2530447",
+    "sha256": "1b02rhj5kbbascxzsyn134llls4jqs4vp8lclqifa4p526qpncpk",
     "version": "1.5.9"
   },
   "blossom-coach-nl_NL_formal": {
     "path": "blossom-coach/1.5.9/nl_NL_formal",
-    "rev": "2166367",
-    "sha256": "0v0c0dzl13mx5bw8qkykdp05ksvcjv44w25489w0dagwdjvf92bc",
+    "rev": "2530629",
+    "sha256": "1s2dnk4cq46474yva8xshiqfhlc0fpy7z7415kyxk7l3dcqxgl88",
     "version": "1.5.9"
   },
   "blossom-coach-pl_PL": {
@@ -45709,14 +45715,14 @@
   },
   "blossom-feminine-nl_NL": {
     "path": "blossom-feminine/1.5.2/nl_NL",
-    "rev": "2088992",
-    "sha256": "10zk1vpl9ahkfrikdsplbqivwsxk3k02p1iar99bkxr9rpdkwv94",
+    "rev": "2530423",
+    "sha256": "1b7qk8x68swlp87xzss493azibyzzydf4mbbnsy27js8yh62sfkb",
     "version": "1.5.2"
   },
   "blossom-feminine-nl_NL_formal": {
     "path": "blossom-feminine/1.5.2/nl_NL_formal",
-    "rev": "2043023",
-    "sha256": "1mypwzan4arbw5rac0n4qh8v5yq9pw4q9f3n6mi7knqlk4f4bm6n",
+    "rev": "2530628",
+    "sha256": "1fi4l9ydvwlpcs1jvjg9z4msbw4vpj3vhhzpf3hp1y8c7jagm71a",
     "version": "1.5.2"
   },
   "blossom-feminine-pl_PL": {
@@ -46633,14 +46639,14 @@
   },
   "blossom-pin-nl_NL": {
     "path": "blossom-pin/1.3.8/nl_NL",
-    "rev": "2166110",
-    "sha256": "0jycjndkzxj283yl335lbd1mim8bz9d6mdr370gbx4bvp47j10cg",
+    "rev": "2530422",
+    "sha256": "18jlprwn2g1gf40z1wr37c0ql50agfc8sfapmh932mw5qm550ydl",
     "version": "1.3.8"
   },
   "blossom-pin-nl_NL_formal": {
     "path": "blossom-pin/1.3.8/nl_NL_formal",
-    "rev": "2166112",
-    "sha256": "0jv44qqa4kxamj9yr705wr0y4q1mm05hmrv0xjbf9mkx9waiqz0m",
+    "rev": "2530627",
+    "sha256": "0mmxp33am4wadnqdhlpaghc4immhjbqqn478kmqbhbrxb1l307aw",
     "version": "1.3.8"
   },
   "blossom-pin-pl_PL": {
@@ -48163,14 +48169,14 @@
   },
   "blossom-spa-nl_NL": {
     "path": "blossom-spa/1.4.0/nl_NL",
-    "rev": "2166236",
-    "sha256": "032wjz5wqg9msi4rzznznny3q33jp3kffry0zqjffh27wrr99cj8",
+    "rev": "2530420",
+    "sha256": "13im4gf99z388xpzp363694dp7pjwvmqgbk7kcw46x0245fc7hzk",
     "version": "1.4.0"
   },
   "blossom-spa-nl_NL_formal": {
     "path": "blossom-spa/1.4.0/nl_NL_formal",
-    "rev": "2166238",
-    "sha256": "1ahb4pi10qlapv9ach8yvh3j4hx6ivksdas6dsrl6zna3s73sj50",
+    "rev": "2530626",
+    "sha256": "0wvmckk68ssffsncsnnjqym4ljhymxr5x2s7xslnf216p7rq1bfk",
     "version": "1.4.0"
   },
   "blossom-spa-pl_PL": {
@@ -72541,8 +72547,8 @@
   },
   "clean-journal-es_ES": {
     "path": "clean-journal/3.3/es_ES",
-    "rev": "2520191",
-    "sha256": "0wvwgpifprglg2dp3rldfyzgihq56swkdycs711h9y9xgrnw6qrs",
+    "rev": "2529043",
+    "sha256": "0413dij40b6wl7fyi97acxnkp288m8mki42n2kd44cdgll7q483f",
     "version": "3.3"
   },
   "clean-journal-gl_ES": {
@@ -77251,8 +77257,8 @@
   },
   "coming-soon-shortly-es_ES": {
     "path": "coming-soon-shortly/0.4.3/es_ES",
-    "rev": "2519834",
-    "sha256": "135gx8pz6hyikp4qjwij9qk2vh251g4qs0y985dbmiw0bxnzgp8n",
+    "rev": "2529151",
+    "sha256": "17xl2vx43lsmdqpn2k3957xp41amd64rm52iq4ggcjx4aw2bjsag",
     "version": "0.4.3"
   },
   "coming-soon-shortly-nl_NL": {
@@ -88417,8 +88423,8 @@
   },
   "customify-hu_HU": {
     "path": "customify/0.4.27/hu_HU",
-    "rev": "2409748",
-    "sha256": "0qhbvq944jgab5flgnjd49lsd61rrsc28j77ks0vribzpa0k5c0l",
+    "rev": "2529638",
+    "sha256": "17y270z6wyrar0i2yw05ms1mzrsx3klflnayz336s648lmqvzf3k",
     "version": "0.4.27"
   },
   "customify-id_ID": {
@@ -88549,8 +88555,8 @@
   },
   "customify-sq": {
     "path": "customify/0.4.27/sq",
-    "rev": "2409725",
-    "sha256": "17vjsvi4xc4y82dxij9nccpzgdzd229nyczwhn83wzkn1lw6w0z1",
+    "rev": "2528995",
+    "sha256": "01iclbak4y6p34fhmk6m8483j7ad8qw1bbnwlcf0bihsks7w1mfm",
     "version": "0.4.27"
   },
   "customify-sr_RS": {
@@ -102715,8 +102721,8 @@
   },
   "educational-zone-es_ES": {
     "path": "educational-zone/0.8.6/es_ES",
-    "rev": "2511232",
-    "sha256": "1nvg47h8bkfi9lf106vnkz3dj1fxyiwrqwnmnahci64qbarpb8dn",
+    "rev": "2529150",
+    "sha256": "0yq7fa74n8b83xqj7h1n9645jm2csrasdx3wacrxq9vhh5kx4599",
     "version": "0.8.6"
   },
   "educational-zone-es_VE": {
@@ -126231,6 +126237,12 @@
     "path": "fliximart/1.0.2/ja",
     "rev": "2527343",
     "sha256": "00dl5z48xzbizfql9y0hvg8cpn5k79c06lfig2rzlr5v4fh32mri",
+    "version": "1.0.2"
+  },
+  "fliximart-ru_RU": {
+    "path": "fliximart/1.0.2/ru_RU",
+    "rev": "2529404",
+    "sha256": "0wnmq1633xl14ixabz66m7cmmispvqk8wi14q3p276ix1c1md479",
     "version": "1.0.2"
   },
   "fliximart-sr_RS": {
@@ -160063,8 +160075,8 @@
   },
   "jaxon-es_ES": {
     "path": "jaxon/1.0.13/es_ES",
-    "rev": "2492616",
-    "sha256": "0dgf3fcjnr3vfyicmynpl3xcqssph21lca7fg3sw5jj8nhs4ppb9",
+    "rev": "2529142",
+    "sha256": "0i357a6aafl83zh8cw7y9v7mn1bd1rz2yfwwhmpwx75mizbhxkw3",
     "version": "1.0.13"
   },
   "jaxon-es_MX": {
@@ -194538,58 +194550,58 @@
     "version": "2.1.9"
   },
   "morenews-es_CL": {
-    "path": "morenews/4.4.0/es_CL",
-    "rev": "2482130",
+    "path": "morenews/4.4.2/es_CL",
+    "rev": "2529115",
     "sha256": "0arrdnzdvi368qpa0gcrclqg4nbvwbbfxd9mwjlzckl5bab80cyp",
-    "version": "4.4.0"
+    "version": "4.4.2"
   },
   "morenews-es_ES": {
-    "path": "morenews/4.4.0/es_ES",
-    "rev": "2482131",
-    "sha256": "1h16klcas9b8lj9gi0kjb9r70p3c17zs3q7gh7yq3lbkyl41i5rl",
-    "version": "4.4.0"
+    "path": "morenews/4.4.2/es_ES",
+    "rev": "2529116",
+    "sha256": "11m8xcqzv1s0v6ww264s57rs69rxnqyp511i9jygd22gx8v4q7gl",
+    "version": "4.4.2"
   },
   "morenews-gl_ES": {
-    "path": "morenews/4.4.0/gl_ES",
-    "rev": "2483072",
+    "path": "morenews/4.4.2/gl_ES",
+    "rev": "2529110",
     "sha256": "1nsbj4ny096n8294qchkg3zx1d6pii3mkr9lhzav723lk4yldsb5",
-    "version": "4.4.0"
+    "version": "4.4.2"
   },
   "morenews-ko_KR": {
-    "path": "morenews/4.4.0/ko_KR",
-    "rev": "2482126",
+    "path": "morenews/4.4.2/ko_KR",
+    "rev": "2529111",
     "sha256": "1l9wpmvf5jv1s74ypk8irh24p9a9hf37nxdwl31p839bz64i9ybs",
-    "version": "4.4.0"
+    "version": "4.4.2"
   },
   "morenews-lo": {
-    "path": "morenews/4.4.0/lo",
-    "rev": "2482127",
+    "path": "morenews/4.4.2/lo",
+    "rev": "2529112",
     "sha256": "0gh5y702mgbf91x237ak60azcgg5cg4b2fvgj1kbdil2fg4k1cmh",
-    "version": "4.4.0"
+    "version": "4.4.2"
   },
   "morenews-nl_NL": {
-    "path": "morenews/4.4.0/nl_NL",
-    "rev": "2483860",
+    "path": "morenews/4.4.2/nl_NL",
+    "rev": "2529108",
     "sha256": "0imh8j6dvy5xz6l2zikjsqwrdfaa1k2ydkp9clhbw9k8rvv1hibq",
-    "version": "4.4.0"
+    "version": "4.4.2"
   },
   "morenews-nl_NL_formal": {
-    "path": "morenews/4.4.0/nl_NL_formal",
-    "rev": "2483352",
+    "path": "morenews/4.4.2/nl_NL_formal",
+    "rev": "2529109",
     "sha256": "0wdmz7mfknf6h2ysdbi43pvah3v7fiznc9d34w3l37vry1naminb",
-    "version": "4.4.0"
+    "version": "4.4.2"
   },
   "morenews-ru_RU": {
-    "path": "morenews/4.4.0/ru_RU",
-    "rev": "2482128",
+    "path": "morenews/4.4.2/ru_RU",
+    "rev": "2529113",
     "sha256": "1hc8qgzl8jk617k6y0pwl0jkf36s9x869a0hp3dlidpzaqx98jka",
-    "version": "4.4.0"
+    "version": "4.4.2"
   },
   "morenews-sr_RS": {
-    "path": "morenews/4.4.0/sr_RS",
-    "rev": "2482129",
+    "path": "morenews/4.4.2/sr_RS",
+    "rev": "2529114",
     "sha256": "1w37x91r8ds2jh101briwvpia0p8n8k1hb4ym97357w3pyhrkz3g",
-    "version": "4.4.0"
+    "version": "4.4.2"
   },
   "morfeu-pt_BR": {
     "path": "morfeu/1.1.4/pt_BR",
@@ -202709,6 +202721,12 @@
     "sha256": "1fd1pg55grybl8csg8wlkmafvgbmfpyqfjhhrrbmcvp9158n5y45",
     "version": "1.2"
   },
+  "news-techno-es_ES": {
+    "path": "news-techno/1.2/es_ES",
+    "rev": "2529216",
+    "sha256": "081l6s0x9x0yf06b28fza25955h6i1i8m6g11hp8c9l1hk49194j",
+    "version": "1.2"
+  },
   "news-techno-es_MX": {
     "path": "news-techno/1.2/es_MX",
     "rev": "2503796",
@@ -204234,28 +204252,34 @@
     "version": "1.0.7"
   },
   "newscell-en_GB": {
-    "path": "newscell/1.2.0/en_GB",
-    "rev": "2480961",
+    "path": "newscell/1.2.1/en_GB",
+    "rev": "2529199",
     "sha256": "0wdkvfw1gl5z5il58263pbik5nhj4j39rq68k4nndg3rlx30vx8l",
-    "version": "1.2.0"
+    "version": "1.2.1"
   },
   "newscell-es_CL": {
-    "path": "newscell/1.2.0/es_CL",
-    "rev": "2482204",
+    "path": "newscell/1.2.1/es_CL",
+    "rev": "2529201",
     "sha256": "0byik7fldj7qbq4naibkrkxqgya7pxjvnpi65wzns2gk72synajg",
-    "version": "1.2.0"
+    "version": "1.2.1"
+  },
+  "newscell-es_ES": {
+    "path": "newscell/1.2.1/es_ES",
+    "rev": "2529203",
+    "sha256": "0ikrxk9a9l5j83impk82zw7bpd791lfqsp0cp478sriwdxmbgrf3",
+    "version": "1.2.1"
   },
   "newscell-es_MX": {
-    "path": "newscell/1.2.0/es_MX",
-    "rev": "2480963",
+    "path": "newscell/1.2.1/es_MX",
+    "rev": "2529202",
     "sha256": "1b459qdkhhphhbb80cqdcvswdi6bdw2hz72hjmiayqk3bb7fxmi1",
-    "version": "1.2.0"
+    "version": "1.2.1"
   },
   "newscell-sr_RS": {
-    "path": "newscell/1.2.0/sr_RS",
-    "rev": "2480962",
+    "path": "newscell/1.2.1/sr_RS",
+    "rev": "2529200",
     "sha256": "1i7danpabhr6sw4f2lwd8ihgspgp9h6l80vmh5sm3vspmmysycsa",
-    "version": "1.2.0"
+    "version": "1.2.1"
   },
   "newschrome-ko_KR": {
     "path": "newschrome/1.1.1/ko_KR",
@@ -205313,11 +205337,29 @@
     "sha256": "0rqw2afn0r132hkkqjsw0l75prnbi798z8r1vdn7n1qcyr2a2kgj",
     "version": "0.0.4"
   },
+  "newsflux-en_GB": {
+    "path": "newsflux/0.2/en_GB",
+    "rev": "2529662",
+    "sha256": "06qvr3bi7m3vdypjarrzf7v4fwvmjvip5siawcm7hkbjkc11hz6g",
+    "version": "0.2"
+  },
+  "newsflux-nl_NL": {
+    "path": "newsflux/0.2/nl_NL",
+    "rev": "2529522",
+    "sha256": "18vx9lkv01lcnnhw0ljjjwy1lcv5qjx9g81mvpk9n4s3hxq463kh",
+    "version": "0.2"
+  },
+  "newsflux-nl_NL_formal": {
+    "path": "newsflux/0.2/nl_NL_formal",
+    "rev": "2530633",
+    "sha256": "14b2zp2khbfi240x9ynbrpxfjidszcmm31cscr7ipa84di5hs8q7",
+    "version": "0.2"
+  },
   "newsflux-sr_RS": {
-    "path": "newsflux/0.1/sr_RS",
-    "rev": "2519541",
+    "path": "newsflux/0.2/sr_RS",
+    "rev": "2529523",
     "sha256": "02zrz7w5q1izp3km8mljixalrflx0bhl3m77qbhz0vsvxbzaanl9",
-    "version": "0.1"
+    "version": "0.2"
   },
   "newsfor-uk": {
     "path": "newsfor/1.1.1/uk",
@@ -209137,8 +209179,8 @@
   },
   "newsup-es_ES": {
     "path": "newsup/5.6.7/es_ES",
-    "rev": "2508695",
-    "sha256": "0lczrzbk5q845vcif200h6ycjv4w8472vzbzks4cwkyrajj3yw5a",
+    "rev": "2529107",
+    "sha256": "1hiz7qklqmb3ljhv8f1808xkkx4nakc9dh8x0qnhm2dpvdh1f0nz",
     "version": "5.6.7"
   },
   "newsup-es_MX": {
@@ -216727,8 +216769,8 @@
   },
   "ollie-it_IT": {
     "path": "ollie/1.6.5/it_IT",
-    "rev": "2516968",
-    "sha256": "1ld2b02yjpsvrays3bj1r1bg2hh89pjvhsyfmmf53y63l1m9xsy5",
+    "rev": "2530099",
+    "sha256": "1wv4h616rmis4a5pxsj1zj36ddgnqhv92cakxf7k83j4zs435j42",
     "version": "1.6.5"
   },
   "ollie-lo": {
@@ -240583,8 +240625,8 @@
   },
   "quickstrap-es_ES": {
     "path": "quickstrap/1.4/es_ES",
-    "rev": "2510254",
-    "sha256": "01l17z664dgg012cwzqygk1daqd45r9482wpfhz6n294xi03ndad",
+    "rev": "2529054",
+    "sha256": "0rk5k8njps1l5r31wbrm20j8wa1akq7pd2ajqfykkfc0m6fz0kan",
     "version": "1.4"
   },
   "quickstrap-es_MX": {
@@ -247171,8 +247213,8 @@
   },
   "responsive-es_ES": {
     "path": "responsive/6.4.9/es_ES",
-    "rev": "2500210",
-    "sha256": "0l7cmplcfmqy3v8vd5qlsgrl5jdfwp0146sfv8k35cp31ml1kr31",
+    "rev": "2529106",
+    "sha256": "0a3zq9g6kfgyjw3rc5fp71v428ryhrqh38iny3qwdi7ch535dz0b",
     "version": "6.4.9"
   },
   "responsive-es_MX": {
@@ -256047,6 +256089,12 @@
     "path": "seattle-news/4.8/es_MX",
     "rev": "2491946",
     "sha256": "0c1l75z61m04h2hiy3nispsj9ljryqm8j95qaf72skfwggxwzr5n",
+    "version": "4.8"
+  },
+  "seattle-news-it_IT": {
+    "path": "seattle-news/4.8/it_IT",
+    "rev": "2529204",
+    "sha256": "0as998kz1x18ihyvsvwac7rya26c0a5129ar1nyf0pxfjgf0jcny",
     "version": "4.8"
   },
   "seattle-news-ja": {
@@ -272869,8 +272917,8 @@
   },
   "smart-cleaning-company-es_ES": {
     "path": "smart-cleaning-company/2.5.7/es_ES",
-    "rev": "2504365",
-    "sha256": "1pqgwd6vighljvm36922a9i25qadg2b528h0hz85il4zw7d66nmv",
+    "rev": "2529076",
+    "sha256": "14ih7rvzh9kcgz283mpzwd1f3d3620bhd5gr7rrm2n937mbnw1qc",
     "version": "2.5.7"
   },
   "smart-cleaning-company-nl_NL": {
@@ -289096,6 +289144,12 @@
     "rev": "2192823",
     "sha256": "1l5mxyj76n8s29kc7igqyxzj1akvy4pj3niz9rxr4rdjg4r3354r",
     "version": "0.5"
+  },
+  "takt-sq": {
+    "path": "takt/2.0.0/sq",
+    "rev": "2530029",
+    "sha256": "082qbi9xxiclx4ham4h4d6s2ydh4rkpsn6rsksbysfxn7854zm5d",
+    "version": "2.0.0"
   },
   "takt-sr_RS": {
     "path": "takt/2.0.0/sr_RS",
@@ -307639,8 +307693,8 @@
   },
   "twentytwentyfive-pt_PT": {
     "path": "twentytwentyfive/1.5/pt_PT",
-    "rev": "2211279",
-    "sha256": "0gfgmxa588jwcafwffqmsgmbal5i9yksg43g9c31xwwrjfyhi3pk",
+    "rev": "2529082",
+    "sha256": "10r988mdiyygs0jlgji9id7vvhhaqa798ky3h8zf71pzxpch2xl9",
     "version": "1.5"
   },
   "twentytwentyfive-ru_RU": {
@@ -322615,8 +322669,8 @@
   },
   "warehouse-cargo-es_ES": {
     "path": "warehouse-cargo/2.7.3/es_ES",
-    "rev": "2504348",
-    "sha256": "0frjbfhr6rsyz5nsfp25ja34ch5k6d61zzr4wla3k9adxfp71gy1",
+    "rev": "2529069",
+    "sha256": "0jzqrbdp13fc9ly2dfz4626rvp2k3d1pkj08kjhxd0qp91qf4zcz",
     "version": "2.7.3"
   },
   "warehouse-cargo-nl_NL": {
