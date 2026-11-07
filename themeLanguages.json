@@ -7464,10 +7464,10 @@
     "version": "1.1.3"
   },
   "agile-base-sr_RS": {
-    "path": "agile-base/1.4.0/sr_RS",
-    "rev": "2495716",
-    "sha256": "1bnny10k6gqaqkc463723yzv66ahq0l25gph6vg2kri4xv59s648",
-    "version": "1.4.0"
+    "path": "agile-base/1.4.1/sr_RS",
+    "rev": "2539307",
+    "sha256": "09d460hfww71931nygrknrwxg87xmdmd6j5b4v5fdfa7hy7384x5",
+    "version": "1.4.1"
   },
   "agnar-ru_RU": {
     "path": "agnar/2.3.4/ru_RU",
@@ -20581,8 +20581,8 @@
   },
   "astra-uk": {
     "path": "astra/4.14.2/uk",
-    "rev": "2538740",
-    "sha256": "0jxzlgkl61z546krgg3mkw1fsg51jkxwkq9ysnk6sspfx7jdc86s",
+    "rev": "2539154",
+    "sha256": "0xs8xdjcqdk63z718dyrzqp413pgw0y0b9yqha24yc9drf06qmmh",
     "version": "4.14.2"
   },
   "astra-ur": {
@@ -58914,10 +58914,10 @@
     "version": "2.0.4"
   },
   "business-coach-center-sr_RS": {
-    "path": "business-coach-center/1.3/sr_RS",
-    "rev": "2488663",
+    "path": "business-coach-center/1.4/sr_RS",
+    "rev": "2539486",
     "sha256": "14g19xkf67kixjs3ipingr5qprx4x7d0vp1lgr7pdb3dxa2iaacz",
-    "version": "1.3"
+    "version": "1.4"
   },
   "business-coach-es_CL": {
     "path": "business-coach/1.0.3/es_CL",
@@ -84846,16 +84846,16 @@
     "version": "1.0.3"
   },
   "coworking-office-ru_RU": {
-    "path": "coworking-office/1.0.2/ru_RU",
-    "rev": "2491385",
-    "sha256": "1cij7ry0jw8h9y24ah389f572vpab3j0bl8dsj77nrxvkqk1yd9b",
-    "version": "1.0.2"
+    "path": "coworking-office/1.0.3/ru_RU",
+    "rev": "2539484",
+    "sha256": "04p63vr7z43fa4x2a4p1v1ljx9lza1hyfy4d9b5rl2xj4iw04zgc",
+    "version": "1.0.3"
   },
   "coworking-office-sr_RS": {
-    "path": "coworking-office/1.0.2/sr_RS",
-    "rev": "2491386",
-    "sha256": "1fv5fnrd3zlbylxmxf7pd3cm5s2w3pl99473jvp2gynbh5aawsra",
-    "version": "1.0.2"
+    "path": "coworking-office/1.0.3/sr_RS",
+    "rev": "2539485",
+    "sha256": "16dm1803ckriqr870jn6pcyhydqmdyz02qanrkjjbqfyrl5hfwzd",
+    "version": "1.0.3"
   },
   "cozibee-ar": {
     "path": "cozibee/1.0.37/ar",
@@ -123282,22 +123282,22 @@
     "version": "1.4"
   },
   "fire-brigade-nl_NL": {
-    "path": "fire-brigade/1.0.4/nl_NL",
-    "rev": "2485077",
-    "sha256": "0qiyqgsg7v32lb734rzxxifbwqdm75q0zi3aczc3b3p9vfixrgyw",
-    "version": "1.0.4"
+    "path": "fire-brigade/1.0.5/nl_NL",
+    "rev": "2539569",
+    "sha256": "090is4fv5dhqh46sdqryz5d5m02jdh00fsirwxmz0vq16s9fnvhr",
+    "version": "1.0.5"
   },
   "fire-brigade-ru_RU": {
-    "path": "fire-brigade/1.0.4/ru_RU",
-    "rev": "2485067",
-    "sha256": "0hvcw3vbzcpxbg160wcnv4n3i3r4kg72cq6kbv0nwh8icrk0zw23",
-    "version": "1.0.4"
+    "path": "fire-brigade/1.0.5/ru_RU",
+    "rev": "2539482",
+    "sha256": "1qlc98hzs2dqfixc87m9sflrz5gi0f93bh7378q4y1s17lvh90pq",
+    "version": "1.0.5"
   },
   "fire-brigade-sr_RS": {
-    "path": "fire-brigade/1.0.4/sr_RS",
-    "rev": "2491415",
-    "sha256": "1ybs3jhx0fbyb4sp89p428syl2x2q0azr2cf2q1n0w5qqh3r7p4d",
-    "version": "1.0.4"
+    "path": "fire-brigade/1.0.5/sr_RS",
+    "rev": "2539483",
+    "sha256": "18c9rg3hnssrfisgg4r2hdqvvxprg89xph8wyprpi3h47w9a295w",
+    "version": "1.0.5"
   },
   "fire-fighter-ru_RU": {
     "path": "fire-fighter/3.0.7/ru_RU",
@@ -126137,83 +126137,89 @@
     "sha256": "0dr22vn3qd8abbfxjrfkg5r97s961qkbah8igk9am66n1xz7am2v",
     "version": "1.0.2"
   },
+  "flexua-da_DK": {
+    "path": "flexua/0.6/da_DK",
+    "rev": "2539293",
+    "sha256": "03fdn76m8n5b3jfglvvj4vzzxar5jfk6na2fxmrvqck0722w9wr0",
+    "version": "0.6"
+  },
   "flexua-de_DE": {
-    "path": "flexua/0.5/de_DE",
-    "rev": "2523013",
+    "path": "flexua/0.6/de_DE",
+    "rev": "2539298",
     "sha256": "1lq1619ij3j64mlpz6dyyw5mvlh2ld482h1cd116ihdfxpvbasvi",
-    "version": "0.5"
+    "version": "0.6"
   },
   "flexua-de_DE_formal": {
-    "path": "flexua/0.5/de_DE_formal",
-    "rev": "2523014",
+    "path": "flexua/0.6/de_DE_formal",
+    "rev": "2539299",
     "sha256": "157cp07b07lvlaqf1hrph0ckjwq117hn3wvi1ly60p2l6frinamc",
-    "version": "0.5"
+    "version": "0.6"
   },
   "flexua-es_CL": {
-    "path": "flexua/0.5/es_CL",
-    "rev": "2523019",
+    "path": "flexua/0.6/es_CL",
+    "rev": "2539303",
     "sha256": "1ba9lb4jld4ddwh8i4ys25lfbcjp3rbf19h3dwjkqrnzb9n6fchh",
-    "version": "0.5"
+    "version": "0.6"
   },
   "flexua-es_ES": {
-    "path": "flexua/0.5/es_ES",
-    "rev": "2523021",
+    "path": "flexua/0.6/es_ES",
+    "rev": "2539304",
     "sha256": "02z0vw4l32ysg2m6ihjv5z82c40yajf862bdvng91j94qwkx0zpz",
-    "version": "0.5"
+    "version": "0.6"
   },
   "flexua-ja": {
-    "path": "flexua/0.5/ja",
-    "rev": "2523015",
+    "path": "flexua/0.6/ja",
+    "rev": "2539300",
     "sha256": "1fccd3wh3ya78258infwkdpacpaay2xwrnalk7xilfwzm3nlv7xk",
-    "version": "0.5"
+    "version": "0.6"
   },
   "flexua-nl_BE": {
-    "path": "flexua/0.5/nl_BE",
-    "rev": "2523010",
+    "path": "flexua/0.6/nl_BE",
+    "rev": "2539295",
     "sha256": "19r5w0x33mzmj3hhywnzkf7qvkf9hn09ynrlw4prwvnfrq08nmgx",
-    "version": "0.5"
+    "version": "0.6"
   },
   "flexua-nl_NL": {
-    "path": "flexua/0.5/nl_NL",
-    "rev": "2523009",
+    "path": "flexua/0.6/nl_NL",
+    "rev": "2539294",
     "sha256": "101nxjwhjmkck3g286rxib8i0v0j1cn298ngc4mbgriprkpiy17c",
-    "version": "0.5"
+    "version": "0.6"
   },
   "flexua-nl_NL_formal": {
-    "path": "flexua/0.5/nl_NL_formal",
-    "rev": "2523012",
+    "path": "flexua/0.6/nl_NL_formal",
+    "rev": "2539297",
     "sha256": "0m2a7lfx2yq67b4hrg16vrjjy9cmafv9gk0ibpar6xc3vyk9xm1x",
-    "version": "0.5"
+    "version": "0.6"
   },
   "flexua-ru_RU": {
-    "path": "flexua/0.5/ru_RU",
-    "rev": "2523016",
+    "path": "flexua/0.6/ru_RU",
+    "rev": "2539301",
     "sha256": "01xdg2bhxqsscjkgyq5kznm04pya9jhiljqf85br30kkiwn2znw5",
-    "version": "0.5"
+    "version": "0.6"
   },
   "flexua-sr_RS": {
-    "path": "flexua/0.5/sr_RS",
-    "rev": "2523017",
+    "path": "flexua/0.6/sr_RS",
+    "rev": "2539302",
     "sha256": "1dcwyyk3va8akalj4bn8zlvhj4zr5lxfmdx0vhmhjf7xjrsr5h68",
-    "version": "0.5"
+    "version": "0.6"
   },
   "flexua-sv_SE": {
-    "path": "flexua/0.5/sv_SE",
-    "rev": "2523023",
+    "path": "flexua/0.6/sv_SE",
+    "rev": "2539305",
     "sha256": "1wznkq01kx7mgyq5r14i30rhxzc3i1lxglzlwgm063iqvmqgxckk",
-    "version": "0.5"
+    "version": "0.6"
   },
   "flexua-uk": {
-    "path": "flexua/0.5/uk",
-    "rev": "2523024",
+    "path": "flexua/0.6/uk",
+    "rev": "2539306",
     "sha256": "0z6nny2nh8ca7gjx7fxxc6gjir0dzaddwv03nbwsw3p6pa1pz1dh",
-    "version": "0.5"
+    "version": "0.6"
   },
   "flexua-zh_CN": {
-    "path": "flexua/0.5/zh_CN",
-    "rev": "2523008",
+    "path": "flexua/0.6/zh_CN",
+    "rev": "2539292",
     "sha256": "1gqdkfp71y5zlni5fziv7v6vxnra60h00b91gkpa751nzfwgfp2p",
-    "version": "0.5"
+    "version": "0.6"
   },
   "flexy-en_CA": {
     "path": "flexy/1.0.11/en_CA",
@@ -128898,28 +128904,28 @@
     "version": "3.7.8"
   },
   "forest-jungle-safari-lo": {
-    "path": "forest-jungle-safari/0.5.2/lo",
-    "rev": "2505823",
-    "sha256": "1xpn21qrrlsa5dnhlnzaz19mrwqcg34sxcmpgy4yxcdigvbmx9k0",
-    "version": "0.5.2"
+    "path": "forest-jungle-safari/0.5.3/lo",
+    "rev": "2539012",
+    "sha256": "1f02ciisdahwzd05las3dq6gb5w6z4p1s91579dkj32ihbw47g8r",
+    "version": "0.5.3"
   },
   "forest-jungle-safari-ru_RU": {
-    "path": "forest-jungle-safari/0.5.2/ru_RU",
-    "rev": "2505824",
-    "sha256": "07kw72jpx43p8z19y3h8i265igh1rr9c11f1vh014s50smnz0srm",
-    "version": "0.5.2"
+    "path": "forest-jungle-safari/0.5.3/ru_RU",
+    "rev": "2539013",
+    "sha256": "1aagk7b6kilpy783v2gs57qsd66867xsccrd1aqhjyhq3ym4cnmy",
+    "version": "0.5.3"
   },
   "forest-jungle-safari-sr_RS": {
-    "path": "forest-jungle-safari/0.5.2/sr_RS",
-    "rev": "2523065",
-    "sha256": "1sf8jl2nl85ymiifcmd9acyzbyrrhv9bd1kww5n9am65p5fl6zhc",
-    "version": "0.5.2"
+    "path": "forest-jungle-safari/0.5.3/sr_RS",
+    "rev": "2539014",
+    "sha256": "1jmwgmgha8i8yif3z46i479yzql315il7gyy1yp72f1a7gqcidgq",
+    "version": "0.5.3"
   },
   "forest-jungle-safari-uk": {
-    "path": "forest-jungle-safari/0.5.2/uk",
-    "rev": "2505826",
-    "sha256": "0avv2rc0byds0660z2lgzz5cpc998g5iy7l9xsn798zi9mzwbyzp",
-    "version": "0.5.2"
+    "path": "forest-jungle-safari/0.5.3/uk",
+    "rev": "2539015",
+    "sha256": "19g75byfpjnsjgil5ayzisklsg3vgmj5k7h9l090aqqq8ihw9rpw",
+    "version": "0.5.3"
   },
   "forest-nature-ru_RU": {
     "path": "forest-nature/5.9.6/ru_RU",
@@ -156654,154 +156660,154 @@
     "version": "1.1.5"
   },
   "inspiro-da_DK": {
-    "path": "inspiro/2.2.5/da_DK",
-    "rev": "2464949",
-    "sha256": "1npm8lh00y32p69q5nlvbsnr14w1x3ijn1p7amnfji6i1rrzh8ap",
-    "version": "2.2.5"
+    "path": "inspiro/2.3.0/da_DK",
+    "rev": "2539389",
+    "sha256": "0q8xjm4l8fxwrn8x4sdkp34ay2srp0987abyvq8g6faqwpdwy4dr",
+    "version": "2.3.0"
   },
   "inspiro-de_DE": {
-    "path": "inspiro/2.2.5/de_DE",
-    "rev": "2501925",
-    "sha256": "17vfl75ncqqwhh880y3i2h2ij8w6563hz822051f1n70zqsyx139",
-    "version": "2.2.5"
+    "path": "inspiro/2.3.0/de_DE",
+    "rev": "2539397",
+    "sha256": "0yf2iwwlc6xl0m200jr9dr6d6yzqlprramv1rql6dqpyn5rrlffi",
+    "version": "2.3.0"
   },
   "inspiro-de_DE_formal": {
-    "path": "inspiro/2.2.5/de_DE_formal",
-    "rev": "2501926",
-    "sha256": "1ir9kval4rfhpixdyglfp1nkjfwwnc7sb6b87yxnvsb5lpgxzrxz",
-    "version": "2.2.5"
+    "path": "inspiro/2.3.0/de_DE_formal",
+    "rev": "2539398",
+    "sha256": "1b5m2jjhx1mjk22z44yj93dqj1y225cn4gvibsh5s4z7jda9rmcb",
+    "version": "2.3.0"
   },
   "inspiro-en_CA": {
-    "path": "inspiro/2.2.5/en_CA",
-    "rev": "2464952",
-    "sha256": "0kmmw7q1497r4csfyls31zi5qkw21ch1am96h8kwddild0rs008s",
-    "version": "2.2.5"
+    "path": "inspiro/2.3.0/en_CA",
+    "rev": "2539392",
+    "sha256": "0xqm1my2b04nxzhs55b542c9qhiisvniq693yjr5wpwk4km8ajc4",
+    "version": "2.3.0"
   },
   "inspiro-en_GB": {
-    "path": "inspiro/2.2.5/en_GB",
-    "rev": "2464954",
-    "sha256": "0rns5dq2q5nqd4bqd6hc9hb8xfv6c205sq1zl0ls5iv18qbjmsfm",
-    "version": "2.2.5"
+    "path": "inspiro/2.3.0/en_GB",
+    "rev": "2539394",
+    "sha256": "1xyhi6j9wgqykyzsgqbh3s90q6q8vkllra16hi3kvwznysg7jis7",
+    "version": "2.3.0"
   },
   "inspiro-en_ZA": {
-    "path": "inspiro/2.2.5/en_ZA",
-    "rev": "2464953",
-    "sha256": "1a8iiid8665qvz4i6k840kx9s885klcs094q2il8k47nzsfg8yxr",
-    "version": "2.2.5"
+    "path": "inspiro/2.3.0/en_ZA",
+    "rev": "2539393",
+    "sha256": "1n58l7x0hi3szlrfv5naqq964xnvhma6r55mfs6ljswxdxa4rlai",
+    "version": "2.3.0"
   },
   "inspiro-es_CL": {
-    "path": "inspiro/2.2.5/es_CL",
-    "rev": "2464966",
-    "sha256": "041a3xcbpafqrlxasnagfmamlp3p4pqdfr0qsbyvl95zx3pk35yh",
-    "version": "2.2.5"
+    "path": "inspiro/2.3.0/es_CL",
+    "rev": "2539406",
+    "sha256": "1jmmx2drnn7apb2yy84wbpi8ddzi0ksd9cirz2lnpg28chz0yil4",
+    "version": "2.3.0"
   },
   "inspiro-es_CO": {
-    "path": "inspiro/2.2.5/es_CO",
-    "rev": "2464967",
-    "sha256": "0cvgxzgr118vmmjbnyg2jsrgp6lhckk00ch0bk8wqv345xihiap6",
-    "version": "2.2.5"
+    "path": "inspiro/2.3.0/es_CO",
+    "rev": "2539407",
+    "sha256": "0c38h7kpvj1hk5wmrczgy16dsszww1q0wgg24xf7p2mjgb0na6jc",
+    "version": "2.3.0"
   },
   "inspiro-es_EC": {
-    "path": "inspiro/2.2.5/es_EC",
-    "rev": "2464968",
-    "sha256": "05bvipb1h1ijx98msqiwrb6s12c1d5aa043cgryfv385c671z96v",
-    "version": "2.2.5"
+    "path": "inspiro/2.3.0/es_EC",
+    "rev": "2539408",
+    "sha256": "1pvpkxjd6hbk9n3vw200fykaj5xp11qg2fadgbw0h5dwyq8dhav8",
+    "version": "2.3.0"
   },
   "inspiro-es_ES": {
-    "path": "inspiro/2.2.5/es_ES",
-    "rev": "2464970",
-    "sha256": "1gynxgfci9kvaz7wb21phy075yrcb7jbrf91501cp0z9bcngdxkj",
-    "version": "2.2.5"
+    "path": "inspiro/2.3.0/es_ES",
+    "rev": "2539410",
+    "sha256": "1667zq2haxv76njvm64i759fq974zry0jiz50rrb7r9vmdlxnd72",
+    "version": "2.3.0"
   },
   "inspiro-es_MX": {
-    "path": "inspiro/2.2.5/es_MX",
-    "rev": "2464969",
-    "sha256": "0f34rysd9y4kiw58v9zmhyrkqcb8f1k8hl0pffq60vknnwkl0sc4",
-    "version": "2.2.5"
+    "path": "inspiro/2.3.0/es_MX",
+    "rev": "2539409",
+    "sha256": "1kjv0v7kw3z0f010vp8ysl8qys2ich4vgi4d8d3jzhkb3079x8x9",
+    "version": "2.3.0"
   },
   "inspiro-es_VE": {
-    "path": "inspiro/2.2.5/es_VE",
-    "rev": "2464971",
-    "sha256": "1yvqlnqmff894jj02gk551ggpgzwjmrn5swxaynnifxiwlh97b2g",
-    "version": "2.2.5"
+    "path": "inspiro/2.3.0/es_VE",
+    "rev": "2539411",
+    "sha256": "1y49wxn8xl4f967szks2zw82r2w9872w7hx9i68x3gjdxg3j5mih",
+    "version": "2.3.0"
   },
   "inspiro-fr_FR": {
-    "path": "inspiro/2.2.5/fr_FR",
-    "rev": "2464955",
-    "sha256": "1jgx8z6qfv5k6fznx4x90sgwzjmmkyzf4jgl3i2wjbm04waq1y5f",
-    "version": "2.2.5"
+    "path": "inspiro/2.3.0/fr_FR",
+    "rev": "2539395",
+    "sha256": "1v2pp102fj29klpf1dq73viq4alg6bsd5hfxsz1prqmhxkyf7bz8",
+    "version": "2.3.0"
   },
   "inspiro-gl_ES": {
-    "path": "inspiro/2.2.5/gl_ES",
-    "rev": "2464956",
-    "sha256": "02f8yir22hr2y8wihb9p45h5ryifa2j056r1yn4f6ar6vahg0ajk",
-    "version": "2.2.5"
+    "path": "inspiro/2.3.0/gl_ES",
+    "rev": "2539396",
+    "sha256": "1lvcirgn0pvxnj4bs22lyhlcrw2d0fspan7qkb42kdv2avs8chzm",
+    "version": "2.3.0"
   },
   "inspiro-it_IT": {
-    "path": "inspiro/2.2.5/it_IT",
-    "rev": "2464959",
-    "sha256": "09w85v83cr8crhzzvl7nflk0cry8j3c817bfyk0qzv6wv5hivmgw",
-    "version": "2.2.5"
+    "path": "inspiro/2.3.0/it_IT",
+    "rev": "2539399",
+    "sha256": "1vpb7k8czwhp6i5fdrbb1rkw9s6mzp00b0nkv763jv0rvwin9qi5",
+    "version": "2.3.0"
   },
   "inspiro-ja": {
-    "path": "inspiro/2.2.5/ja",
-    "rev": "2464960",
-    "sha256": "1x8k8v4arnkgf663vnr3c8asc0w84cp5vizc82fhlw0pbnz18427",
-    "version": "2.2.5"
+    "path": "inspiro/2.3.0/ja",
+    "rev": "2539400",
+    "sha256": "06bk6253lz0rfpqccsy3f4r0hhbla68qikv85mc95r11bpk137cz",
+    "version": "2.3.0"
   },
   "inspiro-lo": {
-    "path": "inspiro/2.2.5/lo",
-    "rev": "2464961",
-    "sha256": "0z27g4v8qbjyqpmnd0cf6k5jarx8v9wmbxhzf6ry0ngjsnfpvyfv",
-    "version": "2.2.5"
+    "path": "inspiro/2.3.0/lo",
+    "rev": "2539401",
+    "sha256": "1x035h8i4z8dmq73xsxswi8sgfb9a9k6j6523qxag8x0rl1iyjja",
+    "version": "2.3.0"
   },
   "inspiro-nl_NL": {
-    "path": "inspiro/2.2.5/nl_NL",
-    "rev": "2464950",
-    "sha256": "09xg1l1w42ps2v6mn39jxysxm2gi98wpi85xf8i6fb4z16zqvhym",
-    "version": "2.2.5"
+    "path": "inspiro/2.3.0/nl_NL",
+    "rev": "2539390",
+    "sha256": "0bz73kd1xj64jsbvqqb4k3kdrk35chma8yyhabfvrklwnw6pl4y9",
+    "version": "2.3.0"
   },
   "inspiro-nl_NL_formal": {
-    "path": "inspiro/2.2.5/nl_NL_formal",
-    "rev": "2464951",
-    "sha256": "1pdzayjkxd8vq317h5rc8zmdd6rh6xgffaaap6q991dyaxqc7y9f",
-    "version": "2.2.5"
+    "path": "inspiro/2.3.0/nl_NL_formal",
+    "rev": "2539391",
+    "sha256": "1kixkxcr0kj10y3lrd74a82siq5gri1lxs7x1wnyyhfygdwdirl5",
+    "version": "2.3.0"
   },
   "inspiro-pt_BR": {
-    "path": "inspiro/2.2.5/pt_BR",
-    "rev": "2464962",
-    "sha256": "10l7m5n9v03bgd25k4mxk3zgyivjnlvvln2cizfbh88r37wwgjcb",
-    "version": "2.2.5"
+    "path": "inspiro/2.3.0/pt_BR",
+    "rev": "2539402",
+    "sha256": "1m12xkynh568ysj2walm7sayqsrf9kimic46cj418rqjqdpi87hy",
+    "version": "2.3.0"
   },
   "inspiro-ro_RO": {
-    "path": "inspiro/2.2.5/ro_RO",
-    "rev": "2464963",
-    "sha256": "16800qk4zm8r0a41rx45jy8zb3ymmdm0kx1m62d1mby61lrkdh5x",
-    "version": "2.2.5"
+    "path": "inspiro/2.3.0/ro_RO",
+    "rev": "2539403",
+    "sha256": "0gddr87jlj4qab6bmicc7dz7mvh0wls3qr0jv5hmqmchax38g55q",
+    "version": "2.3.0"
   },
   "inspiro-ru_RU": {
-    "path": "inspiro/2.2.5/ru_RU",
-    "rev": "2464964",
-    "sha256": "0kxibicmwh6qk87l400vx8srhbdzp26j8lgs6r1jf7l9r3963h6a",
-    "version": "2.2.5"
+    "path": "inspiro/2.3.0/ru_RU",
+    "rev": "2539404",
+    "sha256": "05paggbi1h7wkysz7sssyq564ia3pqx7hi71z01q7mg1lajz8gpb",
+    "version": "2.3.0"
   },
   "inspiro-sr_RS": {
-    "path": "inspiro/2.2.5/sr_RS",
-    "rev": "2523566",
-    "sha256": "0vzpw5hp3m3zc6khyh37npv7l7xi2rkwysb3ibr4zj3rrxjmpb1k",
-    "version": "2.2.5"
+    "path": "inspiro/2.3.0/sr_RS",
+    "rev": "2539405",
+    "sha256": "1nnvinfm4saq1lplcww4qy9qbffy3flrz3ry79wbymwjm6f2lmxj",
+    "version": "2.3.0"
   },
   "inspiro-sv_SE": {
-    "path": "inspiro/2.2.5/sv_SE",
-    "rev": "2464972",
-    "sha256": "0yd6hrf2sjn415d3lr553xsd0dg5c3818hj8flmrbk1wq9i1l6z1",
-    "version": "2.2.5"
+    "path": "inspiro/2.3.0/sv_SE",
+    "rev": "2539412",
+    "sha256": "0hm2xq1nz4626mgl7hq5zvcq8wb2ljccjy2h3bdhwyh3asvz7jm8",
+    "version": "2.3.0"
   },
   "inspiro-tr_TR": {
-    "path": "inspiro/2.2.5/tr_TR",
-    "rev": "2510840",
-    "sha256": "1wnnh4j2pqvch9s8v4aqyhh2zk952ladv35yq5zv4400gr13jmbs",
-    "version": "2.2.5"
+    "path": "inspiro/2.3.0/tr_TR",
+    "rev": "2539413",
+    "sha256": "09f5g6qdv674bmyniim82b5xfsgmvdslmxyibvcma82wghq7z008",
+    "version": "2.3.0"
   },
   "instant-news-ru_RU": {
     "path": "instant-news/1.0.3/ru_RU",
@@ -171486,16 +171492,16 @@
     "version": "7.6"
   },
   "legacy-beauty-center-ru_RU": {
-    "path": "legacy-beauty-center/2.7/ru_RU",
-    "rev": "2493190",
-    "sha256": "0jpi4866f2qh5b5n3j7pw9wj66dclacabgxjmkycvqydg8c23jxp",
-    "version": "2.7"
+    "path": "legacy-beauty-center/2.8/ru_RU",
+    "rev": "2539479",
+    "sha256": "1v447rrhgj9bd2m1l4qly6ddf6mk8sdfv7dc4cbxlgbw5q6irah5",
+    "version": "2.8"
   },
   "legacy-beauty-center-sr_RS": {
-    "path": "legacy-beauty-center/2.7/sr_RS",
-    "rev": "2493191",
-    "sha256": "0kizz932l9ji7kzpw6ilzqvldd8m4rg81lbk6h6prxc1p5xsb27h",
-    "version": "2.7"
+    "path": "legacy-beauty-center/2.8/sr_RS",
+    "rev": "2539480",
+    "sha256": "076mapkzxy3i5vnhk5mvi61bsg6qylsylzvbapq5b4q5inzciswv",
+    "version": "2.8"
   },
   "legacy-blog-ru_RU": {
     "path": "legacy-blog/1.0.2/ru_RU",
@@ -209352,16 +209358,16 @@
     "version": "0.6"
   },
   "newsum-lo": {
-    "path": "newsum/1.0.6/lo",
-    "rev": "2533542",
-    "sha256": "19alqy12v2092n6q0m4zm9j8gdk9p822v23kikm1i1p8swdhfir3",
-    "version": "1.0.6"
+    "path": "newsum/1.0.7/lo",
+    "rev": "2539655",
+    "sha256": "02cbk65kplgjb17z2rjvif1lml0jcbvzqwi0wfj6pvkijjjpm14h",
+    "version": "1.0.7"
   },
   "newsum-sr_RS": {
-    "path": "newsum/1.0.6/sr_RS",
-    "rev": "2533543",
-    "sha256": "0il1v6x88b0fdq033q02icampyv0sz200lsbqfswgg8kf43lhnqj",
-    "version": "1.0.6"
+    "path": "newsum/1.0.7/sr_RS",
+    "rev": "2539656",
+    "sha256": "01119a4l24llk5n8kw717sx9hldzasmiwz67qgah4iiq303q8izl",
+    "version": "1.0.7"
   },
   "newsup-de_DE": {
     "path": "newsup/5.6.8/de_DE",
@@ -231835,8 +231841,8 @@
   },
   "plumber-handyman-lite-tr_TR": {
     "path": "plumber-handyman-lite/1.9.6/tr_TR",
-    "rev": "2511249",
-    "sha256": "06nfshklnmc4la331n8dbmlsfvggnkzyrb5rqsazzdmfm1vss4fh",
+    "rev": "2539428",
+    "sha256": "001mqnrzr20s6sdrqli9rx08pljv3mkgm0ladx4kgxyz4cqpy7sb",
     "version": "1.9.6"
   },
   "plumber-man-ru_RU": {
@@ -255018,40 +255024,40 @@
     "version": "1.2"
   },
   "scary-halloween-lo": {
-    "path": "scary-halloween/0.6.0/lo",
-    "rev": "2506016",
-    "sha256": "13z5g4n47vs5qf4vgv0p86pgd4fqg0k2rkhfnz5n0kyrpbcc15m2",
-    "version": "0.6.0"
+    "path": "scary-halloween/0.6.1/lo",
+    "rev": "2539008",
+    "sha256": "0srz6v7g3da0al98z6fbcl0ls887ljfsmnnna5slz3l4qircfdfb",
+    "version": "0.6.1"
   },
   "scary-halloween-nl_NL": {
-    "path": "scary-halloween/0.6.0/nl_NL",
-    "rev": "2538467",
+    "path": "scary-halloween/0.6.1/nl_NL",
+    "rev": "2539006",
     "sha256": "0i9viffj0w0kw3kp9rwqsihs3ik73pc2kg0a8xfg51igshrryc0a",
-    "version": "0.6.0"
+    "version": "0.6.1"
   },
   "scary-halloween-nl_NL_formal": {
-    "path": "scary-halloween/0.6.0/nl_NL_formal",
-    "rev": "2506015",
-    "sha256": "1qfxq0g72p4l7wmmj54zpfwzbadbmrr07hg2skj2mv7vddjsb39n",
-    "version": "0.6.0"
+    "path": "scary-halloween/0.6.1/nl_NL_formal",
+    "rev": "2539007",
+    "sha256": "0mn4fl5p05ci8n1gm8svlfm6hyabzlqi47xf96gy9ajngaijbzgp",
+    "version": "0.6.1"
   },
   "scary-halloween-ru_RU": {
-    "path": "scary-halloween/0.6.0/ru_RU",
-    "rev": "2506017",
-    "sha256": "096hbkysgb53i1s43j8c5zvirfss4s8r1dz1kncyf56sv8g2ynyc",
-    "version": "0.6.0"
+    "path": "scary-halloween/0.6.1/ru_RU",
+    "rev": "2539009",
+    "sha256": "1gbvjphvmanlxkqcvdsh7d60nykijbmspyh4752cb2xp95m49kpr",
+    "version": "0.6.1"
   },
   "scary-halloween-sr_RS": {
-    "path": "scary-halloween/0.6.0/sr_RS",
-    "rev": "2525217",
-    "sha256": "1zary9drx17vyfr556ncdpbr9pagp5njh3bajz972j30888id338",
-    "version": "0.6.0"
+    "path": "scary-halloween/0.6.1/sr_RS",
+    "rev": "2539010",
+    "sha256": "1a3cls6x7ngsz83a4cw83qvnyv90kqmrnv7wy86gpjy58ncga4wy",
+    "version": "0.6.1"
   },
   "scary-halloween-uk": {
-    "path": "scary-halloween/0.6.0/uk",
-    "rev": "2506019",
-    "sha256": "06bg89ymxb4kzdc3bxb5714qmmanzimn9b5p2fqzrgpga7c3i200",
-    "version": "0.6.0"
+    "path": "scary-halloween/0.6.1/uk",
+    "rev": "2539011",
+    "sha256": "1cn036zxyr18r48pdjsk5snr2m3agnn1nd4krjl8jilp8001m15z",
+    "version": "0.6.1"
   },
   "scelar-ar": {
     "path": "scelar/20.2/ar",
